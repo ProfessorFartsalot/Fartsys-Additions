@@ -2,3 +2,5 @@
 *.lock
 build/libs/modid-1.0.jar
 build/reobfJar/output.jar
+*.log
+run/*
