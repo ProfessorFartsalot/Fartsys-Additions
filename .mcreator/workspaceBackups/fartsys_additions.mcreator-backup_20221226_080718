@@ -1675,6 +1675,390 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "dante_03"
+    },
+    {
+      "name": "WyvRat01",
+      "type": "painting",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wyv_rat_01"
+    },
+    {
+      "name": "WyvRat02",
+      "type": "painting",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wyv_rat_02"
+    },
+    {
+      "name": "ZeroTwo01",
+      "type": "painting",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zero_two_01"
+    },
+    {
+      "name": "ZeroXHero01",
+      "type": "painting",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zero_x_hero_01"
+    },
+    {
+      "name": "ZeroXHero02",
+      "type": "painting",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zero_x_hero_02"
+    },
+    {
+      "name": "Glow01",
+      "type": "painting",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glow_01"
+    },
+    {
+      "name": "Glow02",
+      "type": "painting",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glow_02"
+    },
+    {
+      "name": "Marg01",
+      "type": "painting",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marg_01"
+    },
+    {
+      "name": "Math01",
+      "type": "painting",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "math_01"
+    },
+    {
+      "name": "Dispersion01",
+      "type": "painting",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dispersion_01"
+    },
+    {
+      "name": "Dispersion02",
+      "type": "painting",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dispersion_02"
+    },
+    {
+      "name": "Tornado01",
+      "type": "painting",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tornado_01"
+    },
+    {
+      "name": "Fartsy01",
+      "type": "painting",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_01"
+    },
+    {
+      "name": "Fartsy02",
+      "type": "painting",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_02"
+    },
+    {
+      "name": "BeeUWU01",
+      "type": "painting",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bee_uwu_01"
+    },
+    {
+      "name": "BeeUWU02",
+      "type": "painting",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bee_uwu_02"
+    },
+    {
+      "name": "Fartsy03",
+      "type": "painting",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_03"
+    },
+    {
+      "name": "Fartsy04",
+      "type": "painting",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_04"
+    },
+    {
+      "name": "Fartsy05",
+      "type": "painting",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_05"
+    },
+    {
+      "name": "Fartsy06",
+      "type": "painting",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_06"
+    },
+    {
+      "name": "Fartsy07",
+      "type": "painting",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_07"
+    },
+    {
+      "name": "Fartsy08",
+      "type": "painting",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_08"
+    },
+    {
+      "name": "Fartsy09",
+      "type": "painting",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_09"
+    },
+    {
+      "name": "Fartsy0a",
+      "type": "painting",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_0a"
+    },
+    {
+      "name": "Fartsy0b",
+      "type": "painting",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_0b"
+    },
+    {
+      "name": "Fartsy0c",
+      "type": "painting",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_0c"
+    },
+    {
+      "name": "Fartsy0d",
+      "type": "painting",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_0d"
+    },
+    {
+      "name": "Fartsy0e",
+      "type": "painting",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_0e"
+    },
+    {
+      "name": "Fartsy0f",
+      "type": "painting",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_0f"
+    },
+    {
+      "name": "Fartsy10",
+      "type": "painting",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_10"
+    },
+    {
+      "name": "Fartsy11",
+      "type": "painting",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_11"
+    },
+    {
+      "name": "Fartsy12",
+      "type": "painting",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_12"
+    },
+    {
+      "name": "Fartsy13",
+      "type": "painting",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_13"
+    },
+    {
+      "name": "Fartsy14",
+      "type": "painting",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_14"
+    },
+    {
+      "name": "Fartsy15",
+      "type": "painting",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_15"
+    },
+    {
+      "name": "Fartsy16",
+      "type": "painting",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_16"
+    },
+    {
+      "name": "Fartsy17",
+      "type": "painting",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fartsy_17"
+    },
+    {
+      "name": "Stepbro01",
+      "type": "painting",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stepbro_01"
+    },
+    {
+      "name": "BlackArch01",
+      "type": "painting",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_arch_01"
+    },
+    {
+      "name": "Kissone01",
+      "type": "painting",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_01"
+    },
+    {
+      "name": "Kissone02",
+      "type": "painting",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_02"
+    },
+    {
+      "name": "Kissone03",
+      "type": "painting",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_03"
+    },
+    {
+      "name": "Kissone04",
+      "type": "painting",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_04"
+    },
+    {
+      "name": "Kissone05",
+      "type": "painting",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_05"
+    },
+    {
+      "name": "Kissone06",
+      "type": "painting",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_06"
+    },
+    {
+      "name": "KirbyBattleRoyaleDededestroyerZ",
+      "type": "musicdisc",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kirby_battle_royale_dededestroyer_z"
+    },
+    {
+      "name": "SmashPixelsOfGlory",
+      "type": "musicdisc",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smash_pixels_of_glory"
+    },
+    {
+      "name": "RockSalt",
+      "type": "block",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_salt"
     }
   ],
   "variable_elements": [],
@@ -1974,10 +2358,27 @@
       ],
       "category": "record",
       "subtitle": "Final Fantasy XIV - Shadowbringers (Shadowbringers)"
+    },
+    {
+      "name": "kbr.dededestroyerz",
+      "files": [
+        "dededestroyerz"
+      ],
+      "category": "record",
+      "subtitle": "Kirby Battle Royale - De De Destroyer Z"
+    },
+    {
+      "name": "smash.pixelsofglory",
+      "files": [
+        "pixelsofglory"
+      ],
+      "category": "record",
+      "subtitle": "Fridgebits - Pixels of Glory (Project M Theme Remix)"
     }
   ],
   "language_map": {
     "en_us": {
+      "item.fartsys_additions.kirby_battle_royale_dededestroyer_z.desc": "Kirby Battle Royale - Dededestroyer Z",
       "subtitles.ffxiv.knowledgeneversleeps": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
       "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
       "item.fartsys_additions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
@@ -1987,6 +2388,7 @@
       "item.fartsys_additions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
       "item.fartsys_additions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "item.fartsys_additions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
+      "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "subtitles.ffxiv.infinity": "Final Fantasy XIV - Infinity (Zurvan)",
       "item.fartsys_additions.demetori_necrofantasia": "Demetori - Necrofantasia",
       "item.fartsys_additions.ngea_cruel_angels_thesis": "NGE - A Cruel Angels Thesis",
@@ -1996,6 +2398,7 @@
       "item.fartsys_additions.dmc_5_silver_bullet": "DMC 5 - Silver Bullet",
       "itemGroup.tabfartsys_additions": "Fartsy\u0027s Additions",
       "item.fartsys_additions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
+      "item.fartsys_additions.kirby_battle_royale_dededestroyer_z": "Kirby Battle Royale - Dededestroyer Z",
       "item.fartsys_additions.ffxiv_penitus": "FFXIV - Penitus (The Praetorium)",
       "item.fartsys_additions.touhou_project_un_owen_was_her": "Touhou Project - U.N. Owen Was Her?",
       "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
@@ -2014,6 +2417,7 @@
       "subtitles.ffxiv.outoftime": "Final Fantasy XIV - Out of Time (Alexander)",
       "item.fartsys_additions.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
       "item.fartsys_additions.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
+      "item.fartsys_additions.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "item.fartsys_additions.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
       "item.fartsys_additions.shart_one": "Micro Shart",
       "item.fartsys_additions.ffxiv_woe_that_is_madness": "FFXIV - Woe That Is Madness",
@@ -2049,7 +2453,9 @@
       "subtitles.ffxiv.shadowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
       "item.fartsys_additions.ffxiv_out_of_time.desc": "Final Fantasy XIV - Out of Time (Alexander)",
       "item.fartsys_additions.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
+      "item.fartsys_additions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "subtitles.touhou.necrofantasia": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
+      "block.fartsys_additions.rock_salt": "Rock Salt",
       "subtitles.touhou.cosmicmind": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren)",
       "subtitles.xc.youwillknowournames": "Xenoblade Chronicles -  You Will Know Our Names",
       "item.fartsys_additions.dmc_5_silver_bullet.desc": "Devil May Cry 5 - Silver Bullet (Final Boss)",
@@ -2061,6 +2467,7 @@
       "item.fartsys_additions.ffxiv_penitus.desc": "The Praetorium Theme",
       "item.fartsys_additions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "item.fartsys_additions.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
+      "subtitles.kbr.dededestroyerz": "Kirby Battle Royale - De De Destroyer Z",
       "subtitles.ffxiv.woethatismadness": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "item.fartsys_additions.ffxiv_primals_exponential_entropy": "FFXIV - The Primals - Exponential Entropy",
       "item.fartsys_additions.touhou_project_necrofantasia.desc": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
