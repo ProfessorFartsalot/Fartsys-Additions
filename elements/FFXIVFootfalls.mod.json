@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - Footfalls",
+    "texture": "disc05",
+    "description": "Final Fantasy XIV - Footfalls (Endwalker)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ffxiv.footfalls"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

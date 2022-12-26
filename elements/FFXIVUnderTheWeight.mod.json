@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - Under The Weight",
+    "texture": "disc0a",
+    "description": "Final Fantasy XIV - Under the Weight (Titan)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ffxiv.undertheweight"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

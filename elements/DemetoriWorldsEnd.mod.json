@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Demetori - World's End",
+    "texture": "disc08",
+    "description": "Demetori - World's End",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:demetori.worldsend"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

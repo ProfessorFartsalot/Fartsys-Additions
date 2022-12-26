@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - Exponential Entropy",
+    "texture": "disc0b",
+    "description": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ffxiv.exponentialentropy"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

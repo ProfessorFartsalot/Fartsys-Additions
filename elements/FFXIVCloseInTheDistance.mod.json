@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - Close In The Distance",
+    "texture": "disc05",
+    "description": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ffxiv.closeinthedistance"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

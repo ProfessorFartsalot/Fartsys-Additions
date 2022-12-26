@@ -1,0 +1,8 @@
+{
+  "parent": "fartsys_additions:custom/rocksalt",
+  "textures": {
+    "all": "fartsys_additions:blocks/rocksalt",
+    "particle": "fartsys_additions:blocks/rocksalt",
+    "texture": "fartsys_additions:blocks/rocksalt"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - The Primals - Metal: Brute Justice Mode",
+    "texture": "disc0b",
+    "description": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:ffxiv.primals.brutejusticemode"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}
