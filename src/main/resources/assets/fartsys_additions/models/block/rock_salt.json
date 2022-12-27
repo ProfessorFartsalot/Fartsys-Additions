@@ -1,12 +1,8 @@
 {
-  "parent": "block/cube",
+  "parent": "fartsys_additions:custom/rocksalt",
   "textures": {
-    "down": "fartsys_additions:blocks/rocksalt",
-    "up": "fartsys_additions:blocks/rocksalt",
-    "north": "fartsys_additions:blocks/rocksalt",
-    "east": "fartsys_additions:blocks/rocksalt",
-    "south": "fartsys_additions:blocks/rocksalt",
-    "west": "fartsys_additions:blocks/rocksalt",
-    "particle": "fartsys_additions:blocks/rocksalt"
+    "all": "fartsys_additions:blocks/rocksalt",
+    "particle": "fartsys_additions:blocks/rocksalt",
+    "texture": "fartsys_additions:blocks/rocksalt"
   }
 }
