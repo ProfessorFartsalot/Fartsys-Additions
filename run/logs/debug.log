@@ -870,3 +870,506 @@ Caused by: java.io.IOException: Server returned HTTP response code: 401 for URL:
 [27Dec2022 05:55:37.193] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 16384x8192x0 minecraft:textures/atlas/paintings.png-atlas
 [27Dec2022 05:55:37.830] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
 [27Dec2022 05:55:38.459] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[27Dec2022 05:55:43.357] [Render thread/DEBUG] [net.minecraftforge.common.ForgeTagHandler/]: Populated the TagCollectionManager with 3 extra types
+[27Dec2022 05:55:43.649] [Render thread/DEBUG] [net.minecraftforge.fml.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fartsys_additions for mod file D:\GitHub\Fartsys-Additions\build\resources\main
+[27Dec2022 05:55:43.650] [Render thread/DEBUG] [net.minecraftforge.fml.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file C:\Users\profe\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3\forge-1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3-recomp.jar
+[27Dec2022 05:55:43.655] [Render thread/DEBUG] [net.minecraftforge.common.ForgeTagHandler/]: Gathering custom tag collection reader from types.
+[27Dec2022 05:55:43.876] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[27Dec2022 05:55:43.877] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Dec2022 05:55:43.878] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Dec2022 05:55:43.878] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[27Dec2022 05:55:43.879] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Dec2022 05:55:43.883] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, main, forge-1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3-recomp.jar
+[27Dec2022 05:55:44.544] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[27Dec2022 05:55:45.276] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[27Dec2022 05:55:45.407] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[27Dec2022 05:55:45.417] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:bag_o_rock_salt: 1027 (init) -> 1028 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:demetori_necrofantasia: 1012 (init) -> 1013 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:demetori_oriental_dark_flight: 1013 (init) -> 1014 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:demetori_worlds_end: 1014 (init) -> 1015 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:dmc_5_bury_the_light_mission_20: 1015 (init) -> 1016 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:dmc_5_devil_trigger: 1016 (init) -> 1017 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:dmc_5_silver_bullet: 1017 (init) -> 1018 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_agent_of_inquiry: 987 (init) -> 988 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_battle_on_the_big_bridge: 986 (init) -> 987 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_brute_justice: 989 (init) -> 990 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_close_in_the_distance: 991 (init) -> 992 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_exponential_entropy: 992 (init) -> 993 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_footfalls: 994 (init) -> 995 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_infinity: 995 (init) -> 996 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_knowledge_never_sleeps: 996 (init) -> 997 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_landslide: 997 (init) -> 998 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_locus: 998 (init) -> 999 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_lunar_whale: 1000 (init) -> 1001 (map).
+[27Dec2022 05:55:45.419] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_metal: 1001 (init) -> 1002 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_out_of_time: 1002 (init) -> 1003 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_penitus: 985 (init) -> 986 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_primals_brute_justice: 990 (init) -> 991 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_primals_exponential_entropy: 993 (init) -> 994 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_primals_locus: 999 (init) -> 1000 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_shadowbringers: 1003 (init) -> 1004 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_silent_regard_of_stars: 1004 (init) -> 1005 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_under_the_weight: 1005 (init) -> 1006 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiv_woe_that_is_madness: 1006 (init) -> 1007 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ffxiva_land_long_dead: 988 (init) -> 989 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:kirby_battle_royale_dededestroyer_z: 1022 (init) -> 1023 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:ngea_cruel_angels_thesis: 1018 (init) -> 1019 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:rock_salt: 1024 (init) -> 1025 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_hundred: 979 (init) -> 980 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_hundred_thousand: 982 (init) -> 983 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_million: 983 (init) -> 984 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_one: 977 (init) -> 978 (map).
+[27Dec2022 05:55:45.420] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_special: 1025 (init) -> 1026 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_ten: 978 (init) -> 979 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_ten_million: 984 (init) -> 985 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_ten_thousand: 981 (init) -> 982 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:shart_thousand: 980 (init) -> 981 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:slipknot_psychosocial: 1019 (init) -> 1020 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:smash_pixels_of_glory: 1023 (init) -> 1024 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:touhou_project_bad_apple: 1007 (init) -> 1008 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:touhou_project_cosmic_mind: 1008 (init) -> 1009 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:touhou_project_necrofantasia: 1009 (init) -> 1010 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:touhou_project_nuclear_fusion: 1010 (init) -> 1011 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:touhou_project_un_owen_was_her: 1011 (init) -> 1012 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:waffle_of_ass_destruction: 1026 (init) -> 1027 (map).
+[27Dec2022 05:55:45.421] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:xbc_2_battle: 1021 (init) -> 1022 (map).
+[27Dec2022 05:55:45.422] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Fixed minecraft:item id mismatch fartsys_additions:xbc_you_will_know_our_names: 1020 (init) -> 1021 (map).
+[27Dec2022 05:55:45.427] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:a_7x_01: 26 (init) -> 28 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:a_7x_02: 27 (init) -> 29 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:a_7x_03: 28 (init) -> 30 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:a_7x_04: 29 (init) -> 31 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:adeptus_mechanicus_01: 30 (init) -> 32 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:alexander_01: 31 (init) -> 33 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:alexander_02: 32 (init) -> 34 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:alkahestry_circle_01: 33 (init) -> 35 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:alkahestry_circle_02: 34 (init) -> 36 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:amon_amarth_01: 35 (init) -> 37 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:amon_amarth_02: 36 (init) -> 38 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:apophysis_01: 37 (init) -> 39 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:apophysis_02: 38 (init) -> 40 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:bee_uwu_01: 39 (init) -> 41 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:bee_uwu_02: 40 (init) -> 42 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:black_arch_01: 41 (init) -> 43 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:blood_shrine_01: 42 (init) -> 44 (map).
+[27Dec2022 05:55:45.428] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:booba_01: 43 (init) -> 45 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:buff_shrek_01: 44 (init) -> 46 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:butt_fun_01: 45 (init) -> 47 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:butt_fun_02: 46 (init) -> 48 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cake_01: 47 (init) -> 49 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cat_01: 48 (init) -> 50 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:catlord_01: 49 (init) -> 51 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cornholio_01: 50 (init) -> 52 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cornholio_02: 51 (init) -> 53 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:crash_dok_server_01: 52 (init) -> 54 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cruise_chaser_01: 53 (init) -> 55 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cruise_chaser_02: 54 (init) -> 56 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cruise_chaser_03: 55 (init) -> 57 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:cyber_sfm_01: 56 (init) -> 58 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_01: 57 (init) -> 59 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_02: 58 (init) -> 60 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_03: 59 (init) -> 61 (map).
+[27Dec2022 05:55:45.429] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_04: 60 (init) -> 62 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_05: 61 (init) -> 63 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_06: 62 (init) -> 64 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_07: 63 (init) -> 65 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_08: 64 (init) -> 66 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_09: 65 (init) -> 67 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_0a: 66 (init) -> 68 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_0b: 67 (init) -> 69 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_0c: 68 (init) -> 70 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_0d: 69 (init) -> 71 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_0e: 70 (init) -> 72 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:daka_0f: 71 (init) -> 73 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dante_01: 72 (init) -> 74 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dante_02: 73 (init) -> 75 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dante_03: 74 (init) -> 76 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:de_de_de_01: 75 (init) -> 77 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:de_de_de_02: 76 (init) -> 78 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dense_mf_01: 77 (init) -> 79 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dense_mf_02: 78 (init) -> 80 (map).
+[27Dec2022 05:55:45.430] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:deus_est_01: 79 (init) -> 81 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:deus_est_02: 80 (init) -> 82 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dispersion_01: 81 (init) -> 83 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dispersion_02: 82 (init) -> 84 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:divine_timing_01: 83 (init) -> 85 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:dok_01: 84 (init) -> 86 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:ehhh_01: 85 (init) -> 87 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:ehhh_02: 86 (init) -> 88 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:engi_01: 87 (init) -> 89 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:f_off_spray_01: 112 (init) -> 114 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:f_off_spray_02: 113 (init) -> 115 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fart_bomb_01: 88 (init) -> 90 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_01: 89 (init) -> 91 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_02: 90 (init) -> 92 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_03: 91 (init) -> 93 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_04: 92 (init) -> 94 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_05: 93 (init) -> 95 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_06: 94 (init) -> 96 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_07: 95 (init) -> 97 (map).
+[27Dec2022 05:55:45.431] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_08: 96 (init) -> 98 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_09: 97 (init) -> 99 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_0a: 98 (init) -> 100 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_0b: 99 (init) -> 101 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_0c: 100 (init) -> 102 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_0d: 101 (init) -> 103 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_0e: 102 (init) -> 104 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_0f: 103 (init) -> 105 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_10: 104 (init) -> 106 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_11: 105 (init) -> 107 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_12: 106 (init) -> 108 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_13: 107 (init) -> 109 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_14: 108 (init) -> 110 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_15: 109 (init) -> 111 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_16: 110 (init) -> 112 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:fartsy_17: 111 (init) -> 113 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:glow_01: 114 (init) -> 116 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:glow_02: 115 (init) -> 117 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:godbert_01: 116 (init) -> 118 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:godbert_02: 117 (init) -> 119 (map).
+[27Dec2022 05:55:45.432] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:godbert_03: 118 (init) -> 120 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:godbert_04: 119 (init) -> 121 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:godbert_05: 120 (init) -> 122 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:gru_01: 121 (init) -> 123 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:heavy_01: 122 (init) -> 124 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:heman_01: 123 (init) -> 125 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:heman_02: 124 (init) -> 126 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_01: 125 (init) -> 127 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_02: 126 (init) -> 128 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_03: 127 (init) -> 129 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_04: 128 (init) -> 130 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_05: 129 (init) -> 131 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_06: 130 (init) -> 132 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_07: 131 (init) -> 133 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_08: 132 (init) -> 134 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_09: 133 (init) -> 135 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_0a: 134 (init) -> 136 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_0b: 135 (init) -> 137 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_0c: 136 (init) -> 138 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_0d: 137 (init) -> 139 (map).
+[27Dec2022 05:55:45.433] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_0e: 138 (init) -> 140 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_0f: 139 (init) -> 141 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_10: 140 (init) -> 142 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hildy_11: 141 (init) -> 143 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:hindenburg_01: 142 (init) -> 144 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:holinhed_01: 143 (init) -> 145 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:i_dont_wanna_know_01: 144 (init) -> 146 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:i_dont_wanna_know_02: 145 (init) -> 147 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:imperial_01: 146 (init) -> 148 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:imperial_02: 147 (init) -> 149 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:inurat_01: 148 (init) -> 150 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:inurat_02: 149 (init) -> 151 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:kape_beans_01: 150 (init) -> 26 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:kape_beans_02: 151 (init) -> 27 (map).
+[27Dec2022 05:55:45.434] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:self_deshart_01: 218 (init) -> 268 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:self_deshart_02: 219 (init) -> 269 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:self_deshart_03: 220 (init) -> 270 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:self_desharted_04: 221 (init) -> 271 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:shy_dont_shoot_01: 222 (init) -> 218 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:snorlax_01: 223 (init) -> 219 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:snorlax_02: 224 (init) -> 220 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:soldier_meme_01: 225 (init) -> 221 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:soldier_meme_02: 226 (init) -> 222 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:soldier_meme_03: 227 (init) -> 223 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:soldier_meme_04: 228 (init) -> 224 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squash_01: 229 (init) -> 225 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squash_02: 230 (init) -> 226 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squidward_01: 231 (init) -> 227 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squidward_02: 232 (init) -> 228 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squidward_03: 233 (init) -> 229 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squidward_04: 234 (init) -> 230 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squidward_05: 235 (init) -> 231 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:squidward_06: 236 (init) -> 232 (map).
+[27Dec2022 05:55:45.435] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:stepbro_01: 237 (init) -> 233 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:sword_art_01: 238 (init) -> 234 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:tech_priest_01: 239 (init) -> 235 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:tech_priest_02: 240 (init) -> 236 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:tornado_01: 241 (init) -> 237 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:tyler_sfm_01: 242 (init) -> 238 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:tyler_sfm_02: 243 (init) -> 239 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_01: 244 (init) -> 240 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_02: 245 (init) -> 241 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_03: 246 (init) -> 242 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_04: 247 (init) -> 243 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_05: 248 (init) -> 244 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_06: 249 (init) -> 245 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_07: 250 (init) -> 246 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_08: 251 (init) -> 247 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_waft_01: 252 (init) -> 248 (map).
+[27Dec2022 05:55:45.436] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_waft_02: 253 (init) -> 249 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_waft_03: 254 (init) -> 250 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wario_waft_04: 255 (init) -> 251 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wat_01: 256 (init) -> 252 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wat_02: 257 (init) -> 253 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wat_03: 258 (init) -> 254 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wat_04: 259 (init) -> 255 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wat_05: 260 (init) -> 256 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wyv_done_01: 261 (init) -> 257 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wyv_done_02: 262 (init) -> 258 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wyv_rat_01: 263 (init) -> 259 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wyv_rat_02: 264 (init) -> 260 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wyv_solitude_01: 265 (init) -> 261 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:wyv_solitude_02: 266 (init) -> 262 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:yoda_01: 267 (init) -> 263 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:yoda_02: 268 (init) -> 264 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:zero_two_01: 269 (init) -> 265 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:zero_x_hero_01: 270 (init) -> 266 (map).
+[27Dec2022 05:55:45.437] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive: Fixed minecraft:motive id mismatch fartsys_additions:zero_x_hero_02: 271 (init) -> 267 (map).
+[27Dec2022 05:55:45.438] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:demetori.necrofantasia: 1017 (init) -> 1016 (map).
+[27Dec2022 05:55:45.438] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:dmc5.burythelightmission20: 1016 (init) -> 1015 (map).
+[27Dec2022 05:55:45.438] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:dmc5.deviltrigger: 1026 (init) -> 1025 (map).
+[27Dec2022 05:55:45.438] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:dmc5.silverbullet: 1018 (init) -> 1017 (map).
+[27Dec2022 05:55:45.438] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:emone: 1019 (init) -> 1018 (map).
+[27Dec2022 05:55:45.438] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.alandlongdead: 1012 (init) -> 1011 (map).
+[27Dec2022 05:55:45.438] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.battleonthebigbridge: 1031 (init) -> 1030 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.closeinthedistance: 1025 (init) -> 1024 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.infinity: 1024 (init) -> 1023 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.knowledgeneversleeps: 1021 (init) -> 1020 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.locus: 1029 (init) -> 1028 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.penitus: 1022 (init) -> 1021 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.primals.brutejusticemode: 1014 (init) -> 1013 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.primals.locus: 1023 (init) -> 1022 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.shadowbringers: 1020 (init) -> 1019 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.silentregardofstars: 1015 (init) -> 1014 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:ffxiv.undertheweight: 1013 (init) -> 1012 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:kbr.dededestroyerz: 1028 (init) -> 1027 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:nge.cruelangelsthesis: 1030 (init) -> 1029 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:touhou.nuclearfusion: 1032 (init) -> 1031 (map).
+[27Dec2022 05:55:45.439] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Fixed minecraft:sound_event id mismatch fartsys_additions:xc2.battle: 1027 (init) -> 1026 (map).
+[27Dec2022 05:55:45.450] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: fartsys_additions:woad Expected: 1011 Got: 1032
+[27Dec2022 05:55:45.456] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.460] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.460] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.464] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.464] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.468] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:potion Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.468] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:enchantment Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.469] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.469] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block_entity_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.469] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:particle_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.469] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:menu Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.470] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.471] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.471] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:attribute Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.471] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:stat_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.471] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:villager_profession Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.471] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:point_of_interest_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.471] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:memory_module_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.472] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sensor_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.472] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:schedule Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.472] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:activity Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.472] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/carver Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.472] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/surface_builder Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.472] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/feature Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/decorator Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:chunk_status Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/structure_feature Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/block_state_provider_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/block_placer_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/foliage_placer_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/tree_decorator_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.473] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.474] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:data_serializers Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.474] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:loot_modifier_serializers Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.474] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:world_types Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:45.868] [Render thread/DEBUG] [net.minecraftforge.registries.ObjectHolderRegistry/REGISTRIES]: Applying holder lookups
+[27Dec2022 05:55:45.870] [Render thread/DEBUG] [net.minecraftforge.registries.ObjectHolderRegistry/REGISTRIES]: Holder lookups applied
+[27Dec2022 05:55:45.971] [Render thread/DEBUG] [net.minecraftforge.fml.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fartsys_additions for mod file D:\GitHub\Fartsys-Additions\build\resources\main
+[27Dec2022 05:55:45.971] [Render thread/DEBUG] [net.minecraftforge.fml.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file C:\Users\profe\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3\forge-1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3-recomp.jar
+[27Dec2022 05:55:45.972] [Render thread/DEBUG] [net.minecraftforge.common.ForgeTagHandler/]: Gathering custom tag collection reader from types.
+[27Dec2022 05:55:45.979] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[27Dec2022 05:55:45.980] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Dec2022 05:55:45.980] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Dec2022 05:55:45.981] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[27Dec2022 05:55:45.981] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Dec2022 05:55:45.982] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, main, forge-1.16.5-36.2.26_mapped_snapshot_20201028-1.16.3-recomp.jar
+[27Dec2022 05:55:46.616] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[27Dec2022 05:55:47.178] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[27Dec2022 05:55:47.211] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[27Dec2022 05:55:47.232] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: fartsys_additions:woad Expected: 1011 Got: 1032
+[27Dec2022 05:55:47.237] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.240] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.241] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.245] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.245] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.248] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:potion Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.248] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:enchantment Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.248] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.249] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block_entity_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.249] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:particle_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.249] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:menu Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.249] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:motive Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.250] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.250] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:attribute Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.250] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:stat_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:villager_profession Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:point_of_interest_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:memory_module_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sensor_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:schedule Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:activity Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/carver Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.251] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/surface_builder Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/feature Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/decorator Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:chunk_status Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/structure_feature Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/block_state_provider_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/block_placer_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/foliage_placer_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/tree_decorator_type Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.252] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.253] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:data_serializers Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.253] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:loot_modifier_serializers Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.253] [Render thread/DEBUG] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:world_types Sync: ACTIVE -> STAGING
+[27Dec2022 05:55:47.630] [Render thread/DEBUG] [net.minecraftforge.registries.ObjectHolderRegistry/REGISTRIES]: Applying holder lookups
+[27Dec2022 05:55:47.631] [Render thread/DEBUG] [net.minecraftforge.registries.ObjectHolderRegistry/REGISTRIES]: Holder lookups applied
+[27Dec2022 05:55:47.663] [Render thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save New World
+[27Dec2022 05:55:47.669] [Render thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete New World
+[27Dec2022 05:55:48.189] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Dec2022 05:55:48.224] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.16.5
+[27Dec2022 05:55:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Dec2022 05:55:48.285] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : .\saves\New World\serverconfig
+[27Dec2022 05:55:48.285] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type SERVER
+[27Dec2022 05:55:48.286] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for .\saves\New World\serverconfig\forge-server.toml
+[27Dec2022 05:55:48.286] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file .\saves\New World\serverconfig\forge-server.toml
+[27Dec2022 05:55:48.287] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file .\saves\New World\serverconfig\forge-server.toml for changes
+[27Dec2022 05:55:48.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Loaded forge config file forge-server.toml
+[27Dec2022 05:55:48.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Dec2022 05:55:49.651] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[27Dec2022 05:55:49.651] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[27Dec2022 05:55:49.651] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[27Dec2022 05:55:51.576] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[27Dec2022 05:55:51.576] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[27Dec2022 05:55:51.576] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[27Dec2022 05:55:51.576] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[27Dec2022 05:55:52.261] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[27Dec2022 05:55:52.457] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[27Dec2022 05:55:52.925] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4484 ms
+[27Dec2022 05:55:52.940] [Server thread/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.bytebuf.checkAccessible: true
+[27Dec2022 05:55:52.941] [Server thread/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@dd8630b
+[27Dec2022 05:55:53.266] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 4, from 10
+[27Dec2022 05:55:53.285] [Render thread/DEBUG] [io.netty.channel.MultithreadEventLoopGroup/]: -Dio.netty.eventLoopThreads: 24
+[27Dec2022 05:55:53.306] [Render thread/DEBUG] [io.netty.channel.nio.NioEventLoop/]: -Dio.netty.noKeySetOptimization: false
+[27Dec2022 05:55:53.308] [Render thread/DEBUG] [io.netty.channel.nio.NioEventLoop/]: -Dio.netty.selectorAutoRebuildThreshold: 512
+[27Dec2022 05:55:53.317] [Render thread/DEBUG] [io.netty.util.internal.PlatformDependent/]: org.jctools-core.MpscChunkedArrayQueue: available
+[27Dec2022 05:55:53.355] [Render thread/DEBUG] [io.netty.channel.DefaultChannelId/]: -Dio.netty.processId: 16404 (auto-detected)
+[27Dec2022 05:55:53.357] [Render thread/DEBUG] [io.netty.util.NetUtil/]: -Djava.net.preferIPv4Stack: false
+[27Dec2022 05:55:53.357] [Render thread/DEBUG] [io.netty.util.NetUtil/]: -Djava.net.preferIPv6Addresses: false
+[27Dec2022 05:55:53.405] [Render thread/DEBUG] [io.netty.util.NetUtil/]: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[27Dec2022 05:55:53.406] [Render thread/DEBUG] [io.netty.util.NetUtil/]: Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[27Dec2022 05:55:53.456] [Render thread/DEBUG] [io.netty.channel.DefaultChannelId/]: -Dio.netty.machineId: 74:d0:2b:ff:fe:2a:82:ca (auto-detected)
+[27Dec2022 05:55:53.478] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.numHeapArenas: 24
+[27Dec2022 05:55:53.478] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.numDirectArenas: 24
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.pageSize: 8192
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.maxOrder: 11
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.chunkSize: 16777216
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.tinyCacheSize: 512
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.smallCacheSize: 256
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.normalCacheSize: 64
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.cacheTrimInterval: 8192
+[27Dec2022 05:55:53.479] [Render thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator/]: -Dio.netty.allocator.useCacheForAllThreads: true
+[27Dec2022 05:55:53.487] [Render thread/DEBUG] [io.netty.buffer.ByteBufUtil/]: -Dio.netty.allocator.type: pooled
+[27Dec2022 05:55:53.487] [Render thread/DEBUG] [io.netty.buffer.ByteBufUtil/]: -Dio.netty.threadLocalDirectBufferSize: 0
+[27Dec2022 05:55:53.487] [Render thread/DEBUG] [io.netty.buffer.ByteBufUtil/]: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[27Dec2022 05:55:53.530] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting local connection.
+[27Dec2022 05:55:53.625] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/network/play/client/CClientSettingsPacket
+[27Dec2022 05:55:53.701] [Netty Local Client IO #0/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[27Dec2022 05:55:53.701] [Netty Local Client IO #0/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+[27Dec2022 05:55:53.701] [Netty Local Client IO #0/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.linkCapacity: 16
+[27Dec2022 05:55:53.701] [Netty Local Client IO #0/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[27Dec2022 05:55:53.712] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting local connection.
+[27Dec2022 05:55:54.082] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 0
+[27Dec2022 05:55:54.096] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[27Dec2022 05:55:54.100] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Logging into server with mod list [minecraft, fartsys_additions, forge]
+[27Dec2022 05:55:54.101] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from server : ACCEPTED
+[27Dec2022 05:55:54.101] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from server : ACCEPTED
+[27Dec2022 05:55:54.101] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from server : ACCEPTED
+[27Dec2022 05:55:54.102] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fartsys_additions:fartsys_additions' : Version test of '1' from server : ACCEPTED
+[27Dec2022 05:55:54.102] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from server : ACCEPTED
+[27Dec2022 05:55:54.102] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from server : ACCEPTED
+[27Dec2022 05:55:54.102] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from server : ACCEPTED
+[27Dec2022 05:55:54.102] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from server : ACCEPTED
+[27Dec2022 05:55:54.102] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from server
+[27Dec2022 05:55:54.103] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 0
+[27Dec2022 05:55:54.104] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted server connection
+[27Dec2022 05:55:54.104] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[27Dec2022 05:55:54.105] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[27Dec2022 05:55:54.105] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, fartsys_additions, forge]
+[27Dec2022 05:55:54.105] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/REGISTRIES]: Expecting 16 registries: [minecraft:recipe_serializer, minecraft:sound_event, minecraft:particle_type, minecraft:villager_profession, minecraft:item, minecraft:potion, minecraft:block_entity_type, minecraft:block, minecraft:data_serializers, minecraft:mob_effect, minecraft:stat_type, minecraft:menu, minecraft:enchantment, minecraft:motive, minecraft:fluid, minecraft:entity_type]
+[27Dec2022 05:55:54.105] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[27Dec2022 05:55:54.105] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[27Dec2022 05:55:54.105] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[27Dec2022 05:55:54.105] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fartsys_additions:fartsys_additions' : Version test of '1' from client : ACCEPTED
+[27Dec2022 05:55:54.106] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[27Dec2022 05:55:54.106] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[27Dec2022 05:55:54.106] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[27Dec2022 05:55:54.106] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[27Dec2022 05:55:54.106] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[27Dec2022 05:55:54.106] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[27Dec2022 05:55:54.138] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 1
+[27Dec2022 05:55:54.139] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[27Dec2022 05:55:54.139] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received config sync from server
+[27Dec2022 05:55:54.139] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[27Dec2022 05:55:54.139] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[27Dec2022 05:55:54.139] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[27Dec2022 05:55:54.139] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[27Dec2022 05:55:54.183] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[27Dec2022 05:55:54.235] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[27Dec2022 05:55:54.272] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7227344c
+[27Dec2022 05:55:54.284] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:84a0c62a] logged in with entity id 287 at (-30.096845486009546, 70.0, -240.8597842659782)
+[27Dec2022 05:55:54.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[27Dec2022 05:55:54.539] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[27Dec2022 05:55:54.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Dec2022 05:55:54.667] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 12 advancements
+[27Dec2022 05:55:55.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Dec2022 05:55:55.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Dec2022 05:55:55.370] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save New World
+[27Dec2022 05:55:55.375] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete New World
+[27Dec2022 05:56:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [Waffle Of Ass Destruction] to Dev]
+[27Dec2022 05:56:07.337] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Gave 1 [Waffle Of Ass Destruction] to Dev
+[27Dec2022 05:56:10.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev experienced Professor's Ass.
+[27Dec2022 05:56:10.134] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Dev experienced Professor's Ass.
+[27Dec2022 05:56:16.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6549ms or 130 ticks behind
+[27Dec2022 05:56:22.317] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[27Dec2022 05:56:22.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Dec2022 05:56:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Dec2022 05:56:22.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Dec2022 05:56:22.662] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save New World
+[27Dec2022 05:56:22.666] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete New World
+[27Dec2022 05:56:41.631] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] No player was found
+[27Dec2022 05:56:49.165] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Incorrect argument for command
+[27Dec2022 05:56:49.166] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] ...ions:woad @a ambient 0.5 ~ ~ ~<--[HERE]
+[27Dec2022 05:56:57.755] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Expected float
+[27Dec2022 05:56:57.756] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] ...a 0.5 ~ ~ ~<--[HERE]
+[27Dec2022 05:56:59.695] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The sound is too far away to be heard
+[27Dec2022 05:57:07.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Played sound fartsys_additions:woad to Dev]
+[27Dec2022 05:57:07.247] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Played sound fartsys_additions:woad to Dev
+[27Dec2022 05:57:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Played sound fartsys_additions:woad to Dev]
+[27Dec2022 05:57:10.145] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Played sound fartsys_additions:woad to Dev
+[27Dec2022 05:57:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Played sound fartsys_additions:woad to Dev]
+[27Dec2022 05:57:14.127] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Played sound fartsys_additions:woad to Dev
+[27Dec2022 05:57:17.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Played sound fartsys_additions:woad to Dev]
+[27Dec2022 05:57:17.380] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Played sound fartsys_additions:woad to Dev
+[27Dec2022 05:57:23.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Played sound fartsys_additions:woad to Dev]
+[27Dec2022 05:57:23.429] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Played sound fartsys_additions:woad to Dev
+[27Dec2022 05:57:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Played sound fartsys_additions:woad to Dev]
+[27Dec2022 05:57:28.153] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Played sound fartsys_additions:woad to Dev
+[27Dec2022 05:57:30.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev fell from a high place
+[27Dec2022 05:57:30.330] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Dev fell from a high place
+[27Dec2022 05:57:36.184] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Incomplete (expected 3 coordinates)
+[27Dec2022 05:57:36.184] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] ...mbient @a 0.15<--[HERE]
+[27Dec2022 05:57:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Played sound fartsys_additions:woad to Dev]
+[27Dec2022 05:57:42.651] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Played sound fartsys_additions:woad to Dev
+[27Dec2022 05:57:45.268] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[27Dec2022 05:57:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Dec2022 05:57:45.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Dec2022 05:57:45.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Dec2022 05:57:45.380] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save New World
+[27Dec2022 05:57:45.382] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete New World
+[27Dec2022 05:57:49.067] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[27Dec2022 05:57:49.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Dec2022 05:57:49.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Dec2022 05:57:49.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Dec2022 05:57:49.169] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save New World
+[27Dec2022 05:57:49.172] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete New World

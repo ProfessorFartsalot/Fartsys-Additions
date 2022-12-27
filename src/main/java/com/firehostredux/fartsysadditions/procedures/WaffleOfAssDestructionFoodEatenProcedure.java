@@ -4,13 +4,17 @@ import net.minecraft.world.server.ServerWorld;
 import net.minecraft.world.World;
 import net.minecraft.world.IWorld;
 import net.minecraft.world.Explosion;
+import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.math.vector.Vector3d;
+import net.minecraft.util.math.vector.Vector2f;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.DamageSource;
 import net.minecraft.entity.effect.LightningBoltEntity;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.Entity;
+import net.minecraft.command.ICommandSource;
+import net.minecraft.command.CommandSource;
 
 import java.util.Map;
 
@@ -52,8 +56,14 @@ public class WaffleOfAssDestructionFoodEatenProcedure {
 		if (entity instanceof LivingEntity) {
 			((LivingEntity) entity).attackEntityFrom(new DamageSource("woad").setDamageBypassesArmor(), (float) 100000);
 		}
+		if (world instanceof ServerWorld) {
+			((World) world).getServer().getCommandManager().handleCommand(
+					new CommandSource(ICommandSource.DUMMY, new Vector3d(x, y, z), Vector2f.ZERO, (ServerWorld) world, 4, "",
+							new StringTextComponent(""), ((World) world).getServer(), null).withFeedbackDisabled(),
+					"playsound fartsys_additions:woad ambient @a ~ ~ ~ 0.15");
+		}
 		if (world instanceof World && !((World) world).isRemote) {
-			((World) world).createExplosion(null, (int) x, (int) y, (int) z, (float) 250, Explosion.Mode.DESTROY);
+			((World) world).createExplosion(null, (int) x, (int) y, (int) z, (float) 50, Explosion.Mode.DESTROY);
 		}
 		if (world instanceof ServerWorld) {
 			LightningBoltEntity _ent = EntityType.LIGHTNING_BOLT.create((World) world);
