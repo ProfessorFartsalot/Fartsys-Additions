@@ -12,17 +12,23 @@ import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.EquipmentSlotType;
+import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.ai.attributes.Attributes;
 import net.minecraft.entity.ai.attributes.AttributeModifier;
 import net.minecraft.entity.ai.attributes.Attribute;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
+import java.util.stream.Stream;
+import java.util.Map;
 import java.util.List;
+import java.util.HashMap;
+import java.util.AbstractMap;
 
 import com.google.common.collect.Multimap;
 import com.google.common.collect.ImmutableMultimap;
 
+import com.firehostredux.fartsysadditions.procedures.ShartTenMillionItemIsDroppedByPlayerProcedure;
 import com.firehostredux.fartsysadditions.itemgroup.FartsysAdditionsItemGroup;
 import com.firehostredux.fartsysadditions.FartsysAdditionsModElements;
 
@@ -78,7 +84,21 @@ public class ShartTenMillionItem extends FartsysAdditionsModElements.ModElement 
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Ten MILLION sharts."));
+			list.add(new StringTextComponent("Ten MILLION sharts. Rated for 10 Mega-Sharts per second!"));
+		}
+
+		@Override
+		public boolean onDroppedByPlayer(ItemStack itemstack, PlayerEntity entity) {
+			double x = entity.getPosX();
+			double y = entity.getPosY();
+			double z = entity.getPosZ();
+			World world = entity.world;
+
+			ShartTenMillionItemIsDroppedByPlayerProcedure.executeProcedure(Stream
+					.of(new AbstractMap.SimpleEntry<>("world", world), new AbstractMap.SimpleEntry<>("x", x), new AbstractMap.SimpleEntry<>("y", y),
+							new AbstractMap.SimpleEntry<>("z", z), new AbstractMap.SimpleEntry<>("entity", entity))
+					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
+			return true;
 		}
 	}
 }

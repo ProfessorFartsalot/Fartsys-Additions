@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 33,
   "_type": "musicdisc",
   "definition": {
-    "name": "Kirby Battle Royale - Dededestroyer Z",
     "texture": "disc0c",
+    "name": "Kirby Battle Royale - Dededestroyer Z",
     "description": "Kirby Battle Royale - Dededestroyer Z",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": true,
     "music": {
       "value": "CUSTOM:kbr.dededestroyerz"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": true
   }
 }

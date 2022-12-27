@@ -1,21 +1,42 @@
 {
   "mod_elements": [
     {
-      "name": "Test",
-      "type": "musicdisc",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "test",
-      "path": "~/Music"
-    },
-    {
       "name": "DebugItem",
       "type": "item",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "debug_item"
+      "registry_name": "debug_item",
+      "path": "~/Items"
+    },
+    {
+      "name": "DebugItemRightclicked",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "debug_item_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "FartsysAdditions",
@@ -429,6 +450,562 @@
       "locked_code": false,
       "registry_name": "xbc_2_battle",
       "path": "~/Music"
+    },
+    {
+      "name": "KirbyBattleRoyaleDededestroyerZ",
+      "type": "musicdisc",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kirby_battle_royale_dededestroyer_z",
+      "path": "~/Music"
+    },
+    {
+      "name": "SmashPixelsOfGlory",
+      "type": "musicdisc",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smash_pixels_of_glory",
+      "path": "~/Music"
+    },
+    {
+      "name": "RockSalt",
+      "type": "block",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_salt",
+      "path": "~/Items"
+    },
+    {
+      "name": "ShartTenMillionItemIsDroppedByPlayer",
+      "type": "procedure",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_ten_million_item_is_dropped_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "Daka01",
+      "type": "painting",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka02",
+      "type": "painting",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_02",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka03",
+      "type": "painting",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_03",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka04",
+      "type": "painting",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_04",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka05",
+      "type": "painting",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_05",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka06",
+      "type": "painting",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_06",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka07",
+      "type": "painting",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_07",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka08",
+      "type": "painting",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_08",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka09",
+      "type": "painting",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_09",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka0a",
+      "type": "painting",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_0a",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka0b",
+      "type": "painting",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_0b",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka0c",
+      "type": "painting",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_0c",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka0d",
+      "type": "painting",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_0d",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka0e",
+      "type": "painting",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_0e",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Daka0f",
+      "type": "painting",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daka_0f",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Booba01",
+      "type": "painting",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "booba_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "DivineTiming01",
+      "type": "painting",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "divine_timing_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "FartBomb01",
+      "type": "painting",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fart_bomb_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Holinhed01",
+      "type": "painting",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holinhed_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "CrashDokServer01",
+      "type": "painting",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crash_dok_server_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Ribbons01",
+      "type": "painting",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ribbons_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Ribbons02",
+      "type": "painting",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ribbons_02",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Ribbons03",
+      "type": "painting",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ribbons_03",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Kissone07",
+      "type": "painting",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_07",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Kissone08",
+      "type": "painting",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_08",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "ShyDontShoot01",
+      "type": "painting",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shy_dont_shoot_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat01",
+      "type": "painting",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat02",
+      "type": "painting",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_02",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat03",
+      "type": "painting",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_03",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat04",
+      "type": "painting",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_04",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat05",
+      "type": "painting",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_05",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "BuffShrek01",
+      "type": "painting",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buff_shrek_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Kissone09",
+      "type": "painting",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kissone_09",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Yoda01",
+      "type": "painting",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yoda_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Yoda02",
+      "type": "painting",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yoda_02",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Dok01",
+      "type": "painting",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dok_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "WaffleOfAssDestructionFoodEaten",
+      "type": "procedure",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_of_ass_destruction_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ShartSpecialFoodEaten",
+      "type": "procedure",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_special_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "WaffleOfAssDestruction",
+      "type": "item",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_of_ass_destruction",
+      "path": "~/Items"
+    },
+    {
+      "name": "ShartSpecial",
+      "type": "item",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_special",
+      "path": "~/Items"
+    },
+    {
+      "name": "BagORockSaltSpawnRockSalt",
+      "type": "procedure",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bag_o_rock_salt_spawn_rock_salt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "BagORockSalt",
+      "type": "item",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bag_o_rock_salt",
+      "path": "~/Items"
+    },
+    {
+      "name": "ShartSpecialLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_special_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RecBagORockSalt",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_bag_o_rock_salt",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShartSpecial",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_shart_special",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecWaffleOfAssDest",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_waffle_of_ass_dest",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ButtFun01",
+      "type": "painting",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butt_fun_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "ButtFun02",
+      "type": "painting",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butt_fun_02",
+      "path": "~/Paintings"
     },
     {
       "name": "KapeBeans01",
@@ -2265,6 +2842,24 @@
       "locked_code": false,
       "registry_name": "kissone_06",
       "path": "~/Paintings"
+    },
+    {
+      "name": "SelfDeshart01",
+      "type": "painting",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "self_deshart_01",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "SelfDeshart02",
+      "type": "painting",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "self_deshart_02",
+      "path": "~/Paintings"
     }
   ],
   "variable_elements": [],
@@ -2696,7 +3291,6 @@
       "item.fartsys_additions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
       "subtitles.ffxiv.locus": "Final Fantasy XIV - Locus (Alexander)",
       "subtitles.ffxiv.landslide": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
-      "item.fartsys_additions.test.desc": "test",
       "item.fartsys_additions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
       "item.fartsys_additions.debug_item": "Debug Item",
       "item.fartsys_additions.shart_ten": "Mini Shart",
@@ -2715,7 +3309,6 @@
       "subtitles.dmc5.burythelightmission20": "Devil May Cry 5 - Bury The Light (Mission 20, Vergil)",
       "item.fartsys_additions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
       "subtitles.demetori.worldsend": "Demetori - World\u0027s End",
-      "item.fartsys_additions.test": "Test",
       "item.fartsys_additions.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
       "item.fartsys_additions.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
       "subtitles.ffxiv.primals.exponentialentropy": "Final Fantasy XIV - The Primals - Exponential Entropy",

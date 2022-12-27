@@ -25,12 +25,15 @@
     "enableMeleeDamage": true,
     "damageVsEntity": 20.0,
     "specialInfo": [
-      "Ten MILLION sharts."
+      "Ten MILLION sharts. Rated for 10 Mega-Sharts per second!"
     ],
     "hasGlow": true,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
+    "onDroppedByPlayer": {
+      "name": "ShartTenMillionItemIsDroppedByPlayer"
+    },
     "isFood": false,
     "nutritionalValue": 4,
     "saturation": 0.3,
