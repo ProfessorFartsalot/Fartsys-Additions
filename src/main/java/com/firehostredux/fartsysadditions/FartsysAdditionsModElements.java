@@ -46,6 +46,86 @@ public class FartsysAdditionsModElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 
 	public FartsysAdditionsModElements() {
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.penitus"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.penitus")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.battleonthebigbridge"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.battleonthebigbridge")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.primals.brutejusticemode"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.primals.brutejusticemode")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.exponentialentropy"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.exponentialentropy")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.brutejusticemode"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.brutejusticemode")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.primals.exponentialentropy"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.primals.exponentialentropy")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.infinity"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.infinity")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.locus"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.locus")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.primals.locus"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.primals.locus")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.metal"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.metal")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.outoftime"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.outoftime")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.silentregardofstars"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.silentregardofstars")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.knowledgeneversleeps"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.knowledgeneversleeps")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.alandlongdead"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.alandlongdead")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.agentofinquiry"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.agentofinquiry")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.lunarwhale"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.lunarwhale")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.closeinthedistance"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.closeinthedistance")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.footfalls"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.footfalls")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.undertheweight"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.undertheweight")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.landslide"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.landslide")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.woethatismadness"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.woethatismadness")));
+		sounds.put(new ResourceLocation("fartsys_additions", "touhou.badapple"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "touhou.badapple")));
+		sounds.put(new ResourceLocation("fartsys_additions", "touhou.necrofantasia"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "touhou.necrofantasia")));
+		sounds.put(new ResourceLocation("fartsys_additions", "touhou.cosmicmind"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "touhou.cosmicmind")));
+		sounds.put(new ResourceLocation("fartsys_additions", "touhou.nuclearfusion"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "touhou.nuclearfusion")));
+		sounds.put(new ResourceLocation("fartsys_additions", "touhou.unowenwasher"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "touhou.unowenwasher")));
+		sounds.put(new ResourceLocation("fartsys_additions", "demetori.orientaldarkflight"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "demetori.orientaldarkflight")));
+		sounds.put(new ResourceLocation("fartsys_additions", "demetori.necrofantasia"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "demetori.necrofantasia")));
+		sounds.put(new ResourceLocation("fartsys_additions", "demetori.worldsend"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "demetori.worldsend")));
+		sounds.put(new ResourceLocation("fartsys_additions", "dmc5.deviltrigger"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "dmc5.deviltrigger")));
+		sounds.put(new ResourceLocation("fartsys_additions", "dmc5.burythelightmission20"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "dmc5.burythelightmission20")));
+		sounds.put(new ResourceLocation("fartsys_additions", "dmc5.silverbullet"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "dmc5.silverbullet")));
+		sounds.put(new ResourceLocation("fartsys_additions", "nge.cruelangelsthesis"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "nge.cruelangelsthesis")));
+		sounds.put(new ResourceLocation("fartsys_additions", "slipknot.psychosocial"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "slipknot.psychosocial")));
+		sounds.put(new ResourceLocation("fartsys_additions", "xc.youwillknowournames"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "xc.youwillknowournames")));
+		sounds.put(new ResourceLocation("fartsys_additions", "xc2.battle"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "xc2.battle")));
+		sounds.put(new ResourceLocation("fartsys_additions", "ffxiv.shadowbringers"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "ffxiv.shadowbringers")));
+		sounds.put(new ResourceLocation("fartsys_additions", "kbr.dededestroyerz"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "kbr.dededestroyerz")));
+		sounds.put(new ResourceLocation("fartsys_additions", "smash.pixelsofglory"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "smash.pixelsofglory")));
+		sounds.put(new ResourceLocation("fartsys_additions", "emone"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "emone")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("fartsys_additions").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

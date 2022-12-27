@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0a",
+    "name": "FFXIV - Battle On The Big Bridge",
+    "description": "FFXIV - Battle on the Big Bridge (Gilgamesh Theme)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.battleonthebigbridge"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

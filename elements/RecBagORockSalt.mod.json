@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 200.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "fartsysadditions",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Items.POTIONITEM"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BagORockSalt"
+    },
+    "name": "rec_bag_o_rock_salt",
+    "namespace": "mod"
+  }
+}

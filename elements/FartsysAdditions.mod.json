@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Fartsy's Additions",
+    "icon": {
+      "value": "CUSTOM:DebugItem"
+    },
+    "showSearch": true
+  }
+}

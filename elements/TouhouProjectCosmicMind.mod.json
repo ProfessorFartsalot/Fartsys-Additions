@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc08",
+    "name": "Touhou Project - Cosmic Mind",
+    "description": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:touhou.cosmicmind"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

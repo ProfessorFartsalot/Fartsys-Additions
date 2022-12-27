@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc06",
+    "name": "FFXIV - Lunar Whale",
+    "description": "Final Fantasy XIV - Lunar Whale",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.lunarwhale"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

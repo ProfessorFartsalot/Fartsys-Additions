@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc07",
+    "name": "FFXIV - The Primals - Exponential Entropy",
+    "description": "Final Fantasy XIV - The Primals - Exponential Entropy",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.primals.exponentialentropy"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

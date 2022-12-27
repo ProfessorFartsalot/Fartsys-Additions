@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Smash - Pixels of Glory",
+    "texture": "disc0c",
+    "description": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:smash.pixelsofglory"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

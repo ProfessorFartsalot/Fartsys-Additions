@@ -1,0 +1,524 @@
+{
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "path": "~/Music"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "ffxiv.penitus",
+      "files": [
+        "penitus"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Penitus (Praetorium)"
+    },
+    {
+      "name": "ffxiv.battleonthebigbridge",
+      "files": [
+        "battleonthebigbridgexiv"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Battle on the Big Bridge (Gilgamesh)"
+    },
+    {
+      "name": "ffxiv.primals.brutejusticemode",
+      "files": [
+        "brutejusticeprimals"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode"
+    },
+    {
+      "name": "ffxiv.exponentialentropy",
+      "files": [
+        "exponentialentropy"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)"
+    },
+    {
+      "name": "ffxiv.brutejusticemode",
+      "files": [
+        "brutejustice"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)"
+    },
+    {
+      "name": "ffxiv.primals.exponentialentropy",
+      "files": [
+        "exponentialentropyprimals"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - The Primals - Exponential Entropy"
+    },
+    {
+      "name": "ffxiv.infinity",
+      "files": [
+        "infinity"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Infinity (Zurvan)"
+    },
+    {
+      "name": "ffxiv.locus",
+      "files": [
+        "locus"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Locus (Alexander)"
+    },
+    {
+      "name": "ffxiv.primals.locus",
+      "files": [
+        "locusprimals"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - The Primals - Locus"
+    },
+    {
+      "name": "ffxiv.metal",
+      "files": [
+        "metalmetal"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Metal (Alexander)"
+    },
+    {
+      "name": "ffxiv.outoftime",
+      "files": [
+        "outoftime"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Out of Time (Alexander)"
+    },
+    {
+      "name": "ffxiv.silentregardofstars",
+      "files": [
+        "silentregardofstars"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)"
+    },
+    {
+      "name": "ffxiv.knowledgeneversleeps",
+      "files": [
+        "knowledgeneversleeps"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)"
+    },
+    {
+      "name": "ffxiv.alandlongdead",
+      "files": [
+        "alandlongdead"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - A Land Long Dead (The Burn)"
+    },
+    {
+      "name": "ffxiv.agentofinquiry",
+      "files": [
+        "agentofinquiry"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)"
+    },
+    {
+      "name": "ffxiv.lunarwhale",
+      "files": [
+        "lunarwhale"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Lunar Whale"
+    },
+    {
+      "name": "ffxiv.closeinthedistance",
+      "files": [
+        "closeinthedistance"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Close in the Distance (Ultima Thule)"
+    },
+    {
+      "name": "ffxiv.footfalls",
+      "files": [
+        "footfalls"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Footfalls (Endwalker)"
+    },
+    {
+      "name": "ffxiv.undertheweight",
+      "files": [
+        "undertheweight"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Under the Weight (Titan)"
+    },
+    {
+      "name": "ffxiv.landslide",
+      "files": [
+        "landslide"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)"
+    },
+    {
+      "name": "ffxiv.woethatismadness",
+      "files": [
+        "woethatismadness"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Woe That Is Madness (Bismarck)"
+    },
+    {
+      "name": "touhou.badapple",
+      "files": [
+        "badapple"
+      ],
+      "category": "record",
+      "subtitle": "Touhou Project - Bad Apple (nomico)"
+    },
+    {
+      "name": "touhou.necrofantasia",
+      "files": [
+        "necrofantasia"
+      ],
+      "category": "record",
+      "subtitle": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)"
+    },
+    {
+      "name": "touhou.cosmicmind",
+      "files": [
+        "cosmicmind"
+      ],
+      "category": "record",
+      "subtitle": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren)"
+    },
+    {
+      "name": "touhou.nuclearfusion",
+      "files": [
+        "nuclearfusion"
+      ],
+      "category": "record",
+      "subtitle": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)"
+    },
+    {
+      "name": "touhou.unowenwasher",
+      "files": [
+        "unowenwasher"
+      ],
+      "category": "record",
+      "subtitle": "Touhou Project - U.N. Owen Was Her? (EoSD/6.0 Flandre)"
+    },
+    {
+      "name": "demetori.orientaldarkflight",
+      "files": [
+        "orientaldarkflightdemetori"
+      ],
+      "category": "record",
+      "subtitle": "Demetori - Oriental Dark Flight"
+    },
+    {
+      "name": "demetori.necrofantasia",
+      "files": [
+        "necrofantasiademetori"
+      ],
+      "category": "record",
+      "subtitle": "Demetori - Necrofantasia"
+    },
+    {
+      "name": "demetori.worldsend",
+      "files": [
+        "worldsend"
+      ],
+      "category": "record",
+      "subtitle": "Demetori - World\u0027s End"
+    },
+    {
+      "name": "dmc5.deviltrigger",
+      "files": [
+        "deviltrigger"
+      ],
+      "category": "record",
+      "subtitle": "Devil May Cry 5 - Devil Trigger (Nero)"
+    },
+    {
+      "name": "dmc5.burythelightmission20",
+      "files": [
+        "burythelightmission20"
+      ],
+      "category": "record",
+      "subtitle": "Devil May Cry 5 - Bury The Light (Mission 20, Vergil)"
+    },
+    {
+      "name": "dmc5.silverbullet",
+      "files": [
+        "silverbullet"
+      ],
+      "category": "record",
+      "subtitle": "Devil May Cry 5 - Silver Bullet (Final Boss)"
+    },
+    {
+      "name": "nge.cruelangelsthesis",
+      "files": [
+        "cruelangelsthesis"
+      ],
+      "category": "record",
+      "subtitle": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)"
+    },
+    {
+      "name": "slipknot.psychosocial",
+      "files": [
+        "psychosocial"
+      ],
+      "category": "record",
+      "subtitle": "Slipknot - Psychosocial"
+    },
+    {
+      "name": "xc.youwillknowournames",
+      "files": [
+        "youwillknowournames"
+      ],
+      "category": "record",
+      "subtitle": "Xenoblade Chronicles -  You Will Know Our Names"
+    },
+    {
+      "name": "xc2.battle",
+      "files": [
+        "battle"
+      ],
+      "category": "record",
+      "subtitle": "Xenoblade Chronicles 2 - Battle!!"
+    },
+    {
+      "name": "ffxiv.shadowbringers",
+      "files": [
+        "shadowbringers"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Shadowbringers (Shadowbringers)"
+    },
+    {
+      "name": "kbr.dededestroyerz",
+      "files": [
+        "dededestroyerz"
+      ],
+      "category": "record",
+      "subtitle": "Kirby Battle Royale - De De Destroyer Z"
+    },
+    {
+      "name": "smash.pixelsofglory",
+      "files": [
+        "pixelsofglory"
+      ],
+      "category": "record",
+      "subtitle": "Fridgebits - Pixels of Glory (Project M Theme Remix)"
+    },
+    {
+      "name": "emone",
+      "files": [
+        "dosh"
+      ],
+      "category": "record",
+      "subtitle": "Someone did a goof..."
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.fartsys_additions.kirby_battle_royale_dededestroyer_z.desc": "Kirby Battle Royale - Dededestroyer Z",
+      "subtitles.ffxiv.knowledgeneversleeps": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
+      "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
+      "item.fartsys_additions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
+      "item.fartsys_additions.dmc_5_bury_the_light_mission_20": "DMC 5 - Bury The Light (Mission 20)",
+      "death.attack.waterydemise": "%1$s met a watery demise!",
+      "subtitles.demetori.orientaldarkflight": "Demetori - Oriental Dark Flight",
+      "item.fartsys_additions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
+      "item.fartsys_additions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
+      "item.fartsys_additions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
+      "item.fartsys_additions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
+      "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "subtitles.ffxiv.infinity": "Final Fantasy XIV - Infinity (Zurvan)",
+      "item.fartsys_additions.demetori_necrofantasia": "Demetori - Necrofantasia",
+      "item.fartsys_additions.ngea_cruel_angels_thesis": "NGE - A Cruel Angels Thesis",
+      "death.attack.waterydemise.player": "%1$s met a watery demise!",
+      "item.fartsys_additions.shart_hundred": "Shart",
+      "item.fartsys_additions.ffxiv_landslide": "FFXIV - Landslide",
+      "subtitles.ffxiv.alandlongdead": "Final Fantasy XIV - A Land Long Dead (The Burn)",
+      "item.fartsys_additions.dmc_5_silver_bullet": "DMC 5 - Silver Bullet",
+      "itemGroup.tabfartsys_additions": "Fartsy\u0027s Additions",
+      "item.fartsys_additions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
+      "item.fartsys_additions.kirby_battle_royale_dededestroyer_z": "Kirby Battle Royale - Dededestroyer Z",
+      "item.fartsys_additions.ffxiv_penitus": "FFXIV - Penitus (The Praetorium)",
+      "item.fartsys_additions.waffle_of_ass_destruction": "Waffle Of Ass Destruction",
+      "item.fartsys_additions.touhou_project_un_owen_was_her": "Touhou Project - U.N. Owen Was Her?",
+      "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
+      "item.fartsys_additions.touhou_project_bad_apple.desc": "Touhou Project - Bad Apple (nomico)",
+      "death.attack.woad": "%1$s experienced Professor\u0027s Ass.",
+      "item.fartsys_additions.ffxiv_metal": "FFXIV - Metal",
+      "subtitles.ffxiv.primals.locus": "Final Fantasy XIV - The Primals - Locus",
+      "item.fartsys_additions.ffxiv_knowledge_never_sleeps.desc": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
+      "item.fartsys_additions.ffxiv_shadowbringers.desc": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
+      "item.fartsys_additions.ffxiva_land_long_dead.desc": "Final Fantasy XIV - A Land Long Dead (The Burn)",
+      "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
+      "subtitles.slipknot.psychosocial": "Slipknot - Psychosocial",
+      "item.fartsys_additions.ffxiv_exponential_entropy": "FFXIV - Exponential Entropy",
+      "item.fartsys_additions.shart_special": "Shart Special",
+      "subtitles.nge.cruelangelsthesis": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
+      "item.fartsys_additions.shart_ten_million": "10 Mega-Sharts",
+      "subtitles.touhou.unowenwasher": "Touhou Project - U.N. Owen Was Her? (EoSD/6.0 Flandre)",
+      "subtitles.ffxiv.outoftime": "Final Fantasy XIV - Out of Time (Alexander)",
+      "item.fartsys_additions.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
+      "death.attack.woad.player": "%1$s experienced Professor\u0027s Ass.",
+      "item.fartsys_additions.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
+      "item.fartsys_additions.smash_pixels_of_glory": "Smash - Pixels of Glory",
+      "item.fartsys_additions.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
+      "item.fartsys_additions.shart_one": "Micro Shart",
+      "item.fartsys_additions.ffxiv_woe_that_is_madness": "FFXIV - Woe That Is Madness",
+      "subtitles.ffxiv.footfalls": "Final Fantasy XIV - Footfalls (Endwalker)",
+      "subtitles.emone": "Someone just dropped TEN MILLION sharts ...",
+      "item.fartsys_additions.shart_thousand": "Kilo-shart",
+      "item.fartsys_additions.ffxiv_exponential_entropy.desc": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
+      "item.fartsys_additions.ffxiv_primals_locus": "FFXIV - The Primals - Locus",
+      "item.fartsys_additions.ffxiv_footfalls": "FFXIV - Footfalls",
+      "item.fartsys_additions.touhou_project_nuclear_fusion.desc": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
+      "subtitles.ffxiv.closeinthedistance": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
+      "item.fartsys_additions.xbc_you_will_know_our_names": "XBC - You Will Know Our Names",
+      "item.fartsys_additions.ffxiv_landslide.desc": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
+      "item.fartsys_additions.ffxiv_shadowbringers": "FFXIV - Shadowbringers",
+      "item.fartsys_additions.xbc_2_battle.desc": "Xenoblade Chronicles 2 - Battle!!",
+      "item.fartsys_additions.ffxiv_agent_of_inquiry": "FFXIV - Agent Of Inquiry",
+      "item.fartsys_additions.ngea_cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
+      "subtitles.ffxiv.brutejusticemode": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
+      "item.fartsys_additions.demetori_worlds_end.desc": "Demetori - World\u0027s End",
+      "item.fartsys_additions.shart_ten_thousand": "Ten Kilo-Sharts",
+      "subtitles.xc2.battle": "Xenoblade Chronicles 2 - Battle!!",
+      "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
+      "subtitles.ffxiv.silentregardofstars": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
+      "item.fartsys_additions.ffxiv_primals_locus.desc": "Final Fantasy XIV - The Primals - Locus",
+      "item.fartsys_additions.slipknot_psychosocial.desc": "Slipknot - Psychosocial",
+      "item.fartsys_additions.dmc_5_devil_trigger": "DMC 5 - Devil Trigger",
+      "item.fartsys_additions.ffxiv_primals_exponential_entropy.desc": "Final Fantasy XIV - The Primals - Exponential Entropy",
+      "item.fartsys_additions.ffxiv_under_the_weight": "FFXIV - Under The Weight",
+      "subtitles.touhou.badapple": "Touhou Project - Bad Apple (nomico)",
+      "subtitles.ffxiv.agentofinquiry": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
+      "subtitles.ffxiv.metal": "Final Fantasy XIV - Metal (Alexander)",
+      "item.fartsys_additions.touhou_project_cosmic_mind.desc": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren",
+      "item.fartsys_additions.ffxiv_brute_justice.desc": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
+      "subtitles.ffxiv.shadowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
+      "item.fartsys_additions.ffxiv_out_of_time.desc": "Final Fantasy XIV - Out of Time (Alexander)",
+      "item.fartsys_additions.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
+      "item.fartsys_additions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "subtitles.touhou.necrofantasia": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
+      "block.fartsys_additions.rock_salt": "Rock Salt",
+      "subtitles.touhou.cosmicmind": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren)",
+      "subtitles.xc.youwillknowournames": "Xenoblade Chronicles -  You Will Know Our Names",
+      "item.fartsys_additions.dmc_5_silver_bullet.desc": "Devil May Cry 5 - Silver Bullet (Final Boss)",
+      "item.fartsys_additions.ffxiv_metal.desc": "Final Fantasy XIV - Metal (Alexander)",
+      "item.fartsys_additions.bag_o_rock_salt": "Bag O Rock Salt",
+      "subtitles.dmc5.deviltrigger": "Devil May Cry 5 - Devil Trigger (Nero)",
+      "item.fartsys_additions.ffxiv_primals_brute_justice": "FFXIV - The Primals - Metal: Brute Justice Mode",
+      "item.fartsys_additions.ffxiv_infinity": "FFXIV - Infinity",
+      "item.fartsys_additions.xbc_2_battle": "XBC 2 - Battle",
+      "item.fartsys_additions.ffxiv_penitus.desc": "The Praetorium Theme",
+      "item.fartsys_additions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
+      "item.fartsys_additions.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
+      "subtitles.kbr.dededestroyerz": "Kirby Battle Royale - De De Destroyer Z",
+      "subtitles.ffxiv.woethatismadness": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
+      "item.fartsys_additions.ffxiv_primals_exponential_entropy": "FFXIV - The Primals - Exponential Entropy",
+      "item.fartsys_additions.touhou_project_necrofantasia.desc": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
+      "item.fartsys_additions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
+      "subtitles.ffxiv.locus": "Final Fantasy XIV - Locus (Alexander)",
+      "subtitles.ffxiv.landslide": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
+      "item.fartsys_additions.test.desc": "test",
+      "item.fartsys_additions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
+      "item.fartsys_additions.debug_item": "Debug Item",
+      "item.fartsys_additions.shart_ten": "Mini Shart",
+      "item.fartsys_additions.ffxiv_out_of_time": "FFXIV - Out Of Time",
+      "item.fartsys_additions.dmc_5_bury_the_light_mission_20.desc": "Devil May Cry 5 - Bury The Light (Mission 20 Vergil)",
+      "item.fartsys_additions.dmc_5_devil_trigger.desc": "Devil May Cry 5 - Devil Trigger (Nero)",
+      "subtitles.ffxiv.battleonthebigbridge": "Final Fantasy XIV - Battle on the Big Bridge (Gilgamesh)",
+      "item.fartsys_additions.ffxiv_close_in_the_distance": "FFXIV - Close In The Distance",
+      "death.attack.selfdesharted": "%1$s self-desharted!",
+      "subtitles.ffxiv.penitus": "Final Fantasy XIV - Penitus (Praetorium)",
+      "subtitles.ffxiv.primals.brutejusticemode": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
+      "item.fartsys_additions.ffxiv_locus": "FFXIV - Locus",
+      "death.attack.selfdesharted.player": "%1$s self-desharted!",
+      "item.fartsys_additions.demetori_worlds_end": "Demetori - World\u0027s End",
+      "item.fartsys_additions.ffxiv_infinity.desc": "Final Fantasy XIV - Infinity (Zurvan)",
+      "subtitles.dmc5.burythelightmission20": "Devil May Cry 5 - Bury The Light (Mission 20, Vergil)",
+      "item.fartsys_additions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
+      "subtitles.demetori.worldsend": "Demetori - World\u0027s End",
+      "item.fartsys_additions.test": "Test",
+      "item.fartsys_additions.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
+      "item.fartsys_additions.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
+      "subtitles.ffxiv.primals.exponentialentropy": "Final Fantasy XIV - The Primals - Exponential Entropy",
+      "item.fartsys_additions.touhou_project_nuclear_fusion": "Touhou Project - Nuclear Fusion",
+      "item.fartsys_additions.ffxiv_silent_regard_of_stars.desc": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
+      "item.fartsys_additions.shart_hundred_thousand": "100 Kilo-Sharts",
+      "item.fartsys_additions.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode",
+      "item.fartsys_additions.slipknot_psychosocial": "Slipknot - Psychosocial",
+      "item.fartsys_additions.ffxiv_silent_regard_of_stars": "FFXIV - The Silent Regard Of Stars",
+      "item.fartsys_additions.touhou_project_bad_apple": "Touhou Project - Bad Apple",
+      "item.fartsys_additions.ffxiv_battle_on_the_big_bridge.desc": "FFXIV - Battle on the Big Bridge (Gilgamesh Theme)",
+      "item.fartsys_additions.shart_million": "Mega-Shart",
+      "subtitles.ffxiv.exponentialentropy": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
+      "subtitles.ffxiv.undertheweight": "Final Fantasy XIV - Under the Weight (Titan)",
+      "subtitles.ffxiv.lunarwhale": "Final Fantasy XIV - Lunar Whale",
+      "item.fartsys_additions.ffxiv_close_in_the_distance.desc": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
+      "item.fartsys_additions.ffxiv_footfalls.desc": "Final Fantasy XIV - Footfalls (Endwalker)"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Music",
+        "children": []
+      },
+      {
+        "name": "Paintings",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "fartsys_additions",
+    "modName": "Fartsy\u0027s Additions",
+    "version": "1.0.0",
+    "author": "profe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "com.firehostredux.fartsysadditions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

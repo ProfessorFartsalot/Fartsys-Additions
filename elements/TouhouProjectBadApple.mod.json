@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc05",
+    "name": "Touhou Project - Bad Apple",
+    "description": "Touhou Project - Bad Apple (nomico)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:touhou.badapple"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

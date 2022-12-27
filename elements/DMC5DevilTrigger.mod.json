@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0a",
+    "name": "DMC 5 - Devil Trigger",
+    "description": "Devil May Cry 5 - Devil Trigger (Nero)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:dmc5.deviltrigger"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

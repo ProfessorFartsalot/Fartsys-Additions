@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc07",
+    "name": "FFXIV - Out Of Time",
+    "description": "Final Fantasy XIV - Out of Time (Alexander)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.outoftime"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

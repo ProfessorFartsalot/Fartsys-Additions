@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0a",
+    "name": "FFXIV - Infinity",
+    "description": "Final Fantasy XIV - Infinity (Zurvan)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.infinity"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

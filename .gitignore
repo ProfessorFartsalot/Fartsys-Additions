@@ -1,0 +1,5 @@
+
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+*.lock
+build/reobfJar/output.jar
+build/libs/modid-1.0.jar

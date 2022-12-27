@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc05",
+    "name": "Demetori - Oriental Dark Flight",
+    "description": "Demetori - Oriental Dark Flight",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:demetori.orientaldarkflight"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

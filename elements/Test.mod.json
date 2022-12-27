@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc09",
+    "name": "Test",
+    "description": "test",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.penitus"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

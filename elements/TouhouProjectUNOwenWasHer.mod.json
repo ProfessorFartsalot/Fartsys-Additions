@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0a",
+    "name": "Touhou Project - U.N. Owen Was Her?",
+    "description": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:touhou.unowenwasher"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc03",
+    "name": "Touhou Project - Nuclear Fusion",
+    "description": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:touhou.nuclearfusion"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}
