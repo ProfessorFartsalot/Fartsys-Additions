@@ -96,6 +96,7 @@ public class FartsysAdditionsModSounds {
 				new SoundEvent(new ResourceLocation("fartsys_additions", "kbr.dededestroyerz")));
 		REGISTRY.put(new ResourceLocation("fartsys_additions", "smash.pixelsofglory"),
 				new SoundEvent(new ResourceLocation("fartsys_additions", "smash.pixelsofglory")));
+		REGISTRY.put(new ResourceLocation("fartsys_additions", "emone"), new SoundEvent(new ResourceLocation("fartsys_additions", "emone")));
 	}
 
 	@SubscribeEvent

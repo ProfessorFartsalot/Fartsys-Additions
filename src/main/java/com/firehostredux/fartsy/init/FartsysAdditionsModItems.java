@@ -15,6 +15,7 @@ import net.minecraft.world.item.BlockItem;
 
 import com.firehostredux.fartsy.item.XBCYouWillKnowOurNamesItem;
 import com.firehostredux.fartsy.item.XBC2BattleItem;
+import com.firehostredux.fartsy.item.WaffleOfAssDestructionItem;
 import com.firehostredux.fartsy.item.TouhouProjectUNOwenWasHerItem;
 import com.firehostredux.fartsy.item.TouhouProjectNuclearFusionItem;
 import com.firehostredux.fartsy.item.TouhouProjectNecrofantasiaItem;
@@ -26,6 +27,7 @@ import com.firehostredux.fartsy.item.ShartThousandItem;
 import com.firehostredux.fartsy.item.ShartTenThousandItem;
 import com.firehostredux.fartsy.item.ShartTenMillionItem;
 import com.firehostredux.fartsy.item.ShartTenItem;
+import com.firehostredux.fartsy.item.ShartSpecialItem;
 import com.firehostredux.fartsy.item.ShartOneItem;
 import com.firehostredux.fartsy.item.ShartMillionItem;
 import com.firehostredux.fartsy.item.ShartHundredThousandItem;
@@ -61,6 +63,7 @@ import com.firehostredux.fartsy.item.DebugItemItem;
 import com.firehostredux.fartsy.item.DMC5SilverBulletItem;
 import com.firehostredux.fartsy.item.DMC5DevilTriggerItem;
 import com.firehostredux.fartsy.item.DMC5BuryTheLightMission20Item;
+import com.firehostredux.fartsy.item.BagORockSaltItem;
 import com.firehostredux.fartsy.FartsysAdditionsMod;
 
 public class FartsysAdditionsModItems {
@@ -136,6 +139,10 @@ public class FartsysAdditionsModItems {
 			() -> new KirbyBattleRoyaleDededestroyerZItem());
 	public static final RegistryObject<Item> SMASH_PIXELS_OF_GLORY = REGISTRY.register("smash_pixels_of_glory", () -> new SmashPixelsOfGloryItem());
 	public static final RegistryObject<Item> ROCK_SALT = block(FartsysAdditionsModBlocks.ROCK_SALT, FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS);
+	public static final RegistryObject<Item> WAFFLE_OF_ASS_DESTRUCTION = REGISTRY.register("waffle_of_ass_destruction",
+			() -> new WaffleOfAssDestructionItem());
+	public static final RegistryObject<Item> SHART_SPECIAL = REGISTRY.register("shart_special", () -> new ShartSpecialItem());
+	public static final RegistryObject<Item> BAG_O_ROCK_SALT = REGISTRY.register("bag_o_rock_salt", () -> new BagORockSaltItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

@@ -6,3 +6,4 @@ build/reobfJar/output.jar
 run/*.*
 run/usercache.json
 run/logs/debug.log
+*.log

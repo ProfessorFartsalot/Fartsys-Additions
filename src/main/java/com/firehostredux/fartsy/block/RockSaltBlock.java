@@ -4,6 +4,8 @@ package com.firehostredux.fartsy.block;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
+import net.minecraft.world.phys.shapes.VoxelShape;
+import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.level.storage.loot.LootContext;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.block.state.BlockState;
@@ -39,6 +41,12 @@ public class RockSaltBlock extends Block {
 	}
 
 	@Override
+	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
+
+		return box(0, 0, 0, 16, 1, 16);
+	}
+
+	@Override
 	public boolean canBeReplaced(BlockState state, BlockPlaceContext context) {
 		return context.getItemInHand().getItem() != this.asItem();
 	}
@@ -53,6 +61,7 @@ public class RockSaltBlock extends Block {
 
 	@OnlyIn(Dist.CLIENT)
 	public static void registerRenderLayer() {
-		ItemBlockRenderTypes.setRenderLayer(FartsysAdditionsModBlocks.ROCK_SALT.get(), renderType -> renderType == RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(FartsysAdditionsModBlocks.ROCK_SALT.get(), renderType -> renderType == RenderType.translucent());
 	}
+
 }

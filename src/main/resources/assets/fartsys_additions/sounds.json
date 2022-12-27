@@ -388,5 +388,15 @@
         "stream": true
       }
     ]
+  },
+  "emone": {
+    "category": "record",
+    "subtitle": "subtitles.emone",
+    "sounds": [
+      {
+        "name": "fartsys_additions:dosh",
+        "stream": true
+      }
+    ]
   }
 }

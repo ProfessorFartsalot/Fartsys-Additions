@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "fartsysadditions",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      },
+      {
+        "value": "CUSTOM:ShartSpecial"
+      },
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      },
+      {
+        "value": "CUSTOM:ShartSpecial"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:ShartSpecial"
+      },
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      },
+      {
+        "value": "CUSTOM:ShartSpecial"
+      },
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WaffleOfAssDestruction"
+    },
+    "name": "rec_waffle_of_ass_dest",
+    "namespace": "mod"
+  }
+}
