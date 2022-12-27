@@ -2860,6 +2860,24 @@
       "locked_code": false,
       "registry_name": "self_deshart_02",
       "path": "~/Paintings"
+    },
+    {
+      "name": "SelfDeshart03",
+      "type": "painting",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "self_deshart_03",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "SelfDesharted04",
+      "type": "painting",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "self_desharted_04",
+      "path": "~/Paintings"
     }
   ],
   "variable_elements": [],
@@ -3183,6 +3201,14 @@
       ],
       "category": "record",
       "subtitle": "Someone did a goof..."
+    },
+    {
+      "name": "woad",
+      "files": [
+        "woad"
+      ],
+      "category": "neutral",
+      "subtitle": "OH NO.... Somebody just CONSUMED a Waffle of Ass Destruction!!!"
     }
   ],
   "language_map": {
@@ -3291,6 +3317,7 @@
       "item.fartsys_additions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
       "subtitles.ffxiv.locus": "Final Fantasy XIV - Locus (Alexander)",
       "subtitles.ffxiv.landslide": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
+      "subtitles.woad": "OH NO.... Somebody just CONSUMED a Waffle of Ass Destruction!!!",
       "item.fartsys_additions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
       "item.fartsys_additions.debug_item": "Debug Item",
       "item.fartsys_additions.shart_ten": "Mini Shart",

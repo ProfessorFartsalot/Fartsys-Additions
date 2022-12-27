@@ -53,7 +53,7 @@ public class WaffleOfAssDestructionFoodEatenProcedure {
 			((LivingEntity) entity).attackEntityFrom(new DamageSource("woad").setDamageBypassesArmor(), (float) 100000);
 		}
 		if (world instanceof World && !((World) world).isRemote) {
-			((World) world).createExplosion(null, (int) x, (int) y, (int) z, (float) 50, Explosion.Mode.DESTROY);
+			((World) world).createExplosion(null, (int) x, (int) y, (int) z, (float) 250, Explosion.Mode.DESTROY);
 		}
 		if (world instanceof ServerWorld) {
 			LightningBoltEntity _ent = EntityType.LIGHTNING_BOLT.create((World) world);

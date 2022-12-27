@@ -126,6 +126,8 @@ public class FartsysAdditionsModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "smash.pixelsofglory")));
 		sounds.put(new ResourceLocation("fartsys_additions", "emone"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "emone")));
+		sounds.put(new ResourceLocation("fartsys_additions", "woad"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "woad")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("fartsys_additions").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();
