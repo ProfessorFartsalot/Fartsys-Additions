@@ -3220,6 +3220,14 @@
       ],
       "category": "record",
       "subtitle": "Someone did a goof..."
+    },
+    {
+      "name": "woad",
+      "files": [
+        "woad"
+      ],
+      "category": "master",
+      "subtitle": "Oh no, someone just CONSUMED a WAFFLE OF ASS DESTRUCTION!!!"
     }
   ],
   "language_map": {
@@ -3274,7 +3282,7 @@
       "item.fartsys_additions.shart_one": "Micro Shart",
       "item.fartsys_additions.ffxiv_woe_that_is_madness": "FFXIV - Woe That Is Madness",
       "subtitles.ffxiv.footfalls": "Final Fantasy XIV - Footfalls (Endwalker)",
-      "subtitles.emone": "Someone just dropped TEN MILLION sharts ...",
+      "subtitles.emone": "Somebody just dropped TEN MILLION sharts!!!",
       "item.fartsys_additions.shart_thousand": "Kilo-shart",
       "item.fartsys_additions.ffxiv_exponential_entropy.desc": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
       "item.fartsys_additions.ffxiv_primals_locus": "FFXIV - The Primals - Locus",
@@ -3328,6 +3336,7 @@
       "item.fartsys_additions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
       "subtitles.ffxiv.locus": "Final Fantasy XIV - Locus (Alexander)",
       "subtitles.ffxiv.landslide": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
+      "subtitles.woad": "Oh no, someone just CONSUMED a WAFFLE OF ASS DESTRUCTION!!!",
       "item.fartsys_additions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
       "item.fartsys_additions.debug_item": "Debug Item",
       "item.fartsys_additions.shart_ten": "Mini Shart",
@@ -3393,7 +3402,7 @@
   "workspaceSettings": {
     "modid": "fartsys_additions",
     "modName": "Fartsy\u0027s Additions",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Add niche stuff to Minecraft with this stinky mod!",
     "author": "ProfessorFartsalot",
     "websiteURL": "https://forums.firehostredux.com",
@@ -3406,6 +3415,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "com.firehostredux.fartsy",
     "lockBaseModFiles": false
   },

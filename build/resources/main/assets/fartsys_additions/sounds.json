@@ -398,5 +398,15 @@
         "stream": true
       }
     ]
+  },
+  "woad": {
+    "category": "master",
+    "subtitle": "subtitles.woad",
+    "sounds": [
+      {
+        "name": "fartsys_additions:woad",
+        "stream": false
+      }
+    ]
   }
 }
