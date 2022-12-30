@@ -1,14 +1,18 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="Academic Free License v3.0"
+license="Custom license"
 
 [[mods]]
 modId="fartsys_additions"
-version="1.0.0"
+version="1.0.2"
 displayName="Fartsy's Additions"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="profe, MCreator"
+displayURL="https://forums.firehostredux.com"
+logoFile="logo.png"
+authors="ProfessorFartsalot"
+description='''
+Add niche stuff to Minecraft with this stinky mod!
+'''
 
 [[dependencies.fartsys_additions]]
     modId="minecraft"

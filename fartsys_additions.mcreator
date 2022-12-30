@@ -2843,6 +2843,60 @@
       "locked_code": false,
       "registry_name": "butt_fun_02",
       "path": "~/Paintings"
+    },
+    {
+      "name": "Wat06",
+      "type": "painting",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_06",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat07",
+      "type": "painting",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_07",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat08",
+      "type": "painting",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_08",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat09",
+      "type": "painting",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_09",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat0a",
+      "type": "painting",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_0a",
+      "path": "~/Paintings"
+    },
+    {
+      "name": "Wat0b",
+      "type": "painting",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wat_0b",
+      "path": "~/Paintings"
     }
   ],
   "variable_elements": [],
@@ -3339,12 +3393,14 @@
   "workspaceSettings": {
     "modid": "fartsys_additions",
     "modName": "Fartsy\u0027s Additions",
-    "version": "1.0.0",
-    "author": "profe, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1.0.2",
+    "description": "Add niche stuff to Minecraft with this stinky mod!",
+    "author": "ProfessorFartsalot",
+    "websiteURL": "https://forums.firehostredux.com",
+    "license": "Custom license",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "professor",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],

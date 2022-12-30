@@ -256,5 +256,11 @@ public class FartsysAdditionsModPaintings {
 		event.getRegistry().register(new Motive(32, 16).setRegistryName("dok_01"));
 		event.getRegistry().register(new Motive(16, 16).setRegistryName("butt_fun_01"));
 		event.getRegistry().register(new Motive(32, 32).setRegistryName("butt_fun_02"));
+		event.getRegistry().register(new Motive(64, 16).setRegistryName("wat_06"));
+		event.getRegistry().register(new Motive(48, 16).setRegistryName("wat_07"));
+		event.getRegistry().register(new Motive(16, 16).setRegistryName("wat_08"));
+		event.getRegistry().register(new Motive(32, 32).setRegistryName("wat_09"));
+		event.getRegistry().register(new Motive(32, 16).setRegistryName("wat_0a"));
+		event.getRegistry().register(new Motive(64, 32).setRegistryName("wat_0b"));
 	}
 }
