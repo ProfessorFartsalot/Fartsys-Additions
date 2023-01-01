@@ -10,13 +10,13 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.resources.ResourceLocation;
 
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
-import com.firehostredux.fartsy.init.FartsysAdditionsModSounds;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModSounds;
 
 public class DMC5SilverBulletItem extends RecordItem {
 	public DMC5SilverBulletItem() {
-		super(0, FartsysAdditionsModSounds.REGISTRY.get(new ResourceLocation("fartsys_additions:dmc5.silverbullet")),
-				new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.RARE));
+		super(0, FartsysMagitekFantasyModSounds.REGISTRY.get(new ResourceLocation("fartsys_magitek_fantasy:dmc5.silverbullet")),
+				new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.RARE));
 	}
 
 	@Override

@@ -15,11 +15,11 @@ import net.minecraft.network.chat.Component;
 import java.util.List;
 
 import com.firehostredux.fartsy.procedures.DebugItemRightclickedProcedure;
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
 
 public class DebugItemItem extends Item {
 	public DebugItemItem() {
-		super(new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.EPIC));
+		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.EPIC));
 	}
 
 	@Override

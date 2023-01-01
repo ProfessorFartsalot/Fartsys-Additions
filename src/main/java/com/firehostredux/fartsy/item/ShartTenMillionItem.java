@@ -23,11 +23,11 @@ import com.google.common.collect.Multimap;
 import com.google.common.collect.ImmutableMultimap;
 
 import com.firehostredux.fartsy.procedures.ShartTenMillionItemIsDroppedByPlayerProcedure;
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
 
 public class ShartTenMillionItem extends Item {
 	public ShartTenMillionItem() {
-		super(new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).fireResistant().rarity(Rarity.EPIC));
+		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).fireResistant().rarity(Rarity.EPIC));
 	}
 
 	@Override

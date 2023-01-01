@@ -18,11 +18,11 @@ import java.util.List;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.ImmutableMultimap;
 
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
 
 public class ShartThousandItem extends Item {
 	public ShartThousandItem() {
-		super(new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override

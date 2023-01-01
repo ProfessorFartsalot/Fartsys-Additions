@@ -10,13 +10,13 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.resources.ResourceLocation;
 
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
-import com.firehostredux.fartsy.init.FartsysAdditionsModSounds;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModSounds;
 
 public class FFXIVPrimalsLocusItem extends RecordItem {
 	public FFXIVPrimalsLocusItem() {
-		super(0, FartsysAdditionsModSounds.REGISTRY.get(new ResourceLocation("fartsys_additions:ffxiv.primals.locus")),
-				new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.RARE));
+		super(0, FartsysMagitekFantasyModSounds.REGISTRY.get(new ResourceLocation("fartsys_magitek_fantasy:ffxiv.primals.locus")),
+				new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.RARE));
 	}
 
 	@Override

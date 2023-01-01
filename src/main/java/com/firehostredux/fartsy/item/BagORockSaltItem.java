@@ -14,11 +14,11 @@ import net.minecraft.network.chat.Component;
 import java.util.List;
 
 import com.firehostredux.fartsy.procedures.BagORockSaltSpawnRockSaltProcedure;
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
 
 public class BagORockSaltItem extends Item {
 	public BagORockSaltItem() {
-		super(new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).rarity(Rarity.UNCOMMON));
+		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).rarity(Rarity.UNCOMMON));
 	}
 
 	@Override

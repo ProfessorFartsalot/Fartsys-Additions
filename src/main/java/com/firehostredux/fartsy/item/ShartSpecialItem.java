@@ -19,11 +19,11 @@ import java.util.List;
 
 import com.firehostredux.fartsy.procedures.ShartSpecialLivingEntityIsHitWithItemProcedure;
 import com.firehostredux.fartsy.procedures.ShartSpecialFoodEatenProcedure;
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
 
 public class ShartSpecialItem extends Item {
 	public ShartSpecialItem() {
-		super(new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).rarity(Rarity.RARE)
+		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(64).rarity(Rarity.RARE)
 				.food((new FoodProperties.Builder()).nutrition(50).saturationMod(50f).alwaysEat()
 
 						.build()));

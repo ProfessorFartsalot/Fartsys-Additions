@@ -22,7 +22,7 @@ import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import java.util.List;
 import java.util.Collections;
 
-import com.firehostredux.fartsy.init.FartsysAdditionsModBlocks;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModBlocks;
 
 public class RockSaltBlock extends Block {
 	public RockSaltBlock() {
@@ -61,7 +61,7 @@ public class RockSaltBlock extends Block {
 
 	@OnlyIn(Dist.CLIENT)
 	public static void registerRenderLayer() {
-		ItemBlockRenderTypes.setRenderLayer(FartsysAdditionsModBlocks.ROCK_SALT.get(), renderType -> renderType == RenderType.translucent());
+		ItemBlockRenderTypes.setRenderLayer(FartsysMagitekFantasyModBlocks.ROCK_SALT.get(), renderType -> renderType == RenderType.translucent());
 	}
 
 }

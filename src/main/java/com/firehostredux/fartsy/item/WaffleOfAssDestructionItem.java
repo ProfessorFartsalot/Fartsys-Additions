@@ -18,11 +18,11 @@ import net.minecraft.network.chat.Component;
 import java.util.List;
 
 import com.firehostredux.fartsy.procedures.WaffleOfAssDestructionFoodEatenProcedure;
-import com.firehostredux.fartsy.init.FartsysAdditionsModTabs;
+import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
 
 public class WaffleOfAssDestructionItem extends Item {
 	public WaffleOfAssDestructionItem() {
-		super(new Item.Properties().tab(FartsysAdditionsModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.EPIC)
+		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.EPIC)
 				.food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.3f).alwaysEat()
 
 						.build()));
