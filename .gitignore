@@ -7,3 +7,4 @@ run/*.*
 run/usercache.json
 run/logs/debug.log
 *.log
+.gradle/7.3/checksums/sha1-checksums.bin
