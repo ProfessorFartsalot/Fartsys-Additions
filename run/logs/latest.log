@@ -28,3 +28,81 @@
 [02Jan2023 09:38:55.732] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 16384x8192x0 minecraft:textures/atlas/paintings.png-atlas
 [02Jan2023 09:38:56.456] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
 [02Jan2023 09:38:56.932] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[02Jan2023 09:39:20.252] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_penitus Expected: 1159 Got: 1101
+[02Jan2023 09:39:20.252] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_battle_on_the_big_bridge Expected: 1160 Got: 1106
+[02Jan2023 09:39:20.252] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_agent_of_inquiry Expected: 1161 Got: 1107
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_a_land_long_dead Expected: 1162 Got: 1108
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_brute_justice Expected: 1163 Got: 1109
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_primals_brute_justice Expected: 1164 Got: 1110
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_close_in_the_distance Expected: 1165 Got: 1111
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_exponential_entropy Expected: 1166 Got: 1112
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_primals_exponential_entropy Expected: 1167 Got: 1113
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_footfalls Expected: 1168 Got: 1114
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_infinity Expected: 1169 Got: 1115
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_knowledge_never_sleeps Expected: 1170 Got: 1116
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_landslide Expected: 1171 Got: 1117
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_locus Expected: 1172 Got: 1118
+[02Jan2023 09:39:20.253] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_primals_locus Expected: 1173 Got: 1119
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_lunar_whale Expected: 1174 Got: 1120
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_metal Expected: 1175 Got: 1121
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_out_of_time Expected: 1176 Got: 1122
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_shadowbringers Expected: 1177 Got: 1123
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_silent_regard_of_stars Expected: 1178 Got: 1124
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_under_the_weight Expected: 1179 Got: 1125
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_woe_that_is_madness Expected: 1180 Got: 1126
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_to_the_edge Expected: 1181 Got: 1127
+[02Jan2023 09:39:20.254] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: fartsys_magitek_fantasy:faded_insatiable Expected: 1182 Got: 1128
+[02Jan2023 09:39:21.413] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Jan2023 09:39:21.414] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Jan2023 09:39:21.417] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Jan2023 09:39:21.419] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Jan2023 09:39:21.419] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Jan2023 09:39:23.006] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Jan2023 09:39:24.140] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1141 advancements
+[02Jan2023 09:39:24.447] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jan2023 09:39:24.478] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.18.2
+[02Jan2023 09:39:24.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jan2023 09:39:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Jan2023 09:39:25.329] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2023 09:39:25.409] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2023 09:39:25.761] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2023 09:39:26.256] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2023 09:39:26.767] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[02Jan2023 09:39:27.290] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[02Jan2023 09:39:27.527] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jan2023 09:39:27.542] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2796 ms
+[02Jan2023 09:39:27.603] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 5, from 10
+[02Jan2023 09:39:27.606] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[02Jan2023 09:39:28.793] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[02Jan2023 09:39:28.834] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8322118
+[02Jan2023 09:39:28.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:8335fa8b] logged in with entity id 43 at (931.6999999880791, -18.122491677343845, 978.167647570448)
+[02Jan2023 09:39:28.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[02Jan2023 09:39:29.521] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 62 advancements
+[02Jan2023 09:39:31.128] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[02Jan2023 09:39:31.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[02Jan2023 09:39:31.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[02Jan2023 09:39:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[02Jan2023 09:39:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Teleported Dev to 20000.500000, 10.000000, 20000.500000]
+[02Jan2023 09:39:42.955] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Teleported Dev to 20000.500000, 10.000000, 20000.500000
+[02Jan2023 09:39:43.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[02Jan2023 09:39:47.112] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] The nearest minecraft:mineshaft is at [20048, ~, 19936] (80 blocks away)
+[02Jan2023 09:39:52.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Teleported Dev to 20048.500000, 10.000000, 19936.500000]
+[02Jan2023 09:39:52.017] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Teleported Dev to 20048.500000, 10.000000, 19936.500000
+[02Jan2023 09:39:56.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[02Jan2023 09:39:56.252] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Spectator Mode
+[02Jan2023 09:40:04.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[02Jan2023 09:40:04.211] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Creative Mode
+[02Jan2023 09:40:34.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[02Jan2023 09:40:34.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Spectator Mode
+[02Jan2023 09:40:56.986] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 62 advancements
+[02Jan2023 09:41:08.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[02Jan2023 09:41:08.076] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Creative Mode
+[02Jan2023 09:41:34.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[02Jan2023 09:41:34.705] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Spectator Mode
+[02Jan2023 09:42:16.987] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 62 advancements
+[02Jan2023 09:42:51.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[02Jan2023 09:42:51.693] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Creative Mode
+[02Jan2023 09:44:58.130] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[02Jan2023 09:44:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[02Jan2023 09:44:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[02Jan2023 09:44:58.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end

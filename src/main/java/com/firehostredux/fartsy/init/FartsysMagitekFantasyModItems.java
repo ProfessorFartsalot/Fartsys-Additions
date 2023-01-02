@@ -33,7 +33,17 @@ import com.firehostredux.fartsy.item.ShartOneItem;
 import com.firehostredux.fartsy.item.ShartMillionItem;
 import com.firehostredux.fartsy.item.ShartHundredThousandItem;
 import com.firehostredux.fartsy.item.ShartHundredItem;
+import com.firehostredux.fartsy.item.RestoredPrimalsExponentialEntropyItem;
+import com.firehostredux.fartsy.item.RestoredPrimalsBruteJusticeItem;
+import com.firehostredux.fartsy.item.RestoredPenitusItem;
+import com.firehostredux.fartsy.item.RestoredExponentialEntropyItem;
+import com.firehostredux.fartsy.item.RestoredCloseInTheDistanceItem;
+import com.firehostredux.fartsy.item.RestoredBruteJusticeItem;
+import com.firehostredux.fartsy.item.RestoredBattleOnTheBigBridgeItem;
+import com.firehostredux.fartsy.item.RestoredAgentOfInquiryItem;
 import com.firehostredux.fartsy.item.RestoredAetherCrystalItem;
+import com.firehostredux.fartsy.item.RestoredALandLongDeadItem;
+import com.firehostredux.fartsy.item.ResonantAetherItem;
 import com.firehostredux.fartsy.item.PVCPlasticItem;
 import com.firehostredux.fartsy.item.NGEACruelAngelsThesisItem;
 import com.firehostredux.fartsy.item.MagitekMusicPressItem;
@@ -216,6 +226,24 @@ public class FartsysMagitekFantasyModItems {
 			() -> new FadedWoeThatIsMadnessItem());
 	public static final RegistryObject<Item> FADED_TO_THE_EDGE = REGISTRY.register("faded_to_the_edge", () -> new FadedToTheEdgeItem());
 	public static final RegistryObject<Item> FADED_INSATIABLE = REGISTRY.register("faded_insatiable", () -> new FadedInsatiableItem());
+	public static final RegistryObject<Item> RESTORED_PENITUS = REGISTRY.register("restored_penitus", () -> new RestoredPenitusItem());
+	public static final RegistryObject<Item> RESONANT_AETHER = REGISTRY.register("resonant_aether", () -> new ResonantAetherItem());
+	public static final RegistryObject<Item> RESTORED_BATTLE_ON_THE_BIG_BRIDGE = REGISTRY.register("restored_battle_on_the_big_bridge",
+			() -> new RestoredBattleOnTheBigBridgeItem());
+	public static final RegistryObject<Item> RESTORED_AGENT_OF_INQUIRY = REGISTRY.register("restored_agent_of_inquiry",
+			() -> new RestoredAgentOfInquiryItem());
+	public static final RegistryObject<Item> RESTORED_A_LAND_LONG_DEAD = REGISTRY.register("restored_a_land_long_dead",
+			() -> new RestoredALandLongDeadItem());
+	public static final RegistryObject<Item> RESTORED_BRUTE_JUSTICE = REGISTRY.register("restored_brute_justice",
+			() -> new RestoredBruteJusticeItem());
+	public static final RegistryObject<Item> RESTORED_PRIMALS_BRUTE_JUSTICE = REGISTRY.register("restored_primals_brute_justice",
+			() -> new RestoredPrimalsBruteJusticeItem());
+	public static final RegistryObject<Item> RESTORED_CLOSE_IN_THE_DISTANCE = REGISTRY.register("restored_close_in_the_distance",
+			() -> new RestoredCloseInTheDistanceItem());
+	public static final RegistryObject<Item> RESTORED_EXPONENTIAL_ENTROPY = REGISTRY.register("restored_exponential_entropy",
+			() -> new RestoredExponentialEntropyItem());
+	public static final RegistryObject<Item> RESTORED_PRIMALS_EXPONENTIAL_ENTROPY = REGISTRY.register("restored_primals_exponential_entropy",
+			() -> new RestoredPrimalsExponentialEntropyItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

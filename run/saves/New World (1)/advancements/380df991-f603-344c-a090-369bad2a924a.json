@@ -150,11 +150,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2022-12-30 05:27:00 -0500",
+      "minecraft:dark_forest": "2023-01-02 09:42:16 -0500",
       "minecraft:sparse_jungle": "2023-01-02 06:09:57 -0500",
       "minecraft:river": "2023-01-02 06:09:33 -0500",
       "minecraft:lush_caves": "2022-12-30 05:30:16 -0500",
       "minecraft:desert": "2022-12-30 05:27:29 -0500",
-      "minecraft:warm_ocean": "2022-12-30 05:28:10 -0500"
+      "minecraft:warm_ocean": "2022-12-30 05:28:10 -0500",
+      "minecraft:old_growth_birch_forest": "2023-01-02 09:40:56 -0500"
     },
     "done": false
   },
