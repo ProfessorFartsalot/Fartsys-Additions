@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsys_magitek_fantasy:magitek_music_press"
+    },
+    {
+      "item": "fartsys_magitek_fantasy:pvc_dust"
+    }
+  ],
+  "result": {
+    "item": "fartsys_magitek_fantasy:blank_music_disc",
+    "count": 1
+  }
+}

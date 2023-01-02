@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - Insatiable",
+    "texture": "disc02",
+    "description": "Final Fantasy XIV - Insatiable",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ffxiv.insatiable"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -15,7 +15,7 @@ import com.firehostredux.fartsy.init.FartsysMagitekFantasyModTabs;
 
 public class ResonantAetherItem extends Item {
 	public ResonantAetherItem() {
-		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.RARE));
+		super(new Item.Properties().tab(FartsysMagitekFantasyModTabs.TAB_FARTSYS_ADDITIONS).stacksTo(1).rarity(Rarity.EPIC));
 	}
 
 	@Override

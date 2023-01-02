@@ -408,5 +408,35 @@
         "stream": false
       }
     ]
+  },
+  "ffxiv.insatiable": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.insatiable",
+    "sounds": [
+      {
+        "name": "fartsys_magitek_fantasy:insatiable",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.silentscream": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.silentscream",
+    "sounds": [
+      {
+        "name": "fartsys_magitek_fantasy:silentscream",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.totheedge": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.totheedge",
+    "sounds": [
+      {
+        "name": "fartsys_magitek_fantasy:totheedge",
+        "stream": true
+      }
+    ]
   }
 }

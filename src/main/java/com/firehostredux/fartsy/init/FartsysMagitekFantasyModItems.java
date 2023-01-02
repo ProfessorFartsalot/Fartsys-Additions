@@ -91,6 +91,8 @@ import com.firehostredux.fartsy.item.FadedAgentOfInquiryItem;
 import com.firehostredux.fartsy.item.FadedALandLongDeadItem;
 import com.firehostredux.fartsy.item.FFXIVWoeThatIsMadnessItem;
 import com.firehostredux.fartsy.item.FFXIVUnderTheWeightItem;
+import com.firehostredux.fartsy.item.FFXIVToTheEdgeItem;
+import com.firehostredux.fartsy.item.FFXIVSilentScreamItem;
 import com.firehostredux.fartsy.item.FFXIVSilentRegardOfStarsItem;
 import com.firehostredux.fartsy.item.FFXIVShadowbringersItem;
 import com.firehostredux.fartsy.item.FFXIVPrimalsLocusItem;
@@ -103,6 +105,7 @@ import com.firehostredux.fartsy.item.FFXIVLunarWhaleItem;
 import com.firehostredux.fartsy.item.FFXIVLocusItem;
 import com.firehostredux.fartsy.item.FFXIVLandslideItem;
 import com.firehostredux.fartsy.item.FFXIVKnowledgeNeverSleepsItem;
+import com.firehostredux.fartsy.item.FFXIVInsatiableItem;
 import com.firehostredux.fartsy.item.FFXIVInfinityItem;
 import com.firehostredux.fartsy.item.FFXIVFootfallsItem;
 import com.firehostredux.fartsy.item.FFXIVExponentialEntropyItem;
@@ -285,6 +288,9 @@ public class FartsysMagitekFantasyModItems {
 	public static final RegistryObject<Item> FADED_SILENT_SCREAM = REGISTRY.register("faded_silent_scream", () -> new FadedSilentScreamItem());
 	public static final RegistryObject<Item> RESTORED_SILENT_SCREAM = REGISTRY.register("restored_silent_scream",
 			() -> new RestoredSilentScreamItem());
+	public static final RegistryObject<Item> FFXIV_INSATIABLE = REGISTRY.register("ffxiv_insatiable", () -> new FFXIVInsatiableItem());
+	public static final RegistryObject<Item> FFXIV_SILENT_SCREAM = REGISTRY.register("ffxiv_silent_scream", () -> new FFXIVSilentScreamItem());
+	public static final RegistryObject<Item> FFXIV_TO_THE_EDGE = REGISTRY.register("ffxiv_to_the_edge", () -> new FFXIVToTheEdgeItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

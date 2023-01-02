@@ -100,6 +100,12 @@ public class FartsysMagitekFantasyModSounds {
 				new SoundEvent(new ResourceLocation("fartsys_magitek_fantasy", "emone")));
 		REGISTRY.put(new ResourceLocation("fartsys_magitek_fantasy", "woad"),
 				new SoundEvent(new ResourceLocation("fartsys_magitek_fantasy", "woad")));
+		REGISTRY.put(new ResourceLocation("fartsys_magitek_fantasy", "ffxiv.insatiable"),
+				new SoundEvent(new ResourceLocation("fartsys_magitek_fantasy", "ffxiv.insatiable")));
+		REGISTRY.put(new ResourceLocation("fartsys_magitek_fantasy", "ffxiv.silentscream"),
+				new SoundEvent(new ResourceLocation("fartsys_magitek_fantasy", "ffxiv.silentscream")));
+		REGISTRY.put(new ResourceLocation("fartsys_magitek_fantasy", "ffxiv.totheedge"),
+				new SoundEvent(new ResourceLocation("fartsys_magitek_fantasy", "ffxiv.totheedge")));
 	}
 
 	@SubscribeEvent

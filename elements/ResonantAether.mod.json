@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "resonantaether",
     "customModelName": "Normal",
     "name": "Resonant Aether",
-    "rarity": "RARE",
+    "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },

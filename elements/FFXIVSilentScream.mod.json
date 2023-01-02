@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - Silent Scream",
+    "texture": "disc04",
+    "description": "Final Fantasy XIV - Silent Scream",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ffxiv.silentscream"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}
