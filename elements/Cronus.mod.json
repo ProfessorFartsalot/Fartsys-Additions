@@ -1,0 +1,30 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "testsword",
+    "customModelName": "Normal",
+    "name": "Cronus",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "toolType": "Special",
+    "harvestLevel": 5,
+    "efficiency": 0.0,
+    "attackSpeed": 0.0,
+    "enchantability": 200,
+    "damageVsEntity": 20.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntitySwing": {
+      "name": "CronusEntitySwingsItem"
+    }
+  }
+}

@@ -2702,8 +2702,7 @@
             "type": "world"
           }
         ]
-      },
-      "path": "~/Misc"
+      }
     },
     {
       "name": "ShartSpecialFoodEaten",
@@ -2719,8 +2718,7 @@
             "type": "entity"
           }
         ]
-      },
-      "path": "~/Misc"
+      }
     },
     {
       "name": "WaffleOfAssDestruction",
@@ -2770,8 +2768,7 @@
             "type": "world"
           }
         ]
-      },
-      "path": "~/Misc"
+      }
     },
     {
       "name": "BagORockSalt",
@@ -2796,8 +2793,7 @@
             "type": "entity"
           }
         ]
-      },
-      "path": "~/Misc"
+      }
     },
     {
       "name": "RecBagORockSalt",
@@ -2955,6 +2951,445 @@
       "locked_code": false,
       "registry_name": "restored_aether_crystal",
       "path": "~/Misc"
+    },
+    {
+      "name": "RecRestoredAether",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_restored_aether",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "PVCPlastic",
+      "type": "item",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pvc_dust",
+      "path": "~/Misc"
+    },
+    {
+      "name": "RecPVCPlastic01",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_01",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic02",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_02",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic03",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_03",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic04",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_04",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic05",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_05",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic06",
+      "type": "recipe",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_06",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic07",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_07",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic08",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_08",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic09",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_09",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic0a",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_0a",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic0b",
+      "type": "recipe",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_0b",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic0c",
+      "type": "recipe",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_0c",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic0d",
+      "type": "recipe",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_0d",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic0e",
+      "type": "recipe",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_0e",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic0f",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_pvc_plastic_0f",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "MagitekMusicPress",
+      "type": "item",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magitek_music_press",
+      "path": "~/Misc"
+    },
+    {
+      "name": "RecMagitekMusicPress",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_magitek_music_press",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Cronus",
+      "type": "tool",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cronus",
+      "path": "~/Weapons"
+    },
+    {
+      "name": "CronusEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cronus_entity_swings_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Weapons"
+    },
+    {
+      "name": "BlankMusicDisc",
+      "type": "item",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blank_music_disc",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FAAbandonedMineshaftLoot",
+      "type": "loottable",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fa_abandoned_mineshaft_loot"
+    },
+    {
+      "name": "FadedPenitus",
+      "type": "item",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_penitus",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedBattleOnTheBigBridge",
+      "type": "item",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_battle_on_the_big_bridge",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedAgentOfInquiry",
+      "type": "item",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_agent_of_inquiry",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedALandLongDead",
+      "type": "item",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_a_land_long_dead",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedBruteJustice",
+      "type": "item",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_brute_justice",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedPrimalsBruteJustice",
+      "type": "item",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_primals_brute_justice",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedCloseInTheDistance",
+      "type": "item",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_close_in_the_distance",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedExponentialEntropy",
+      "type": "item",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_exponential_entropy",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedPrimalsExponentialEntropy",
+      "type": "item",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_primals_exponential_entropy",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedFootfalls",
+      "type": "item",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_footfalls",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedInfinity",
+      "type": "item",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_infinity",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedKnowledgeNeverSleeps",
+      "type": "item",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_knowledge_never_sleeps",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedLandslide",
+      "type": "item",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_landslide",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedLocus",
+      "type": "item",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_locus",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedPrimalsLocus",
+      "type": "item",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_primals_locus",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedLunarWhale",
+      "type": "item",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_lunar_whale",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedMetal",
+      "type": "item",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_metal",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedOutOfTime",
+      "type": "item",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_out_of_time",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedShadowbringers",
+      "type": "item",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_shadowbringers",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedSilentRegardOfStars",
+      "type": "item",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_silent_regard_of_stars",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedUnderTheWeight",
+      "type": "item",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_under_the_weight",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedWoeThatIsMadness",
+      "type": "item",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_woe_that_is_madness",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedToTheEdge",
+      "type": "item",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_to_the_edge",
+      "path": "~/Misc"
+    },
+    {
+      "name": "FadedInsatiable",
+      "type": "item",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_insatiable",
+      "path": "~/Misc"
+    },
+    {
+      "name": "RecNotchApple",
+      "type": "recipe",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_notch_apple",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -3302,10 +3737,12 @@
       "item.fartsys_additions.demetori_necrofantasia": "Demetori - Necrofantasia",
       "death.attack.waterydemise.player": "%1$s met a watery demise!",
       "item.fartsys_additions.shart_hundred": "Shart",
+      "item.fartsys_magitek_fantasy.faded_insatiable": "Faded Copy of Insatiable",
       "item.fartsys_magitek_fantasy.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode",
       "item.fartsys_magitek_fantasy.dmc_5_devil_trigger": "DMC 5 - Devil Trigger",
       "item.fartsys_additions.dmc_5_silver_bullet": "DMC 5 - Silver Bullet",
       "itemGroup.tabfartsys_additions": "Fartsy\u0027s Additions",
+      "item.fartsys_magitek_fantasy.faded_primals_brute_justice": "Faded Copy of The Primals - Metal - Primals Brute Justice",
       "item.fartsys_additions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
       "item.fartsys_magitek_fantasy.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "item.fartsys_magitek_fantasy.ffxiv_exponential_entropy.desc": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
@@ -3317,6 +3754,7 @@
       "item.fartsys_magitek_fantasy.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
       "item.fartsys_additions.ffxiv_knowledge_never_sleeps.desc": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
       "item.fartsys_additions.ffxiv_shadowbringers.desc": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
+      "item.fartsys_magitek_fantasy.faded_agent_of_inquiry": "Faded Copy of Agent Of Inquiry",
       "item.fartsys_additions.ffxiva_land_long_dead.desc": "Final Fantasy XIV - A Land Long Dead (The Burn)",
       "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "item.fartsys_magitek_fantasy.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
@@ -3325,10 +3763,12 @@
       "item.fartsys_magitek_fantasy.dmc_5_devil_trigger.desc": "Devil May Cry 5 - Devil Trigger (Nero)",
       "item.fartsys_additions.shart_ten_million": "10 Mega-Sharts",
       "subtitles.touhou.unowenwasher": "Touhou Project - U.N. Owen Was Her? (EoSD/6.0 Flandre)",
+      "item.fartsys_magitek_fantasy.faded_under_the_weight": "Faded Copy of Under The Weight",
       "item.fartsys_additions.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
       "item.fartsys_magitek_fantasy.ffxiv_footfalls": "FFXIV - Footfalls",
       "item.fartsys_magitek_fantasy.vitiated_aether_crystal": "Vitiated Aether Crystal",
       "item.fartsys_additions.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
+      "item.fartsys_magitek_fantasy.faded_knowledge_never_sleeps": "Faded Copy of Knowledge Never Sleeps",
       "item.fartsys_magitek_fantasy.slipknot_psychosocial": "Slipknot - Psychosocial",
       "item.fartsys_additions.ffxiv_woe_that_is_madness": "FFXIV - Woe That Is Madness",
       "subtitles.emone": "Somebody just dropped TEN MILLION sharts!!!",
@@ -3347,8 +3787,10 @@
       "item.fartsys_magitek_fantasy.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "item.fartsys_magitek_fantasy.xbc_you_will_know_our_names": "XBC - You Will Know Our Names",
       "item.fartsys_additions.ngea_cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
+      "item.fartsys_magitek_fantasy.cronus": "Cronus",
       "item.fartsys_additions.demetori_worlds_end.desc": "Demetori - World\u0027s End",
       "item.fartsys_magitek_fantasy.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
+      "item.fartsys_magitek_fantasy.faded_exponential_entropy": "Faded Copy of Exponential Entropy",
       "item.fartsys_magitek_fantasy.ffxiv_penitus.desc": "The Praetorium Theme",
       "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
       "subtitles.ffxiv.silentregardofstars": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
@@ -3356,6 +3798,7 @@
       "item.fartsys_additions.ffxiv_primals_locus.desc": "Final Fantasy XIV - The Primals - Locus",
       "item.fartsys_magitek_fantasy.shart_thousand": "Kilo-shart",
       "item.fartsys_additions.dmc_5_devil_trigger": "DMC 5 - Devil Trigger",
+      "item.fartsys_magitek_fantasy.faded_shadowbringers": "Faded Copy of Shadowbringers",
       "item.fartsys_additions.ffxiv_primals_exponential_entropy.desc": "Final Fantasy XIV - The Primals - Exponential Entropy",
       "subtitles.touhou.badapple": "Touhou Project - Bad Apple (nomico)",
       "subtitles.ffxiv.agentofinquiry": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
@@ -3379,6 +3822,7 @@
       "item.fartsys_magitek_fantasy.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
       "item.fartsys_magitek_fantasy.dmc_5_silver_bullet.desc": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.fartsys_magitek_fantasy.shart_hundred": "Shart",
+      "item.fartsys_magitek_fantasy.faded_lunar_whale": "Faded Copy of Lunar Whale",
       "item.fartsys_additions.ffxiv_primals_exponential_entropy": "FFXIV - The Primals - Exponential Entropy",
       "item.fartsys_additions.touhou_project_necrofantasia.desc": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
       "item.fartsys_additions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
@@ -3398,10 +3842,12 @@
       "item.fartsys_magitek_fantasy.kirby_battle_royale_dededestroyer_z": "Kirby Battle Royale - Dededestroyer Z",
       "death.attack.selfdesharted": "%1$s self-desharted!",
       "item.fartsys_additions.ffxiv_locus": "FFXIV - Locus",
+      "item.fartsys_magitek_fantasy.pvc_dust": "PVC Dust",
       "subtitles.dmc5.burythelightmission20": "Devil May Cry 5 - Bury The Light (Mission 20, Vergil)",
       "item.fartsys_additions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
       "item.fartsys_magitek_fantasy.ffxiv_penitus": "FFXIV - Penitus (The Praetorium)",
       "subtitles.demetori.worldsend": "Demetori - World\u0027s End",
+      "item.fartsys_magitek_fantasy.faded_out_of_time": "Faded Copy of Out Of Time",
       "item.fartsys_additions.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
       "item.fartsys_additions.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
       "item.fartsys_magitek_fantasy.ffxiv_locus": "FFXIV - Locus",
@@ -3431,6 +3877,7 @@
       "item.fartsys_magitek_fantasy.dmc_5_bury_the_light_mission_20": "DMC 5 - Bury The Light (Mission 20)",
       "item.fartsys_additions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "item.fartsys_magitek_fantasy.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
+      "item.fartsys_magitek_fantasy.faded_brute_justice": "Faded Copy of Metal - Brute Justice Mode",
       "item.fartsys_additions.ngea_cruel_angels_thesis": "NGE - A Cruel Angels Thesis",
       "subtitles.ffxiv.infinity": "Final Fantasy XIV - Infinity (Zurvan)",
       "item.fartsys_magitek_fantasy.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
@@ -3447,9 +3894,16 @@
       "item.fartsys_additions.touhou_project_un_owen_was_her": "Touhou Project - U.N. Owen Was Her?",
       "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.fartsys_additions.touhou_project_bad_apple.desc": "Touhou Project - Bad Apple (nomico)",
+      "item.fartsys_magitek_fantasy.faded_footfalls": "Faded Copy of Footfalls",
+      "item.fartsys_magitek_fantasy.faded_locus": "Faded Copy of Locus",
+      "item.fartsys_magitek_fantasy.faded_penitus": "Faded Copy of Penitus",
       "item.fartsys_magitek_fantasy.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "item.fartsys_additions.ffxiv_metal": "FFXIV - Metal",
       "item.fartsys_magitek_fantasy.ngea_cruel_angels_thesis": "NGE - A Cruel Angels Thesis",
+      "item.fartsys_magitek_fantasy.blank_music_disc": "Blank Music Disc",
+      "item.fartsys_magitek_fantasy.faded_infinity": "Faded Copy of Infinity",
+      "item.fartsys_magitek_fantasy.faded_silent_regard_of_stars": "Faded Copy of The Silent Regard of Stars",
+      "item.fartsys_magitek_fantasy.faded_to_the_edge": "Faded Copy of To The Edge",
       "subtitles.slipknot.psychosocial": "Slipknot - Psychosocial",
       "item.fartsys_magitek_fantasy.ffxiv_exponential_entropy": "FFXIV - Exponential Entropy",
       "item.fartsys_magitek_fantasy.ffxiv_primals_brute_justice": "FFXIV - The Primals - Metal: Brute Justice Mode",
@@ -3469,16 +3923,21 @@
       "item.fartsys_magitek_fantasy.xbc_2_battle": "XBC 2 - Battle",
       "subtitles.ffxiv.footfalls": "Final Fantasy XIV - Footfalls (Endwalker)",
       "item.fartsys_magitek_fantasy.shart_million": "Mega-Shart",
+      "item.fartsys_magitek_fantasy.faded_woe_that_is_madness": "Faded Copy of Woe That Is Madness",
       "item.fartsys_additions.ffxiv_footfalls": "FFXIV - Footfalls",
       "item.fartsys_additions.touhou_project_nuclear_fusion.desc": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "item.fartsys_magitek_fantasy.ffxiv_infinity": "FFXIV - Infinity",
       "item.fartsys_additions.ffxiv_landslide.desc": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
+      "item.fartsys_magitek_fantasy.faded_a_land_long_dead": "Faded Copy of A Land Long Dead",
       "item.fartsys_additions.ffxiv_agent_of_inquiry": "FFXIV - Agent Of Inquiry",
       "subtitles.ffxiv.brutejusticemode": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
+      "item.fartsys_magitek_fantasy.faded_landslide": "Faded Copy of Landslide",
       "item.fartsys_additions.shart_ten_thousand": "Ten Kilo-Sharts",
       "subtitles.xc2.battle": "Xenoblade Chronicles 2 - Battle!!",
       "item.fartsys_magitek_fantasy.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
+      "item.fartsys_magitek_fantasy.faded_primals_exponential_entropy": "Faded Copy of The Primals - Exponential Entropy",
       "item.fartsys_additions.slipknot_psychosocial.desc": "Slipknot - Psychosocial",
+      "item.fartsys_magitek_fantasy.faded_primals_locus": "Faded Copy of The Primals - Locus",
       "item.fartsys_magitek_fantasy.touhou_project_un_owen_was_her": "Touhou Project - U.N. Owen Was Her?",
       "item.fartsys_additions.ffxiv_under_the_weight": "FFXIV - Under The Weight",
       "subtitles.ffxiv.metal": "Final Fantasy XIV - Metal (Alexander)",
@@ -3498,6 +3957,8 @@
       "item.fartsys_additions.ffxiv_penitus.desc": "The Praetorium Theme",
       "item.fartsys_additions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "subtitles.kbr.dededestroyerz": "Kirby Battle Royale - De De Destroyer Z",
+      "item.fartsys_magitek_fantasy.magitek_music_press": "Magitek Music Press",
+      "item.fartsys_magitek_fantasy.faded_close_in_the_distance": "Faded Copy of Close In The Distance",
       "subtitles.ffxiv.woethatismadness": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "item.fartsys_magitek_fantasy.slipknot_psychosocial.desc": "Slipknot - Psychosocial",
       "item.fartsys_magitek_fantasy.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
@@ -3506,6 +3967,8 @@
       "item.fartsys_magitek_fantasy.ffxiv_metal": "FFXIV - Metal",
       "item.fartsys_additions.shart_ten": "Mini Shart",
       "item.fartsys_magitek_fantasy.ffxiv_shadowbringers": "FFXIV - Shadowbringers",
+      "item.fartsys_magitek_fantasy.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
+      "item.fartsys_magitek_fantasy.faded_metal": "Faded Copy of Metal",
       "item.fartsys_additions.ffxiv_close_in_the_distance": "FFXIV - Close In The Distance",
       "item.fartsys_magitek_fantasy.demetori_necrofantasia": "Demetori - Necrofantasia",
       "subtitles.ffxiv.penitus": "Final Fantasy XIV - Penitus (Praetorium)",
@@ -3548,6 +4011,10 @@
       },
       {
         "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Weapons",
         "children": []
       }
     ]

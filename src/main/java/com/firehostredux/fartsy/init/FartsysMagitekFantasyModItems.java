@@ -34,8 +34,34 @@ import com.firehostredux.fartsy.item.ShartMillionItem;
 import com.firehostredux.fartsy.item.ShartHundredThousandItem;
 import com.firehostredux.fartsy.item.ShartHundredItem;
 import com.firehostredux.fartsy.item.RestoredAetherCrystalItem;
+import com.firehostredux.fartsy.item.PVCPlasticItem;
 import com.firehostredux.fartsy.item.NGEACruelAngelsThesisItem;
+import com.firehostredux.fartsy.item.MagitekMusicPressItem;
 import com.firehostredux.fartsy.item.KirbyBattleRoyaleDededestroyerZItem;
+import com.firehostredux.fartsy.item.FadedWoeThatIsMadnessItem;
+import com.firehostredux.fartsy.item.FadedUnderTheWeightItem;
+import com.firehostredux.fartsy.item.FadedToTheEdgeItem;
+import com.firehostredux.fartsy.item.FadedSilentRegardOfStarsItem;
+import com.firehostredux.fartsy.item.FadedShadowbringersItem;
+import com.firehostredux.fartsy.item.FadedPrimalsLocusItem;
+import com.firehostredux.fartsy.item.FadedPrimalsExponentialEntropyItem;
+import com.firehostredux.fartsy.item.FadedPrimalsBruteJusticeItem;
+import com.firehostredux.fartsy.item.FadedPenitusItem;
+import com.firehostredux.fartsy.item.FadedOutOfTimeItem;
+import com.firehostredux.fartsy.item.FadedMetalItem;
+import com.firehostredux.fartsy.item.FadedLunarWhaleItem;
+import com.firehostredux.fartsy.item.FadedLocusItem;
+import com.firehostredux.fartsy.item.FadedLandslideItem;
+import com.firehostredux.fartsy.item.FadedKnowledgeNeverSleepsItem;
+import com.firehostredux.fartsy.item.FadedInsatiableItem;
+import com.firehostredux.fartsy.item.FadedInfinityItem;
+import com.firehostredux.fartsy.item.FadedFootfallsItem;
+import com.firehostredux.fartsy.item.FadedExponentialEntropyItem;
+import com.firehostredux.fartsy.item.FadedCloseInTheDistanceItem;
+import com.firehostredux.fartsy.item.FadedBruteJusticeItem;
+import com.firehostredux.fartsy.item.FadedBattleOnTheBigBridgeItem;
+import com.firehostredux.fartsy.item.FadedAgentOfInquiryItem;
+import com.firehostredux.fartsy.item.FadedALandLongDeadItem;
 import com.firehostredux.fartsy.item.FFXIVWoeThatIsMadnessItem;
 import com.firehostredux.fartsy.item.FFXIVUnderTheWeightItem;
 import com.firehostredux.fartsy.item.FFXIVSilentRegardOfStarsItem;
@@ -65,6 +91,8 @@ import com.firehostredux.fartsy.item.DebugItemItem;
 import com.firehostredux.fartsy.item.DMC5SilverBulletItem;
 import com.firehostredux.fartsy.item.DMC5DevilTriggerItem;
 import com.firehostredux.fartsy.item.DMC5BuryTheLightMission20Item;
+import com.firehostredux.fartsy.item.CronusItem;
+import com.firehostredux.fartsy.item.BlankMusicDiscItem;
 import com.firehostredux.fartsy.item.BagORockSaltItem;
 import com.firehostredux.fartsy.FartsysMagitekFantasyMod;
 
@@ -150,6 +178,44 @@ public class FartsysMagitekFantasyModItems {
 			() -> new VitiatedAetherCrystalItem());
 	public static final RegistryObject<Item> RESTORED_AETHER_CRYSTAL = REGISTRY.register("restored_aether_crystal",
 			() -> new RestoredAetherCrystalItem());
+	public static final RegistryObject<Item> PVC_DUST = REGISTRY.register("pvc_dust", () -> new PVCPlasticItem());
+	public static final RegistryObject<Item> MAGITEK_MUSIC_PRESS = REGISTRY.register("magitek_music_press", () -> new MagitekMusicPressItem());
+	public static final RegistryObject<Item> CRONUS = REGISTRY.register("cronus", () -> new CronusItem());
+	public static final RegistryObject<Item> BLANK_MUSIC_DISC = REGISTRY.register("blank_music_disc", () -> new BlankMusicDiscItem());
+	public static final RegistryObject<Item> FADED_PENITUS = REGISTRY.register("faded_penitus", () -> new FadedPenitusItem());
+	public static final RegistryObject<Item> FADED_BATTLE_ON_THE_BIG_BRIDGE = REGISTRY.register("faded_battle_on_the_big_bridge",
+			() -> new FadedBattleOnTheBigBridgeItem());
+	public static final RegistryObject<Item> FADED_AGENT_OF_INQUIRY = REGISTRY.register("faded_agent_of_inquiry",
+			() -> new FadedAgentOfInquiryItem());
+	public static final RegistryObject<Item> FADED_A_LAND_LONG_DEAD = REGISTRY.register("faded_a_land_long_dead", () -> new FadedALandLongDeadItem());
+	public static final RegistryObject<Item> FADED_BRUTE_JUSTICE = REGISTRY.register("faded_brute_justice", () -> new FadedBruteJusticeItem());
+	public static final RegistryObject<Item> FADED_PRIMALS_BRUTE_JUSTICE = REGISTRY.register("faded_primals_brute_justice",
+			() -> new FadedPrimalsBruteJusticeItem());
+	public static final RegistryObject<Item> FADED_CLOSE_IN_THE_DISTANCE = REGISTRY.register("faded_close_in_the_distance",
+			() -> new FadedCloseInTheDistanceItem());
+	public static final RegistryObject<Item> FADED_EXPONENTIAL_ENTROPY = REGISTRY.register("faded_exponential_entropy",
+			() -> new FadedExponentialEntropyItem());
+	public static final RegistryObject<Item> FADED_PRIMALS_EXPONENTIAL_ENTROPY = REGISTRY.register("faded_primals_exponential_entropy",
+			() -> new FadedPrimalsExponentialEntropyItem());
+	public static final RegistryObject<Item> FADED_FOOTFALLS = REGISTRY.register("faded_footfalls", () -> new FadedFootfallsItem());
+	public static final RegistryObject<Item> FADED_INFINITY = REGISTRY.register("faded_infinity", () -> new FadedInfinityItem());
+	public static final RegistryObject<Item> FADED_KNOWLEDGE_NEVER_SLEEPS = REGISTRY.register("faded_knowledge_never_sleeps",
+			() -> new FadedKnowledgeNeverSleepsItem());
+	public static final RegistryObject<Item> FADED_LANDSLIDE = REGISTRY.register("faded_landslide", () -> new FadedLandslideItem());
+	public static final RegistryObject<Item> FADED_LOCUS = REGISTRY.register("faded_locus", () -> new FadedLocusItem());
+	public static final RegistryObject<Item> FADED_PRIMALS_LOCUS = REGISTRY.register("faded_primals_locus", () -> new FadedPrimalsLocusItem());
+	public static final RegistryObject<Item> FADED_LUNAR_WHALE = REGISTRY.register("faded_lunar_whale", () -> new FadedLunarWhaleItem());
+	public static final RegistryObject<Item> FADED_METAL = REGISTRY.register("faded_metal", () -> new FadedMetalItem());
+	public static final RegistryObject<Item> FADED_OUT_OF_TIME = REGISTRY.register("faded_out_of_time", () -> new FadedOutOfTimeItem());
+	public static final RegistryObject<Item> FADED_SHADOWBRINGERS = REGISTRY.register("faded_shadowbringers", () -> new FadedShadowbringersItem());
+	public static final RegistryObject<Item> FADED_SILENT_REGARD_OF_STARS = REGISTRY.register("faded_silent_regard_of_stars",
+			() -> new FadedSilentRegardOfStarsItem());
+	public static final RegistryObject<Item> FADED_UNDER_THE_WEIGHT = REGISTRY.register("faded_under_the_weight",
+			() -> new FadedUnderTheWeightItem());
+	public static final RegistryObject<Item> FADED_WOE_THAT_IS_MADNESS = REGISTRY.register("faded_woe_that_is_madness",
+			() -> new FadedWoeThatIsMadnessItem());
+	public static final RegistryObject<Item> FADED_TO_THE_EDGE = REGISTRY.register("faded_to_the_edge", () -> new FadedToTheEdgeItem());
+	public static final RegistryObject<Item> FADED_INSATIABLE = REGISTRY.register("faded_insatiable", () -> new FadedInsatiableItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
