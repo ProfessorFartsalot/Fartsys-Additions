@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Custom license"
+
+[[mods]]
+modId="fartsys_magitek_fantasy"
+version="1.0.4"
+displayName="Fartsy's Magitek Fantasy"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://forums.firehostredux.com"
+logoFile="logo.png"
+authors="ProfessorFartsalot"
+description='''
+Add niche stuff to Minecraft with this stinky mod!
+'''
+
+[[dependencies.fartsys_magitek_fantasy]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

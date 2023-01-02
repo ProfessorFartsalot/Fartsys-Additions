@@ -33,9 +33,25 @@ import com.firehostredux.fartsy.item.ShartOneItem;
 import com.firehostredux.fartsy.item.ShartMillionItem;
 import com.firehostredux.fartsy.item.ShartHundredThousandItem;
 import com.firehostredux.fartsy.item.ShartHundredItem;
+import com.firehostredux.fartsy.item.RestoredWoeThatIsMadnessItem;
+import com.firehostredux.fartsy.item.RestoredUnderTheWeightItem;
+import com.firehostredux.fartsy.item.RestoredToTheEdgeItem;
+import com.firehostredux.fartsy.item.RestoredSilentScreamItem;
+import com.firehostredux.fartsy.item.RestoredSilentRegardOfStarsItem;
+import com.firehostredux.fartsy.item.RestoredShadowbringersItem;
+import com.firehostredux.fartsy.item.RestoredPrimalsLocusItem;
 import com.firehostredux.fartsy.item.RestoredPrimalsExponentialEntropyItem;
 import com.firehostredux.fartsy.item.RestoredPrimalsBruteJusticeItem;
 import com.firehostredux.fartsy.item.RestoredPenitusItem;
+import com.firehostredux.fartsy.item.RestoredOutOfTimeItem;
+import com.firehostredux.fartsy.item.RestoredMetalItem;
+import com.firehostredux.fartsy.item.RestoredLunarWhaleItem;
+import com.firehostredux.fartsy.item.RestoredLocusItem;
+import com.firehostredux.fartsy.item.RestoredLandslideItem;
+import com.firehostredux.fartsy.item.RestoredKnowledgeNeverSleepsItem;
+import com.firehostredux.fartsy.item.RestoredInsatiableItem;
+import com.firehostredux.fartsy.item.RestoredInfinityItem;
+import com.firehostredux.fartsy.item.RestoredFootfallsItem;
 import com.firehostredux.fartsy.item.RestoredExponentialEntropyItem;
 import com.firehostredux.fartsy.item.RestoredCloseInTheDistanceItem;
 import com.firehostredux.fartsy.item.RestoredBruteJusticeItem;
@@ -51,6 +67,7 @@ import com.firehostredux.fartsy.item.KirbyBattleRoyaleDededestroyerZItem;
 import com.firehostredux.fartsy.item.FadedWoeThatIsMadnessItem;
 import com.firehostredux.fartsy.item.FadedUnderTheWeightItem;
 import com.firehostredux.fartsy.item.FadedToTheEdgeItem;
+import com.firehostredux.fartsy.item.FadedSilentScreamItem;
 import com.firehostredux.fartsy.item.FadedSilentRegardOfStarsItem;
 import com.firehostredux.fartsy.item.FadedShadowbringersItem;
 import com.firehostredux.fartsy.item.FadedPrimalsLocusItem;
@@ -244,6 +261,30 @@ public class FartsysMagitekFantasyModItems {
 			() -> new RestoredExponentialEntropyItem());
 	public static final RegistryObject<Item> RESTORED_PRIMALS_EXPONENTIAL_ENTROPY = REGISTRY.register("restored_primals_exponential_entropy",
 			() -> new RestoredPrimalsExponentialEntropyItem());
+	public static final RegistryObject<Item> RESTORED_FOOTFALLS = REGISTRY.register("restored_footfalls", () -> new RestoredFootfallsItem());
+	public static final RegistryObject<Item> RESTORED_INFINITY = REGISTRY.register("restored_infinity", () -> new RestoredInfinityItem());
+	public static final RegistryObject<Item> RESTORED_KNOWLEDGE_NEVER_SLEEPS = REGISTRY.register("restored_knowledge_never_sleeps",
+			() -> new RestoredKnowledgeNeverSleepsItem());
+	public static final RegistryObject<Item> RESTORED_LANDSLIDE = REGISTRY.register("restored_landslide", () -> new RestoredLandslideItem());
+	public static final RegistryObject<Item> RESTORED_LOCUS = REGISTRY.register("restored_locus", () -> new RestoredLocusItem());
+	public static final RegistryObject<Item> RESTORED_PRIMALS_LOCUS = REGISTRY.register("restored_primals_locus",
+			() -> new RestoredPrimalsLocusItem());
+	public static final RegistryObject<Item> RESTORED_LUNAR_WHALE = REGISTRY.register("restored_lunar_whale", () -> new RestoredLunarWhaleItem());
+	public static final RegistryObject<Item> RESTORED_METAL = REGISTRY.register("restored_metal", () -> new RestoredMetalItem());
+	public static final RegistryObject<Item> RESTORED_OUT_OF_TIME = REGISTRY.register("restored_out_of_time", () -> new RestoredOutOfTimeItem());
+	public static final RegistryObject<Item> RESTORED_SHADOWBRINGERS = REGISTRY.register("restored_shadowbringers",
+			() -> new RestoredShadowbringersItem());
+	public static final RegistryObject<Item> RESTORED_SILENT_REGARD_OF_STARS = REGISTRY.register("restored_silent_regard_of_stars",
+			() -> new RestoredSilentRegardOfStarsItem());
+	public static final RegistryObject<Item> RESTORED_UNDER_THE_WEIGHT = REGISTRY.register("restored_under_the_weight",
+			() -> new RestoredUnderTheWeightItem());
+	public static final RegistryObject<Item> RESTORED_WOE_THAT_IS_MADNESS = REGISTRY.register("restored_woe_that_is_madness",
+			() -> new RestoredWoeThatIsMadnessItem());
+	public static final RegistryObject<Item> RESTORED_INSATIABLE = REGISTRY.register("restored_insatiable", () -> new RestoredInsatiableItem());
+	public static final RegistryObject<Item> RESTORED_TO_THE_EDGE = REGISTRY.register("restored_to_the_edge", () -> new RestoredToTheEdgeItem());
+	public static final RegistryObject<Item> FADED_SILENT_SCREAM = REGISTRY.register("faded_silent_scream", () -> new FadedSilentScreamItem());
+	public static final RegistryObject<Item> RESTORED_SILENT_SCREAM = REGISTRY.register("restored_silent_scream",
+			() -> new RestoredSilentScreamItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

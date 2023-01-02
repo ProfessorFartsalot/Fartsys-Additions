@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsys_magitek_fantasy:restored_battle_on_the_big_bridge"
+    },
+    {
+      "item": "fartsys_magitek_fantasy:magitek_music_press"
+    },
+    {
+      "item": "fartsys_magitek_fantasy:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsys_magitek_fantasy:ffxiv_battle_on_the_big_bridge",
+    "count": 1
+  }
+}

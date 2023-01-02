@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:ResonantAether"
+    },
+    "brewingIngredientStack": {
+      "value": "CUSTOM:FadedToTheEdge"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:RestoredToTheEdge"
+    },
+    "name": "rec_restored_to_the_edge",
+    "namespace": "mod"
+  }
+}

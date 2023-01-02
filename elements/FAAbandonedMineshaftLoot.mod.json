@@ -17,7 +17,7 @@
               "value": "CUSTOM:VitiatedAetherCrystal"
             },
             "weight": 4,
-            "minCount": 1,
+            "minCount": 0,
             "maxCount": 3,
             "minEnchantmentLevel": 0,
             "maxEnchantmentLevel": 0,
@@ -749,6 +749,20 @@
             "maxCount": 4,
             "minEnchantmentLevel": 5,
             "maxEnchantmentLevel": 20,
+            "affectedByFortune": false,
+            "explosionDecay": false,
+            "silkTouchMode": 0
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:FadedSilentScream"
+            },
+            "weight": 2,
+            "minCount": 1,
+            "maxCount": 1,
+            "minEnchantmentLevel": 0,
+            "maxEnchantmentLevel": 0,
             "affectedByFortune": false,
             "explosionDecay": false,
             "silkTouchMode": 0
