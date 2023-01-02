@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "fartsys_magitek_fantasy:restored_aether_crystal"
+    },
+    "title": {
+      "translate": "advancements.adv_restored_aether.title"
+    },
+    "description": {
+      "translate": "advancements.adv_restored_aether.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_restored_aether": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "fartsys_magitek_fantasy:restored_aether_crystal"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  },
+  "parent": "fartsys_magitek_fantasy:adv_find_vitiated_aether"
+}

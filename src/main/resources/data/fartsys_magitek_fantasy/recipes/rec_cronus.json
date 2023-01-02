@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "fartsys_magitek_fantasy:resonant_aether"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "fartsys_magitek_fantasy:restored_aether_crystal"
+    },
+    "4": {
+      "item": "minecraft:netherite_sword"
+    },
+    "5": {
+      "item": "fartsys_magitek_fantasy:restored_aether_crystal"
+    },
+    "6": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "7": {
+      "item": "fartsys_magitek_fantasy:resonant_aether"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "fartsys_magitek_fantasy:cronus",
+    "count": 1
+  }
+}

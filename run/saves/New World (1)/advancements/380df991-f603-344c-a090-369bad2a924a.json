@@ -105,6 +105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-01-02 11:59:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2023-01-01 14:51:28 -0500"
@@ -126,6 +132,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2023-01-01 14:51:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-01-02 11:59:40 -0500"
     },
     "done": true
   },
@@ -201,6 +213,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-01-02 12:00:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2023-01-01 14:51:28 -0500"
@@ -228,6 +246,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2023-01-01 13:49:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-01-02 11:59:40 -0500"
     },
     "done": true
   },

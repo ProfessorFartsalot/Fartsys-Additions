@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "musicdiscpress",
     "customModelName": "Normal",
     "name": "Magitek Music Press",
     "rarity": "RARE",

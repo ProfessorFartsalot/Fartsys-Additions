@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "fartsys_magitek_fantasy:resonant_aether"
+    },
+    "title": {
+      "translate": "advancements.adv_resonant_aether.title"
+    },
+    "description": {
+      "translate": "advancements.adv_resonant_aether.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_resonant_aether": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "fartsys_magitek_fantasy:resonant_aether"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200,
+    "recipes": [
+      "fartsys_magitek_fantasy:rec_restored_penitus",
+      "fartsys_magitek_fantasy:rec_restored_battle_on_the_big_bridge",
+      "fartsys_magitek_fantasy:rec_restored_agent_of_inquiry",
+      "fartsys_magitek_fantasy:rec_restored_a_land_long_dead",
+      "fartsys_magitek_fantasy:rec_restored_brute_justice",
+      "fartsys_magitek_fantasy:rec_restored_primals_brute_justice",
+      "fartsys_magitek_fantasy:rec_restored_close_in_the_distance",
+      "fartsys_magitek_fantasy:rec_restored_exponential_entropy",
+      "fartsys_magitek_fantasy:rec_restored_primals_exponential_entropy",
+      "fartsys_magitek_fantasy:rec_restored_footfalls",
+      "fartsys_magitek_fantasy:rec_restored_infinity",
+      "fartsys_magitek_fantasy:rec_restored_knowledge_never_sleeps",
+      "fartsys_magitek_fantasy:rec_restored_landslide",
+      "fartsys_magitek_fantasy:rec_restored_locus",
+      "fartsys_magitek_fantasy:rec_restored_primals_locus",
+      "fartsys_magitek_fantasy:rec_restored_lunar_whale",
+      "fartsys_magitek_fantasy:rec_restored_metal",
+      "fartsys_magitek_fantasy:rec_restored_out_of_time",
+      "fartsys_magitek_fantasy:rec_restored_shadowbringers",
+      "fartsys_magitek_fantasy:rec_restored_silent_regard_of_stars",
+      "fartsys_magitek_fantasy:rec_restored_under_the_weight",
+      "fartsys_magitek_fantasy:rec_restored_woe_that_is_madness",
+      "fartsys_magitek_fantasy:rec_restored_insatiable",
+      "fartsys_magitek_fantasy:rec_restored_silent_scream",
+      "fartsys_magitek_fantasy:rec_restored_to_the_edge",
+      "fartsys_magitek_fantasy:rec_magitek_music_press",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_01",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_02",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_03",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_04",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_05",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_06",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_07",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_08",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_09",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_0a",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_0b",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_0c",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_0d",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_0e",
+      "fartsys_magitek_fantasy:rec_pvc_plastic_0f"
+    ]
+  },
+  "parent": "fartsys_magitek_fantasy:adv_find_vitiated_aether"
+}

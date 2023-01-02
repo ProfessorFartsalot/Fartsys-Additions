@@ -4082,6 +4082,96 @@
       "locked_code": false,
       "registry_name": "rec_woe_that_is_madness",
       "path": "~/Recipes"
+    },
+    {
+      "name": "FFXIVInsatiable",
+      "type": "musicdisc",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ffxiv_insatiable",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "RecInsatiable",
+      "type": "recipe",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_insatiable",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FFXIVSilentScream",
+      "type": "musicdisc",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ffxiv_silent_scream",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FFXIVToTheEdge",
+      "type": "musicdisc",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ffxiv_to_the_edge",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "RecSilentScream",
+      "type": "recipe",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_silent_scream",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecToTheEdge",
+      "type": "recipe",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_to_the_edge",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecBlankMusicDisc",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_blank_music_disc",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AdvFindVitiatedAether",
+      "type": "achievement",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_find_vitiated_aether",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AdvResonantAether",
+      "type": "achievement",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_resonant_aether",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AdvRestoredAether",
+      "type": "achievement",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_restored_aether",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -4413,6 +4503,30 @@
       ],
       "category": "master",
       "subtitle": "Oh no, someone just CONSUMED a WAFFLE OF ASS DESTRUCTION!!!"
+    },
+    {
+      "name": "ffxiv.insatiable",
+      "files": [
+        "insatiable"
+      ],
+      "category": "record",
+      "subtitle": "FFXIV - Insatiable"
+    },
+    {
+      "name": "ffxiv.silentscream",
+      "files": [
+        "silentscream"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - Silent Scream"
+    },
+    {
+      "name": "ffxiv.totheedge",
+      "files": [
+        "totheedge"
+      ],
+      "category": "record",
+      "subtitle": "Final Fantasy XIV - To The Edge"
     }
   ],
   "language_map": {
@@ -4420,14 +4534,15 @@
       "item.fartsys_magitek_fantasy.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
       "item.fartsys_additions.vitiated_aether_crystal": "Vitiated Aether Crystal",
       "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
-      "item.fartsys_additions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
       "item.fartsys_additions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
+      "item.fartsys_additions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
       "item.fartsys_magitek_fantasy.shart_special": "Shart Special",
       "item.fartsys_magitek_fantasy.restored_silent_scream": "Restored Copy of Silent Scream",
       "item.fartsys_additions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
       "item.fartsys_magitek_fantasy.restored_primals_brute_justice": "Restored Copy of The Primals - Metal - Brute Justice Mode",
-      "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "item.fartsys_magitek_fantasy.ffxiv_silent_regard_of_stars.desc": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
+      "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "item.fartsys_magitek_fantasy.ffxiv_silent_scream": "FFXIV - Silent Scream",
       "item.fartsys_additions.demetori_necrofantasia": "Demetori - Necrofantasia",
       "death.attack.waterydemise.player": "%1$s met a watery demise!",
       "item.fartsys_additions.shart_hundred": "Shart",
@@ -4504,10 +4619,13 @@
       "item.fartsys_magitek_fantasy.faded_shadowbringers": "Faded Copy of Shadowbringers",
       "item.fartsys_additions.ffxiv_primals_exponential_entropy.desc": "Final Fantasy XIV - The Primals - Exponential Entropy",
       "subtitles.touhou.badapple": "Touhou Project - Bad Apple (nomico)",
+      "advancements.adv_find_vitiated_aether.descr": "Obtain a Vitiated Aether Crystal.",
       "subtitles.ffxiv.agentofinquiry": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.fartsys_magitek_fantasy.touhou_project_cosmic_mind.desc": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren",
       "item.fartsys_magitek_fantasy.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
+      "subtitles.ffxiv.totheedge": "Final Fantasy XIV - To The Edge",
       "subtitles.ffxiv.shadowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
+      "item.fartsys_magitek_fantasy.ffxiv_to_the_edge": "FFXIV - To The Edge",
       "item.fartsys_additions.ffxiv_out_of_time.desc": "Final Fantasy XIV - Out of Time (Alexander)",
       "item.fartsys_additions.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "subtitles.touhou.necrofantasia": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
@@ -4549,6 +4667,7 @@
       "item.fartsys_magitek_fantasy.pvc_dust": "PVC Dust",
       "subtitles.dmc5.burythelightmission20": "Devil May Cry 5 - Bury The Light (Mission 20, Vergil)",
       "item.fartsys_additions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
+      "item.fartsys_magitek_fantasy.ffxiv_insatiable": "FFXIV - Insatiable",
       "item.fartsys_magitek_fantasy.ffxiv_penitus": "FFXIV - Penitus (The Praetorium)",
       "subtitles.demetori.worldsend": "Demetori - World\u0027s End",
       "item.fartsys_magitek_fantasy.faded_out_of_time": "Faded Copy of Out Of Time",
@@ -4580,6 +4699,7 @@
       "item.fartsys_additions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.fartsys_additions.dmc_5_bury_the_light_mission_20": "DMC 5 - Bury The Light (Mission 20)",
       "death.attack.waterydemise": "%1$s met a watery demise!",
+      "advancements.adv_find_vitiated_aether.title": "What exactly IS this?",
       "subtitles.demetori.orientaldarkflight": "Demetori - Oriental Dark Flight",
       "item.fartsys_magitek_fantasy.dmc_5_bury_the_light_mission_20": "DMC 5 - Bury The Light (Mission 20)",
       "item.fartsys_additions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
@@ -4607,7 +4727,9 @@
       "item.fartsys_additions.touhou_project_bad_apple.desc": "Touhou Project - Bad Apple (nomico)",
       "item.fartsys_magitek_fantasy.faded_footfalls": "Faded Copy of Footfalls",
       "item.fartsys_magitek_fantasy.faded_locus": "Faded Copy of Locus",
+      "advancements.adv_restored_aether.title": "MAXIMUM POWWERRR!!!!!!!",
       "item.fartsys_magitek_fantasy.faded_penitus": "Faded Copy of Penitus",
+      "advancements.adv_resonant_aether.descr": "Create Resonant Aether.",
       "item.fartsys_magitek_fantasy.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "item.fartsys_magitek_fantasy.restored_woe_that_is_madness": "Restored Copy of Woe That Is Madness",
       "item.fartsys_additions.ffxiv_metal": "FFXIV - Metal",
@@ -4619,6 +4741,7 @@
       "item.fartsys_magitek_fantasy.faded_to_the_edge": "Faded Copy of To The Edge",
       "subtitles.slipknot.psychosocial": "Slipknot - Psychosocial",
       "item.fartsys_magitek_fantasy.ffxiv_exponential_entropy": "FFXIV - Exponential Entropy",
+      "item.fartsys_magitek_fantasy.ffxiv_to_the_edge.desc": "Final Fantasy XIV - To The Edge",
       "item.fartsys_magitek_fantasy.ffxiv_primals_brute_justice": "FFXIV - The Primals - Metal: Brute Justice Mode",
       "item.fartsys_magitek_fantasy.touhou_project_nuclear_fusion.desc": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "subtitles.nge.cruelangelsthesis": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
@@ -4635,6 +4758,7 @@
       "item.fartsys_magitek_fantasy.ffxiv_under_the_weight": "FFXIV - Under The Weight",
       "item.fartsys_additions.shart_one": "Micro Shart",
       "item.fartsys_magitek_fantasy.xbc_2_battle": "XBC 2 - Battle",
+      "advancements.adv_restored_aether.descr": "Create a Restored Aether Crystal.",
       "subtitles.ffxiv.footfalls": "Final Fantasy XIV - Footfalls (Endwalker)",
       "item.fartsys_magitek_fantasy.shart_million": "Mega-Shart",
       "item.fartsys_magitek_fantasy.faded_woe_that_is_madness": "Faded Copy of Woe That Is Madness",
@@ -4662,6 +4786,7 @@
       "item.fartsys_additions.ffxiv_brute_justice.desc": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
       "item.fartsys_additions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "item.fartsys_magitek_fantasy.ffxiv_footfalls.desc": "Final Fantasy XIV - Footfalls (Endwalker)",
+      "subtitles.ffxiv.insatiable": "Final Fantasy XIV - Insatiable",
       "item.fartsys_magitek_fantasy.ngea_cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
       "item.fartsys_magitek_fantasy.restored_primals_locus": "Restored Copy of The Primals - Locus",
       "block.fartsys_additions.rock_salt": "Rock Salt",
@@ -4669,6 +4794,7 @@
       "item.fartsys_additions.bag_o_rock_salt": "Bag O Rock Salt",
       "subtitles.dmc5.deviltrigger": "Devil May Cry 5 - Devil Trigger (Nero)",
       "item.fartsys_additions.ffxiv_primals_brute_justice": "FFXIV - The Primals - Metal: Brute Justice Mode",
+      "item.fartsys_magitek_fantasy.ffxiv_silent_scream.desc": "Final Fantasy XIV - Silent Scream",
       "item.fartsys_additions.xbc_2_battle": "XBC 2 - Battle",
       "item.fartsys_additions.ffxiv_infinity": "FFXIV - Infinity",
       "item.fartsys_additions.ffxiv_penitus.desc": "The Praetorium Theme",
@@ -4682,8 +4808,10 @@
       "subtitles.woad": "Oh no, someone just CONSUMED a WAFFLE OF ASS DESTRUCTION!!!",
       "item.fartsys_magitek_fantasy.restored_insatiable": "Restored Copy of Insatiable",
       "item.fartsys_magitek_fantasy.dmc_5_silver_bullet": "DMC 5 - Silver Bullet",
+      "item.fartsys_magitek_fantasy.ffxiv_insatiable.desc": "Final Fantasy XIV - Insatiable",
       "item.fartsys_magitek_fantasy.ffxiv_metal": "FFXIV - Metal",
       "item.fartsys_additions.shart_ten": "Mini Shart",
+      "advancements.adv_resonant_aether.title": "MORE POWAAAA",
       "item.fartsys_magitek_fantasy.ffxiv_shadowbringers": "FFXIV - Shadowbringers",
       "item.fartsys_magitek_fantasy.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
       "item.fartsys_magitek_fantasy.faded_metal": "Faded Copy of Metal",
@@ -4696,6 +4824,7 @@
       "item.fartsys_additions.demetori_worlds_end": "Demetori - World\u0027s End",
       "item.fartsys_additions.ffxiv_infinity.desc": "Final Fantasy XIV - Infinity (Zurvan)",
       "item.fartsys_magitek_fantasy.ffxiv_knowledge_never_sleeps.desc": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
+      "subtitles.ffxiv.silentscream": "Final Fantasy XIV - Silent Scream",
       "block.fartsys_magitek_fantasy.rock_salt": "Rock Salt",
       "item.fartsys_additions.touhou_project_nuclear_fusion": "Touhou Project - Nuclear Fusion",
       "item.fartsys_additions.ffxiv_silent_regard_of_stars.desc": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
