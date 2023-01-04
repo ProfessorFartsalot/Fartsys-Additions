@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "fartsys_magitek_fantasy:adv_find_vitiated_aether": {
+    "criteria": {
+      "adv_find_vitiated_aether": "2023-01-02 12:43:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2023-01-01 13:49:04 -0500"
@@ -261,9 +267,21 @@
     },
     "done": true
   },
+  "fartsys_magitek_fantasy:adv_cronus": {
+    "criteria": {
+      "adv_cronus": "2023-01-02 12:43:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-01-01 05:04:46 -0500"
+    },
+    "done": true
+  },
+  "fartsys_magitek_fantasy:adv_resonant_aether": {
+    "criteria": {
+      "adv_resonant_aether": "2023-01-02 12:43:55 -0500"
     },
     "done": true
   },

@@ -13,7 +13,7 @@
     "toolType": "Special",
     "harvestLevel": 5,
     "efficiency": 0.0,
-    "attackSpeed": 0.0,
+    "attackSpeed": 0.45,
     "enchantability": 200,
     "damageVsEntity": 20.0,
     "usageCount": 0,

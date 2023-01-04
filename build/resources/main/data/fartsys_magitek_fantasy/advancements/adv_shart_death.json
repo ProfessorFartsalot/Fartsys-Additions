@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "fartsys_magitek_fantasy:waffle_of_ass_destruction"
+    },
+    "title": {
+      "translate": "advancements.adv_shart_death.title"
+    },
+    "description": {
+      "translate": "advancements.adv_shart_death.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "adv_shart_death": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "fartsys_magitek_fantasy:waffle_of_ass_destruction"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "fartsys_magitek_fantasy:adv_find_vitiated_aether"
+}

@@ -2702,7 +2702,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ShartSpecialFoodEaten",
@@ -2718,7 +2719,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "WaffleOfAssDestruction",
@@ -2768,7 +2770,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BagORockSalt",
@@ -2793,7 +2796,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "RecBagORockSalt",
@@ -4253,6 +4257,15 @@
       "locked_code": false,
       "registry_name": "rec_cronus",
       "path": "~/Recipes"
+    },
+    {
+      "name": "AdvCronus",
+      "type": "achievement",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_cronus",
+      "path": "~/Advancements"
     }
   ],
   "variable_elements": [],
@@ -4615,16 +4628,16 @@
       "item.fartsys_magitek_fantasy.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
       "item.fartsys_additions.vitiated_aether_crystal": "Vitiated Aether Crystal",
       "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
-      "item.fartsys_additions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
-      "item.fartsys_additions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
       "advancements.adv_music_press.descr": "Craft a Magitek Music Press from an anvil and iron block",
+      "item.fartsys_additions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
+      "item.fartsys_additions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
       "item.fartsys_magitek_fantasy.shart_special": "Shart Special",
       "item.fartsys_magitek_fantasy.restored_silent_scream": "Restored Copy of Silent Scream",
       "item.fartsys_additions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
       "item.fartsys_magitek_fantasy.restored_primals_brute_justice": "Restored Copy of The Primals - Metal - Brute Justice Mode",
-      "item.fartsys_magitek_fantasy.ffxiv_silent_regard_of_stars.desc": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
-      "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "item.fartsys_magitek_fantasy.ffxiv_silent_scream": "FFXIV - Silent Scream",
+      "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "item.fartsys_magitek_fantasy.ffxiv_silent_regard_of_stars.desc": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
       "item.fartsys_additions.demetori_necrofantasia": "Demetori - Necrofantasia",
       "death.attack.waterydemise.player": "%1$s met a watery demise!",
       "item.fartsys_additions.shart_hundred": "Shart",
@@ -4641,6 +4654,7 @@
       "item.fartsys_magitek_fantasy.waffle_of_ass_destruction": "Waffle Of Ass Destruction",
       "item.fartsys_magitek_fantasy.demetori_worlds_end.desc": "Demetori - World\u0027s End",
       "item.fartsys_magitek_fantasy.dmc_5_bury_the_light_mission_20.desc": "Devil May Cry 5 - Bury The Light (Mission 20 Vergil)",
+      "advancements.adv_cronus.title": "A Godly Sword",
       "death.attack.woad": "%1$s experienced Professor\u0027s Ass.",
       "subtitles.ffxiv.primals.locus": "Final Fantasy XIV - The Primals - Locus",
       "item.fartsys_magitek_fantasy.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
@@ -4875,6 +4889,7 @@
       "item.fartsys_magitek_fantasy.faded_primals_locus": "Faded Copy of The Primals - Locus",
       "item.fartsys_magitek_fantasy.restored_knowledge_never_sleeps": "Restored Copy of Knowledge Never Sleeps",
       "item.fartsys_magitek_fantasy.touhou_project_un_owen_was_her": "Touhou Project - U.N. Owen Was Her?",
+      "advancements.adv_cronus.descr": "Craft Cronus",
       "advancements.adv_shart_special.title": "Don\u0027t eat THESE...",
       "item.fartsys_additions.ffxiv_under_the_weight": "FFXIV - Under The Weight",
       "subtitles.ffxiv.metal": "Final Fantasy XIV - Metal (Alexander)",
@@ -4971,7 +4986,7 @@
   "workspaceSettings": {
     "modid": "fartsys_magitek_fantasy",
     "modName": "Fartsy\u0027s Magitek Fantasy",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Add niche stuff to Minecraft with this stinky mod!",
     "author": "ProfessorFartsalot",
     "websiteURL": "https://forums.firehostredux.com",
