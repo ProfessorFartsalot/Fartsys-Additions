@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0b",
+    "name": "FFXIV - Metal: Brute Justice Mode",
+    "description": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.brutejusticemode"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

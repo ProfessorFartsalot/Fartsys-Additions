@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "agentofinquiry",
+    "name": "FFXIV - Agent Of Inquiry",
+    "description": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.agentofinquiry"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

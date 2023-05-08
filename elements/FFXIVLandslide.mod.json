@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc02",
+    "name": "FFXIV - Landslide",
+    "description": "Final Fantasy XIV - Landslide (Eden's Gate: Sepulture)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.landslide"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

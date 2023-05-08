@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "silentregardofstars",
+    "name": "FFXIV - Shadowbringers",
+    "description": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.shadowbringers"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

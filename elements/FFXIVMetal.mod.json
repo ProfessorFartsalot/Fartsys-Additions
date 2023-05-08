@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "exponentialentropy",
+    "name": "FFXIV - Metal",
+    "description": "Final Fantasy XIV - Metal (Alexander)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.metal"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

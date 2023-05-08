@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "XBC - You Will Know Our Names",
+    "texture": "disc04",
+    "description": "Xenoblade Chronicles - You Will Know Our Names",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:xc.youwillknowournames"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

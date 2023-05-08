@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:ResonantAether"
+    },
+    "brewingIngredientStack": {
+      "value": "CUSTOM:FadedPrimalsExponentialEntropy"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:RestoredPrimalsExponentialEntropy"
+    },
+    "name": "rec_restored_primals_exponential_entropy",
+    "namespace": "mod"
+  }
+}

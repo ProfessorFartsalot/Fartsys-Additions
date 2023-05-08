@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc02",
+    "name": "FFXIV - A Land Long Dead",
+    "description": "Final Fantasy XIV - A Land Long Dead (The Burn)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.alandlongdead"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

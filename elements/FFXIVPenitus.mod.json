@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "spookyscaryskeletonsdualmix",
+    "name": "FFXIV - Penitus (The Praetorium)",
+    "description": "The Praetorium Theme",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.penitus"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

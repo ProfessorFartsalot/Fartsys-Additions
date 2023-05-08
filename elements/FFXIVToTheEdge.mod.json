@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "FFXIV - To The Edge",
+    "texture": "disc05",
+    "description": "Final Fantasy XIV - To The Edge",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ffxiv.totheedge"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

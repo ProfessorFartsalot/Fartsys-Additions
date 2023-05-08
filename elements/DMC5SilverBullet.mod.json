@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "DMC 5 - Silver Bullet",
+    "texture": "disc0d",
+    "description": "Devil May Cry 5 - Silver Bullet (Final Boss)",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:dmc5.silverbullet"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}
