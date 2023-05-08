@@ -1,6 +1,5 @@
-
-build/*
-.mcreator/*
+build\*
+.gradle\*
+.mcreator\*
 run/*
-.gradle
 run\logs\*
