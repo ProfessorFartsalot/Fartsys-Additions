@@ -1,8 +1,8 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "painting",
   "definition": {
-    "texture": "kapebeans1.png",
+    "texture": "kape_beans_01.png",
     "width": 32,
     "height": 32
   }

@@ -1,0 +1,399 @@
+{
+  "ffxiv.primals.brutejusticemode": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:brutejusticeprimals",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.brutejusticemode": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:brutejustice",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.primals.exponentialentropy": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:exponentialentropyprimals",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.infinity": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:infinity",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.locus": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:locus",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.primals.locus": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:locusprimals",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.metal": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:metalmetal",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.outoftime": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:outoftime",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.silentregardofstars": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:silentregardofstars",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.knowledgeneversleeps": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:knowledgeneversleeps",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.alandlongdead": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:alandlongdead",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.agentofinquiry": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:agentofinquiry",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.lunarwhale": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:lunarwhale",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.closeinthedistance": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:closeinthedistance",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.footfalls": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:footfalls",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.undertheweight": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:undertheweight",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.landslide": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:landslide",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.woethatismadness": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:woethatismadness",
+        "stream": true
+      }
+    ]
+  },
+  "touhou.badapple": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:badapple",
+        "stream": true
+      }
+    ]
+  },
+  "touhou.necrofantasia": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:necrofantasia",
+        "stream": true
+      }
+    ]
+  },
+  "touhou.cosmicmind": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:cosmicmind",
+        "stream": true
+      }
+    ]
+  },
+  "touhou.nuclearfusion": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:nuclearfusion",
+        "stream": true
+      }
+    ]
+  },
+  "touhou.unowenwasher": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:unowenwasher",
+        "stream": true
+      }
+    ]
+  },
+  "demetori.orientaldarkflight": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:orientaldarkflightdemetori",
+        "stream": true
+      }
+    ]
+  },
+  "demetori.necrofantasia": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:necrofantasiademetori",
+        "stream": true
+      }
+    ]
+  },
+  "demetori.worldsend": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:worldsend",
+        "stream": true
+      }
+    ]
+  },
+  "dmc5.deviltrigger": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:deviltrigger",
+        "stream": true
+      }
+    ]
+  },
+  "dmc5.burythelightmission20": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:burythelightmission20",
+        "stream": true
+      }
+    ]
+  },
+  "dmc5.silverbullet": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:silverbullet",
+        "stream": true
+      }
+    ]
+  },
+  "nge.cruelangelsthesis": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:cruelangelsthesis",
+        "stream": true
+      }
+    ]
+  },
+  "slipknot.psychosocial": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:psychosocial",
+        "stream": true
+      }
+    ]
+  },
+  "xc.youwillknowournames": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:youwillknowournames",
+        "stream": true
+      }
+    ]
+  },
+  "xc2.battle": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:battle",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.shadowbringers": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:shadowbringers",
+        "stream": true
+      }
+    ]
+  },
+  "kbr.dededestroyerz": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:dededestroyerz",
+        "stream": true
+      }
+    ]
+  },
+  "smash.pixelsofglory": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:pixelsofglory",
+        "stream": true
+      }
+    ]
+  },
+  "emone": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:dosh",
+        "stream": true
+      }
+    ]
+  },
+  "woad": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "fartsysadditions:woad",
+        "stream": false
+      }
+    ]
+  },
+  "ffxiv.insatiable": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:insatiable",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.silentscream": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:silentscream",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.totheedge": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:totheedge",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.penitus": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:penitus",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.battleonthebigbridge": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.battleonthebigbridge",
+    "sounds": [
+      {
+        "name": "fartsysadditions:battleonthebigbridgexiv",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.exponentialentropy": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fartsysadditions:exponentialentropy",
+        "stream": true
+      }
+    ]
+  }
+}
