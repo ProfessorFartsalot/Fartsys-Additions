@@ -4,3 +4,7 @@ build\*
 run/*
 run\logs\*
 .mcreator/workspaceBackups/
+build/extractSrg/output.srg
+build/libs/modid-1.0.jar
+build/downloadMcpConfig/output.zip
+build/reobfJar/output.jar
