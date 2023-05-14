@@ -1,0 +1,16 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:faded_a_land_long_dead"
+    },
+    {
+      "item": "fartsysadditions:resonant_aether"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:restored_a_land_long_dead",
+    "count": 1
+  }
+}
