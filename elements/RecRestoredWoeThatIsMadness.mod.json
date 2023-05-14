@@ -2,19 +2,42 @@
   "_fv": 18,
   "_type": "recipe",
   "definition": {
-    "recipeType": "Brewing",
+    "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
-    "brewingInputStack": {
-      "value": "CUSTOM:ResonantAether"
-    },
-    "brewingIngredientStack": {
-      "value": "CUSTOM:FadedWoeThatIsMadness"
-    },
-    "brewingReturnStack": {
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FadedWoeThatIsMadness"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ResonantAether"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
       "value": "CUSTOM:RestoredWoeThatIsMadness"
     },
     "name": "rec_restored_woe_that_is_madness",

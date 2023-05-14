@@ -1,0 +1,16 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:faded_lunar_whale"
+    },
+    {
+      "item": "fartsysadditions:resonant_aether"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:restored_lunar_whale",
+    "count": 1
+  }
+}

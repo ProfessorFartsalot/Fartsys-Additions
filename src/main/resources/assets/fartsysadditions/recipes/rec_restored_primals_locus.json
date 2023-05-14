@@ -1,0 +1,16 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:faded_primals_locus"
+    },
+    {
+      "item": "fartsysadditions:resonant_aether"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:restored_primals_locus",
+    "count": 1
+  }
+}

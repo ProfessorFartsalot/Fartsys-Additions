@@ -4185,6 +4185,16 @@
       "ids": {},
       "registry_name": "test",
       "path": "~/Recipes"
+    },
+    {
+      "name": "RecPVCPlastic0d",
+      "type": "recipe",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_pvc_plastic_0d",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],

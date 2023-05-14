@@ -1,0 +1,16 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:faded_agent_of_inquiry"
+    },
+    {
+      "item": "fartsysadditions:resonant_aether"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:restored_agent_of_inquiry",
+    "count": 1
+  }
+}

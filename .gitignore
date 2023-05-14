@@ -11,3 +11,4 @@ build/reobfJar/output.jar
 .gradle/4.9/fileHashes/fileHashes.bin
 *.lock
 *.bin
+.gradle/4.9/fileContent/fileContent.lock

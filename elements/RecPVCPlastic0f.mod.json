@@ -2,19 +2,16 @@
   "_fv": 18,
   "_type": "recipe",
   "definition": {
-    "recipeType": "Brewing",
-    "xpReward": 0.0,
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
     "recipeShapeless": false,
-    "brewingInputStack": {
-      "value": "Items.POTIONITEM"
+    "smeltingInputStack": {
+      "value": "Items.COAL"
     },
-    "brewingIngredientStack": {
-      "value": "Items.COAL#0"
-    },
-    "brewingReturnStack": {
+    "smeltingReturnStack": {
       "value": "CUSTOM:PVCPlastic"
     },
     "name": "rec_pvc_plastic_0f",

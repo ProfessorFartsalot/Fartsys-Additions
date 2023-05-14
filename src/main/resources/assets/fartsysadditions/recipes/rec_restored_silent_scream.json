@@ -1,0 +1,13 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:faded_silent_scream"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:restored_silent_scream",
+    "count": 1
+  }
+}

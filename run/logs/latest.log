@@ -1,47 +1,47 @@
-[02:18:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[02:18:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[02:18:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[02:18:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
-[02:18:41] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_275, running on Windows 10:amd64:10.0, installed at C:\Program Files\Pylo\MCreator\jdk\jre
-[02:18:41] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
-[02:18:41] [main/ERROR] [FML]: Full: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
-[02:18:41] [main/ERROR] [FML]: Trimmed: c:/users/profe/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
-[02:18:41] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[02:18:41] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
-[02:18:42] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
-[02:18:42] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
-[02:18:42] [main/INFO] [FML]: Searching D:\GitHub\Fartsys-Additions\run\.\mods for mods
-[02:18:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:18:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:18:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:18:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:18:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:18:42] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[02:18:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:18:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:18:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:18:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:18:43] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[02:18:43] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player609
-[02:18:45] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
-[02:18:45] [Client thread/INFO] [FML]: -- System Details --
+[03:03:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:03:24] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:03:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:03:24] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[03:03:24] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_275, running on Windows 10:amd64:10.0, installed at C:\Program Files\Pylo\MCreator\jdk\jre
+[03:03:24] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[03:03:24] [main/ERROR] [FML]: Full: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[03:03:24] [main/ERROR] [FML]: Trimmed: c:/users/profe/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[03:03:25] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[03:03:25] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[03:03:25] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[03:03:25] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[03:03:25] [main/INFO] [FML]: Searching D:\GitHub\Fartsys-Additions\run\.\mods for mods
+[03:03:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:03:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:03:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:03:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:03:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:03:26] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[03:03:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:03:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:03:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:03:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:03:26] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[03:03:27] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player359
+[03:03:29] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[03:03:30] [Client thread/INFO] [FML]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_275, BellSoft
 	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), BellSoft
-	Memory: 815686424 bytes (777 MB) / 942669824 bytes (899 MB) up to 3749183488 bytes (3575 MB)
+	Memory: 831861000 bytes (793 MB) / 946339840 bytes (902 MB) up to 3749183488 bytes (3575 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 31.0.101.3959' Renderer: 'Intel(R) UHD Graphics'
-[02:18:45] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
-[02:18:45] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[02:18:45] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[02:18:45] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
-[02:18:46] [Client thread/INFO] [FML]: Searching D:\GitHub\Fartsys-Additions\run\.\mods for mods
-[02:18:46] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[03:03:30] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
+[03:03:30] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[03:03:30] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[03:03:30] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[03:03:30] [Client thread/INFO] [FML]: Searching D:\GitHub\Fartsys-Additions\run\.\mods for mods
+[03:03:31] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -70,7 +70,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_275]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[02:18:46] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\6.2\a9690730f92cc79eeadc20e400ebb41eccce10b1\asm-util-6.2.jar - probably a corrupt zip
+[03:03:31] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\6.2\a9690730f92cc79eeadc20e400ebb41eccce10b1\asm-util-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -103,7 +103,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/WARN] [FML]: Zip file asm-util-6.2.jar failed to read properly, it will be ignored
+[03:03:31] [Client thread/WARN] [FML]: Zip file asm-util-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -136,7 +136,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[03:03:31] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -165,7 +165,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_275]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[02:18:46] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\6.2\c7d9a90d221cbb977848d2c777eb3aa7637e89df\asm-analysis-6.2.jar - probably a corrupt zip
+[03:03:31] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\6.2\c7d9a90d221cbb977848d2c777eb3aa7637e89df\asm-analysis-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -198,7 +198,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/WARN] [FML]: Zip file asm-analysis-6.2.jar failed to read properly, it will be ignored
+[03:03:31] [Client thread/WARN] [FML]: Zip file asm-analysis-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -231,7 +231,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[03:03:31] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -260,7 +260,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_275]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[02:18:46] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\6.2\61570e046111559f38d4e0e580c005f75988c0a6\asm-tree-6.2.jar - probably a corrupt zip
+[03:03:31] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\6.2\61570e046111559f38d4e0e580c005f75988c0a6\asm-tree-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -293,7 +293,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/WARN] [FML]: Zip file asm-tree-6.2.jar failed to read properly, it will be ignored
+[03:03:31] [Client thread/WARN] [FML]: Zip file asm-tree-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -326,7 +326,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[03:03:31] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -355,7 +355,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_275]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[02:18:46] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\6.2\1b6c4ff09ce03f3052429139c2a68e295cae6604\asm-6.2.jar - probably a corrupt zip
+[03:03:31] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\6.2\1b6c4ff09ce03f3052429139c2a68e295cae6604\asm-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -388,7 +388,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/WARN] [FML]: Zip file asm-6.2.jar failed to read properly, it will be ignored
+[03:03:31] [Client thread/WARN] [FML]: Zip file asm-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -421,51 +421,51 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[02:18:46] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
-[02:18:46] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, fartsysadditions] at CLIENT
-[02:18:46] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, fartsysadditions] at SERVER
-[02:18:47] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FartsysAdditions
-[02:18:47] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
-[02:18:47] [Client thread/INFO] [FML]: Found 1280 ObjectHolder annotations
-[02:18:47] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[02:18:47] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[02:18:47] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[02:18:47] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[02:18:47] [Client thread/INFO] [FML]: OBJLoader: Domain fartsysadditions has been added.
-[02:18:47] [Client thread/INFO] [FML]: Applying holder lookups
-[02:18:47] [Client thread/INFO] [FML]: Holder lookups applied
-[02:18:47] [Client thread/INFO] [FML]: Applying holder lookups
-[02:18:47] [Client thread/INFO] [FML]: Holder lookups applied
-[02:18:47] [Client thread/INFO] [FML]: Applying holder lookups
-[02:18:47] [Client thread/INFO] [FML]: Holder lookups applied
-[02:18:47] [Client thread/INFO] [FML]: Applying holder lookups
-[02:18:47] [Client thread/INFO] [FML]: Holder lookups applied
-[02:18:47] [Client thread/INFO] [FML]: Injecting itemstacks
-[02:18:47] [Client thread/INFO] [FML]: Itemstack injection complete
-[02:18:47] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 55296200 nanos
-[02:18:48] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859
-[02:18:48] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
-[02:18:48] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
-[02:18:48] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[02:18:49] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
-[02:18:49] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
-[02:18:50] [Client thread/INFO] [FML]: Max texture size: 16384
-[02:18:51] [Client thread/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture fartsysadditions:textures/items/testsword.png with size 242x242 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[02:18:52] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
-[02:18:52] [Client thread/INFO] [FML]: Applying holder lookups
-[02:18:52] [Client thread/INFO] [FML]: Holder lookups applied
-[02:18:52] [Client thread/INFO] [FML]: Injecting itemstacks
-[02:18:52] [Client thread/INFO] [FML]: Itemstack injection complete
-[02:18:53] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
-[02:18:53] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
-[02:18:53] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
-[02:18:55] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
-[02:18:55] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
-[02:18:55] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[02:18:55] [Server thread/INFO] [FML]: Applying holder lookups
-[02:18:55] [Server thread/INFO] [FML]: Holder lookups applied
-[02:18:55] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@499fa823)
-[02:18:55] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement fartsysadditions:adv_find_vitiated_aether
+[03:03:31] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[03:03:31] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, fartsysadditions] at CLIENT
+[03:03:31] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, fartsysadditions] at SERVER
+[03:03:32] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 86619300 nanos
+[03:03:32] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:FartsysAdditions
+[03:03:32] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[03:03:33] [Client thread/INFO] [FML]: Found 1280 ObjectHolder annotations
+[03:03:33] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[03:03:33] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[03:03:33] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[03:03:33] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[03:03:33] [Client thread/INFO] [FML]: OBJLoader: Domain fartsysadditions has been added.
+[03:03:33] [Client thread/INFO] [FML]: Applying holder lookups
+[03:03:33] [Client thread/INFO] [FML]: Holder lookups applied
+[03:03:33] [Client thread/INFO] [FML]: Applying holder lookups
+[03:03:33] [Client thread/INFO] [FML]: Holder lookups applied
+[03:03:33] [Client thread/INFO] [FML]: Applying holder lookups
+[03:03:33] [Client thread/INFO] [FML]: Holder lookups applied
+[03:03:33] [Client thread/INFO] [FML]: Applying holder lookups
+[03:03:33] [Client thread/INFO] [FML]: Holder lookups applied
+[03:03:33] [Client thread/INFO] [FML]: Injecting itemstacks
+[03:03:33] [Client thread/INFO] [FML]: Itemstack injection complete
+[03:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859
+[03:03:36] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[03:03:36] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[03:03:36] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[03:03:36] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[03:03:36] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[03:03:39] [Client thread/INFO] [FML]: Max texture size: 16384
+[03:03:39] [Client thread/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture fartsysadditions:textures/items/testsword.png with size 242x242 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[03:03:40] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
+[03:03:41] [Client thread/INFO] [FML]: Applying holder lookups
+[03:03:41] [Client thread/INFO] [FML]: Holder lookups applied
+[03:03:41] [Client thread/INFO] [FML]: Injecting itemstacks
+[03:03:41] [Client thread/INFO] [FML]: Itemstack injection complete
+[03:03:41] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[03:03:41] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[03:03:41] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[03:03:45] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[03:03:45] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[03:03:45] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[03:03:45] [Server thread/INFO] [FML]: Applying holder lookups
+[03:03:45] [Server thread/INFO] [FML]: Holder lookups applied
+[03:03:46] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@23831c5f)
+[03:03:46] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement fartsysadditions:adv_find_vitiated_aether
 com.google.gson.JsonSyntaxException: Unknown recipe 'fartsysadditions:deleted_mod_element'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[AdvancementRewards$Deserializer.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[AdvancementRewards$Deserializer.class:?]
@@ -493,7 +493,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'fartsysadditions:deleted_mo
 	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [IntegratedServer.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[02:18:55] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement fartsysadditions:adv_music_press
+[03:03:46] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement fartsysadditions:adv_music_press
 com.google.gson.JsonSyntaxException: Unknown recipe 'fartsysadditions:rec_pvc_plastic_01'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[AdvancementRewards$Deserializer.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[AdvancementRewards$Deserializer.class:?]
@@ -521,8 +521,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'fartsysadditions:rec_pvc_pl
 	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [IntegratedServer.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[02:18:55] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement fartsysadditions:adv_resonant_aether
-com.google.gson.JsonSyntaxException: Unknown recipe 'fartsysadditions:rec_restored_penitus'
+[03:03:46] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement fartsysadditions:adv_resonant_aether
+com.google.gson.JsonSyntaxException: Unknown recipe 'fartsysadditions:rec_restored_battle_on_the_big_bridge'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[AdvancementRewards$Deserializer.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[AdvancementRewards$Deserializer.class:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
@@ -549,45 +549,39 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'fartsysadditions:rec_restor
 	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [IntegratedServer.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_1m_sharts: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@7820f529, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_1m_sharts=net.minecraft.advancements.Criterion@5e2783d4}, requirements=[[adv_1m_sharts]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_100k_sharts: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@77101bd8, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_100k_sharts=net.minecraft.advancements.Criterion@154b1fcd}, requirements=[[adv_100k_sharts]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_shart_death: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@1fa6ada2, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_shart_death=net.minecraft.advancements.Criterion@52de6cec}, requirements=[[adv_shart_death]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_restored_aether: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@28c0cd34, rewards=AdvancementRewards{experience=200, loot=[], recipes=[], function=null}, criteria={adv_restored_aether=net.minecraft.advancements.Criterion@9586dcc}, requirements=[[adv_restored_aether]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_blank_music_disc: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@a7a0c8a, rewards=AdvancementRewards{experience=0, loot=[], recipes=[fartsysadditions:rec_penitus, fartsysadditions:rec_battle_on_the_big_bridge, fartsysadditions:rec_agent_of_inquiry, fartsysadditions:rec_a_land_long_dead, fartsysadditions:rec_brute_justice, fartsysadditions:rec_primals_brute_justice, fartsysadditions:rec_close_in_the_distance, fartsysadditions:rec_exponential_entropy, fartsysadditions:rec_primals_exponential_entropy, fartsysadditions:rec_footfalls, fartsysadditions:rec_infinity, fartsysadditions:rec_knowledge_never_sleeps, fartsysadditions:rec_landslide, fartsysadditions:rec_locus, fartsysadditions:rec_primals_locus, fartsysadditions:rec_lunar_whale, fartsysadditions:rec_metal, fartsysadditions:rec_out_of_time, fartsysadditions:rec_shadowbringers, fartsysadditions:rec_silent_regard_of_stars, fartsysadditions:rec_under_the_weight, fartsysadditions:rec_woe_that_is_madness, fartsysadditions:rec_insatiable, fartsysadditions:rec_silent_scream, fartsysadditions:rec_to_the_edge], function=null}, criteria={adv_blank_music_disc=net.minecraft.advancements.Criterion@40062604}, requirements=[[adv_blank_music_disc]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_cronus: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@3873a291, rewards=AdvancementRewards{experience=500, loot=[], recipes=[], function=null}, criteria={adv_cronus=net.minecraft.advancements.Criterion@49b4859d}, requirements=[[adv_cronus]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_tm_sharts: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@ff3fa9b, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_tm_sharts=net.minecraft.advancements.Criterion@62860e95}, requirements=[[adv_tm_sharts]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_shart_special: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@7edf5c23, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_shart_special=net.minecraft.advancements.Criterion@2cff07cb}, requirements=[[adv_shart_special]]}
-[02:18:55] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_pvc_powder: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@2604d387, rewards=AdvancementRewards{experience=200, loot=[], recipes=[fartsysadditions:rec_magitek_music_press], function=null}, criteria={adv_pvc_powder=net.minecraft.advancements.Criterion@729159d3}, requirements=[[adv_pvc_powder]]}
-[02:18:55] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[02:18:55] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@499fa823)
-[02:18:56] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@499fa823)
-[02:18:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[02:18:56] [Server thread/INFO] [FML]: Unloading dimension -1
-[02:18:56] [Server thread/INFO] [FML]: Unloading dimension 1
-[02:18:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 15, from 10
-[02:18:58] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
-[02:18:58] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[02:18:58] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,mcp@9.42,fartsysadditions@1.0.0
-[02:18:58] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
-[02:18:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:18:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player609[local:E:4b2c0cf7] logged in with entity id 330 at (-1355.3813231017587, 75.0, 1472.8227944848493)
-[02:18:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player609 joined the game
-[02:18:59] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[02:18:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[02:18:59] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 3 advancements
-[02:19:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player609 has made the advancement [Local Brewery]
-[02:19:06] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player609 has made the advancement [Local Brewery]
-[02:19:06] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 8 advancements
-[02:19:27] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 10 advancements
-[02:19:55] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[02:19:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[02:19:56] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
-[02:19:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[02:19:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[02:19:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[02:19:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
-[02:19:56] [Server thread/INFO] [FML]: Unloading dimension 0
-[02:19:56] [Server thread/INFO] [FML]: Applying holder lookups
-[02:19:56] [Server thread/INFO] [FML]: Holder lookups applied
-[02:19:56] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
-[02:19:56] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_1m_sharts: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@59e19005, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_1m_sharts=net.minecraft.advancements.Criterion@2172c60a}, requirements=[[adv_1m_sharts]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_100k_sharts: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@5e939f97, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_100k_sharts=net.minecraft.advancements.Criterion@696640d9}, requirements=[[adv_100k_sharts]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_shart_death: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@34ea4c97, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_shart_death=net.minecraft.advancements.Criterion@6f51b25b}, requirements=[[adv_shart_death]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_restored_aether: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@59d5f28f, rewards=AdvancementRewards{experience=200, loot=[], recipes=[], function=null}, criteria={adv_restored_aether=net.minecraft.advancements.Criterion@3bf44084}, requirements=[[adv_restored_aether]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_blank_music_disc: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@7045c958, rewards=AdvancementRewards{experience=0, loot=[], recipes=[fartsysadditions:rec_penitus, fartsysadditions:rec_battle_on_the_big_bridge, fartsysadditions:rec_agent_of_inquiry, fartsysadditions:rec_a_land_long_dead, fartsysadditions:rec_brute_justice, fartsysadditions:rec_primals_brute_justice, fartsysadditions:rec_close_in_the_distance, fartsysadditions:rec_exponential_entropy, fartsysadditions:rec_primals_exponential_entropy, fartsysadditions:rec_footfalls, fartsysadditions:rec_infinity, fartsysadditions:rec_knowledge_never_sleeps, fartsysadditions:rec_landslide, fartsysadditions:rec_locus, fartsysadditions:rec_primals_locus, fartsysadditions:rec_lunar_whale, fartsysadditions:rec_metal, fartsysadditions:rec_out_of_time, fartsysadditions:rec_shadowbringers, fartsysadditions:rec_silent_regard_of_stars, fartsysadditions:rec_under_the_weight, fartsysadditions:rec_woe_that_is_madness, fartsysadditions:rec_insatiable, fartsysadditions:rec_silent_scream, fartsysadditions:rec_to_the_edge], function=null}, criteria={adv_blank_music_disc=net.minecraft.advancements.Criterion@692c47b4}, requirements=[[adv_blank_music_disc]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_cronus: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@504b0766, rewards=AdvancementRewards{experience=500, loot=[], recipes=[], function=null}, criteria={adv_cronus=net.minecraft.advancements.Criterion@5b51eb3c}, requirements=[[adv_cronus]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_tm_sharts: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@46b4eb14, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_tm_sharts=net.minecraft.advancements.Criterion@12e8f0f5}, requirements=[[adv_tm_sharts]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_shart_special: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@309bfadc, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={adv_shart_special=net.minecraft.advancements.Criterion@6521cb62}, requirements=[[adv_shart_special]]}
+[03:03:46] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList]: Couldn't load advancement fartsysadditions:adv_pvc_powder: Task Advancement{parentId=fartsysadditions:adv_find_vitiated_aether, display=net.minecraft.advancements.DisplayInfo@7cee3dd1, rewards=AdvancementRewards{experience=200, loot=[], recipes=[fartsysadditions:rec_magitek_music_press], function=null}, criteria={adv_pvc_powder=net.minecraft.advancements.Criterion@177f93f5}, requirements=[[adv_pvc_powder]]}
+[03:03:46] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[03:03:46] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@23831c5f)
+[03:03:46] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@23831c5f)
+[03:03:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[03:03:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:03:47] [Server thread/INFO] [FML]: Unloading dimension 1
+[03:03:47] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 15, from 10
+[03:03:48] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[03:03:48] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[03:03:48] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,mcp@9.42,fartsysadditions@1.0.0
+[03:03:48] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[03:03:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:03:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player359[local:E:5b18c401] logged in with entity id 324 at (-1354.8068640594233, 75.0, 1473.1048211394282)
+[03:03:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player359 joined the game
+[03:03:49] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:03:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:03:49] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 5 advancements
+[03:06:07] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:06:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:06:40] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:06:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:07:09] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:07:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:07:32] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[03:07:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[03:09:28] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 7 advancements
+[03:09:47] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 10 advancements

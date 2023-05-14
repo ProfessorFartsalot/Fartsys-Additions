@@ -2,19 +2,42 @@
   "_fv": 18,
   "_type": "recipe",
   "definition": {
-    "recipeType": "Brewing",
+    "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
-    "brewingInputStack": {
-      "value": "CUSTOM:ResonantAether"
-    },
-    "brewingIngredientStack": {
-      "value": "CUSTOM:FadedUnderTheWeight"
-    },
-    "brewingReturnStack": {
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FadedUnderTheWeight"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ResonantAether"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
       "value": "CUSTOM:RestoredUnderTheWeight"
     },
     "name": "rec_restored_under_the_weight",
