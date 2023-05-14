@@ -2876,7 +2876,8 @@
       "sortid": 305,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "vitiated_aether_crystal"
+      "registry_name": "vitiated_aether_crystal",
+      "path": "~/Misc"
     },
     {
       "name": "FAZombieLoot",
@@ -2892,7 +2893,8 @@
       "sortid": 307,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "fa_skeleton_loot"
+      "registry_name": "fa_skeleton_loot",
+      "path": "~/Recipes"
     },
     {
       "name": "FASpiderLoot",
@@ -2924,7 +2926,8 @@
       "sortid": 311,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_aether_crystal"
+      "registry_name": "restored_aether_crystal",
+      "path": "~/Misc"
     },
     {
       "name": "RecRestoredAether",
@@ -2932,7 +2935,8 @@
       "sortid": 312,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_aether"
+      "registry_name": "rec_restored_aether",
+      "path": "~/Recipes"
     },
     {
       "name": "PVCPlastic",
@@ -2940,7 +2944,8 @@
       "sortid": 313,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "pvc_dust"
+      "registry_name": "pvc_dust",
+      "path": "~/Misc"
     },
     {
       "name": "RecPVCPlastic01",
@@ -2948,7 +2953,8 @@
       "sortid": 314,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_01"
+      "registry_name": "rec_pvc_plastic_01",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic02",
@@ -2956,7 +2962,8 @@
       "sortid": 315,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_02"
+      "registry_name": "rec_pvc_plastic_02",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic03",
@@ -2964,7 +2971,8 @@
       "sortid": 316,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_03"
+      "registry_name": "rec_pvc_plastic_03",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic04",
@@ -2972,7 +2980,8 @@
       "sortid": 317,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_04"
+      "registry_name": "rec_pvc_plastic_04",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic05",
@@ -2980,7 +2989,8 @@
       "sortid": 318,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_05"
+      "registry_name": "rec_pvc_plastic_05",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic06",
@@ -2988,7 +2998,8 @@
       "sortid": 319,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_06"
+      "registry_name": "rec_pvc_plastic_06",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic07",
@@ -2996,7 +3007,8 @@
       "sortid": 320,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_07"
+      "registry_name": "rec_pvc_plastic_07",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic08",
@@ -3004,7 +3016,8 @@
       "sortid": 321,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_08"
+      "registry_name": "rec_pvc_plastic_08",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic09",
@@ -3012,7 +3025,8 @@
       "sortid": 322,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_09"
+      "registry_name": "rec_pvc_plastic_09",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic0a",
@@ -3020,7 +3034,8 @@
       "sortid": 323,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_0a"
+      "registry_name": "rec_pvc_plastic_0a",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic0b",
@@ -3028,7 +3043,8 @@
       "sortid": 324,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_0b"
+      "registry_name": "rec_pvc_plastic_0b",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic0c",
@@ -3036,7 +3052,8 @@
       "sortid": 325,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_0c"
+      "registry_name": "rec_pvc_plastic_0c",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic0d",
@@ -3044,7 +3061,8 @@
       "sortid": 326,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_0d"
+      "registry_name": "rec_pvc_plastic_0d",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic0e",
@@ -3052,7 +3070,8 @@
       "sortid": 327,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_0e"
+      "registry_name": "rec_pvc_plastic_0e",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPVCPlastic0f",
@@ -3060,7 +3079,8 @@
       "sortid": 328,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_pvc_plastic_0f"
+      "registry_name": "rec_pvc_plastic_0f",
+      "path": "~/Recipes"
     },
     {
       "name": "MagitekMusicPress",
@@ -3068,7 +3088,8 @@
       "sortid": 329,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "magitek_music_press"
+      "registry_name": "magitek_music_press",
+      "path": "~/Recipes"
     },
     {
       "name": "RecMagitekMusicPress",
@@ -3076,7 +3097,8 @@
       "sortid": 330,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_magitek_music_press"
+      "registry_name": "rec_magitek_music_press",
+      "path": "~/Recipes"
     },
     {
       "name": "Cronus",
@@ -3084,7 +3106,8 @@
       "sortid": 332,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "cronus"
+      "registry_name": "cronus",
+      "path": "~/Misc"
     },
     {
       "name": "CronusEntitySwingsItem",
@@ -3100,7 +3123,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BlankMusicDisc",
@@ -3108,7 +3132,8 @@
       "sortid": 333,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "blank_music_disc"
+      "registry_name": "blank_music_disc",
+      "path": "~/Misc"
     },
     {
       "name": "FAAbandonedMineshaftLoot",
@@ -3340,7 +3365,8 @@
       "sortid": 359,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_notch_apple"
+      "registry_name": "rec_notch_apple",
+      "path": "~/Recipes"
     },
     {
       "name": "RecResonantAether",
@@ -3348,7 +3374,8 @@
       "sortid": 360,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_resonant_aether"
+      "registry_name": "rec_resonant_aether",
+      "path": "~/Recipes"
     },
     {
       "name": "RestoredPenitus",
@@ -3356,7 +3383,8 @@
       "sortid": 361,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_penitus"
+      "registry_name": "restored_penitus",
+      "path": "~/Music Discs"
     },
     {
       "name": "ResonantAether",
@@ -3364,7 +3392,8 @@
       "sortid": 362,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "resonant_aether"
+      "registry_name": "resonant_aether",
+      "path": "~/Misc"
     },
     {
       "name": "RecRestoredPenitus",
@@ -3372,7 +3401,8 @@
       "sortid": 362,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_penitus"
+      "registry_name": "rec_restored_penitus",
+      "path": "~/Recipes"
     },
     {
       "name": "RestoredBattleOnTheBigBridge",
@@ -3380,7 +3410,8 @@
       "sortid": 363,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_battle_on_the_big_bridge"
+      "registry_name": "restored_battle_on_the_big_bridge",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredAgentOfInquiry",
@@ -3388,7 +3419,8 @@
       "sortid": 364,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_agent_of_inquiry"
+      "registry_name": "restored_agent_of_inquiry",
+      "path": "~/Music Discs"
     },
     {
       "name": "RecRestoredBattleOnTheBigBridge",
@@ -3396,7 +3428,8 @@
       "sortid": 363,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_battle_on_the_big_bridge"
+      "registry_name": "rec_restored_battle_on_the_big_bridge",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredALandLongDead",
@@ -3404,7 +3437,8 @@
       "sortid": 365,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_a_land_long_dead"
+      "registry_name": "restored_a_land_long_dead",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredBruteJustice",
@@ -3412,7 +3446,8 @@
       "sortid": 366,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_brute_justice"
+      "registry_name": "restored_brute_justice",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredPrimalsBruteJustice",
@@ -3420,7 +3455,8 @@
       "sortid": 367,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_primals_brute_justice"
+      "registry_name": "restored_primals_brute_justice",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredCloseInTheDistance",
@@ -3428,7 +3464,8 @@
       "sortid": 368,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_close_in_the_distance"
+      "registry_name": "restored_close_in_the_distance",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredExponentialEntropy",
@@ -3436,7 +3473,8 @@
       "sortid": 369,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_exponential_entropy"
+      "registry_name": "restored_exponential_entropy",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredPrimalsExponentialEntropy",
@@ -3444,7 +3482,8 @@
       "sortid": 370,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_primals_exponential_entropy"
+      "registry_name": "restored_primals_exponential_entropy",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredFootfalls",
@@ -3452,7 +3491,8 @@
       "sortid": 371,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_footfalls"
+      "registry_name": "restored_footfalls",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredInfinity",
@@ -3460,7 +3500,8 @@
       "sortid": 372,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_infinity"
+      "registry_name": "restored_infinity",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredKnowledgeNeverSleeps",
@@ -3468,7 +3509,8 @@
       "sortid": 373,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_knowledge_never_sleeps"
+      "registry_name": "restored_knowledge_never_sleeps",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredLandslide",
@@ -3476,7 +3518,8 @@
       "sortid": 374,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_landslide"
+      "registry_name": "restored_landslide",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredLocus",
@@ -3484,7 +3527,8 @@
       "sortid": 375,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_locus"
+      "registry_name": "restored_locus",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredPrimalsLocus",
@@ -3492,7 +3536,8 @@
       "sortid": 376,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_primals_locus"
+      "registry_name": "restored_primals_locus",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredLunarWhale",
@@ -3500,7 +3545,8 @@
       "sortid": 377,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_lunar_whale"
+      "registry_name": "restored_lunar_whale",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredMetal",
@@ -3508,7 +3554,8 @@
       "sortid": 378,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_metal"
+      "registry_name": "restored_metal",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredOutOfTime",
@@ -3516,7 +3563,8 @@
       "sortid": 379,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_out_of_time"
+      "registry_name": "restored_out_of_time",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredShadowbringers",
@@ -3524,7 +3572,8 @@
       "sortid": 380,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_shadowbringers"
+      "registry_name": "restored_shadowbringers",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredSilentRegardOfStars",
@@ -3532,7 +3581,8 @@
       "sortid": 381,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_silent_regard_of_stars"
+      "registry_name": "restored_silent_regard_of_stars",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredUnderTheWeight",
@@ -3540,7 +3590,8 @@
       "sortid": 382,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_under_the_weight"
+      "registry_name": "restored_under_the_weight",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredWoeThatIsMadness",
@@ -3548,7 +3599,8 @@
       "sortid": 383,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_woe_that_is_madness"
+      "registry_name": "restored_woe_that_is_madness",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredInsatiable",
@@ -3556,7 +3608,8 @@
       "sortid": 384,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_insatiable"
+      "registry_name": "restored_insatiable",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredToTheEdge",
@@ -3564,7 +3617,8 @@
       "sortid": 385,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_to_the_edge"
+      "registry_name": "restored_to_the_edge",
+      "path": "~/Music Discs"
     },
     {
       "name": "FadedSilentScream",
@@ -3572,7 +3626,8 @@
       "sortid": 386,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "faded_silent_scream"
+      "registry_name": "faded_silent_scream",
+      "path": "~/Music Discs"
     },
     {
       "name": "RestoredSilentScream",
@@ -3580,7 +3635,8 @@
       "sortid": 387,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "restored_silent_scream"
+      "registry_name": "restored_silent_scream",
+      "path": "~/Music Discs"
     },
     {
       "name": "RecRestoredAgentOfInquiry",
@@ -3588,7 +3644,8 @@
       "sortid": 388,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_agent_of_inquiry"
+      "registry_name": "rec_restored_agent_of_inquiry",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredALandLongDead",
@@ -3596,7 +3653,8 @@
       "sortid": 389,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_a_land_long_dead"
+      "registry_name": "rec_restored_a_land_long_dead",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredBruteJustice",
@@ -3604,7 +3662,8 @@
       "sortid": 390,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_brute_justice"
+      "registry_name": "rec_restored_brute_justice",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredPrimalsBruteJustice",
@@ -3612,7 +3671,8 @@
       "sortid": 391,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_primals_brute_justice"
+      "registry_name": "rec_restored_primals_brute_justice",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredCloseInTheDistance",
@@ -3620,7 +3680,8 @@
       "sortid": 392,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_close_in_the_distance"
+      "registry_name": "rec_restored_close_in_the_distance",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredExponentialEntropy",
@@ -3628,7 +3689,8 @@
       "sortid": 393,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_exponential_entropy"
+      "registry_name": "rec_restored_exponential_entropy",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredPrimalsExponentialEntropy",
@@ -3636,7 +3698,8 @@
       "sortid": 394,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_primals_exponential_entropy"
+      "registry_name": "rec_restored_primals_exponential_entropy",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredFootfalls",
@@ -3644,7 +3707,8 @@
       "sortid": 395,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_footfalls"
+      "registry_name": "rec_restored_footfalls",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredInfinity",
@@ -3652,7 +3716,8 @@
       "sortid": 396,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_infinity"
+      "registry_name": "rec_restored_infinity",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredKnowledgeNeverSleeps",
@@ -3660,7 +3725,8 @@
       "sortid": 397,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_knowledge_never_sleeps"
+      "registry_name": "rec_restored_knowledge_never_sleeps",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredLandslide",
@@ -3668,7 +3734,8 @@
       "sortid": 398,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_landslide"
+      "registry_name": "rec_restored_landslide",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredLocus",
@@ -3676,7 +3743,8 @@
       "sortid": 399,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_locus"
+      "registry_name": "rec_restored_locus",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredPrimalsLocus",
@@ -3684,7 +3752,8 @@
       "sortid": 400,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_primals_locus"
+      "registry_name": "rec_restored_primals_locus",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredLunarWhale",
@@ -3692,7 +3761,8 @@
       "sortid": 401,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_lunar_whale"
+      "registry_name": "rec_restored_lunar_whale",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredMetal",
@@ -3700,7 +3770,8 @@
       "sortid": 402,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_metal"
+      "registry_name": "rec_restored_metal",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredOutOfTime",
@@ -3708,7 +3779,8 @@
       "sortid": 403,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_out_of_time"
+      "registry_name": "rec_restored_out_of_time",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredShadowbringers",
@@ -3716,7 +3788,8 @@
       "sortid": 404,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_shadowbringers"
+      "registry_name": "rec_restored_shadowbringers",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredSilentRegardOfStars",
@@ -3724,7 +3797,8 @@
       "sortid": 405,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_silent_regard_of_stars"
+      "registry_name": "rec_restored_silent_regard_of_stars",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredUnderTheWeight",
@@ -3732,7 +3806,8 @@
       "sortid": 406,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_under_the_weight"
+      "registry_name": "rec_restored_under_the_weight",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredWoeThatIsMadness",
@@ -3740,7 +3815,8 @@
       "sortid": 407,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_woe_that_is_madness"
+      "registry_name": "rec_restored_woe_that_is_madness",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredInsatiable",
@@ -3748,7 +3824,8 @@
       "sortid": 408,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_insatiable"
+      "registry_name": "rec_restored_insatiable",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredSilentScream",
@@ -3756,7 +3833,8 @@
       "sortid": 409,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_silent_scream"
+      "registry_name": "rec_restored_silent_scream",
+      "path": "~/Recipes"
     },
     {
       "name": "RecRestoredToTheEdge",
@@ -3764,7 +3842,8 @@
       "sortid": 410,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_restored_to_the_edge"
+      "registry_name": "rec_restored_to_the_edge",
+      "path": "~/Recipes"
     },
     {
       "name": "FASimpleDungeonLoot",
@@ -3772,7 +3851,8 @@
       "sortid": 411,
       "compiles": true,
       "locked_code": true,
-      "registry_name": "fa_simple_dungeon_loot"
+      "registry_name": "fa_simple_dungeon_loot",
+      "path": "~/Recipes"
     },
     {
       "name": "RecSaddle",
@@ -3780,7 +3860,8 @@
       "sortid": 412,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_saddle"
+      "registry_name": "rec_saddle",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPenitus",
@@ -3788,7 +3869,8 @@
       "sortid": 413,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_penitus"
+      "registry_name": "rec_penitus",
+      "path": "~/Recipes"
     },
     {
       "name": "RecBattleOnTheBigBridge",
@@ -3796,7 +3878,8 @@
       "sortid": 414,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_battle_on_the_big_bridge"
+      "registry_name": "rec_battle_on_the_big_bridge",
+      "path": "~/Recipes"
     },
     {
       "name": "RecAgentOfInquiry",
@@ -3804,7 +3887,8 @@
       "sortid": 415,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_agent_of_inquiry"
+      "registry_name": "rec_agent_of_inquiry",
+      "path": "~/Recipes"
     },
     {
       "name": "RecALandLongDead",
@@ -3812,7 +3896,8 @@
       "sortid": 416,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_a_land_long_dead"
+      "registry_name": "rec_a_land_long_dead",
+      "path": "~/Recipes"
     },
     {
       "name": "RecBruteJustice",
@@ -3820,7 +3905,8 @@
       "sortid": 417,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_brute_justice"
+      "registry_name": "rec_brute_justice",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPrimalsBruteJustice",
@@ -3828,7 +3914,8 @@
       "sortid": 418,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_primals_brute_justice"
+      "registry_name": "rec_primals_brute_justice",
+      "path": "~/Recipes"
     },
     {
       "name": "RecCloseInTheDistance",
@@ -3836,7 +3923,8 @@
       "sortid": 419,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_close_in_the_distance"
+      "registry_name": "rec_close_in_the_distance",
+      "path": "~/Recipes"
     },
     {
       "name": "RecExponentialEntropy",
@@ -3844,7 +3932,8 @@
       "sortid": 420,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_exponential_entropy"
+      "registry_name": "rec_exponential_entropy",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPrimalsExponentialEntropy",
@@ -3852,7 +3941,8 @@
       "sortid": 421,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_primals_exponential_entropy"
+      "registry_name": "rec_primals_exponential_entropy",
+      "path": "~/Recipes"
     },
     {
       "name": "RecFootfalls",
@@ -3860,7 +3950,8 @@
       "sortid": 422,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_footfalls"
+      "registry_name": "rec_footfalls",
+      "path": "~/Recipes"
     },
     {
       "name": "RecInfinity",
@@ -3868,7 +3959,8 @@
       "sortid": 423,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_infinity"
+      "registry_name": "rec_infinity",
+      "path": "~/Recipes"
     },
     {
       "name": "RecKnowledgeNeverSleeps",
@@ -3876,7 +3968,8 @@
       "sortid": 424,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_knowledge_never_sleeps"
+      "registry_name": "rec_knowledge_never_sleeps",
+      "path": "~/Recipes"
     },
     {
       "name": "RecLandslide",
@@ -3884,7 +3977,8 @@
       "sortid": 425,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_landslide"
+      "registry_name": "rec_landslide",
+      "path": "~/Recipes"
     },
     {
       "name": "RecLocus",
@@ -3892,7 +3986,8 @@
       "sortid": 426,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_locus"
+      "registry_name": "rec_locus",
+      "path": "~/Recipes"
     },
     {
       "name": "RecPrimalsLocus",
@@ -3900,7 +3995,8 @@
       "sortid": 427,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_primals_locus"
+      "registry_name": "rec_primals_locus",
+      "path": "~/Recipes"
     },
     {
       "name": "RecLunarWhale",
@@ -3908,7 +4004,8 @@
       "sortid": 428,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_lunar_whale"
+      "registry_name": "rec_lunar_whale",
+      "path": "~/Recipes"
     },
     {
       "name": "RecMetal",
@@ -3916,7 +4013,8 @@
       "sortid": 429,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_metal"
+      "registry_name": "rec_metal",
+      "path": "~/Recipes"
     },
     {
       "name": "RecOutOfTime",
@@ -3924,7 +4022,8 @@
       "sortid": 430,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_out_of_time"
+      "registry_name": "rec_out_of_time",
+      "path": "~/Recipes"
     },
     {
       "name": "RecShadowbringers",
@@ -3932,7 +4031,8 @@
       "sortid": 431,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_shadowbringers"
+      "registry_name": "rec_shadowbringers",
+      "path": "~/Recipes"
     },
     {
       "name": "RecSilentRegardOfStars",
@@ -3940,7 +4040,8 @@
       "sortid": 432,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_silent_regard_of_stars"
+      "registry_name": "rec_silent_regard_of_stars",
+      "path": "~/Recipes"
     },
     {
       "name": "RecUnderTheWeight",
@@ -3948,7 +4049,8 @@
       "sortid": 433,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_under_the_weight"
+      "registry_name": "rec_under_the_weight",
+      "path": "~/Recipes"
     },
     {
       "name": "RecWoeThatIsMadness",
@@ -3956,7 +4058,8 @@
       "sortid": 434,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_woe_that_is_madness"
+      "registry_name": "rec_woe_that_is_madness",
+      "path": "~/Recipes"
     },
     {
       "name": "FFXIVInsatiable",
@@ -3964,7 +4067,8 @@
       "sortid": 435,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ffxiv_insatiable"
+      "registry_name": "ffxiv_insatiable",
+      "path": "~/Music Discs"
     },
     {
       "name": "RecInsatiable",
@@ -3972,7 +4076,8 @@
       "sortid": 435,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_insatiable"
+      "registry_name": "rec_insatiable",
+      "path": "~/Recipes"
     },
     {
       "name": "FFXIVSilentScream",
@@ -3980,7 +4085,8 @@
       "sortid": 436,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ffxiv_silent_scream"
+      "registry_name": "ffxiv_silent_scream",
+      "path": "~/Music Discs"
     },
     {
       "name": "FFXIVToTheEdge",
@@ -3988,7 +4094,8 @@
       "sortid": 437,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ffxiv_to_the_edge"
+      "registry_name": "ffxiv_to_the_edge",
+      "path": "~/Music Discs"
     },
     {
       "name": "RecSilentScream",
@@ -3996,7 +4103,8 @@
       "sortid": 438,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_silent_scream"
+      "registry_name": "rec_silent_scream",
+      "path": "~/Recipes"
     },
     {
       "name": "RecToTheEdge",
@@ -4004,7 +4112,8 @@
       "sortid": 439,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_to_the_edge"
+      "registry_name": "rec_to_the_edge",
+      "path": "~/Recipes"
     },
     {
       "name": "RecBlankMusicDisc",
@@ -4012,7 +4121,8 @@
       "sortid": 440,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_blank_music_disc"
+      "registry_name": "rec_blank_music_disc",
+      "path": "~/Recipes"
     },
     {
       "name": "AdvFindVitiatedAether",
@@ -4020,7 +4130,8 @@
       "sortid": 441,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_find_vitiated_aether"
+      "registry_name": "adv_find_vitiated_aether",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvResonantAether",
@@ -4028,7 +4139,8 @@
       "sortid": 442,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_resonant_aether"
+      "registry_name": "adv_resonant_aether",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvRestoredAether",
@@ -4036,7 +4148,8 @@
       "sortid": 443,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_restored_aether"
+      "registry_name": "adv_restored_aether",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvShartSpecial",
@@ -4044,7 +4157,8 @@
       "sortid": 444,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_shart_special"
+      "registry_name": "adv_shart_special",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvShartDeath",
@@ -4052,7 +4166,8 @@
       "sortid": 445,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_shart_death"
+      "registry_name": "adv_shart_death",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvTMSharts",
@@ -4060,7 +4175,8 @@
       "sortid": 446,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_tm_sharts"
+      "registry_name": "adv_tm_sharts",
+      "path": "~/Advancements"
     },
     {
       "name": "Adv1mSharts",
@@ -4068,7 +4184,8 @@
       "sortid": 447,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_1m_sharts"
+      "registry_name": "adv_1m_sharts",
+      "path": "~/Advancements"
     },
     {
       "name": "Adv100kSharts",
@@ -4076,7 +4193,8 @@
       "sortid": 448,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_100k_sharts"
+      "registry_name": "adv_100k_sharts",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvPVCPowder",
@@ -4084,7 +4202,8 @@
       "sortid": 449,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_pvc_powder"
+      "registry_name": "adv_pvc_powder",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvMusicPress",
@@ -4092,7 +4211,8 @@
       "sortid": 450,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_music_press"
+      "registry_name": "adv_music_press",
+      "path": "~/Advancements"
     },
     {
       "name": "AdvBlankMusicDisc",
@@ -4100,7 +4220,8 @@
       "sortid": 450,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_blank_music_disc"
+      "registry_name": "adv_blank_music_disc",
+      "path": "~/Advancements"
     },
     {
       "name": "RecCronus",
@@ -4108,7 +4229,8 @@
       "sortid": 451,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rec_cronus"
+      "registry_name": "rec_cronus",
+      "path": "~/Recipes"
     },
     {
       "name": "AdvCronus",
@@ -4116,7 +4238,8 @@
       "sortid": 452,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "adv_cronus"
+      "registry_name": "adv_cronus",
+      "path": "~/Advancements"
     }
   ],
   "variable_elements": [],
@@ -4435,12 +4558,12 @@
   "language_map": {
     "en_us": {
       "item.fartsysadditions.faded_brute_justice": "Faded Copy of Metal - Brute Justice Mode",
-      "item.fartsysadditions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
-      "item.fartsysadditions.restored_out_of_time": "Restored Copy of Out Of Time",
       "item.ffxiv_primals_exponential_entropy.name": "FFXIV - The Primals - Exponential Entropy",
-      "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
-      "item.fartsysadditions.shart_one": "Micro Shart",
+      "item.fartsysadditions.restored_out_of_time": "Restored Copy of Out Of Time",
+      "item.fartsysadditions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.faded_a_land_long_dead.name": "Faded Copy of A Land Long Dead",
+      "item.fartsysadditions.shart_one": "Micro Shart",
+      "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
       "item.record.ffxiv_brute_justice.desc": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
       "item.fartsysadditions.kirby_battle_royale_dededestroyer_z.desc": "Kirby Battle Royale - Dededestroyer Z",
       "item.faded_lunar_whale.name": "Faded Copy of Lunar Whale",
@@ -4449,26 +4572,27 @@
       "item.record.ffxiv_primals_locus.desc": "Final Fantasy XIV - The Primals - Locus",
       "item.faded_footfalls.name": "Faded Copy of Footfalls",
       "item.fartsysadditions.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
+      "item.ffxiv_insatiable.name": "FFXIV - Insatiable",
       "item.fartsysadditions.ffxiv_footfalls": "FFXIV - Footfalls",
       "item.fartsysadditions.ffxiv_infinity.desc": "Final Fantasy XIV - Infinity (Zurvan)",
       "item.fartsysadditions.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "item.fartsysadditions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
-      "item.fartsysadditions.restored_primals_brute_justice": "Restored Copy of The Primals - Metal - Brute Justice Mode",
       "item.fartsysadditions.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
+      "item.fartsysadditions.restored_primals_brute_justice": "Restored Copy of The Primals - Metal - Brute Justice Mode",
       "advancements.adv_cronus.title": "A Godly Sword",
       "death.attack.woad": "%1$s experienced Professor\u0027s Ass.",
       "subtitles.ffxiv.primals.locus": "Final Fantasy XIV - The Primals - Locus",
       "item.faded_primals_brute_justice.name": "Faded Copy of The Primals - Metal - Primals Brute Justice",
       "item.record.ffxiv_footfalls.desc": "Final Fantasy XIV - Footfalls (Endwalker)",
-      "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "item.ffxiv_primals_locus.name": "FFXIV - The Primals - Locus",
+      "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "advancements.adv_pvc_powder.title": "Molten? Powdered? Music Disc..?",
       "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
       "item.record.ffxiva_land_long_dead.desc": "Final Fantasy XIV - A Land Long Dead (The Burn)",
       "item.fartsysadditions.ngea_cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
       "subtitles.touhou.unowenwasher": "Touhou Project - U.N. Owen Was Her? (EoSD/6.0 Flandre)",
-      "item.fartsysadditions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "itemGroup.tabfartsysadditions": "Fartsy\u0027s Additions",
+      "item.fartsysadditions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "item.fartsysadditions.faded_insatiable": "Faded Copy of Insatiable",
       "item.fartsysadditions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
       "item.fartsysadditions.restored_close_in_the_distance": "Restored Copy of Close in the Distance",
@@ -4558,6 +4682,7 @@
       "death.attack.selfdesharted": "%1$s self-desharted!",
       "item.fartsysadditions.faded_silent_regard_of_stars": "Faded Copy of The Silent Regard of Stars",
       "item.fartsysadditions.shart_ten": "Mini Shart",
+      "item.record.ffxiv_insatiable.desc": "Final Fantasy XIV - Insatiable",
       "item.record.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "item.fartsysadditions.ffxiv_woe_that_is_madness": "FFXIV - Woe That Is Madness",
       "item.fartsysadditions.shart_hundred": "Shart",
@@ -4587,6 +4712,7 @@
       "death.attack.waterydemise": "%1$s met a watery demise!",
       "advancements.adv_find_vitiated_aether.title": "What exactly IS this?",
       "subtitles.demetori.orientaldarkflight": "Demetori - Oriental Dark Flight",
+      "item.cronus.name": "Cronus",
       "item.fartsysadditions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
       "item.fartsysadditions.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "item.fartsysadditions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
@@ -4595,6 +4721,7 @@
       "item.restored_primals_locus.name": "Restored Copy of The Primals - Locus",
       "item.fartsysadditions.touhou_project_bad_apple": "Touhou Project - Bad Apple",
       "subtitles.ffxiv.alandlongdead": "Final Fantasy XIV - A Land Long Dead (The Burn)",
+      "item.record.ffxiv_silent_scream.desc": "Final Fantasy XIV - Silent Scream",
       "item.fartsysadditions.ffxiv_penitus.desc": "The Praetorium Theme",
       "item.fartsysadditions.faded_agent_of_inquiry": "Faded Copy of Agent Of Inquiry",
       "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
@@ -4609,13 +4736,16 @@
       "item.shart_thousand.name": "Kilo-shart",
       "advancements.adv_1m_sharts.descr": "Obtain one million sharts",
       "subtitles.slipknot.psychosocial": "Slipknot - Psychosocial",
+      "item.restored_aether_crystal.name": "Restored Aether Crystal",
       "item.fartsysadditions.ffxiv_primals_locus.desc": "Final Fantasy XIV - The Primals - Locus",
       "subtitles.nge.cruelangelsthesis": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
+      "item.resonant_aether.name": "Resonant Aether",
       "item.fartsysadditions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "item.fartsysadditions.ffxiv_battle_on_the_big_bridge.desc": "FFXIV - Battle on the Big Bridge (Gilgamesh Theme)",
       "item.fartsysadditions.restored_to_the_edge": "Restored Copy of To The Edge",
       "item.pvc_dust.name": "PVC Dust",
       "item.faded_primals_exponential_entropy.name": "Faded Copy of The Primals - Exponential Entropy",
+      "item.magitek_music_press.name": "Magitek Music Press",
       "subtitles.ffxiv.outoftime": "Final Fantasy XIV - Out of Time (Alexander)",
       "item.fartsysadditions.restored_agent_of_inquiry": "Restored Copy of Agent Of Inquiry",
       "item.fartsysadditions.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
@@ -4647,9 +4777,11 @@
       "item.fartsysadditions.ngea_cruel_angels_thesis": "NGE - A Cruel Angels Thesis",
       "item.fartsysadditions.restored_locus": "Restored Copy of Locus",
       "item.fartsysadditions.shart_hundred_thousand": "100 Kilo-Sharts",
+      "item.blank_music_disc.name": "Blank Music Disc",
       "subtitles.ffxiv.brutejusticemode": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
       "subtitles.xc2.battle": "Xenoblade Chronicles 2 - Battle!!",
       "item.fartsysadditions.dmc_5_devil_trigger.desc": "Devil May Cry 5 - Devil Trigger (Nero)",
+      "item.ffxiv_to_the_edge.name": "FFXIV - To The Edge",
       "item.fartsysadditions.cronus": "Cronus",
       "item.fartsysadditions.faded_landslide": "Faded Copy of Landslide",
       "item.ffxiv_agent_of_inquiry.name": "FFXIV - Agent Of Inquiry",
@@ -4703,6 +4835,7 @@
       "item.record.ffxiv_out_of_time.desc": "Final Fantasy XIV - Out of Time (Alexander)",
       "item.record.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "item.record.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
+      "item.record.ffxiv_to_the_edge.desc": "Final Fantasy XIV - To The Edge",
       "subtitles.ffxiv.silentscream": "Final Fantasy XIV - Silent Scream",
       "item.fartsysadditions.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
       "item.fartsysadditions.restored_knowledge_never_sleeps": "Restored Copy of Knowledge Never Sleeps",
@@ -4719,6 +4852,7 @@
       "item.fartsysadditions.faded_footfalls": "Faded Copy of Footfalls",
       "subtitles.ffxiv.exponentialentropy": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
       "item.record.ffxiv_metal.desc": "Final Fantasy XIV - Metal (Alexander)",
+      "item.ffxiv_silent_scream.name": "FFXIV - Silent Scream",
       "item.fartsysadditions.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode",
       "item.restored_primals_exponential_entropy.name": "Restored Copy of The Primals - Exponential Entropy",
       "item.fartsysadditions.restored_under_the_weight": "Restored Copy of Under The Weight",
