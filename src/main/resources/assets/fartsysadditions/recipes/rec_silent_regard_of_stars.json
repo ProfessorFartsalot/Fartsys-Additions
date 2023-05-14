@@ -1,0 +1,19 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:restored_silent_regard_of_stars"
+    },
+    {
+      "item": "fartsysadditions:magitek_music_press"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:ffxiv_silent_regard_of_stars",
+    "count": 1
+  }
+}

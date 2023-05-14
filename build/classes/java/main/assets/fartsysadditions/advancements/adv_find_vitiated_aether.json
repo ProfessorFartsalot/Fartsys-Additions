@@ -32,9 +32,9 @@
     }
   },
   "rewards": {
-    "experience": 200,
+    "experience": 400,
     "recipes": [
-      "fartsysadditions:rec_resonant_aether"
+      "fartsysadditions:deleted_mod_element"
     ]
   }
 }

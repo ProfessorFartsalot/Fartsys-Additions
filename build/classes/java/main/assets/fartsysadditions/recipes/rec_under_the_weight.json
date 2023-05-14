@@ -1,0 +1,19 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:restored_under_the_weight"
+    },
+    {
+      "item": "fartsysadditions:magitek_music_press"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:ffxiv_under_the_weight",
+    "count": 1
+  }
+}

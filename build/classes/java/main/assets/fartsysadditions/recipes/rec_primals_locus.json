@@ -1,0 +1,19 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:restored_primals_locus"
+    },
+    {
+      "item": "fartsysadditions:magitek_music_press"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:ffxiv_primals_locus",
+    "count": 1
+  }
+}

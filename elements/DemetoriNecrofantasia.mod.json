@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "name": "Demetori - Necrofantasia",
     "texture": "disc06",
+    "name": "Demetori - Necrofantasia",
     "description": "Demetori - Necrofantasia",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": true,
     "music": {
       "value": "CUSTOM:demetori.necrofantasia"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": true
   }
 }

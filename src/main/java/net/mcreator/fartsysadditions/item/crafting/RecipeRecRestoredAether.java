@@ -13,7 +13,7 @@ import net.mcreator.fartsysadditions.ElementsFartsysadditionsMod;
 @ElementsFartsysadditionsMod.ModElement.Tag
 public class RecipeRecRestoredAether extends ElementsFartsysadditionsMod.ModElement {
 	public RecipeRecRestoredAether(ElementsFartsysadditionsMod instance) {
-		super(instance, 312);
+		super(instance, 454);
 	}
 
 	@Override

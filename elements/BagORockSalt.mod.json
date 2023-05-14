@@ -1,5 +1,5 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "item",
   "definition": {
     "renderType": 0,
@@ -33,15 +33,6 @@
     "inventoryStackSize": 64,
     "onRightClickedOnBlock": {
       "name": "BagORockSaltSpawnRockSalt"
-    },
-    "isFood": false,
-    "nutritionalValue": 4,
-    "saturation": 0.3,
-    "eatResultItem": {
-      "value": ""
-    },
-    "isMeat": false,
-    "isAlwaysEdible": false,
-    "animation": "none"
+    }
   }
 }

@@ -9,7 +9,7 @@
     "group": "",
     "recipeShapeless": false,
     "brewingInputStack": {
-      "value": "POTION:WATER"
+      "value": "Items.POTIONITEM"
     },
     "brewingIngredientStack": {
       "value": "Items.COAL#0"

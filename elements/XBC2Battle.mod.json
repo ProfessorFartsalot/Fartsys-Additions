@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "name": "XBC 2 - Battle",
     "texture": "disc04",
+    "name": "XBC 2 - Battle",
     "description": "Xenoblade Chronicles 2 - Battle!!",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": true,
     "music": {
       "value": "CUSTOM:xc2.battle"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": true
   }
 }

@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "item": "fartsysadditions:resonant_aether"
+    },
+    "title": {
+      "translate": "advancements.adv_resonant_aether.title"
+    },
+    "description": {
+      "translate": "advancements.adv_resonant_aether.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_resonant_aether": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fartsysadditions:resonant_aether",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200,
+    "recipes": [
+      "fartsysadditions:rec_restored_penitus",
+      "fartsysadditions:rec_restored_battle_on_the_big_bridge",
+      "fartsysadditions:rec_restored_agent_of_inquiry",
+      "fartsysadditions:rec_restored_a_land_long_dead",
+      "fartsysadditions:rec_restored_brute_justice",
+      "fartsysadditions:rec_restored_primals_brute_justice",
+      "fartsysadditions:rec_restored_close_in_the_distance",
+      "fartsysadditions:rec_restored_exponential_entropy",
+      "fartsysadditions:rec_restored_primals_exponential_entropy",
+      "fartsysadditions:rec_restored_footfalls",
+      "fartsysadditions:rec_restored_infinity",
+      "fartsysadditions:rec_restored_knowledge_never_sleeps",
+      "fartsysadditions:rec_restored_landslide",
+      "fartsysadditions:rec_restored_locus",
+      "fartsysadditions:rec_restored_primals_locus",
+      "fartsysadditions:rec_restored_lunar_whale",
+      "fartsysadditions:rec_restored_metal",
+      "fartsysadditions:rec_restored_out_of_time",
+      "fartsysadditions:rec_restored_shadowbringers",
+      "fartsysadditions:rec_restored_silent_regard_of_stars",
+      "fartsysadditions:rec_restored_under_the_weight",
+      "fartsysadditions:rec_restored_woe_that_is_madness",
+      "fartsysadditions:rec_restored_insatiable",
+      "fartsysadditions:rec_restored_silent_scream",
+      "fartsysadditions:rec_restored_to_the_edge",
+      "fartsysadditions:rec_magitek_music_press",
+      "fartsysadditions:rec_pvc_plastic_01",
+      "fartsysadditions:rec_pvc_plastic_02",
+      "fartsysadditions:rec_pvc_plastic_03",
+      "fartsysadditions:rec_pvc_plastic_04",
+      "fartsysadditions:rec_pvc_plastic_05",
+      "fartsysadditions:rec_pvc_plastic_06",
+      "fartsysadditions:rec_pvc_plastic_07",
+      "fartsysadditions:rec_pvc_plastic_08",
+      "fartsysadditions:rec_pvc_plastic_09",
+      "fartsysadditions:rec_pvc_plastic_0a",
+      "fartsysadditions:rec_pvc_plastic_0b",
+      "fartsysadditions:rec_pvc_plastic_0c",
+      "fartsysadditions:deleted_mod_element",
+      "fartsysadditions:rec_pvc_plastic_0e",
+      "fartsysadditions:rec_pvc_plastic_0f"
+    ]
+  },
+  "parent": "fartsysadditions:adv_find_vitiated_aether"
+}

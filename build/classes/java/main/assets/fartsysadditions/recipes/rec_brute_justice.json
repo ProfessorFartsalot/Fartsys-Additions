@@ -1,0 +1,19 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:restored_brute_justice"
+    },
+    {
+      "item": "fartsysadditions:magitek_music_press"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:ffxiv_brute_justice",
+    "count": 1
+  }
+}

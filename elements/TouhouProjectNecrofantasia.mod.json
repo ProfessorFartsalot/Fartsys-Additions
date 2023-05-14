@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "name": "Touhou Project - Necrofantasia",
     "texture": "disc06",
+    "name": "Touhou Project - Necrofantasia",
     "description": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": true,
     "music": {
       "value": "CUSTOM:touhou.necrofantasia"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": true
   }
 }

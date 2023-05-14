@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "name": "DMC 5 - Bury The Light (Mission 20)",
     "texture": "disc02",
+    "name": "DMC 5 - Bury The Light (Mission 20)",
     "description": "Devil May Cry 5 - Bury The Light (Mission 20 Vergil)",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": true,
     "music": {
       "value": "CUSTOM:dmc5.burythelightmission20"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": true
   }
 }

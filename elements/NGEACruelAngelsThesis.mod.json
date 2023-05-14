@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "name": "NGE - A Cruel Angels Thesis",
     "texture": "disc09",
+    "name": "NGE - A Cruel Angels Thesis",
     "description": "Neon Genesis Evangelion - A Cruel Angel's Thesis (OP)",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": true,
     "music": {
       "value": "CUSTOM:nge.cruelangelsthesis"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": true
   }
 }

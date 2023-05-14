@@ -1,0 +1,553 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:golden_apple",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_apple",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:name_tag",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "minecraft:book",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_pickaxe",
+          "weight": 5
+        },
+        {
+          "type": "empty",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 9
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 9
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:coal",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 8
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bread",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "minecraft:melon_seeds",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:pumpkin_seeds",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:beetroot_seeds",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:rail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ],
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_rail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:detector_rail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:activator_rail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:torch",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ],
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "rolls": 12,
+      "entries": [
+        {
+          "type": "item",
+          "name": "fartsysadditions:vitiated_aether_crystal",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_penitus",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_battle_on_the_big_bridge",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_infinity",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_knowledge_never_sleeps",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_under_the_weight",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_woe_that_is_madness",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_footfalls",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_silent_regard_of_stars",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_primals_exponential_entropy",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_shadowbringers",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_exponential_entropy",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_out_of_time",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_close_in_the_distance",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_metal",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_primals_brute_justice",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_lunar_whale",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_brute_justice",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_primals_locus",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_a_land_long_dead",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_locus",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_insatiable",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_agent_of_inquiry",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_landslide",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_to_the_edge",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:restored_aether_crystal",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:bag_o_rock_salt",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_apple",
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_apple",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:name_tag",
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_pickaxe",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:map",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_helmet",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_chestplate",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_boots",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:coal",
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bread",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:melon_seeds",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:pumpkin_seeds",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:beetroot_seeds",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:rail",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_rail",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:detector_rail",
+          "weight": 51
+        },
+        {
+          "type": "item",
+          "name": "minecraft:activator_rail",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:torch",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:book",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "fartsysadditions:faded_silent_scream",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

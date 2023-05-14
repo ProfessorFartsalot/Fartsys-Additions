@@ -1,5 +1,5 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "item",
   "definition": {
     "renderType": 0,
@@ -30,15 +30,6 @@
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "isFood": false,
-    "nutritionalValue": 4,
-    "saturation": 0.3,
-    "eatResultItem": {
-      "value": ""
-    },
-    "isMeat": false,
-    "isAlwaysEdible": false,
-    "animation": "none"
+    "inventoryStackSize": 64
   }
 }

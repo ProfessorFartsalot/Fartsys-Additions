@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "fartsys_additions:items/shartspecial"
+    "layer0": "fartsysadditions:items/shartspecial"
   }
 }

@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "name": "FFXIV - The Silent Regard Of Stars",
     "texture": "disc05",
+    "name": "FFXIV - The Silent Regard Of Stars",
     "description": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": false,
     "music": {
       "value": "CUSTOM:ffxiv.silentregardofstars"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": false
   }
 }

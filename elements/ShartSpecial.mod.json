@@ -1,5 +1,5 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "item",
   "definition": {
     "renderType": 0,
@@ -30,21 +30,6 @@
     "hasGlow": true,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "onEntityHitWith": {
-      "name": "ShartSpecialLivingEntityIsHitWithItem"
-    },
-    "onFinishUsingItem": {
-      "name": "ShartSpecialFoodEaten"
-    },
-    "isFood": true,
-    "nutritionalValue": 50,
-    "saturation": 50.0,
-    "eatResultItem": {
-      "value": ""
-    },
-    "isMeat": false,
-    "isAlwaysEdible": true,
-    "animation": "eat"
+    "inventoryStackSize": 64
   }
 }

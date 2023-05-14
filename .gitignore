@@ -8,3 +8,6 @@ build/extractSrg/output.srg
 build/libs/modid-1.0.jar
 build/downloadMcpConfig/output.zip
 build/reobfJar/output.jar
+.gradle/4.9/fileHashes/fileHashes.bin
+*.lock
+*.bin

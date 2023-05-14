@@ -1,19 +1,17 @@
 {
-  "_fv": 34,
+  "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "name": "FFXIV - Woe That Is Madness",
     "texture": "disc0d",
+    "name": "FFXIV - Woe That Is Madness",
     "description": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
-    "specialInfo": [],
-    "hasGlow": false,
     "music": {
       "value": "CUSTOM:ffxiv.woethatismadness"
     },
-    "lengthInTicks": 100,
-    "analogOutput": 0
+    "specialInfo": [],
+    "hasGlow": false
   }
 }
