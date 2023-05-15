@@ -4,13 +4,13 @@
     "name": "FartsysAdditions",
     "description": "",
     "version": "1.0.0",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "https://github.com/ProfessorFartsalot/Fartsys-Additions",
     "logoFile": "",
     "mcversion": "1.12.2",
-    "url": "https://mcreator.net",
+    "url": "https://firehostredux.com",
     "updateUrl": "",
     "authorList": [
-      "profe, MCreator"
+      "Professor Fartsalot"
     ],
     "dependencies": [],
     "dependants": [],
