@@ -13,9 +13,7 @@
     "announceToChat": true,
     "hideIfNotCompleted": false,
     "rewardLoot": [],
-    "rewardRecipes": [
-      "RecResonantAether"
-    ],
+    "rewardRecipes": [],
     "rewardFunction": "No function",
     "rewardXP": 400,
     "achievementType": "task",

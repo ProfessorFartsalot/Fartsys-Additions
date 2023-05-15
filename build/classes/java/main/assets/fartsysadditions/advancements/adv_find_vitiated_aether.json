@@ -32,9 +32,6 @@
     }
   },
   "rewards": {
-    "experience": 400,
-    "recipes": [
-      "fartsysadditions:deleted_mod_element"
-    ]
+    "experience": 400
   }
 }
