@@ -1,0 +1,20 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    },
+    {
+      "item": "minecraft:potion",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:ngea_cruel_angels_thesis",
+    "count": 1
+  }
+}
