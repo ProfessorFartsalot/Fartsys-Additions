@@ -1,0 +1,27 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 12
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:kirby_battle_royale_dededestroyer_z",
+    "count": 1
+  }
+}

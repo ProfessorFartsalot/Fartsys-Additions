@@ -1,0 +1,19 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:xbc_2_battle",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:touhou_project_cosmic_mind",
+    "count": 1
+  }
+}

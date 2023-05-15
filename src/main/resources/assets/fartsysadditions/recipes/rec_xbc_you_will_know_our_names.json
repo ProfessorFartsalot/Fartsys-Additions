@@ -1,0 +1,19 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:xbc_you_will_know_our_names",
+    "count": 1
+  }
+}
