@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "restoredcopy",
     "customModelName": "Normal",
-    "name": "Restored Copy of Silent Scream",
+    "name": "Restored Copy of  Scream",
     "rarity": "RARE",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
@@ -25,7 +25,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "A restored copy of Silent Scream. Can be pressed into a music disc."
+      "A restored copy of Scream. Can be pressed into a music disc."
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

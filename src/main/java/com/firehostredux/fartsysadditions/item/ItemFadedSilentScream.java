@@ -64,7 +64,7 @@ public class ItemFadedSilentScream extends ElementsFartsysadditionsMod.ModElemen
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("A faded copy of Silent Scream. Can be restored by alchemy.");
+			list.add("A faded copy of Scream. Can be restored by alchemy.");
 		}
 	}
 }

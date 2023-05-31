@@ -2,10 +2,10 @@
   {
     "modid": "fartsysadditions",
     "name": "FartsysAdditions",
-    "description": "",
-    "version": "1.0.0",
+    "description": "owo whats this",
+    "version": "1.1.0",
     "credits": "https://github.com/ProfessorFartsalot/Fartsys-Additions",
-    "logoFile": "",
+    "logoFile": "assets/fartsysadditions/textures/professor.png",
     "mcversion": "1.12.2",
     "url": "https://firehostredux.com",
     "updateUrl": "",

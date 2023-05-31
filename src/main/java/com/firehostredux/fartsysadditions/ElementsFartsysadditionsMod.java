@@ -108,14 +108,10 @@ public class ElementsFartsysadditionsMod implements IFuelHandler, IWorldGenerato
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "demetori.worldsend")));
 		sounds.put(new ResourceLocation("fartsysadditions", "dmc5.deviltrigger"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "dmc5.deviltrigger")));
-		sounds.put(new ResourceLocation("fartsysadditions", "dmc5.burythelightmission20"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "dmc5.burythelightmission20")));
 		sounds.put(new ResourceLocation("fartsysadditions", "dmc5.silverbullet"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "dmc5.silverbullet")));
 		sounds.put(new ResourceLocation("fartsysadditions", "nge.cruelangelsthesis"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "nge.cruelangelsthesis")));
-		sounds.put(new ResourceLocation("fartsysadditions", "slipknot.psychosocial"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "slipknot.psychosocial")));
 		sounds.put(new ResourceLocation("fartsysadditions", "xc.youwillknowournames"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "xc.youwillknowournames")));
 		sounds.put(new ResourceLocation("fartsysadditions", "xc2.battle"),
@@ -132,8 +128,6 @@ public class ElementsFartsysadditionsMod implements IFuelHandler, IWorldGenerato
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "woad")));
 		sounds.put(new ResourceLocation("fartsysadditions", "ffxiv.insatiable"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "ffxiv.insatiable")));
-		sounds.put(new ResourceLocation("fartsysadditions", "ffxiv.silentscream"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "ffxiv.silentscream")));
 		sounds.put(new ResourceLocation("fartsysadditions", "ffxiv.totheedge"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "ffxiv.totheedge")));
 		sounds.put(new ResourceLocation("fartsysadditions", "ffxiv.penitus"),
@@ -142,6 +136,10 @@ public class ElementsFartsysadditionsMod implements IFuelHandler, IWorldGenerato
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "ffxiv.battleonthebigbridge")));
 		sounds.put(new ResourceLocation("fartsysadditions", "ffxiv.exponentialentropy"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "ffxiv.exponentialentropy")));
+		sounds.put(new ResourceLocation("fartsysadditions", "lacucuracha"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "lacucuracha")));
+		sounds.put(new ResourceLocation("fartsysadditions", "ffxiv.scream"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysadditions", "ffxiv.scream")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

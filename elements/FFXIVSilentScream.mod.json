@@ -3,15 +3,17 @@
   "_type": "musicdisc",
   "definition": {
     "texture": "disc04",
-    "name": "FFXIV - Silent Scream",
-    "description": "Final Fantasy XIV - Silent Scream",
+    "name": "FFXIV - Scream",
+    "description": "Final Fantasy XIV - Scream",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
     "music": {
-      "value": "CUSTOM:ffxiv.silentscream"
+      "value": "CUSTOM:ffxiv.scream"
     },
-    "specialInfo": [],
+    "specialInfo": [
+      "FFXIV - Pandaemonium - Scream"
+    ],
     "hasGlow": false
   }
 }

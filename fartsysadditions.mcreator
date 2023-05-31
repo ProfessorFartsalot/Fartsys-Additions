@@ -517,15 +517,6 @@
       "path": "~/Procedures"
     },
     {
-      "name": "WaffleOfAssDestruction",
-      "type": "item",
-      "sortid": 292,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "waffle_of_ass_destruction",
-      "path": "~/Misc"
-    },
-    {
       "name": "ShartSpecial",
       "type": "item",
       "sortid": 292,
@@ -2078,6 +2069,36 @@
       "ids": {},
       "registry_name": "rec_nge_cruel_angels_thesis",
       "path": "~/Recipes"
+    },
+    {
+      "name": "WaffleOfAssDestruction",
+      "type": "food",
+      "sortid": 472,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waffle_of_ass_destruction",
+      "path": "~/Misc"
+    },
+    {
+      "name": "LaCucuracha",
+      "type": "musicdisc",
+      "sortid": 473,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "la_cucuracha",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "RecLaCucuracha",
+      "type": "recipe",
+      "sortid": 474,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_la_cucuracha",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -2272,13 +2293,6 @@
       "category": "record"
     },
     {
-      "name": "dmc5.burythelightmission20",
-      "files": [
-        "burythelightmission20"
-      ],
-      "category": "record"
-    },
-    {
       "name": "dmc5.silverbullet",
       "files": [
         "silverbullet"
@@ -2289,13 +2303,6 @@
       "name": "nge.cruelangelsthesis",
       "files": [
         "cruelangelsthesis"
-      ],
-      "category": "record"
-    },
-    {
-      "name": "slipknot.psychosocial",
-      "files": [
-        "psychosocial"
       ],
       "category": "record"
     },
@@ -2356,13 +2363,6 @@
       "category": "record"
     },
     {
-      "name": "ffxiv.silentscream",
-      "files": [
-        "silentscream"
-      ],
-      "category": "record"
-    },
-    {
       "name": "ffxiv.totheedge",
       "files": [
         "totheedge"
@@ -2391,6 +2391,22 @@
         "exponentialentropy"
       ],
       "category": "record"
+    },
+    {
+      "name": "lacucuracha",
+      "files": [
+        "la_cucaracha"
+      ],
+      "category": "record",
+      "subtitle": "La Cucuracha"
+    },
+    {
+      "name": "ffxiv.scream",
+      "files": [
+        "scream"
+      ],
+      "category": "record",
+      "subtitle": "FFXIV - Scream"
     }
   ],
   "language_map": {
@@ -2407,6 +2423,7 @@
       "item.fartsysadditions.ffxiv_infinity.desc": "Final Fantasy XIV - Infinity (Zurvan)",
       "item.fartsysadditions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
       "item.fartsysadditions.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
+      "subtitles.lacucuracha": "La Cucuracha",
       "subtitles.ffxiv.primals.locus": "Final Fantasy XIV - The Primals - Locus",
       "item.record.touhou_project_nuclear_fusion.desc": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "item.ffxiv_primals_locus.name": "FFXIV - The Primals - Locus",
@@ -2416,7 +2433,7 @@
       "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
       "item.record.ffxiva_land_long_dead.desc": "Final Fantasy XIV - A Land Long Dead (The Burn)",
       "item.record.dmc_5_devil_trigger.desc": "Devil May Cry 5 - Devil Trigger (Nero)",
-      "item.restored_silent_scream.name": "Restored Copy of Silent Scream",
+      "item.restored_silent_scream.name": "Restored Copy of  Scream",
       "item.fartsysadditions.faded_insatiable": "Faded Copy of Insatiable",
       "item.fartsysadditions.restored_close_in_the_distance": "Restored Copy of Close in the Distance",
       "item.fartsysadditions.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
@@ -2490,13 +2507,13 @@
       "death.attack.waterydemise": "%1$s met a watery demise!",
       "item.cronus.name": "Cronus",
       "item.touhou_project_nuclear_fusion.name": "Touhou Project - Nuclear Fusion",
-      "item.fartsysadditions.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "item.fartsysadditions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
+      "item.fartsysadditions.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "subtitles.ffxiv.infinity": "Final Fantasy XIV - Infinity (Zurvan)",
       "item.fartsysadditions.faded_woe_that_is_madness": "Faded Copy of Woe That Is Madness",
       "item.restored_primals_locus.name": "Restored Copy of The Primals - Locus",
       "advancements.adv_shart_special.descr": "EVERYBODY RUN. STAY AS FAR AWAY FROM THIS PLAYER AS POSSIBLE.",
-      "item.record.ffxiv_silent_scream.desc": "Final Fantasy XIV - Silent Scream",
+      "item.record.ffxiv_silent_scream.desc": "Final Fantasy XIV - Scream",
       "item.fartsysadditions.faded_agent_of_inquiry": "Faded Copy of Agent Of Inquiry",
       "item.restored_silent_regard_of_stars.name": "Restored Copy of The Silent Regard Of Stars",
       "item.fartsysadditions.restored_exponential_entropy": "Restored Copy of Exponential Entropy",
@@ -2569,8 +2586,8 @@
       "death.attack.selfdesharted.player": "%1$s self-desharted!",
       "item.record.ffxiv_out_of_time.desc": "Final Fantasy XIV - Out of Time (Alexander)",
       "item.record.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
-      "item.record.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
       "item.record.ffxiv_to_the_edge.desc": "Final Fantasy XIV - To The Edge",
+      "item.record.ffxiv_locus.desc": "Final Fantasy XIV - Locus (Alexander)",
       "subtitles.ffxiv.silentscream": "Final Fantasy XIV - Silent Scream",
       "item.fartsysadditions.restored_knowledge_never_sleeps": "Restored Copy of Knowledge Never Sleeps",
       "item.fartsysadditions.ffxiv_footfalls.desc": "Final Fantasy XIV - Footfalls (Endwalker)",
@@ -2617,6 +2634,7 @@
       "item.record.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.ffxiv_shadowbringers.name": "FFXIV - Shadowbringers",
       "subtitles.emone": "Somebody just dropped TEN MILLION sharts!!!",
+      "subtitles.ffxiv.scream": "FFXIV - Scream",
       "item.fartsysadditions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
       "item.ffxiv_out_of_time.name": "FFXIV - Out Of Time",
       "item.dmc_5_devil_trigger.name": "DMC 5 - Devil Trigger",
@@ -2632,7 +2650,7 @@
       "item.fartsysadditions.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
       "item.fartsysadditions.touhou_project_necrofantasia.desc": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
       "item.fartsysadditions.shart_special": "Shart Special",
-      "item.faded_silent_scream.name": "Faded Copy of Silent Scream",
+      "item.faded_silent_scream.name": "Faded Copy of Scream",
       "item.fartsysadditions.ffxiv_metal": "FFXIV - Metal",
       "item.bag_o_rock_salt.name": "Bag O Rock Salt",
       "item.fartsysadditions.ffxiv_metal.desc": "Final Fantasy XIV - Metal (Alexander)",
@@ -2690,6 +2708,7 @@
       "item.fartsysadditions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
       "item.fartsysadditions.touhou_project_bad_apple": "Touhou Project - Bad Apple",
       "subtitles.ffxiv.alandlongdead": "Final Fantasy XIV - A Land Long Dead (The Burn)",
+      "subtitles.scream": "FFXIV - Scream",
       "item.fartsysadditions.ffxiv_penitus.desc": "The Praetorium Theme",
       "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.fartsysadditions.restored_silent_scream": "Restored Copy of Silent Scream",
@@ -2739,6 +2758,7 @@
       "item.fartsysadditions.demetori_worlds_end.desc": "Demetori - World\u0027s End",
       "item.record.touhou_project_necrofantasia.desc": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
       "item.fartsysadditions.restored_aether_crystal": "Restored Aether Crystal",
+      "item.la_cucuracha.name": "La Cucuracha",
       "item.ffxiv_silent_regard_of_stars.name": "FFXIV - The Silent Regard Of Stars",
       "subtitles.dmc5.deviltrigger": "Devil May Cry 5 - Devil Trigger (Nero)",
       "item.fartsysadditions.ffxiv_primals_locus": "FFXIV - The Primals - Locus",
@@ -2760,6 +2780,7 @@
       "subtitles.ffxiv.primals.brutejusticemode": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "item.shart_ten_thousand.name": "Ten Kilo-Sharts",
       "item.fartsysadditions.xbc_you_will_know_our_names": "XBC - You Will Know Our Names",
+      "item.record.la_cucuracha.desc": "heckin roaches.... dancing roaches...",
       "item.ffxiv_woe_that_is_madness.name": "FFXIV - Woe That Is Madness",
       "item.fartsysadditions.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
       "item.fartsysadditions.ffxiv_knowledge_never_sleeps.desc": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
@@ -2770,7 +2791,7 @@
       "item.fartsysadditions.faded_footfalls": "Faded Copy of Footfalls",
       "item.fartsysadditions.faded_knowledge_never_sleeps": "Faded Copy of Knowledge Never Sleeps",
       "item.record.ffxiv_metal.desc": "Final Fantasy XIV - Metal (Alexander)",
-      "item.ffxiv_silent_scream.name": "FFXIV - Silent Scream",
+      "item.ffxiv_silent_scream.name": "FFXIV - Scream",
       "item.fartsysadditions.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode",
       "item.restored_primals_exponential_entropy.name": "Restored Copy of The Primals - Exponential Entropy",
       "item.record.ffxiv_infinity.desc": "Final Fantasy XIV - Infinity (Zurvan)",
@@ -2809,12 +2830,14 @@
   "workspaceSettings": {
     "modid": "fartsysadditions",
     "modName": "FartsysAdditions",
-    "version": "1.0.0",
+    "version": "1.1.0",
+    "description": "owo whats this",
     "author": "Professor Fartsalot",
     "websiteURL": "https://firehostredux.com",
     "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "professor",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],

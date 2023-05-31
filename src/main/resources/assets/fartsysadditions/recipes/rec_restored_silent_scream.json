@@ -4,6 +4,9 @@
   "ingredients": [
     {
       "item": "fartsysadditions:faded_silent_scream"
+    },
+    {
+      "item": "fartsysadditions:resonant_aether"
     }
   ],
   "result": {

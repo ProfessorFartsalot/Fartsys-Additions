@@ -64,7 +64,7 @@ public class ItemRestoredSilentScream extends ElementsFartsysadditionsMod.ModEle
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("A restored copy of Silent Scream. Can be pressed into a music disc.");
+			list.add("A restored copy of Scream. Can be pressed into a music disc.");
 		}
 	}
 }

@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "fadedcopy",
     "customModelName": "Normal",
-    "name": "Faded Copy of Silent Scream",
+    "name": "Faded Copy of Scream",
     "rarity": "RARE",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
@@ -25,7 +25,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "A faded copy of Silent Scream. Can be restored by alchemy."
+      "A faded copy of Scream. Can be restored by alchemy."
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

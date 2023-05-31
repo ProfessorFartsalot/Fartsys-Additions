@@ -8,7 +8,7 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:redstone"
+      "item": "minecraft:glowstone_dust"
     },
     "1": {
       "item": "fartsysadditions:resonant_aether"
@@ -20,7 +20,7 @@
       "item": "fartsysadditions:restored_aether_crystal"
     },
     "4": {
-      "item": "minecraft:air"
+      "item": "minecraft:nether_star"
     },
     "5": {
       "item": "fartsysadditions:restored_aether_crystal"

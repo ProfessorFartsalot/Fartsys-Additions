@@ -1,0 +1,16 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:poisonous_potato"
+    },
+    {
+      "item": "fartsysadditions:blank_music_disc"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:ffxiv_to_the_edge",
+    "count": 1
+  }
+}

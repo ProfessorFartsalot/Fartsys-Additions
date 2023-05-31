@@ -1,0 +1,16 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysadditions:faded_battle_on_the_big_bridge"
+    },
+    {
+      "item": "fartsysadditions:resonant_aether"
+    }
+  ],
+  "result": {
+    "item": "fartsysadditions:restored_battle_on_the_big_bridge",
+    "count": 1
+  }
+}

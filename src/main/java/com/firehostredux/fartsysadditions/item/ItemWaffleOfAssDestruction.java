@@ -9,13 +9,16 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.world.World;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemFood;
 import net.minecraft.item.Item;
-import net.minecraft.client.util.ITooltipFlag;
+import net.minecraft.item.EnumAction;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.block.state.IBlockState;
 
-import java.util.List;
+import java.util.Map;
+import java.util.HashMap;
 
+import com.firehostredux.fartsysadditions.procedure.ProcedureWaffleOfAssDestructionFoodEaten;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
 import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
 
@@ -24,12 +27,12 @@ public class ItemWaffleOfAssDestruction extends ElementsFartsysadditionsMod.ModE
 	@GameRegistry.ObjectHolder("fartsysadditions:waffle_of_ass_destruction")
 	public static final Item block = null;
 	public ItemWaffleOfAssDestruction(ElementsFartsysadditionsMod instance) {
-		super(instance, 292);
+		super(instance, 472);
 	}
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemCustom());
+		elements.items.add(() -> new ItemFoodCustom());
 	}
 
 	@SideOnly(Side.CLIENT)
@@ -37,40 +40,41 @@ public class ItemWaffleOfAssDestruction extends ElementsFartsysadditionsMod.ModE
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:waffle_of_ass_destruction", "inventory"));
 	}
-	public static class ItemCustom extends Item {
-		public ItemCustom() {
-			setMaxDamage(0);
-			maxStackSize = 1;
+	public static class ItemFoodCustom extends ItemFood {
+		public ItemFoodCustom() {
+			super(4, 0.3f, false);
 			setUnlocalizedName("waffle_of_ass_destruction");
 			setRegistryName("waffle_of_ass_destruction");
+			setAlwaysEdible();
 			setCreativeTab(TabFartsysAdditions.tab);
+			setMaxStackSize(64);
 		}
 
 		@Override
-		public int getItemEnchantability() {
-			return 0;
+		public int getMaxItemUseDuration(ItemStack stack) {
+			return 1;
 		}
 
 		@Override
-		public int getMaxItemUseDuration(ItemStack itemstack) {
-			return 32;
+		public EnumAction getItemUseAction(ItemStack par1ItemStack) {
+			return EnumAction.DRINK;
 		}
 
 		@Override
-		public float getDestroySpeed(ItemStack par1ItemStack, IBlockState par2Block) {
-			return 0F;
-		}
-
-		@Override
-		@SideOnly(Side.CLIENT)
-		public boolean hasEffect(ItemStack itemstack) {
-			return true;
-		}
-
-		@Override
-		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
-			super.addInformation(itemstack, world, list, flag);
-			list.add("Who needs WMDs when you have a waffle...?");
+		protected void onFoodEaten(ItemStack itemStack, World world, EntityPlayer entity) {
+			super.onFoodEaten(itemStack, world, entity);
+			int x = (int) entity.posX;
+			int y = (int) entity.posY;
+			int z = (int) entity.posZ;
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				ProcedureWaffleOfAssDestructionFoodEaten.executeProcedure($_dependencies);
+			}
 		}
 	}
 }

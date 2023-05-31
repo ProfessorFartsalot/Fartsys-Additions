@@ -10,7 +10,7 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.REDSTONE"
+        "value": "Items.GLOWSTONE_DUST"
       },
       {
         "value": "CUSTOM:ResonantAether"
@@ -22,7 +22,7 @@
         "value": "CUSTOM:RestoredAetherCrystal"
       },
       {
-        "value": "Items.NETHERITE_SWORD"
+        "value": "Items.NETHER_STAR"
       },
       {
         "value": "CUSTOM:RestoredAetherCrystal"

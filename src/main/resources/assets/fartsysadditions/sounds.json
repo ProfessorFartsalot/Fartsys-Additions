@@ -242,15 +242,6 @@
       }
     ]
   },
-  "dmc5.burythelightmission20": {
-    "category": "record",
-    "sounds": [
-      {
-        "name": "fartsysadditions:burythelightmission20",
-        "stream": true
-      }
-    ]
-  },
   "dmc5.silverbullet": {
     "category": "record",
     "sounds": [
@@ -265,15 +256,6 @@
     "sounds": [
       {
         "name": "fartsysadditions:cruelangelsthesis",
-        "stream": true
-      }
-    ]
-  },
-  "slipknot.psychosocial": {
-    "category": "record",
-    "sounds": [
-      {
-        "name": "fartsysadditions:psychosocial",
         "stream": true
       }
     ]
@@ -350,15 +332,6 @@
       }
     ]
   },
-  "ffxiv.silentscream": {
-    "category": "record",
-    "sounds": [
-      {
-        "name": "fartsysadditions:silentscream",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.totheedge": {
     "category": "record",
     "sounds": [
@@ -392,6 +365,26 @@
     "sounds": [
       {
         "name": "fartsysadditions:exponentialentropy",
+        "stream": true
+      }
+    ]
+  },
+  "lacucuracha": {
+    "category": "record",
+    "subtitle": "subtitles.lacucuracha",
+    "sounds": [
+      {
+        "name": "fartsysadditions:la_cucaracha",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.scream": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.scream",
+    "sounds": [
+      {
+        "name": "fartsysadditions:scream",
         "stream": true
       }
     ]
