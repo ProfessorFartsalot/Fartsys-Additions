@@ -22,13 +22,13 @@ import java.util.List;
 import com.google.common.collect.Multimap;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemShartThousand extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:shart_thousand")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemShartThousand extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shart_thousand")
 	public static final Item block = null;
-	public ItemShartThousand(ElementsFartsysadditionsMod instance) {
+	public ItemShartThousand(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 5);
 	}
 
@@ -40,7 +40,7 @@ public class ItemShartThousand extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:shart_thousand", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:shart_thousand", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

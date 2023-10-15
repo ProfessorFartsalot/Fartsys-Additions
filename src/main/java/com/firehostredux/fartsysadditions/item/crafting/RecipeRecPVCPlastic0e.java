@@ -8,11 +8,11 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.init.Blocks;
 
 import com.firehostredux.fartsysadditions.item.ItemPVCPlastic;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class RecipeRecPVCPlastic0e extends ElementsFartsysadditionsMod.ModElement {
-	public RecipeRecPVCPlastic0e(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class RecipeRecPVCPlastic0e extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public RecipeRecPVCPlastic0e(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 327);
 	}
 

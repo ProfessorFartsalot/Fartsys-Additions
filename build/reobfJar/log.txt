@@ -1,6 +1,8 @@
 Args: "--in-jar", "D:\GitHub\Fartsys-Additions\build\libs\modid-1.0.jar", "--out-jar", "D:\GitHub\Fartsys-Additions\build\reobfJar\output.jar", "--srg-in", "D:\GitHub\Fartsys-Additions\build\createMcpToSrg\output.tsrg", "--live"
 Classpath: C:\Users\profe\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.8.3\SpecialSource-1.8.3-shaded.jar
+Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\com.github.kylestev\xdeltaencoder\1.0.1\9a67ff800d85d9dfe98dc1ca10af30bf7c73813b\xdeltaencoder-1.0.1.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2855_mapped_snapshot_20171003-1.12\forge-1.12.2-14.23.5.2855_mapped_snapshot_20171003-1.12-recomp.jar
+Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\net.sf.trove4j\trove4j\3.0.3\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\trove4j-3.0.3.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\forge_gradle\minecraft_repo\versions\1.12.2\client-extra.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.13\c18446ec4d5814f447d7a79b314ba9a27cc8dbc8\mergetool-1.0.13-forge.jar
@@ -24,7 +26,6 @@ Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.scala-
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.scala-lang\scala-xml_2.11\1.0.2\7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0\scala-xml_2.11-1.0.2.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\lzma\lzma\0.0.1\521616dc7487b42bef0e803bd2fa3faf668101d7\lzma-0.0.1.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\java3d\vecmath\1.5.2\79846ba34cbd89e2422d74d53752f993dcc2ccaf\vecmath-1.5.2.jar
-Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\net.sf.trove4j\trove4j\3.0.3\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\trove4j-3.0.3.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
 Classpath: C:\Users\profe\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\legacydev\0.2.3.1\f2cd4a8c9f09faf1c1e4a9a4c65df36e634f95db\legacydev-0.2.3.1-fatjar.jar

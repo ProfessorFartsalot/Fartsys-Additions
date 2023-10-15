@@ -10,11 +10,11 @@ import java.util.Map;
 
 import com.firehostredux.fartsysadditions.item.ItemBagORockSalt;
 import com.firehostredux.fartsysadditions.block.BlockRockSalt;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ProcedureBagORockSaltSpawnRockSalt extends ElementsFartsysadditionsMod.ModElement {
-	public ProcedureBagORockSaltSpawnRockSalt(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ProcedureBagORockSaltSpawnRockSalt extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public ProcedureBagORockSaltSpawnRockSalt(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 293);
 	}
 

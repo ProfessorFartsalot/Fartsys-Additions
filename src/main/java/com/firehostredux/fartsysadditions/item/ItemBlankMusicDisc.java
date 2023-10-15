@@ -17,13 +17,13 @@ import net.minecraft.block.state.IBlockState;
 import java.util.List;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemBlankMusicDisc extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:blank_music_disc")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemBlankMusicDisc extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:blank_music_disc")
 	public static final Item block = null;
-	public ItemBlankMusicDisc(ElementsFartsysadditionsMod instance) {
+	public ItemBlankMusicDisc(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 333);
 	}
 
@@ -35,7 +35,7 @@ public class ItemBlankMusicDisc extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:blank_music_disc", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:blank_music_disc", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

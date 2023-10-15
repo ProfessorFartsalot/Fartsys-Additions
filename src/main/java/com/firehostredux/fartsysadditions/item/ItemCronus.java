@@ -21,13 +21,13 @@ import net.minecraft.block.state.IBlockState;
 import com.google.common.collect.Multimap;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemCronus extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:cronus")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemCronus extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cronus")
 	public static final Item block = null;
-	public ItemCronus(ElementsFartsysadditionsMod instance) {
+	public ItemCronus(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 332);
 	}
 
@@ -45,7 +45,7 @@ public class ItemCronus extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:cronus", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:cronus", "inventory"));
 	}
 	private static class ItemToolCustom extends Item {
 		protected ItemToolCustom() {

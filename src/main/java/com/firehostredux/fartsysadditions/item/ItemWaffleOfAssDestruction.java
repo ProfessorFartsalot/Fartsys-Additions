@@ -20,13 +20,13 @@ import java.util.HashMap;
 
 import com.firehostredux.fartsysadditions.procedure.ProcedureWaffleOfAssDestructionFoodEaten;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemWaffleOfAssDestruction extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:waffle_of_ass_destruction")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemWaffleOfAssDestruction extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:waffle_of_ass_destruction")
 	public static final Item block = null;
-	public ItemWaffleOfAssDestruction(ElementsFartsysadditionsMod instance) {
+	public ItemWaffleOfAssDestruction(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 472);
 	}
 
@@ -38,7 +38,8 @@ public class ItemWaffleOfAssDestruction extends ElementsFartsysadditionsMod.ModE
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:waffle_of_ass_destruction", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0,
+				new ModelResourceLocation("fartsysmagitechfantasy:waffle_of_ass_destruction", "inventory"));
 	}
 	public static class ItemFoodCustom extends ItemFood {
 		public ItemFoodCustom() {

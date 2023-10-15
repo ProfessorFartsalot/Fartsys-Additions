@@ -1,0 +1,43 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "1": {
+      "item": "fartsysmagitechfantasy:resonant_aether"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:restored_aether_crystal"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:restored_aether_crystal"
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:resonant_aether"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:cronus",
+    "count": 1
+  }
+}

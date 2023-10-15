@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diamond_disc",
+    "name": "Aetherial Musci Disc - And Love You Shall Find",
+    "description": "FFXIV - And Love You Shall Find",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.andloveyoushallfind"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": false
+  }
+}

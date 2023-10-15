@@ -17,13 +17,13 @@ import net.minecraft.block.state.IBlockState;
 import java.util.List;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemDebugItem extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:debug_item")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:debug_item")
 	public static final Item block = null;
-	public ItemDebugItem(ElementsFartsysadditionsMod instance) {
+	public ItemDebugItem(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 1);
 	}
 
@@ -35,7 +35,7 @@ public class ItemDebugItem extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:debug_item", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:debug_item", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

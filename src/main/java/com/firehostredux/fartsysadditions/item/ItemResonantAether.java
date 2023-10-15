@@ -17,13 +17,13 @@ import net.minecraft.block.state.IBlockState;
 import java.util.List;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemResonantAether extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:resonant_aether")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemResonantAether extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:resonant_aether")
 	public static final Item block = null;
-	public ItemResonantAether(ElementsFartsysadditionsMod instance) {
+	public ItemResonantAether(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 362);
 	}
 
@@ -35,7 +35,7 @@ public class ItemResonantAether extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:resonant_aether", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:resonant_aether", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

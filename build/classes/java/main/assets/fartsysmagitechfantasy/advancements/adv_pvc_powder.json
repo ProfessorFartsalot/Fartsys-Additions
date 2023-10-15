@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "title": {
+      "translate": "advancements.adv_pvc_powder.title"
+    },
+    "description": {
+      "translate": "advancements.adv_pvc_powder.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_pvc_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fartsysmagitechfantasy:pvc_dust",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200,
+    "recipes": [
+      "fartsysmagitechfantasy:deleted_mod_element"
+    ]
+  },
+  "parent": "fartsysmagitechfantasy:adv_find_vitiated_aether"
+}

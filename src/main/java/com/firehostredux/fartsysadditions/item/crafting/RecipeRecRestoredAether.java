@@ -8,11 +8,11 @@ import net.minecraft.item.ItemStack;
 
 import com.firehostredux.fartsysadditions.item.ItemRestoredAetherCrystal;
 import com.firehostredux.fartsysadditions.item.ItemResonantAether;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class RecipeRecRestoredAether extends ElementsFartsysadditionsMod.ModElement {
-	public RecipeRecRestoredAether(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class RecipeRecRestoredAether extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public RecipeRecRestoredAether(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 454);
 	}
 

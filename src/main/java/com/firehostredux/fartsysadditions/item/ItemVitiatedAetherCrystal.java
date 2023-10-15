@@ -17,13 +17,13 @@ import net.minecraft.block.state.IBlockState;
 import java.util.List;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemVitiatedAetherCrystal extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:vitiated_aether_crystal")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemVitiatedAetherCrystal extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:vitiated_aether_crystal")
 	public static final Item block = null;
-	public ItemVitiatedAetherCrystal(ElementsFartsysadditionsMod instance) {
+	public ItemVitiatedAetherCrystal(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 305);
 	}
 
@@ -35,7 +35,8 @@ public class ItemVitiatedAetherCrystal extends ElementsFartsysadditionsMod.ModEl
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:vitiated_aether_crystal", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0,
+				new ModelResourceLocation("fartsysmagitechfantasy:vitiated_aether_crystal", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

@@ -21,13 +21,13 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.Block;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class BlockRockSalt extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:rock_salt")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class BlockRockSalt extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:rock_salt")
 	public static final Block block = null;
-	public BlockRockSalt(ElementsFartsysadditionsMod instance) {
+	public BlockRockSalt(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 254);
 	}
 
@@ -41,7 +41,7 @@ public class BlockRockSalt extends ElementsFartsysadditionsMod.ModElement {
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("fartsysadditions:rock_salt", "inventory"));
+				new ModelResourceLocation("fartsysmagitechfantasy:rock_salt", "inventory"));
 	}
 	public static class BlockCustom extends Block {
 		public BlockCustom() {

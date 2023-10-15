@@ -17,13 +17,13 @@ import net.minecraft.block.state.IBlockState;
 import java.util.List;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemShartOne extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:shart_one")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemShartOne extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shart_one")
 	public static final Item block = null;
-	public ItemShartOne(ElementsFartsysadditionsMod instance) {
+	public ItemShartOne(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 2);
 	}
 
@@ -35,7 +35,7 @@ public class ItemShartOne extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:shart_one", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:shart_one", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

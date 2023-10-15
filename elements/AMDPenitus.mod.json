@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "redstone_disc",
+    "name": "Aetherial Music Disc - Penitus",
+    "description": "FFXIV - Penitus",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.penitus"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": false
+  }
+}

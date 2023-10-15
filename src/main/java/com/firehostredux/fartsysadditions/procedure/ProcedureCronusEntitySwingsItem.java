@@ -7,11 +7,11 @@ import net.minecraft.entity.Entity;
 
 import java.util.Map;
 
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ProcedureCronusEntitySwingsItem extends ElementsFartsysadditionsMod.ModElement {
-	public ProcedureCronusEntitySwingsItem(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ProcedureCronusEntitySwingsItem extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public ProcedureCronusEntitySwingsItem(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 332);
 	}
 

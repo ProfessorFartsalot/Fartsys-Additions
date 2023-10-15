@@ -8,11 +8,11 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.creativetab.CreativeTabs;
 
 import com.firehostredux.fartsysadditions.item.ItemDebugItem;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class TabFartsysAdditions extends ElementsFartsysadditionsMod.ModElement {
-	public TabFartsysAdditions(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class TabFartsysAdditions extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public TabFartsysAdditions(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 1);
 	}
 

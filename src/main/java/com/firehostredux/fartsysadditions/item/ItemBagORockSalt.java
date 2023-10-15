@@ -25,13 +25,13 @@ import java.util.HashMap;
 
 import com.firehostredux.fartsysadditions.procedure.ProcedureBagORockSaltSpawnRockSalt;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemBagORockSalt extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:bag_o_rock_salt")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemBagORockSalt extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:bag_o_rock_salt")
 	public static final Item block = null;
-	public ItemBagORockSalt(ElementsFartsysadditionsMod instance) {
+	public ItemBagORockSalt(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 293);
 	}
 
@@ -43,7 +43,7 @@ public class ItemBagORockSalt extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:bag_o_rock_salt", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:bag_o_rock_salt", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

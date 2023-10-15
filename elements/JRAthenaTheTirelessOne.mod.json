@@ -1,0 +1,38 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "restoredcopy",
+    "customModelName": "Normal",
+    "name": "\"Athena, the Tireless One\" Jukebox Roll",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Right click in hand to obtain a copy of Athena the Tireless One"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "JRAthenaTheTirelessOneRightClickedInAir"
+    }
+  }
+}

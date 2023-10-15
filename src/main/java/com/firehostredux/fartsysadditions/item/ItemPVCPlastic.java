@@ -17,13 +17,13 @@ import net.minecraft.block.state.IBlockState;
 import java.util.List;
 
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ItemPVCPlastic extends ElementsFartsysadditionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysadditions:pvc_dust")
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ItemPVCPlastic extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:pvc_dust")
 	public static final Item block = null;
-	public ItemPVCPlastic(ElementsFartsysadditionsMod instance) {
+	public ItemPVCPlastic(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 313);
 	}
 
@@ -35,7 +35,7 @@ public class ItemPVCPlastic extends ElementsFartsysadditionsMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysadditions:pvc_dust", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:pvc_dust", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {

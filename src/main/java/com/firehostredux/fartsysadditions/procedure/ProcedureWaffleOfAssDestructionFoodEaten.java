@@ -11,11 +11,11 @@ import net.minecraft.command.ICommandSender;
 
 import java.util.Map;
 
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ProcedureWaffleOfAssDestructionFoodEaten extends ElementsFartsysadditionsMod.ModElement {
-	public ProcedureWaffleOfAssDestructionFoodEaten(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ProcedureWaffleOfAssDestructionFoodEaten extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public ProcedureWaffleOfAssDestructionFoodEaten(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 292);
 	}
 

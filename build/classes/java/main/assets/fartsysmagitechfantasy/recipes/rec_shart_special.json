@@ -1,0 +1,38 @@
+{
+  "group": "fartsyadditions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:shart_special",
+    "count": 1
+  }
+}

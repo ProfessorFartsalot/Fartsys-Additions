@@ -8,11 +8,11 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.init.Items;
 
 import com.firehostredux.fartsysadditions.item.ItemBagORockSalt;
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class RecipeRecBagORockSalt extends ElementsFartsysadditionsMod.ModElement {
-	public RecipeRecBagORockSalt(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class RecipeRecBagORockSalt extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public RecipeRecBagORockSalt(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 295);
 	}
 

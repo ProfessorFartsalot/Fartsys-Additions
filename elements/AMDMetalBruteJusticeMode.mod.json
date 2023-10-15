@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "gold_disc",
+    "name": "Aetherial Music Disc - Metal: Brute Justice Mode",
+    "description": "FFXIV - Metal: Brute Justice Mode",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.metalbrutejusticemode"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": true
+  }
+}

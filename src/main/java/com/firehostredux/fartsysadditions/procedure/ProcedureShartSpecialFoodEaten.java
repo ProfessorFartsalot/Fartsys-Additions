@@ -7,11 +7,11 @@ import net.minecraft.entity.Entity;
 
 import java.util.Map;
 
-import com.firehostredux.fartsysadditions.ElementsFartsysadditionsMod;
+import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
-@ElementsFartsysadditionsMod.ModElement.Tag
-public class ProcedureShartSpecialFoodEaten extends ElementsFartsysadditionsMod.ModElement {
-	public ProcedureShartSpecialFoodEaten(ElementsFartsysadditionsMod instance) {
+@ElementsFartsysmagitechfantasyMod.ModElement.Tag
+public class ProcedureShartSpecialFoodEaten extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public ProcedureShartSpecialFoodEaten(ElementsFartsysmagitechfantasyMod instance) {
 		super(instance, 292);
 	}
 
