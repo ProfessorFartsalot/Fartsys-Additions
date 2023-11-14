@@ -22,7 +22,7 @@ import java.util.List;
 import java.util.HashMap;
 
 import com.firehostredux.fartsysadditions.procedure.ProcedureJRScreamRightClickedInAir;
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -30,7 +30,7 @@ public class ItemJRScream extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_scream")
 	public static final Item block = null;
 	public ItemJRScream(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 489);
+		super(instance, 37);
 	}
 
 	@Override
@@ -49,7 +49,7 @@ public class ItemJRScream extends ElementsFartsysmagitechfantasyMod.ModElement {
 			maxStackSize = 1;
 			setUnlocalizedName("jr_scream");
 			setRegistryName("jr_scream");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

@@ -22,7 +22,7 @@ import java.util.List;
 import java.util.HashMap;
 
 import com.firehostredux.fartsysadditions.procedure.ProcedureJRFromTheHeavensRightClickedInAir;
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -30,7 +30,7 @@ public class ItemJRFromTheHeavens extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_from_the_heavens")
 	public static final Item block = null;
 	public ItemJRFromTheHeavens(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 489);
+		super(instance, 39);
 	}
 
 	@Override
@@ -49,7 +49,7 @@ public class ItemJRFromTheHeavens extends ElementsFartsysmagitechfantasyMod.ModE
 			maxStackSize = 1;
 			setUnlocalizedName("jr_from_the_heavens");
 			setRegistryName("jr_from_the_heavens");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

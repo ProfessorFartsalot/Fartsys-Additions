@@ -6,7 +6,7 @@
     "name": "Aetherial Music Disc - Lunar Whale",
     "description": "FFXIV - Lunar Whale",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.lunarwhale"

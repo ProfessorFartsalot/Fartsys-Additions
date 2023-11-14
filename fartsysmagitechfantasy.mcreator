@@ -13,7 +13,7 @@
     {
       "name": "FartsysAdditions",
       "type": "tab",
-      "sortid": 1,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fartsysadditions",
@@ -94,7 +94,7 @@
     {
       "name": "RockSalt",
       "type": "block",
-      "sortid": 254,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock_salt",
@@ -103,7 +103,7 @@
     {
       "name": "ShartTenMillionItemIsDroppedByPlayer",
       "type": "procedure",
-      "sortid": 255,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_ten_million_item_is_dropped_by_player",
@@ -136,7 +136,7 @@
     {
       "name": "WaffleOfAssDestructionFoodEaten",
       "type": "procedure",
-      "sortid": 292,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "waffle_of_ass_destruction_food_eaten",
@@ -169,7 +169,7 @@
     {
       "name": "ShartSpecialFoodEaten",
       "type": "procedure",
-      "sortid": 292,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_special_food_eaten",
@@ -186,7 +186,7 @@
     {
       "name": "ShartSpecial",
       "type": "item",
-      "sortid": 292,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_special",
@@ -195,7 +195,7 @@
     {
       "name": "BagORockSaltSpawnRockSalt",
       "type": "procedure",
-      "sortid": 293,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bag_o_rock_salt_spawn_rock_salt",
@@ -228,7 +228,7 @@
     {
       "name": "BagORockSalt",
       "type": "item",
-      "sortid": 293,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bag_o_rock_salt",
@@ -237,7 +237,7 @@
     {
       "name": "RecBagORockSalt",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_bag_o_rock_salt",
@@ -246,7 +246,7 @@
     {
       "name": "RecShartSpecial",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_shart_special",
@@ -255,7 +255,7 @@
     {
       "name": "RecWaffleOfAssDest",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_waffle_of_ass_dest",
@@ -264,25 +264,16 @@
     {
       "name": "VitiatedAetherCrystal",
       "type": "item",
-      "sortid": 305,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vitiated_aether_crystal",
       "path": "~/Misc"
     },
     {
-      "name": "RestoredAetherCrystal",
-      "type": "item",
-      "sortid": 311,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "restored_aether_crystal",
-      "path": "~/Misc"
-    },
-    {
       "name": "PVCPlastic",
       "type": "item",
-      "sortid": 313,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pvc_dust",
@@ -291,7 +282,7 @@
     {
       "name": "RecPVCPlastic01",
       "type": "recipe",
-      "sortid": 314,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_01",
@@ -300,7 +291,7 @@
     {
       "name": "RecPVCPlastic02",
       "type": "recipe",
-      "sortid": 315,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_02",
@@ -309,7 +300,7 @@
     {
       "name": "RecPVCPlastic03",
       "type": "recipe",
-      "sortid": 316,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_03",
@@ -318,7 +309,7 @@
     {
       "name": "RecPVCPlastic04",
       "type": "recipe",
-      "sortid": 317,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_04",
@@ -327,7 +318,7 @@
     {
       "name": "RecPVCPlastic05",
       "type": "recipe",
-      "sortid": 318,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_05",
@@ -336,7 +327,7 @@
     {
       "name": "RecPVCPlastic06",
       "type": "recipe",
-      "sortid": 319,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_06",
@@ -345,7 +336,7 @@
     {
       "name": "RecPVCPlastic07",
       "type": "recipe",
-      "sortid": 320,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_07",
@@ -354,7 +345,7 @@
     {
       "name": "RecPVCPlastic08",
       "type": "recipe",
-      "sortid": 321,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_08",
@@ -363,7 +354,7 @@
     {
       "name": "RecPVCPlastic09",
       "type": "recipe",
-      "sortid": 322,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_09",
@@ -372,7 +363,7 @@
     {
       "name": "RecPVCPlastic0a",
       "type": "recipe",
-      "sortid": 323,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0a",
@@ -381,7 +372,7 @@
     {
       "name": "RecPVCPlastic0b",
       "type": "recipe",
-      "sortid": 324,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0b",
@@ -390,7 +381,7 @@
     {
       "name": "RecPVCPlastic0c",
       "type": "recipe",
-      "sortid": 325,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0c",
@@ -399,7 +390,7 @@
     {
       "name": "RecPVCPlastic0e",
       "type": "recipe",
-      "sortid": 327,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0e",
@@ -408,7 +399,7 @@
     {
       "name": "RecPVCPlastic0f",
       "type": "recipe",
-      "sortid": 328,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0f",
@@ -417,7 +408,7 @@
     {
       "name": "Cronus",
       "type": "tool",
-      "sortid": 332,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cronus",
@@ -426,7 +417,7 @@
     {
       "name": "CronusEntitySwingsItem",
       "type": "procedure",
-      "sortid": 332,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cronus_entity_swings_item",
@@ -443,7 +434,7 @@
     {
       "name": "BlankMusicDisc",
       "type": "item",
-      "sortid": 333,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blank_music_disc",
@@ -452,25 +443,16 @@
     {
       "name": "RecNotchApple",
       "type": "recipe",
-      "sortid": 359,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_notch_apple",
       "path": "~/Recipes"
     },
     {
-      "name": "ResonantAether",
-      "type": "item",
-      "sortid": 362,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "resonant_aether",
-      "path": "~/Misc"
-    },
-    {
       "name": "RecSaddle",
       "type": "recipe",
-      "sortid": 412,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_saddle",
@@ -479,7 +461,7 @@
     {
       "name": "AdvFindVitiatedAether",
       "type": "achievement",
-      "sortid": 441,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_find_vitiated_aether",
@@ -488,7 +470,7 @@
     {
       "name": "AdvResonantAether",
       "type": "achievement",
-      "sortid": 442,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_resonant_aether",
@@ -497,7 +479,7 @@
     {
       "name": "AdvRestoredAether",
       "type": "achievement",
-      "sortid": 443,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_restored_aether",
@@ -506,7 +488,7 @@
     {
       "name": "AdvShartSpecial",
       "type": "achievement",
-      "sortid": 444,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_shart_special",
@@ -515,7 +497,7 @@
     {
       "name": "AdvShartDeath",
       "type": "achievement",
-      "sortid": 445,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_shart_death",
@@ -524,7 +506,7 @@
     {
       "name": "AdvTMSharts",
       "type": "achievement",
-      "sortid": 446,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_tm_sharts",
@@ -533,7 +515,7 @@
     {
       "name": "Adv1mSharts",
       "type": "achievement",
-      "sortid": 447,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_1m_sharts",
@@ -542,7 +524,7 @@
     {
       "name": "Adv100kSharts",
       "type": "achievement",
-      "sortid": 448,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_100k_sharts",
@@ -551,7 +533,7 @@
     {
       "name": "AdvPVCPowder",
       "type": "achievement",
-      "sortid": 449,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_pvc_powder",
@@ -560,7 +542,7 @@
     {
       "name": "AdvMusicPress",
       "type": "achievement",
-      "sortid": 450,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_music_press",
@@ -569,7 +551,7 @@
     {
       "name": "AdvBlankMusicDisc",
       "type": "achievement",
-      "sortid": 450,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_blank_music_disc",
@@ -578,7 +560,7 @@
     {
       "name": "RecCronus",
       "type": "recipe",
-      "sortid": 451,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_cronus",
@@ -587,36 +569,16 @@
     {
       "name": "AdvCronus",
       "type": "achievement",
-      "sortid": 452,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_cronus",
       "path": "~/Advancements"
     },
     {
-      "name": "RecResonantAether",
-      "type": "recipe",
-      "sortid": 453,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "rec_resonant_aether",
-      "path": "~/Recipes"
-    },
-    {
-      "name": "RecRestoredAether",
-      "type": "recipe",
-      "sortid": 454,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "rec_restored_aether",
-      "path": "~/Recipes"
-    },
-    {
       "name": "WaffleOfAssDestruction",
       "type": "food",
-      "sortid": 472,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -626,7 +588,7 @@
     {
       "name": "RecLaCucuracha",
       "type": "recipe",
-      "sortid": 474,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -636,7 +598,7 @@
     {
       "name": "AMDAthenaTheTirelessOne",
       "type": "musicdisc",
-      "sortid": 475,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -646,7 +608,7 @@
     {
       "name": "AMDScream",
       "type": "musicdisc",
-      "sortid": 476,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -656,7 +618,7 @@
     {
       "name": "AMDTornFromTheHeavensOrchestral",
       "type": "musicdisc",
-      "sortid": 477,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -666,7 +628,7 @@
     {
       "name": "AMDFromTheHeavens",
       "type": "musicdisc",
-      "sortid": 478,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -676,7 +638,7 @@
     {
       "name": "AMDEscape",
       "type": "musicdisc",
-      "sortid": 479,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -686,7 +648,7 @@
     {
       "name": "AMDCloseInTheDistance",
       "type": "musicdisc",
-      "sortid": 480,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -696,7 +658,7 @@
     {
       "name": "AMDFootfalls",
       "type": "musicdisc",
-      "sortid": 481,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -706,7 +668,7 @@
     {
       "name": "AMDInsatiable",
       "type": "musicdisc",
-      "sortid": 482,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -716,7 +678,7 @@
     {
       "name": "AMDToTheEdge",
       "type": "musicdisc",
-      "sortid": 483,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -726,7 +688,7 @@
     {
       "name": "AMDAndLoveYouShallFind",
       "type": "musicdisc",
-      "sortid": 484,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -736,7 +698,7 @@
     {
       "name": "AMDLunarWhale",
       "type": "musicdisc",
-      "sortid": 485,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -746,7 +708,7 @@
     {
       "name": "AMDShadowbringers",
       "type": "musicdisc",
-      "sortid": 486,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -756,7 +718,7 @@
     {
       "name": "AMDMetal",
       "type": "musicdisc",
-      "sortid": 487,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -766,7 +728,7 @@
     {
       "name": "AMDMetalBruteJusticeMode",
       "type": "musicdisc",
-      "sortid": 487,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -776,7 +738,7 @@
     {
       "name": "AMDLocus",
       "type": "musicdisc",
-      "sortid": 488,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -786,7 +748,7 @@
     {
       "name": "AMDPenitus",
       "type": "musicdisc",
-      "sortid": 487,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -796,7 +758,7 @@
     {
       "name": "JRAthenaTheTirelessOneRightClickedInAir",
       "type": "procedure",
-      "sortid": 489,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -808,12 +770,13 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRAthenaTheTirelessOne",
       "type": "item",
-      "sortid": 489,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -823,7 +786,7 @@
     {
       "name": "JRScream",
       "type": "item",
-      "sortid": 489,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -833,7 +796,7 @@
     {
       "name": "JRScreamRightClickedInAir",
       "type": "procedure",
-      "sortid": 490,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -845,12 +808,13 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRTornFromTheHeavensOrchestral",
       "type": "item",
-      "sortid": 489,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -860,7 +824,7 @@
     {
       "name": "JRTornFromTheHeavensOrchestralRightClickedInAir",
       "type": "procedure",
-      "sortid": 491,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -872,12 +836,13 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRFromTheHeavens",
       "type": "item",
-      "sortid": 489,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -887,7 +852,7 @@
     {
       "name": "JRFromTheHeavensRightClickedInAir",
       "type": "procedure",
-      "sortid": 492,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -899,17 +864,714 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JREscape",
       "type": "item",
-      "sortid": 489,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "jr_escape",
       "path": "~/Music Discs"
+    },
+    {
+      "name": "JRCloseInTheDistance",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_close_in_the_distance",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRCloseInTheDistanceRightClickedInAir",
+      "type": "procedure",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_close_in_the_distance_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRFootfalls",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_footfalls",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRFootfallsRightClickedInAir",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_footfalls_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRInsatiable",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_insatiable",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRInsatiableRightClickedInAir",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_insatiable_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRToTheEdge",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_to_the_edge",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FMFMusic",
+      "type": "tab",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fmf_music",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JREscapeRightClickedInAir",
+      "type": "procedure",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_escape_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRAndLoveYouShallFind",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_and_love_you_shall_find",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRAndLoveYouShallFindRightClickedInAir",
+      "type": "procedure",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_and_love_you_shall_find_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRLunarWhale",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_lunar_whale",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRLunarWhaleRightClickedInAir",
+      "type": "procedure",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_lunar_whale_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRShadowbringers",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_shadowbringers",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRShadowbringersRightClickedInAir",
+      "type": "procedure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_shadowbringers_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRMetal",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_metal",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRMetalRightClickedInAir",
+      "type": "procedure",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_metal_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRMetalBruteJusticeMode",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_metal_brute_justice_mode",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRMetalBruteJusticeModeRightClickedInAir",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_metal_brute_justice_mode_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRLocus",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_locus",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRLocusRightClickedInAir",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_locus_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRPenitus",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_penitus",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRPenitusRightClickedInAir",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_penitus_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "JRToTheEdgeRightClickedInAir",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_to_the_edge_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "FCAthenaTheTirelessOne",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_athena_the_tireless_one",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCScream",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_scream",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCTornFromTheHeavensOrchestral",
+      "type": "item",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_torn_from_the_heavens_orchestral",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCFromTheHeavens",
+      "type": "item",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_from_the_heavens",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCEscape",
+      "type": "item",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_escape",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCCloseInTheDistance",
+      "type": "item",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_close_in_the_distance",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCFootfalls",
+      "type": "item",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_footfalls",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCInsatiable",
+      "type": "item",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_insatiable",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCToTheEdge",
+      "type": "item",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_to_the_edge",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCAndLoveYouShallFind",
+      "type": "item",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_and_love_you_shall_find",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCLunarWhale",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_lunar_whale",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCMetal",
+      "type": "item",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_metal",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCMetalBruteJusticeMode",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_metal_brute_justice_mode",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCLocus",
+      "type": "item",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_locus",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "FCPenitus",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fc_penitus",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "ShardEarth",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard_earth",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ShardFire",
+      "type": "item",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard_fire",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ShardIce",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard_ice",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ShardLightning",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard_lightning",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ShardUnaspected",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard_unaspected",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ShardWater",
+      "type": "item",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard_water",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ShardWind",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard_wind",
+      "path": "~/Misc"
+    },
+    {
+      "name": "CrystalEarth",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_earth",
+      "path": "~/Misc"
+    },
+    {
+      "name": "CrystalFire",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_fire",
+      "path": "~/Misc"
+    },
+    {
+      "name": "CrystalIce",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_ice",
+      "path": "~/Misc"
+    },
+    {
+      "name": "CrystalLightning",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_lightning",
+      "path": "~/Misc"
+    },
+    {
+      "name": "CrystalUnaspected",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_unaspected",
+      "path": "~/Misc"
+    },
+    {
+      "name": "CrystalWater",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_water",
+      "path": "~/Misc"
+    },
+    {
+      "name": "CrystalWind",
+      "type": "item",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_wind",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ClusterEarth",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cluster_earth",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ClusterFire",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cluster_fire",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ClusterIce",
+      "type": "item",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cluster_ice",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ClusterLightning",
+      "type": "item",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cluster_lightning",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ClusterUnaspected",
+      "type": "item",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cluster_unaspected",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ClusterWater",
+      "type": "item",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cluster_water",
+      "path": "~/Misc"
+    },
+    {
+      "name": "ClusterWind",
+      "type": "item",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cluster_wind",
+      "path": "~/Misc"
     }
   ],
   "variable_elements": [],
@@ -1054,8 +1716,8 @@
   "language_map": {
     "en_us": {
       "item.fartsysadditions.faded_brute_justice": "Faded Copy of Metal - Brute Justice Mode",
-      "item.fartsysadditions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.fartsysadditions.restored_out_of_time": "Restored Copy of Out Of Time",
+      "item.fartsysadditions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.fartsysadditions.shart_one": "Micro Shart",
       "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
       "item.amd_metal.name": "Aetherial Music Disc - Metal",
@@ -1064,6 +1726,8 @@
       "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "death.attack.waterydemise.player": "%1$s met a watery demise!",
       "item.fartsysadditions.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
+      "item.crystal_earth.name": "Earth Crystal",
+      "item.jr_to_the_edge.name": "\"To The Edge\" Jukebox Roll",
       "item.fartsysadditions.ffxiv_footfalls": "FFXIV - Footfalls",
       "item.amd_lunar_whale.name": "Aetherial Music Disc - Lunar Whale",
       "item.fartsysadditions.ffxiv_infinity.desc": "Final Fantasy XIV - Infinity (Zurvan)",
@@ -1079,19 +1743,25 @@
       "item.jr_from_the_heavens.name": "\"From The Heavens\" Jukebox Roll",
       "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "advancements.adv_pvc_powder.title": "Molten? Powdered? Music Disc..?",
-      "advancements.adv_100k_sharts.title": "A very large shart",
       "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
+      "advancements.adv_100k_sharts.title": "A very large shart",
+      "item.fc_close_in_the_distance.name": "Faded Copy of Close in the Distance",
+      "item.cluster_ice.name": "Ice Cluster",
       "item.fartsysadditions.ngea_cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
+      "item.shard_lightning.name": "Lightning Shard",
       "subtitles.touhou.unowenwasher": "Touhou Project - U.N. Owen Was Her? (EoSD/6.0 Flandre)",
       "item.fartsysadditions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
-      "itemGroup.tabfartsysadditions": "Fartsy\u0027s Additions",
+      "itemGroup.tabfartsysadditions": "FMF - Core",
       "advancements.adv_tm_sharts.descr": "Obtain ten million sharts",
       "item.fartsysadditions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
       "item.fartsysadditions.faded_insatiable": "Faded Copy of Insatiable",
       "item.fartsysadditions.restored_close_in_the_distance": "Restored Copy of Close in the Distance",
       "item.fartsysadditions.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
       "item.fartsysadditions.shart_thousand": "Kilo-shart",
+      "item.fc_to_the_edge.name": "Faded Copy of To The Edge",
       "advancements.adv_blank_music_disc.descr": "Craft a blank music disc.",
+      "item.crystal_lightning.name": "Lightning Crystal",
+      "item.cluster_water.name": "Water Cluster",
       "advancements.adv_shart_death.descr": "RIP. We warned you not to eat it.",
       "item.fartsysadditions.ffxiv_insatiable.desc": "Final Fantasy XIV - Insatiable",
       "item.fartsysadditions.ffxiv_landslide.desc": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
@@ -1102,6 +1772,7 @@
       "item.jr_torn_from_the_heavens_orchestral.name": "\"Torn From The Heavens (Orchestral)\" Jukebox Roll",
       "item.fartsysadditions.slipknot_psychosocial.desc": "Slipknot - Psychosocial",
       "item.fartsysadditions.ffxiv_to_the_edge.desc": "Final Fantasy XIV - To The Edge",
+      "item.fc_metal_brute_justice_mode.name": "Faded Copy of Metal: Brute Justice Mode",
       "item.fartsysadditions.faded_a_land_long_dead": "Faded Copy of A Land Long Dead",
       "item.fartsysadditions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
       "subtitles.ffxiv.escape_journeys": "FFXIV - eScape (Journeys)",
@@ -1117,17 +1788,22 @@
       "advancements.adv_pvc_powder.descr": "Melt a music disc into ash.",
       "item.fartsysadditions.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
       "item.fartsysadditions.touhou_project_necrofantasia.desc": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
+      "item.fc_from_the_heavens.name": "Faded Copy of From The Heavens",
       "item.fartsysadditions.shart_special": "Shart Special",
+      "item.cluster_wind.name": "Wind Cluster",
       "item.amd_footfalls.name": "Aetherial Music Disc - Footfalls",
       "item.fartsysadditions.ffxiv_metal": "FFXIV - Metal",
       "item.bag_o_rock_salt.name": "Bag O Rock Salt",
       "item.fartsysadditions.ffxiv_metal.desc": "Final Fantasy XIV - Metal (Alexander)",
       "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
       "subtitles.ffxiv.silentregardofstars": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
+      "item.cluster_unaspected.name": "Unaspected Cluster",
       "item.fartsysadditions.xbc_2_battle": "XBC 2 - Battle",
       "item.amd_close_in_the_distance.name": "Aetherial Music Disc - Close in the Distance",
       "item.fartsysadditions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "item.jr_footfalls.name": "\"Footfalls\" Jukebox Roll",
       "subtitles.touhou.badapple": "Touhou Project - Bad Apple (nomico)",
+      "item.cluster_fire.name": "Fire Cluster",
       "advancements.adv_find_vitiated_aether.descr": "Obtain a Vitiated Aether Crystal.",
       "item.debug_item.name": "Debug Item",
       "block.fartsysadditions.rock_salt": "Rock Salt",
@@ -1137,17 +1813,25 @@
       "item.fartsysadditions.ffxiv_insatiable": "FFXIV - Insatiable",
       "subtitles.ffxiv.totheedge": "FFXIV - To The Edge",
       "subtitles.ffxiv.shadowbringers": "FFXIV - Shadowbringers",
+      "item.fc_locus.name": "Faded Copy of Locus",
+      "item.crystal_unaspected.name": "Unaspected Crystal",
       "item.fartsysadditions.restored_infinity": "Restored Copy of Infinity",
       "item.fartsysadditions.resonant_aether": "Resonant Aether",
       "subtitles.touhou.necrofantasia": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
       "advancements.adv_music_press.title": "A pressing matter",
       "item.fartsysadditions.faded_shadowbringers": "Faded Copy of Shadowbringers",
+      "item.jr_locus.name": "\"Locus\" Jukebox Roll",
       "subtitles.xc.youwillknowournames": "Xenoblade Chronicles -  You Will Know Our Names",
+      "item.fc_lunar_whale.name": "Faded Copy of Lunar Whale",
+      "item.jr_metal.name": "\"Metal\" Jukebox Roll",
+      "item.jr_penitus.name": "\"Penitus\" Jukebox Roll",
       "item.fartsysadditions.faded_lunar_whale": "Faded Copy of Lunar Whale",
-      "item.amd_and_love_you_shall_find.name": "Aetherial Musci Disc - And Love You Shall Find",
+      "item.amd_and_love_you_shall_find.name": "Aetherial Music Disc - And Love You Shall Find",
+      "item.fc_torn_from_the_heavens_orchestral.name": "Faded Copy of Torn From The Heavens (Orchestral)",
       "item.fartsysadditions.restored_metal": "Restored Copy of Metal",
       "item.fartsysadditions.dmc_5_bury_the_light_mission_20": "DMC 5 - Bury The Light (Mission 20)",
       "item.fartsysadditions.restored_shadowbringers": "Restored Copy of Shadowbringers",
+      "item.shard_fire.name": "Fire Shard",
       "item.fartsysadditions.restored_silent_regard_of_stars": "Restored Copy of The Silent Regard Of Stars",
       "item.fartsysadditions.touhou_project_nuclear_fusion": "Touhou Project - Nuclear Fusion",
       "item.fartsysadditions.bag_o_rock_salt": "Bag O Rock Salt",
@@ -1160,6 +1844,8 @@
       "item.record.amd_metal_brute_justice_mode.desc": "FFXIV - Metal: Brute Justice Mode",
       "item.fartsysadditions.ffxiv_primals_brute_justice": "FFXIV - The Primals - Metal: Brute Justice Mode",
       "item.record.amd_and_love_you_shall_find.desc": "FFXIV - And Love You Shall Find",
+      "item.fc_insatiable.name": "Faded Copy of Insatiable",
+      "item.fc_metal.name": "Faded Copy of Metal",
       "item.fartsysadditions.shart_ten_thousand": "Ten Kilo-Sharts",
       "item.fartsysadditions.faded_metal": "Faded Copy of Metal",
       "item.fartsysadditions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
@@ -1195,14 +1881,17 @@
       "item.fartsysadditions.ffxiv_primals_exponential_entropy": "FFXIV - The Primals - Exponential Entropy",
       "item.fartsysadditions.restored_primals_locus": "Restored Copy of The Primals - Locus",
       "item.fartsysadditions.ffxiv_silent_scream": "FFXIV - Silent Scream",
+      "item.jr_lunar_whale.name": "\"Lunar Whale\" Jukebox Roll",
       "subtitles.ffxiv.knowledgeneversleeps": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
       "item.amd_metal_brute_justice_mode.name": "Aetherial Music Disc - Metal: Brute Justice Mode",
       "death.attack.waterydemise": "%1$s met a watery demise!",
       "advancements.adv_find_vitiated_aether.title": "What exactly IS this?",
       "subtitles.demetori.orientaldarkflight": "Demetori - Oriental Dark Flight",
       "item.record.amd_insatiable.desc": "FFXIV SHB Boss Theme - Insatiable",
+      "item.fc_scream.name": "Faded Copy of Scream",
       "item.cronus.name": "Cronus",
       "item.amd_to_the_edge.name": "Aetherial Music Disc - To The Edge",
+      "item.shard_water.name": "Water Shard",
       "item.fartsysadditions.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "item.fartsysadditions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
       "item.fartsysadditions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
@@ -1216,28 +1905,30 @@
       "item.amd_insatiable.name": "Aetherial Music Disc - Insatiable",
       "item.fartsysadditions.faded_agent_of_inquiry": "Faded Copy of Agent Of Inquiry",
       "subtitles.ffxiv.fromtheheavens": "FFXIV - From the Heavens (...Hello World!)",
+      "item.shard_unaspected.name": "Unaspected Shard",
       "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.fartsysadditions.restored_silent_scream": "Restored Copy of Silent Scream",
       "advancements.adv_restored_aether.title": "MAXIMUM POWWERRR!!!!!!!",
       "item.fartsysadditions.restored_exponential_entropy": "Restored Copy of Exponential Entropy",
       "advancements.adv_resonant_aether.descr": "Create Resonant Aether.",
+      "item.cluster_earth.name": "Earth Cluster",
       "item.amd_locus.name": "Aetherial Music Disc - Locus",
       "advancements.adv_shart_death.title": "Meeting an EXPLOSIVE DEMISE",
       "item.record.amd_footfalls.desc": "FFXIV Endwalker - Footfalls",
       "item.fartsysadditions.ffxiv_exponential_entropy": "FFXIV - Exponential Entropy",
       "item.fartsysadditions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
       "item.fartsysadditions.touhou_project_cosmic_mind.desc": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren",
+      "item.crystal_fire.name": "Fire Crystal",
       "item.fartsysadditions.restored_landslide": "Restored Copy of Landslide",
       "item.fartsysadditions.shart_million": "Mega-Shart",
       "item.fartsysadditions.demetori_worlds_end": "Demetori - World\u0027s End",
       "item.shart_thousand.name": "Kilo-shart",
       "advancements.adv_1m_sharts.descr": "Obtain one million sharts",
       "subtitles.slipknot.psychosocial": "Slipknot - Psychosocial",
-      "item.restored_aether_crystal.name": "Restored Aether Crystal",
       "item.fartsysadditions.ffxiv_primals_locus.desc": "Final Fantasy XIV - The Primals - Locus",
       "subtitles.nge.cruelangelsthesis": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
-      "item.resonant_aether.name": "Resonant Aether",
       "advancements.adv_blank_music_disc.title": "Music... reborn!",
+      "item.fc_and_love_you_shall_find.name": "Faded Copy of And Love You Shall Find",
       "item.fartsysadditions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "subtitles.ffxiv.tornfromtheheavensorchestral": "FFXIV - Torn From the Heavens (Orchestral)",
       "item.fartsysadditions.restored_to_the_edge": "Restored Copy of To The Edge",
@@ -1252,6 +1943,7 @@
       "death.attack.woad.player": "%1$s experienced Professor\u0027s Ass.",
       "item.fartsysadditions.ffxiv_shadowbringers": "FFXIV - Shadowbringers",
       "item.fartsysadditions.ffxiv_close_in_the_distance": "FFXIV - Close In The Distance",
+      "item.jr_close_in_the_distance.name": "\"Close in the Distance\" Jukebox Roll",
       "item.amd_penitus.name": "Aetherial Music Disc - Penitus",
       "item.fartsysadditions.restored_brute_justice": "Restored Copy of Metal - Brute Justice Justice Mode",
       "item.record.amd_shadowbringers.desc": "FFXIV - Shadowbringers",
@@ -1262,6 +1954,7 @@
       "advancements.adv_1m_sharts.title": "A small loan of a million SHARTS",
       "item.fartsysadditions.faded_locus": "Faded Copy of Locus",
       "item.shart_million.name": "Mega-Shart",
+      "item.crystal_wind.name": "Wind Crystal",
       "item.fartsysadditions.ffxiv_brute_justice.desc": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
       "item.fartsysadditions.restored_penitus": "Restored Copy of Penitus",
       "item.fartsysadditions.restored_footfalls": "Restored Copy of Footfalls",
@@ -1285,17 +1978,22 @@
       "advancements.adv_cronus.descr": "Craft Cronus",
       "advancements.adv_shart_special.title": "Don\u0027t eat THESE...",
       "item.amd_scream.name": "Aetherial Music Disc - Scream",
+      "item.cluster_lightning.name": "Lightning Cluster",
       "item.fartsysadditions.restored_a_land_long_dead": "Restored Copy of A Land Long Dead",
+      "item.jr_shadowbringers.name": "\"Shadowbringers\" Jukebox Roll",
       "subtitles.ffxiv.andloveyoushallfind": "FFXIV - And Love You Shall Find",
       "item.record.amd_torn_from_the_heavens_orchestral.desc": "FFXIV The Omega Protocol - Torn From The Heavens (Orchestral)",
       "subtitles.ffxiv.metal": "FFXIV - Metal",
       "item.fartsysadditions.waffle_of_ass_destruction": "Waffle Of Ass Destruction",
+      "item.shard_ice.name": "Ice Shard",
       "item.vitiated_aether_crystal.name": "Vitiated Aether Crystal",
       "item.record.amd_close_in_the_distance.desc": "FFXIV Ultima Thule Theme - Close in the Distance",
       "subtitles.ffxiv.insatiable": "FFXIV - Insatiable",
       "item.fartsysadditions.demetori_worlds_end.desc": "Demetori - World\u0027s End",
       "item.fartsysadditions.restored_aether_crystal": "Restored Aether Crystal",
+      "item.shard_wind.name": "Wind Shard",
       "subtitles.touhou.cosmicmind": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren)",
+      "item.fc_footfalls.name": "Faded Copy of Footfalls",
       "item.amd_torn_from_the_heavens_orchestral.name": "Aetherial Music Disc - Torn From The Heavens (Orchestral)",
       "item.shart_ten.name": "Mini Shart",
       "item.fartsysadditions.ffxiv_locus": "FFXIV - Locus",
@@ -1307,6 +2005,7 @@
       "item.fartsysadditions.faded_under_the_weight": "Faded Copy of Under The Weight",
       "subtitles.ffxiv.metalbrutejusticemode": "FFXIV - Metal: Brute Justice Mode",
       "item.fartsysadditions.touhou_project_un_owen_was_her": "Touhou Project - U.N. Owen Was Her?",
+      "item.jr_and_love_you_shall_find.name": "\"And Love You Shall Find\" Jukebox Roll",
       "subtitles.kbr.dededestroyerz": "Kirby Battle Royale - De De Destroyer Z",
       "subtitles.ffxiv.woethatismadness": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "item.fartsysadditions.shart_ten_million": "10 Mega-Sharts",
@@ -1317,19 +2016,25 @@
       "item.fartsysadditions.ffxiv_silent_regard_of_stars.desc": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
       "item.fartsysadditions.ffxiv_infinity": "FFXIV - Infinity",
       "item.fartsysadditions.ffxiv_out_of_time.desc": "Final Fantasy XIV - Out of Time (Alexander)",
+      "item.fc_escape.name": "Faded Copy of eScape (Journeys)",
       "advancements.adv_resonant_aether.title": "MORE POWAAAA",
       "item.fartsysadditions.blank_music_disc": "Blank Music Disc",
       "item.record.amd_escape.desc": "FFXIV Stigma Dreamscape Theme - eScape (Journeys)",
       "item.fartsysadditions.xbc_2_battle.desc": "Xenoblade Chronicles 2 - Battle!!",
+      "item.fc_athena_the_tireless_one.name": "FC Athena The Tireless One",
       "item.fartsysadditions.faded_to_the_edge": "Faded Copy of To The Edge",
       "item.fartsysadditions.ffxiv_exponential_entropy.desc": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
+      "itemGroup.tabfmf_music": "FMF - Music",
       "subtitles.ffxiv.penitus": "FFXIV - Penitus (...Tell me, for whom do you fight?)",
       "item.fartsysadditions.restored_woe_that_is_madness": "Restored Copy of Woe That Is Madness",
       "subtitles.ffxiv.primals.brutejusticemode": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "item.shart_ten_thousand.name": "Ten Kilo-Sharts",
+      "item.crystal_ice.name": "Ice Crystal",
       "item.fartsysadditions.xbc_you_will_know_our_names": "XBC - You Will Know Our Names",
       "death.attack.selfdesharted.player": "%1$s self-desharted!",
+      "item.jr_metal_brute_justice_mode.name": "\"Metal: Brute Justice Mode\" Jukebox Roll",
       "item.amd_shadowbringers.name": "Aetherial Music Disc - Shadowbringers",
+      "item.shard_earth.name": "Earth Shard",
       "subtitles.ffxiv.silentscream": "Final Fantasy XIV - Silent Scream",
       "item.fartsysadditions.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
       "item.fartsysadditions.restored_knowledge_never_sleeps": "Restored Copy of Knowledge Never Sleeps",
@@ -1340,10 +2045,13 @@
       "item.fartsysadditions.dmc_5_silver_bullet": "DMC 5 - Silver Bullet",
       "item.fartsysadditions.faded_close_in_the_distance": "Faded Copy of Close In The Distance",
       "item.fartsysadditions.ffxiv_agent_of_inquiry": "FFXIV - Agent Of Inquiry",
+      "item.crystal_water.name": "Water Crystal",
+      "item.jr_insatiable.name": "\"Insatiable\" Jukebox Roll",
       "item.fartsysadditions.dmc_5_silver_bullet.desc": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "subtitles.ffxiv.exponentialentropy": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
       "item.fartsysadditions.faded_footfalls": "Faded Copy of Footfalls",
       "item.fartsysadditions.faded_knowledge_never_sleeps": "Faded Copy of Knowledge Never Sleeps",
+      "item.fc_penitus.name": "Faded Copy of Penitus",
       "item.fartsysadditions.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode",
       "item.fartsysadditions.restored_under_the_weight": "Restored Copy of Under The Weight",
       "item.record.amd_athena_the_tireless_one.desc": "FFXIV P12 Theme (Athena, The Tireless One)",

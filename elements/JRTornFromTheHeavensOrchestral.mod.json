@@ -8,7 +8,7 @@
     "name": "\"Torn From The Heavens (Orchestral)\" Jukebox Roll",
     "rarity": "EPIC",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "stackSize": 1,
     "enchantability": 0,
@@ -30,6 +30,9 @@
     "hasGlow": true,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 64
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "JRTornFromTheHeavensOrchestralRightClickedInAir"
+    }
   }
 }

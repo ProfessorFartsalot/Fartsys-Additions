@@ -6,7 +6,7 @@
     "name": "Aetherial Music Disc - Locus",
     "description": "FFXIV - Locus",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.locus"

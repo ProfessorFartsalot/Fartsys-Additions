@@ -22,7 +22,7 @@ import java.util.List;
 import java.util.HashMap;
 
 import com.firehostredux.fartsysadditions.procedure.ProcedureJRAthenaTheTirelessOneRightClickedInAir;
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -30,7 +30,7 @@ public class ItemJRAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_athena_the_tireless_one")
 	public static final Item block = null;
 	public ItemJRAthenaTheTirelessOne(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 489);
+		super(instance, 36);
 	}
 
 	@Override
@@ -50,7 +50,7 @@ public class ItemJRAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyMo
 			maxStackSize = 1;
 			setUnlocalizedName("jr_athena_the_tireless_one");
 			setRegistryName("jr_athena_the_tireless_one");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

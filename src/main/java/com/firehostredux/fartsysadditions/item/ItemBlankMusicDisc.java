@@ -24,7 +24,7 @@ public class ItemBlankMusicDisc extends ElementsFartsysmagitechfantasyMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:blank_music_disc")
 	public static final Item block = null;
 	public ItemBlankMusicDisc(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 333);
+		super(instance, 17);
 	}
 
 	@Override

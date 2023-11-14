@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDToTheEdge extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_to_the_edge")
 	public static final Item block = null;
 	public ItemAMDToTheEdge(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 483);
+		super(instance, 28);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDToTheEdge extends ElementsFartsysmagitechfantasyMod.ModEleme
 			super("amd_to_the_edge", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.totheedge")));
 			setUnlocalizedName("amd_to_the_edge");
 			setRegistryName("amd_to_the_edge");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

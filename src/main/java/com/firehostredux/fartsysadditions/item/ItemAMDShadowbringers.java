@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDShadowbringers extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_shadowbringers")
 	public static final Item block = null;
 	public ItemAMDShadowbringers(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 486);
+		super(instance, 31);
 	}
 
 	@Override
@@ -44,7 +44,7 @@ public class ItemAMDShadowbringers extends ElementsFartsysmagitechfantasyMod.Mod
 					ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.shadowbringers")));
 			setUnlocalizedName("amd_shadowbringers");
 			setRegistryName("amd_shadowbringers");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

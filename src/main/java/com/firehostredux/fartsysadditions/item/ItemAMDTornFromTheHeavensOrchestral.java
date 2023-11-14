@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDTornFromTheHeavensOrchestral extends ElementsFartsysmagitech
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_torn_from_the_heavens_orchestral")
 	public static final Item block = null;
 	public ItemAMDTornFromTheHeavensOrchestral(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 477);
+		super(instance, 22);
 	}
 
 	@Override
@@ -45,7 +45,7 @@ public class ItemAMDTornFromTheHeavensOrchestral extends ElementsFartsysmagitech
 					ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.tornfromtheheavensorchestral")));
 			setUnlocalizedName("amd_torn_from_the_heavens_orchestral");
 			setRegistryName("amd_torn_from_the_heavens_orchestral");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

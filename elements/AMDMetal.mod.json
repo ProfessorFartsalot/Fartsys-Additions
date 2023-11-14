@@ -6,7 +6,7 @@
     "name": "Aetherial Music Disc - Metal",
     "description": "FFXIV - Metal",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.metal"

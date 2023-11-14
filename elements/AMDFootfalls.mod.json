@@ -6,7 +6,7 @@
     "name": "Aetherial Music Disc - Footfalls",
     "description": "FFXIV Endwalker - Footfalls",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.footfalls"

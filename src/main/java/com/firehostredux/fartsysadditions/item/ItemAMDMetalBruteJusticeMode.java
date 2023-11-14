@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDMetalBruteJusticeMode extends ElementsFartsysmagitechfantasy
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_metal_brute_justice_mode")
 	public static final Item block = null;
 	public ItemAMDMetalBruteJusticeMode(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 487);
+		super(instance, 33);
 	}
 
 	@Override
@@ -45,7 +45,7 @@ public class ItemAMDMetalBruteJusticeMode extends ElementsFartsysmagitechfantasy
 					ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.metalbrutejusticemode")));
 			setUnlocalizedName("amd_metal_brute_justice_mode");
 			setRegistryName("amd_metal_brute_justice_mode");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDMetal extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_metal")
 	public static final Item block = null;
 	public ItemAMDMetal(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 487);
+		super(instance, 32);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDMetal extends ElementsFartsysmagitechfantasyMod.ModElement {
 			super("amd_metal", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.metal")));
 			setUnlocalizedName("amd_metal");
 			setRegistryName("amd_metal");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

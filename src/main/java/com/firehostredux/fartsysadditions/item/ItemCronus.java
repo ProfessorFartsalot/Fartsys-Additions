@@ -28,7 +28,7 @@ public class ItemCronus extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cronus")
 	public static final Item block = null;
 	public ItemCronus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 332);
+		super(instance, 16);
 	}
 
 	@Override

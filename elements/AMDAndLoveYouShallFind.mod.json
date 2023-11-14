@@ -3,10 +3,10 @@
   "_type": "musicdisc",
   "definition": {
     "texture": "diamond_disc",
-    "name": "Aetherial Musci Disc - And Love You Shall Find",
+    "name": "Aetherial Music Disc - And Love You Shall Find",
     "description": "FFXIV - And Love You Shall Find",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.andloveyoushallfind"

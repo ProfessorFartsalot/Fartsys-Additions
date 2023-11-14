@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDPenitus extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_penitus")
 	public static final Item block = null;
 	public ItemAMDPenitus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 487);
+		super(instance, 34);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDPenitus extends ElementsFartsysmagitechfantasyMod.ModElement
 			super("amd_penitus", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.penitus")));
 			setUnlocalizedName("amd_penitus");
 			setRegistryName("amd_penitus");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

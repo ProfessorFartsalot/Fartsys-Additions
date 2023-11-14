@@ -8,15 +8,21 @@ import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.world.World;
+import net.minecraft.util.EnumHand;
+import net.minecraft.util.ActionResult;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
+import java.util.Map;
 import java.util.List;
+import java.util.HashMap;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.procedure.ProcedureJRTornFromTheHeavensOrchestralRightClickedInAir;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -24,7 +30,7 @@ public class ItemJRTornFromTheHeavensOrchestral extends ElementsFartsysmagitechf
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_torn_from_the_heavens_orchestral")
 	public static final Item block = null;
 	public ItemJRTornFromTheHeavensOrchestral(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 489);
+		super(instance, 38);
 	}
 
 	@Override
@@ -44,7 +50,7 @@ public class ItemJRTornFromTheHeavensOrchestral extends ElementsFartsysmagitechf
 			maxStackSize = 1;
 			setUnlocalizedName("jr_torn_from_the_heavens_orchestral");
 			setRegistryName("jr_torn_from_the_heavens_orchestral");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override
@@ -72,6 +78,21 @@ public class ItemJRTornFromTheHeavensOrchestral extends ElementsFartsysmagitechf
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
 			list.add("Right click in hand to obtain a copy of Torn From the Heavens (Orchestral)");
+		}
+
+		@Override
+		public ActionResult<ItemStack> onItemRightClick(World world, EntityPlayer entity, EnumHand hand) {
+			ActionResult<ItemStack> ar = super.onItemRightClick(world, entity, hand);
+			ItemStack itemstack = ar.getResult();
+			int x = (int) entity.posX;
+			int y = (int) entity.posY;
+			int z = (int) entity.posZ;
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				ProcedureJRTornFromTheHeavensOrchestralRightClickedInAir.executeProcedure($_dependencies);
+			}
+			return ar;
 		}
 	}
 }

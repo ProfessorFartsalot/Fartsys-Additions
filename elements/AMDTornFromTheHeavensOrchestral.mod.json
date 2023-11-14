@@ -6,7 +6,7 @@
     "name": "Aetherial Music Disc - Torn From The Heavens (Orchestral)",
     "description": "FFXIV The Omega Protocol - Torn From The Heavens (Orchestral)",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.tornfromtheheavensorchestral"

@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDLunarWhale extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_lunar_whale")
 	public static final Item block = null;
 	public ItemAMDLunarWhale(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 485);
+		super(instance, 30);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDLunarWhale extends ElementsFartsysmagitechfantasyMod.ModElem
 			super("amd_lunar_whale", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.lunarwhale")));
 			setUnlocalizedName("amd_lunar_whale");
 			setRegistryName("amd_lunar_whale");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

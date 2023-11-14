@@ -24,7 +24,7 @@ public class ItemVitiatedAetherCrystal extends ElementsFartsysmagitechfantasyMod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:vitiated_aether_crystal")
 	public static final Item block = null;
 	public ItemVitiatedAetherCrystal(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 305);
+		super(instance, 13);
 	}
 
 	@Override

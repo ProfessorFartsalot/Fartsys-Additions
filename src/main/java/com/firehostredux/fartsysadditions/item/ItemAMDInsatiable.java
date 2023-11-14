@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDInsatiable extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_insatiable")
 	public static final Item block = null;
 	public ItemAMDInsatiable(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 482);
+		super(instance, 27);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDInsatiable extends ElementsFartsysmagitechfantasyMod.ModElem
 			super("amd_insatiable", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.insatiable")));
 			setUnlocalizedName("amd_insatiable");
 			setRegistryName("amd_insatiable");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

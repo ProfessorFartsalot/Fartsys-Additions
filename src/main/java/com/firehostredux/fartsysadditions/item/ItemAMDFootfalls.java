@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDFootfalls extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_footfalls")
 	public static final Item block = null;
 	public ItemAMDFootfalls(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 481);
+		super(instance, 26);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDFootfalls extends ElementsFartsysmagitechfantasyMod.ModEleme
 			super("amd_footfalls", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.footfalls")));
 			setUnlocalizedName("amd_footfalls");
 			setRegistryName("amd_footfalls");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDAndLoveYouShallFind extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_and_love_you_shall_find")
 	public static final Item block = null;
 	public ItemAMDAndLoveYouShallFind(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 484);
+		super(instance, 29);
 	}
 
 	@Override
@@ -45,7 +45,7 @@ public class ItemAMDAndLoveYouShallFind extends ElementsFartsysmagitechfantasyMo
 					ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.andloveyoushallfind")));
 			setUnlocalizedName("amd_and_love_you_shall_find");
 			setRegistryName("amd_and_love_you_shall_find");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

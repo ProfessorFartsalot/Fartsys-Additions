@@ -16,7 +16,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class ProcedureWaffleOfAssDestructionFoodEaten extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public ProcedureWaffleOfAssDestructionFoodEaten(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 292);
+		super(instance, 54);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDEscape extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_escape")
 	public static final Item block = null;
 	public ItemAMDEscape(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 479);
+		super(instance, 24);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDEscape extends ElementsFartsysmagitechfantasyMod.ModElement 
 			super("amd_escape", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.escape_journeys")));
 			setUnlocalizedName("amd_escape");
 			setRegistryName("amd_escape");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

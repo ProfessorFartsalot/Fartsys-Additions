@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDLocus extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_locus")
 	public static final Item block = null;
 	public ItemAMDLocus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 488);
+		super(instance, 35);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDLocus extends ElementsFartsysmagitechfantasyMod.ModElement {
 			super("amd_locus", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.locus")));
 			setUnlocalizedName("amd_locus");
 			setRegistryName("amd_locus");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

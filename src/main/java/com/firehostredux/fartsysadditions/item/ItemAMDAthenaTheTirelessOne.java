@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyM
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_athena_the_tireless_one")
 	public static final Item block = null;
 	public ItemAMDAthenaTheTirelessOne(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 475);
+		super(instance, 20);
 	}
 
 	@Override
@@ -45,7 +45,7 @@ public class ItemAMDAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyM
 					ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.athenathetirelessone")));
 			setUnlocalizedName("amd_athena_the_tireless_one");
 			setRegistryName("amd_athena_the_tireless_one");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

@@ -6,7 +6,7 @@
     "name": "Aetherial Music Disc - Scream",
     "description": "FFXIV P5 Theme (Scream)",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.scream"

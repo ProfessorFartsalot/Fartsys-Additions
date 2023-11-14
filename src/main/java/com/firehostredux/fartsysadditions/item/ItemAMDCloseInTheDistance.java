@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDCloseInTheDistance extends ElementsFartsysmagitechfantasyMod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_close_in_the_distance")
 	public static final Item block = null;
 	public ItemAMDCloseInTheDistance(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 480);
+		super(instance, 25);
 	}
 
 	@Override
@@ -45,7 +45,7 @@ public class ItemAMDCloseInTheDistance extends ElementsFartsysmagitechfantasyMod
 					ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.closeinthedistance")));
 			setUnlocalizedName("amd_close_in_the_distance");
 			setRegistryName("amd_close_in_the_distance");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

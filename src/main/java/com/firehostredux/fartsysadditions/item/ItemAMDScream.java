@@ -17,7 +17,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -25,7 +25,7 @@ public class ItemAMDScream extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_scream")
 	public static final Item block = null;
 	public ItemAMDScream(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 476);
+		super(instance, 21);
 	}
 
 	@Override
@@ -43,7 +43,7 @@ public class ItemAMDScream extends ElementsFartsysmagitechfantasyMod.ModElement 
 			super("amd_scream", ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:ffxiv.scream")));
 			setUnlocalizedName("amd_scream");
 			setRegistryName("amd_scream");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

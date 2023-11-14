@@ -6,7 +6,7 @@
     "name": "Aetherial Music Disc - Shadowbringers",
     "description": "FFXIV - Shadowbringers",
     "creativeTab": {
-      "value": "CUSTOM:FartsysAdditions"
+      "value": "CUSTOM:FMFMusic"
     },
     "music": {
       "value": "CUSTOM:ffxiv.shadowbringers"
