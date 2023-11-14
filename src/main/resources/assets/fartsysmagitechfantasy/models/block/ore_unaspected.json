@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fartsysmagitechfantasy:blocks/rocksalt",
+    "up": "fartsysmagitechfantasy:blocks/rocksalt",
+    "north": "fartsysmagitechfantasy:blocks/rocksalt",
+    "east": "fartsysmagitechfantasy:blocks/rocksalt",
+    "south": "fartsysmagitechfantasy:blocks/rocksalt",
+    "west": "fartsysmagitechfantasy:blocks/rocksalt",
+    "particle": "fartsysmagitechfantasy:blocks/rocksalt"
+  }
+}
