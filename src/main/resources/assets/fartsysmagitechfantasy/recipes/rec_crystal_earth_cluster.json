@@ -1,0 +1,13 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:crystal_earth",
+    "count": 9
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:cluster_wind",
+    "count": 1
+  }
+}

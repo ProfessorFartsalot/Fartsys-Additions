@@ -1,0 +1,13 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:cluster_water"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:crystal_water",
+    "count": 9
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      },
+      {
+        "value": "CUSTOM:ShardEarth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrystalEarth"
+    },
+    "name": "rec_crystal_earth",
+    "namespace": "mod"
+  }
+}

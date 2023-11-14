@@ -1572,6 +1572,286 @@
       "ids": {},
       "registry_name": "cluster_wind",
       "path": "~/Misc"
+    },
+    {
+      "name": "RecShardEarth",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shard_earth",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShardFire",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shard_fire",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShardIce",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shard_ice",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShardLightning",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shard_lightning",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShardUnaspected",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shard_unaspected",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShardWater",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shard_water",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShardWind",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shard_wind",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalEarth",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_earth",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalFire",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_fire",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalIce",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_ice",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalLightning",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_lightning",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalUnaspected",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_unaspected",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalWater",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_water",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalWind",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_wind",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalEarthCluster",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_earth_cluster",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalFireCluster",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_fire_cluster",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalIceCluster",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_ice_cluster",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalLightningCluster",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_lightning_cluster",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalUnaspectedCluster",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_unaspected_cluster",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalWaterCluster",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_water_cluster",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCrystalWindCluster",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_crystal_wind_cluster",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecClusterEarth",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_cluster_earth",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecClusterFire",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_cluster_fire",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecClusterIce",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_cluster_ice",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecClusterLightning",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_cluster_lightning",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecClusterUnaspected",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_cluster_unaspected",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecClusterWater",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_cluster_water",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecClusterWind",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_cluster_wind",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],

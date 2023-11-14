@@ -1,0 +1,13 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:crystal_unaspected"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:shard_unaspected",
+    "count": 9
+  }
+}

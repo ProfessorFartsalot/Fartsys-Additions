@@ -1,0 +1,37 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:crystal_lightning",
+    "count": 1
+  }
+}

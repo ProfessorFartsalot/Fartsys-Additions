@@ -1,0 +1,37 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:cluster_fire",
+    "count": 1
+  }
+}
