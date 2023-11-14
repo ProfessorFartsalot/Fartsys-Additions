@@ -1882,6 +1882,36 @@
       "ids": {},
       "registry_name": "blank_g_3_jr",
       "path": "~/Misc"
+    },
+    {
+      "name": "RecGrade1JR",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_grade_1_jr",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecGrade2JR",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_grade_2_jr",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecGrade3JR",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_grade_3_jr",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
