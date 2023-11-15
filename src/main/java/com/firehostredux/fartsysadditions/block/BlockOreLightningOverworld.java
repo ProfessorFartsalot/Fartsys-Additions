@@ -84,7 +84,7 @@ public class BlockOreLightningOverworld extends ElementsFartsysmagitechfantasyMo
 			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;
-		for (int i = 0; i < 8; i++) {
+		for (int i = 0; i < 4; i++) {
 			int x = chunkX + random.nextInt(16);
 			int y = random.nextInt(48) + 0;
 			int z = chunkZ + random.nextInt(16);

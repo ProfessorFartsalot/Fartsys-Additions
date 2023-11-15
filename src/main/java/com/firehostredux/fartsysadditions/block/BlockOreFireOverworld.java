@@ -62,11 +62,29 @@ public class BlockOreFireOverworld extends ElementsFartsysmagitechfantasyMod.Mod
 			return;
 		boolean biomeCriteria = false;
 		Biome biome = world.getBiome(new BlockPos(chunkX, 128, chunkZ));
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("plains")))
+			biomeCriteria = true;
 		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("desert")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("beaches")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("desert_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("savanna")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("savanna_rock")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("mesa")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("mesa_rock")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("mesa_clear_rock")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("plains")))
 			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;
-		for (int i = 0; i < 8; i++) {
+		for (int i = 0; i < 4; i++) {
 			int x = chunkX + random.nextInt(16);
 			int y = random.nextInt(40) + 0;
 			int z = chunkZ + random.nextInt(16);

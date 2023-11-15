@@ -106,7 +106,34 @@
     ],
     "restrictionBiomes": [
       {
+        "value": "plains"
+      },
+      {
         "value": "desert"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "desert_hills"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      },
+      {
+        "value": "badlands_plateau"
+      },
+      {
+        "value": "basalt_deltas"
       }
     ],
     "blocksToReplace": [
@@ -114,7 +141,7 @@
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 8,
+    "frequencyPerChunks": 4,
     "frequencyOnChunk": 8,
     "minGenerateHeight": 0,
     "maxGenerateHeight": 40
