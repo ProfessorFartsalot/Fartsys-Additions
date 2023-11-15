@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "disc05",
+    "texture": "ink_emerald",
     "customModelName": "Normal",
-    "name": "Blank Music Disc",
-    "rarity": "RARE",
+    "name": "Enchanted Emerald Ink",
+    "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
@@ -24,10 +24,8 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [
-      "A blank music disc. Use in the music disc press to add music."
-    ],
-    "hasGlow": false,
+    "specialInfo": [],
+    "hasGlow": true,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64

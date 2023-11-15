@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "disc05",
+    "texture": "ink_gold",
     "customModelName": "Normal",
-    "name": "Blank Music Disc",
-    "rarity": "RARE",
+    "name": "Enchanted Gold Ink",
+    "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
@@ -24,9 +24,7 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [
-      "A blank music disc. Use in the music disc press to add music."
-    ],
+    "specialInfo": [],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
