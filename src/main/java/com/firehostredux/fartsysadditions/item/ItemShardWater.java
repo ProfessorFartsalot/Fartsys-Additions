@@ -20,7 +20,7 @@ public class ItemShardWater extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shard_water")
 	public static final Item block = null;
 	public ItemShardWater(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 33);
+		super(instance, 25);
 	}
 
 	@Override

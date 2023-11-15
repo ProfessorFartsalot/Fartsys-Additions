@@ -20,7 +20,7 @@ public class ItemShardWind extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shard_wind")
 	public static final Item block = null;
 	public ItemShardWind(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 36);
+		super(instance, 28);
 	}
 
 	@Override

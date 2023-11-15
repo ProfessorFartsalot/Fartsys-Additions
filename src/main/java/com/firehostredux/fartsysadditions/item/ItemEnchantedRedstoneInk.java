@@ -20,7 +20,7 @@ public class ItemEnchantedRedstoneInk extends ElementsFartsysmagitechfantasyMod.
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_redstone_ink")
 	public static final Item block = null;
 	public ItemEnchantedRedstoneInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 221);
+		super(instance, 38);
 	}
 
 	@Override

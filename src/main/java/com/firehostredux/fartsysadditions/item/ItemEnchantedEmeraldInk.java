@@ -20,7 +20,7 @@ public class ItemEnchantedEmeraldInk extends ElementsFartsysmagitechfantasyMod.M
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_emerald_ink")
 	public static final Item block = null;
 	public ItemEnchantedEmeraldInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 223);
+		super(instance, 40);
 	}
 
 	@Override

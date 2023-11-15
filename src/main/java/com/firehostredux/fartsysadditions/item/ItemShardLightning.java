@@ -20,7 +20,7 @@ public class ItemShardLightning extends ElementsFartsysmagitechfantasyMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shard_lightning")
 	public static final Item block = null;
 	public ItemShardLightning(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 27);
+		super(instance, 19);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class ItemAMDMetal extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_metal")
 	public static final Item block = null;
 	public ItemAMDMetal(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 55);
+		super(instance, 73);
 	}
 
 	@Override

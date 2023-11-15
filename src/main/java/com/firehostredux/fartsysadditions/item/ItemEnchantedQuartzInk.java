@@ -20,7 +20,7 @@ public class ItemEnchantedQuartzInk extends ElementsFartsysmagitechfantasyMod.Mo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_quartz_ink")
 	public static final Item block = null;
 	public ItemEnchantedQuartzInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 224);
+		super(instance, 41);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockOreWater extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_water")
 	public static final Block block = null;
 	public BlockOreWater(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 215);
+		super(instance, 8);
 	}
 
 	@Override

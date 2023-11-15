@@ -24,7 +24,7 @@ public class ItemFCSteelReason extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_steel_reason")
 	public static final Item block = null;
 	public ItemFCSteelReason(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 109);
+		super(instance, 127);
 	}
 
 	@Override

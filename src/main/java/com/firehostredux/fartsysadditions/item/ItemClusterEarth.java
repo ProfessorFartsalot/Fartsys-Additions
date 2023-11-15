@@ -20,7 +20,7 @@ public class ItemClusterEarth extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cluster_earth")
 	public static final Item block = null;
 	public ItemClusterEarth(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 20);
+		super(instance, 12);
 	}
 
 	@Override

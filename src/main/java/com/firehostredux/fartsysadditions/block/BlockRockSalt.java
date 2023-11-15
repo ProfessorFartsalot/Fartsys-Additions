@@ -28,7 +28,7 @@ public class BlockRockSalt extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:rock_salt")
 	public static final Block block = null;
 	public BlockRockSalt(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 10);
+		super(instance, 52);
 	}
 
 	@Override

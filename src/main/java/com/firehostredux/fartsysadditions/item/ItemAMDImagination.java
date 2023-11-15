@@ -25,7 +25,7 @@ public class ItemAMDImagination extends ElementsFartsysmagitechfantasyMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_imagination")
 	public static final Item block = null;
 	public ItemAMDImagination(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 50);
+		super(instance, 68);
 	}
 
 	@Override

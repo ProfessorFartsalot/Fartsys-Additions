@@ -25,7 +25,7 @@ public class ItemAMDToTheEdge extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_to_the_edge")
 	public static final Item block = null;
 	public ItemAMDToTheEdge(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 65);
+		super(instance, 83);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemCrystalFire extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:crystal_fire")
 	public static final Item block = null;
 	public ItemCrystalFire(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 22);
+		super(instance, 14);
 	}
 
 	@Override

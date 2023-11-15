@@ -37,7 +37,7 @@ public class BlockOreIce extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_ice")
 	public static final Block block = null;
 	public BlockOreIce(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 212);
+		super(instance, 4);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemEnchantedLapisInk extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_lapis_ink")
 	public static final Item block = null;
 	public ItemEnchantedLapisInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 220);
+		super(instance, 37);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemClusterLightning extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cluster_lightning")
 	public static final Item block = null;
 	public ItemClusterLightning(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 29);
+		super(instance, 21);
 	}
 
 	@Override

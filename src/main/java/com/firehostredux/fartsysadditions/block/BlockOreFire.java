@@ -37,7 +37,7 @@ public class BlockOreFire extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_fire")
 	public static final Block block = null;
 	public BlockOreFire(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 210);
+		super(instance, 2);
 	}
 
 	@Override

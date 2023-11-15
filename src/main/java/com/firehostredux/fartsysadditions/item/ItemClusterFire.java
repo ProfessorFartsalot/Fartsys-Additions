@@ -20,7 +20,7 @@ public class ItemClusterFire extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cluster_fire")
 	public static final Item block = null;
 	public ItemClusterFire(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 23);
+		super(instance, 15);
 	}
 
 	@Override

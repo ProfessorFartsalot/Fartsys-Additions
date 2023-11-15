@@ -20,7 +20,7 @@ public class ItemEnchantedIronInk extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_iron_ink")
 	public static final Item block = null;
 	public ItemEnchantedIronInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 217);
+		super(instance, 34);
 	}
 
 	@Override

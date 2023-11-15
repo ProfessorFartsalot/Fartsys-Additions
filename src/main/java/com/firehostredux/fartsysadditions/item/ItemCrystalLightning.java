@@ -20,7 +20,7 @@ public class ItemCrystalLightning extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:crystal_lightning")
 	public static final Item block = null;
 	public ItemCrystalLightning(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 28);
+		super(instance, 20);
 	}
 
 	@Override

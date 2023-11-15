@@ -20,7 +20,7 @@ public class ItemEnchantedNetherBrickInk extends ElementsFartsysmagitechfantasyM
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_nether_brick_ink")
 	public static final Item block = null;
 	public ItemEnchantedNetherBrickInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 225);
+		super(instance, 42);
 	}
 
 	@Override

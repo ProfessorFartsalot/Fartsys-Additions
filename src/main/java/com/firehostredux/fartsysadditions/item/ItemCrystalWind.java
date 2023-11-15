@@ -20,7 +20,7 @@ public class ItemCrystalWind extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:crystal_wind")
 	public static final Item block = null;
 	public ItemCrystalWind(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 37);
+		super(instance, 29);
 	}
 
 	@Override

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnchantedLapisInk"
+    },
+    "name": "rec_enchanted_lapis_ink",
+    "namespace": "mod"
+  }
+}

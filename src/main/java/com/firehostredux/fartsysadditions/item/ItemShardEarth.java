@@ -20,7 +20,7 @@ public class ItemShardEarth extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shard_earth")
 	public static final Item block = null;
 	public ItemShardEarth(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 18);
+		super(instance, 10);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemEnchantedDiamondInk extends ElementsFartsysmagitechfantasyMod.M
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_diamond_ink")
 	public static final Item block = null;
 	public ItemEnchantedDiamondInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 219);
+		super(instance, 36);
 	}
 
 	@Override

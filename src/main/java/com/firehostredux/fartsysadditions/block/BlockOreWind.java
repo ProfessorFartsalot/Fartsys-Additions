@@ -37,7 +37,7 @@ public class BlockOreWind extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_wind")
 	public static final Block block = null;
 	public BlockOreWind(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 216);
+		super(instance, 9);
 	}
 
 	@Override

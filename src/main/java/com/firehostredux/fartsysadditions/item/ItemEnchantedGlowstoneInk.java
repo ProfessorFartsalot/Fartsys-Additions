@@ -20,7 +20,7 @@ public class ItemEnchantedGlowstoneInk extends ElementsFartsysmagitechfantasyMod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_glowstone_ink")
 	public static final Item block = null;
 	public ItemEnchantedGlowstoneInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 222);
+		super(instance, 39);
 	}
 
 	@Override

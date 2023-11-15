@@ -20,7 +20,7 @@ public class ItemEnchantedEnderPearlInk extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:enchanted_ender_pearl_ink")
 	public static final Item block = null;
 	public ItemEnchantedEnderPearlInk(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 226);
+		super(instance, 43);
 	}
 
 	@Override

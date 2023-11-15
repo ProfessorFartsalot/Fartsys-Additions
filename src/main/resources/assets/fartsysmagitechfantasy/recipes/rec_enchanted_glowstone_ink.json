@@ -1,0 +1,37 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    },
+    "1": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "2": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 0
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    },
+    "7": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:enchanted_glowstone_ink",
+    "count": 1
+  }
+}

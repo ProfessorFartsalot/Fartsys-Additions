@@ -35,7 +35,7 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_unaspected")
 	public static final Block block = null;
 	public BlockOreUnaspected(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 42);
+		super(instance, 7);
 	}
 
 	@Override

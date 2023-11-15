@@ -37,7 +37,7 @@ public class BlockOreLightning extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_lightning")
 	public static final Block block = null;
 	public BlockOreLightning(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 213);
+		super(instance, 5);
 	}
 
 	@Override

@@ -35,7 +35,7 @@ public class BlockOreEarth extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_earth")
 	public static final Block block = null;
 	public BlockOreEarth(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 209);
+		super(instance, 1);
 	}
 
 	@Override

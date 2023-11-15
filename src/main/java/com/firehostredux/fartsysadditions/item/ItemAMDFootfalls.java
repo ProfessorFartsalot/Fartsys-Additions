@@ -25,7 +25,7 @@ public class ItemAMDFootfalls extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_footfalls")
 	public static final Item block = null;
 	public ItemAMDFootfalls(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 48);
+		super(instance, 66);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemClusterWind extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cluster_wind")
 	public static final Item block = null;
 	public ItemClusterWind(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 38);
+		super(instance, 30);
 	}
 
 	@Override
