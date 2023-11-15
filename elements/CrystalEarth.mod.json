@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "crystal_earth",
     "customModelName": "Normal",
     "name": "Earth Crystal",
     "rarity": "UNCOMMON",

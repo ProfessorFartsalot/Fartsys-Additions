@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "shard_fire",
     "customModelName": "Normal",
     "name": "Fire Shard",
     "rarity": "COMMON",

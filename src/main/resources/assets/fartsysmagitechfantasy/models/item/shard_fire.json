@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "fartsysmagitechfantasy:items/professor"
+    "layer0": "fartsysmagitechfantasy:items/shard_fire"
   }
 }

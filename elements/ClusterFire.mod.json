@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "cluster_fire",
     "customModelName": "Normal",
     "name": "Fire Cluster",
     "rarity": "RARE",
