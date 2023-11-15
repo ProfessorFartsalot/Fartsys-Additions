@@ -1,0 +1,41 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    {
+      "item": "minecraft:poisonous_potato"
+    },
+    {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:la_cucuracha",
+    "count": 1
+  }
+}

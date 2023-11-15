@@ -15,7 +15,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class ProcedureBagORockSaltSpawnRockSalt extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public ProcedureBagORockSaltSpawnRockSalt(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 136);
+		super(instance, 135);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

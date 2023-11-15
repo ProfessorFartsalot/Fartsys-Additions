@@ -27,7 +27,7 @@ public class ItemWaffleOfAssDestruction extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:waffle_of_ass_destruction")
 	public static final Item block = null;
 	public ItemWaffleOfAssDestruction(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 59);
+		super(instance, 58);
 	}
 
 	@Override

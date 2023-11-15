@@ -24,7 +24,7 @@ public class ItemFCInsatiable extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_insatiable")
 	public static final Item block = null;
 	public ItemFCInsatiable(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 117);
+		super(instance, 116);
 	}
 
 	@Override

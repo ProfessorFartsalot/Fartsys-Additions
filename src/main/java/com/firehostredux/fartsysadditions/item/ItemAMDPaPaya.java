@@ -25,7 +25,7 @@ public class ItemAMDPaPaya extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_pa_paya")
 	public static final Item block = null;
 	public ItemAMDPaPaya(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 76);
+		super(instance, 75);
 	}
 
 	@Override

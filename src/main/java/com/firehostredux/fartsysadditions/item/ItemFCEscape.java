@@ -24,7 +24,7 @@ public class ItemFCEscape extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_escape")
 	public static final Item block = null;
 	public ItemFCEscape(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 113);
+		super(instance, 112);
 	}
 
 	@Override

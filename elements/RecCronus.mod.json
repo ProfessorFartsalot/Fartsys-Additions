@@ -7,34 +7,34 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "Items.GLOWSTONE_DUST"
+        "value": "CUSTOM:ClusterWater"
       },
       {
-        "value": "CUSTOM:ResonantAether"
+        "value": "CUSTOM:ClusterEarth"
       },
       {
-        "value": "Items.DIAMOND"
+        "value": "Items.GOLDEN_APPLE#1"
       },
       {
-        "value": "CUSTOM:RestoredAetherCrystal"
+        "value": "CUSTOM:ClusterWind"
       },
       {
-        "value": "Items.NETHER_STAR"
+        "value": "Items.DIAMOND_SWORD"
       },
       {
-        "value": "CUSTOM:RestoredAetherCrystal"
+        "value": "CUSTOM:ClusterIce"
       },
       {
-        "value": "Items.DYE#4"
+        "value": "CUSTOM:ClusterUnaspected"
       },
       {
-        "value": "CUSTOM:ResonantAether"
+        "value": "CUSTOM:ClusterFire"
       },
       {
-        "value": "Items.GOLD_INGOT"
+        "value": "CUSTOM:ClusterLightning"
       }
     ],
     "recipeReturnStack": {

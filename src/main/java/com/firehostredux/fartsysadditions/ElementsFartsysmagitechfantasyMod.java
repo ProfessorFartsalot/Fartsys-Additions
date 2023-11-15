@@ -54,8 +54,6 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 	public final List<Supplier<Potion>> potions = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ElementsFartsysmagitechfantasyMod() {
-		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "lacucuracha"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "lacucuracha")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.athenathetirelessone"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.athenathetirelessone")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.scream"),
@@ -104,6 +102,8 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.the_ewer_brimmeth")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.wayward_daughter"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.wayward_daughter")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "la_cucuracha"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "la_cucuracha")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

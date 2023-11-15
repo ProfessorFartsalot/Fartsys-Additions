@@ -24,7 +24,7 @@ public class ItemFCToTheEdge extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_to_the_edge")
 	public static final Item block = null;
 	public ItemFCToTheEdge(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 130);
+		super(instance, 129);
 	}
 
 	@Override

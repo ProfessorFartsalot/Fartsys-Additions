@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc01",
+    "name": "Music Disc - La Cucuracha",
+    "description": "The roaches, Wat. The roaches.",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:la_cucuracha"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

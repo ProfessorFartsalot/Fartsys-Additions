@@ -4,7 +4,7 @@
     {
       "name": "DebugItem",
       "type": "item",
-      "sortid": 60,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "debug_item",
@@ -13,7 +13,7 @@
     {
       "name": "FartsysAdditions",
       "type": "tab",
-      "sortid": 132,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fartsysadditions",
@@ -22,7 +22,7 @@
     {
       "name": "ShartOne",
       "type": "item",
-      "sortid": 44,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_one",
@@ -31,7 +31,7 @@
     {
       "name": "ShartTen",
       "type": "item",
-      "sortid": 45,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_ten",
@@ -40,7 +40,7 @@
     {
       "name": "ShartHundred",
       "type": "item",
-      "sortid": 46,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_hundred",
@@ -49,7 +49,7 @@
     {
       "name": "ShartThousand",
       "type": "item",
-      "sortid": 47,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_thousand",
@@ -58,7 +58,7 @@
     {
       "name": "ShartTenThousand",
       "type": "item",
-      "sortid": 48,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_ten_thousand",
@@ -67,7 +67,7 @@
     {
       "name": "ShartHundredThousand",
       "type": "item",
-      "sortid": 49,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_hundred_thousand",
@@ -76,7 +76,7 @@
     {
       "name": "ShartMillion",
       "type": "item",
-      "sortid": 50,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_million",
@@ -85,7 +85,7 @@
     {
       "name": "ShartTenMillion",
       "type": "item",
-      "sortid": 51,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_ten_million",
@@ -94,7 +94,7 @@
     {
       "name": "RockSalt",
       "type": "block",
-      "sortid": 52,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock_salt",
@@ -103,7 +103,7 @@
     {
       "name": "ShartTenMillionItemIsDroppedByPlayer",
       "type": "procedure",
-      "sortid": 133,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_ten_million_item_is_dropped_by_player",
@@ -136,7 +136,7 @@
     {
       "name": "WaffleOfAssDestructionFoodEaten",
       "type": "procedure",
-      "sortid": 134,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "waffle_of_ass_destruction_food_eaten",
@@ -169,7 +169,7 @@
     {
       "name": "ShartSpecialFoodEaten",
       "type": "procedure",
-      "sortid": 135,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_special_food_eaten",
@@ -186,7 +186,7 @@
     {
       "name": "ShartSpecial",
       "type": "item",
-      "sortid": 53,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_special",
@@ -195,7 +195,7 @@
     {
       "name": "BagORockSaltSpawnRockSalt",
       "type": "procedure",
-      "sortid": 136,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bag_o_rock_salt_spawn_rock_salt",
@@ -228,7 +228,7 @@
     {
       "name": "BagORockSalt",
       "type": "item",
-      "sortid": 54,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bag_o_rock_salt",
@@ -237,7 +237,7 @@
     {
       "name": "RecBagORockSalt",
       "type": "recipe",
-      "sortid": 137,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_bag_o_rock_salt",
@@ -246,7 +246,7 @@
     {
       "name": "RecShartSpecial",
       "type": "recipe",
-      "sortid": 138,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_shart_special",
@@ -255,25 +255,16 @@
     {
       "name": "RecWaffleOfAssDest",
       "type": "recipe",
-      "sortid": 139,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_waffle_of_ass_dest",
       "path": "~/Recipes"
     },
     {
-      "name": "VitiatedAetherCrystal",
-      "type": "item",
-      "sortid": 55,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "vitiated_aether_crystal",
-      "path": "~/Misc"
-    },
-    {
       "name": "PVCPlastic",
       "type": "item",
-      "sortid": 56,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pvc_dust",
@@ -282,7 +273,7 @@
     {
       "name": "RecPVCPlastic01",
       "type": "recipe",
-      "sortid": 140,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_01",
@@ -291,7 +282,7 @@
     {
       "name": "RecPVCPlastic02",
       "type": "recipe",
-      "sortid": 141,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_02",
@@ -300,7 +291,7 @@
     {
       "name": "RecPVCPlastic03",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_03",
@@ -309,7 +300,7 @@
     {
       "name": "RecPVCPlastic04",
       "type": "recipe",
-      "sortid": 143,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_04",
@@ -318,7 +309,7 @@
     {
       "name": "RecPVCPlastic05",
       "type": "recipe",
-      "sortid": 144,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_05",
@@ -327,7 +318,7 @@
     {
       "name": "RecPVCPlastic06",
       "type": "recipe",
-      "sortid": 145,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_06",
@@ -336,7 +327,7 @@
     {
       "name": "RecPVCPlastic07",
       "type": "recipe",
-      "sortid": 146,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_07",
@@ -345,7 +336,7 @@
     {
       "name": "RecPVCPlastic08",
       "type": "recipe",
-      "sortid": 147,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_08",
@@ -354,7 +345,7 @@
     {
       "name": "RecPVCPlastic09",
       "type": "recipe",
-      "sortid": 148,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_09",
@@ -363,7 +354,7 @@
     {
       "name": "RecPVCPlastic0a",
       "type": "recipe",
-      "sortid": 149,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0a",
@@ -372,7 +363,7 @@
     {
       "name": "RecPVCPlastic0b",
       "type": "recipe",
-      "sortid": 150,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0b",
@@ -381,7 +372,7 @@
     {
       "name": "RecPVCPlastic0c",
       "type": "recipe",
-      "sortid": 151,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0c",
@@ -390,7 +381,7 @@
     {
       "name": "RecPVCPlastic0e",
       "type": "recipe",
-      "sortid": 152,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0e",
@@ -399,7 +390,7 @@
     {
       "name": "RecPVCPlastic0f",
       "type": "recipe",
-      "sortid": 153,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0f",
@@ -408,7 +399,7 @@
     {
       "name": "Cronus",
       "type": "tool",
-      "sortid": 57,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cronus",
@@ -417,7 +408,7 @@
     {
       "name": "CronusEntitySwingsItem",
       "type": "procedure",
-      "sortid": 154,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cronus_entity_swings_item",
@@ -432,18 +423,9 @@
       "path": "~/Procedures"
     },
     {
-      "name": "BlankMusicDisc",
-      "type": "item",
-      "sortid": 58,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blank_music_disc",
-      "path": "~/Misc"
-    },
-    {
       "name": "RecNotchApple",
       "type": "recipe",
-      "sortid": 155,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_notch_apple",
@@ -452,43 +434,16 @@
     {
       "name": "RecSaddle",
       "type": "recipe",
-      "sortid": 156,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_saddle",
       "path": "~/Recipes"
     },
     {
-      "name": "AdvFindVitiatedAether",
-      "type": "achievement",
-      "sortid": 157,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adv_find_vitiated_aether",
-      "path": "~/Advancements"
-    },
-    {
-      "name": "AdvResonantAether",
-      "type": "achievement",
-      "sortid": 158,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adv_resonant_aether",
-      "path": "~/Advancements"
-    },
-    {
-      "name": "AdvRestoredAether",
-      "type": "achievement",
-      "sortid": 159,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adv_restored_aether",
-      "path": "~/Advancements"
-    },
-    {
       "name": "AdvShartSpecial",
       "type": "achievement",
-      "sortid": 160,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_shart_special",
@@ -497,7 +452,7 @@
     {
       "name": "AdvShartDeath",
       "type": "achievement",
-      "sortid": 161,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_shart_death",
@@ -506,7 +461,7 @@
     {
       "name": "AdvTMSharts",
       "type": "achievement",
-      "sortid": 162,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_tm_sharts",
@@ -515,7 +470,7 @@
     {
       "name": "Adv1mSharts",
       "type": "achievement",
-      "sortid": 163,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_1m_sharts",
@@ -524,7 +479,7 @@
     {
       "name": "Adv100kSharts",
       "type": "achievement",
-      "sortid": 164,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_100k_sharts",
@@ -533,34 +488,16 @@
     {
       "name": "AdvPVCPowder",
       "type": "achievement",
-      "sortid": 165,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_pvc_powder",
       "path": "~/Advancements"
     },
     {
-      "name": "AdvMusicPress",
-      "type": "achievement",
-      "sortid": 166,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adv_music_press",
-      "path": "~/Advancements"
-    },
-    {
-      "name": "AdvBlankMusicDisc",
-      "type": "achievement",
-      "sortid": 167,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adv_blank_music_disc",
-      "path": "~/Advancements"
-    },
-    {
       "name": "RecCronus",
       "type": "recipe",
-      "sortid": 168,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_cronus",
@@ -569,7 +506,7 @@
     {
       "name": "AdvCronus",
       "type": "achievement",
-      "sortid": 169,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_cronus",
@@ -578,7 +515,7 @@
     {
       "name": "WaffleOfAssDestruction",
       "type": "food",
-      "sortid": 59,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -588,7 +525,7 @@
     {
       "name": "RecLaCucuracha",
       "type": "recipe",
-      "sortid": 170,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -598,7 +535,7 @@
     {
       "name": "AMDAthenaTheTirelessOne",
       "type": "musicdisc",
-      "sortid": 62,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -608,7 +545,7 @@
     {
       "name": "AMDScream",
       "type": "musicdisc",
-      "sortid": 78,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -618,7 +555,7 @@
     {
       "name": "AMDTornFromTheHeavensOrchestral",
       "type": "musicdisc",
-      "sortid": 82,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -628,7 +565,7 @@
     {
       "name": "AMDFromTheHeavens",
       "type": "musicdisc",
-      "sortid": 67,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -638,7 +575,7 @@
     {
       "name": "AMDEscape",
       "type": "musicdisc",
-      "sortid": 65,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -648,7 +585,7 @@
     {
       "name": "AMDCloseInTheDistance",
       "type": "musicdisc",
-      "sortid": 64,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -658,7 +595,7 @@
     {
       "name": "AMDFootfalls",
       "type": "musicdisc",
-      "sortid": 66,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -668,7 +605,7 @@
     {
       "name": "AMDInsatiable",
       "type": "musicdisc",
-      "sortid": 69,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -678,7 +615,7 @@
     {
       "name": "AMDToTheEdge",
       "type": "musicdisc",
-      "sortid": 83,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -688,7 +625,7 @@
     {
       "name": "AMDAndLoveYouShallFind",
       "type": "musicdisc",
-      "sortid": 61,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -698,7 +635,7 @@
     {
       "name": "AMDLunarWhale",
       "type": "musicdisc",
-      "sortid": 72,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -708,7 +645,7 @@
     {
       "name": "AMDShadowbringers",
       "type": "musicdisc",
-      "sortid": 79,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -718,7 +655,7 @@
     {
       "name": "AMDMetal",
       "type": "musicdisc",
-      "sortid": 73,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -728,7 +665,7 @@
     {
       "name": "AMDMetalBruteJusticeMode",
       "type": "musicdisc",
-      "sortid": 74,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -738,7 +675,7 @@
     {
       "name": "AMDLocus",
       "type": "musicdisc",
-      "sortid": 70,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -748,7 +685,7 @@
     {
       "name": "AMDPenitus",
       "type": "musicdisc",
-      "sortid": 77,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -758,7 +695,7 @@
     {
       "name": "JRAthenaTheTirelessOneRightClickedInAir",
       "type": "procedure",
-      "sortid": 171,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -776,7 +713,7 @@
     {
       "name": "JRAthenaTheTirelessOne",
       "type": "item",
-      "sortid": 86,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -786,7 +723,7 @@
     {
       "name": "JRScream",
       "type": "item",
-      "sortid": 102,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -796,7 +733,7 @@
     {
       "name": "JRScreamRightClickedInAir",
       "type": "procedure",
-      "sortid": 172,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -814,7 +751,7 @@
     {
       "name": "JRTornFromTheHeavensOrchestral",
       "type": "item",
-      "sortid": 106,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -824,7 +761,7 @@
     {
       "name": "JRTornFromTheHeavensOrchestralRightClickedInAir",
       "type": "procedure",
-      "sortid": 173,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -842,7 +779,7 @@
     {
       "name": "JRFromTheHeavens",
       "type": "item",
-      "sortid": 91,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -852,7 +789,7 @@
     {
       "name": "JRFromTheHeavensRightClickedInAir",
       "type": "procedure",
-      "sortid": 174,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -870,7 +807,7 @@
     {
       "name": "JREscape",
       "type": "item",
-      "sortid": 89,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -880,7 +817,7 @@
     {
       "name": "JRCloseInTheDistance",
       "type": "item",
-      "sortid": 88,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -890,7 +827,7 @@
     {
       "name": "JRCloseInTheDistanceRightClickedInAir",
       "type": "procedure",
-      "sortid": 175,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -908,7 +845,7 @@
     {
       "name": "JRFootfalls",
       "type": "item",
-      "sortid": 90,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -918,7 +855,7 @@
     {
       "name": "JRFootfallsRightClickedInAir",
       "type": "procedure",
-      "sortid": 176,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -936,7 +873,7 @@
     {
       "name": "JRInsatiable",
       "type": "item",
-      "sortid": 93,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -946,7 +883,7 @@
     {
       "name": "JRInsatiableRightClickedInAir",
       "type": "procedure",
-      "sortid": 177,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -964,7 +901,7 @@
     {
       "name": "JRToTheEdge",
       "type": "item",
-      "sortid": 107,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -974,7 +911,7 @@
     {
       "name": "FMFMusic",
       "type": "tab",
-      "sortid": 178,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -984,7 +921,7 @@
     {
       "name": "JREscapeRightClickedInAir",
       "type": "procedure",
-      "sortid": 179,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1002,7 +939,7 @@
     {
       "name": "JRAndLoveYouShallFind",
       "type": "item",
-      "sortid": 85,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1012,7 +949,7 @@
     {
       "name": "JRAndLoveYouShallFindRightClickedInAir",
       "type": "procedure",
-      "sortid": 180,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1030,7 +967,7 @@
     {
       "name": "JRLunarWhale",
       "type": "item",
-      "sortid": 96,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1040,7 +977,7 @@
     {
       "name": "JRLunarWhaleRightClickedInAir",
       "type": "procedure",
-      "sortid": 181,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1058,7 +995,7 @@
     {
       "name": "JRShadowbringers",
       "type": "item",
-      "sortid": 103,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1068,7 +1005,7 @@
     {
       "name": "JRShadowbringersRightClickedInAir",
       "type": "procedure",
-      "sortid": 182,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1086,7 +1023,7 @@
     {
       "name": "JRMetal",
       "type": "item",
-      "sortid": 97,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1096,7 +1033,7 @@
     {
       "name": "JRMetalRightClickedInAir",
       "type": "procedure",
-      "sortid": 183,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1114,7 +1051,7 @@
     {
       "name": "JRMetalBruteJusticeMode",
       "type": "item",
-      "sortid": 98,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1124,7 +1061,7 @@
     {
       "name": "JRMetalBruteJusticeModeRightClickedInAir",
       "type": "procedure",
-      "sortid": 184,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1142,7 +1079,7 @@
     {
       "name": "JRLocus",
       "type": "item",
-      "sortid": 94,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1152,7 +1089,7 @@
     {
       "name": "JRLocusRightClickedInAir",
       "type": "procedure",
-      "sortid": 185,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1170,7 +1107,7 @@
     {
       "name": "JRPenitus",
       "type": "item",
-      "sortid": 101,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1180,7 +1117,7 @@
     {
       "name": "JRPenitusRightClickedInAir",
       "type": "procedure",
-      "sortid": 186,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1198,7 +1135,7 @@
     {
       "name": "JRToTheEdgeRightClickedInAir",
       "type": "procedure",
-      "sortid": 187,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1216,7 +1153,7 @@
     {
       "name": "FCAthenaTheTirelessOne",
       "type": "item",
-      "sortid": 110,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1226,7 +1163,7 @@
     {
       "name": "FCScream",
       "type": "item",
-      "sortid": 125,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1236,7 +1173,7 @@
     {
       "name": "FCTornFromTheHeavensOrchestral",
       "type": "item",
-      "sortid": 129,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1246,7 +1183,7 @@
     {
       "name": "FCFromTheHeavens",
       "type": "item",
-      "sortid": 115,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1256,7 +1193,7 @@
     {
       "name": "FCEscape",
       "type": "item",
-      "sortid": 113,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1266,7 +1203,7 @@
     {
       "name": "FCCloseInTheDistance",
       "type": "item",
-      "sortid": 112,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1276,7 +1213,7 @@
     {
       "name": "FCFootfalls",
       "type": "item",
-      "sortid": 114,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1286,7 +1223,7 @@
     {
       "name": "FCInsatiable",
       "type": "item",
-      "sortid": 117,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1296,7 +1233,7 @@
     {
       "name": "FCToTheEdge",
       "type": "item",
-      "sortid": 130,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1306,7 +1243,7 @@
     {
       "name": "FCAndLoveYouShallFind",
       "type": "item",
-      "sortid": 109,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1316,7 +1253,7 @@
     {
       "name": "FCLunarWhale",
       "type": "item",
-      "sortid": 120,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1326,7 +1263,7 @@
     {
       "name": "FCMetal",
       "type": "item",
-      "sortid": 121,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1336,7 +1273,7 @@
     {
       "name": "FCMetalBruteJusticeMode",
       "type": "item",
-      "sortid": 122,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1346,7 +1283,7 @@
     {
       "name": "FCLocus",
       "type": "item",
-      "sortid": 118,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1356,7 +1293,7 @@
     {
       "name": "FCPenitus",
       "type": "item",
-      "sortid": 124,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1576,7 +1513,7 @@
     {
       "name": "RecShardEarth",
       "type": "recipe",
-      "sortid": 188,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1586,7 +1523,7 @@
     {
       "name": "RecShardFire",
       "type": "recipe",
-      "sortid": 189,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1596,7 +1533,7 @@
     {
       "name": "RecShardIce",
       "type": "recipe",
-      "sortid": 190,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1606,7 +1543,7 @@
     {
       "name": "RecShardLightning",
       "type": "recipe",
-      "sortid": 191,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1616,7 +1553,7 @@
     {
       "name": "RecShardUnaspected",
       "type": "recipe",
-      "sortid": 192,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1626,7 +1563,7 @@
     {
       "name": "RecShardWater",
       "type": "recipe",
-      "sortid": 193,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1636,7 +1573,7 @@
     {
       "name": "RecShardWind",
       "type": "recipe",
-      "sortid": 194,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1646,7 +1583,7 @@
     {
       "name": "RecCrystalEarth",
       "type": "recipe",
-      "sortid": 195,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1656,7 +1593,7 @@
     {
       "name": "RecCrystalFire",
       "type": "recipe",
-      "sortid": 196,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1666,7 +1603,7 @@
     {
       "name": "RecCrystalIce",
       "type": "recipe",
-      "sortid": 197,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1676,7 +1613,7 @@
     {
       "name": "RecCrystalLightning",
       "type": "recipe",
-      "sortid": 198,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1686,7 +1623,7 @@
     {
       "name": "RecCrystalUnaspected",
       "type": "recipe",
-      "sortid": 199,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1696,7 +1633,7 @@
     {
       "name": "RecCrystalWater",
       "type": "recipe",
-      "sortid": 200,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1706,7 +1643,7 @@
     {
       "name": "RecCrystalWind",
       "type": "recipe",
-      "sortid": 201,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1716,7 +1653,7 @@
     {
       "name": "RecCrystalEarthCluster",
       "type": "recipe",
-      "sortid": 202,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1726,7 +1663,7 @@
     {
       "name": "RecCrystalFireCluster",
       "type": "recipe",
-      "sortid": 203,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1736,7 +1673,7 @@
     {
       "name": "RecCrystalIceCluster",
       "type": "recipe",
-      "sortid": 204,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1746,7 +1683,7 @@
     {
       "name": "RecCrystalLightningCluster",
       "type": "recipe",
-      "sortid": 205,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1756,7 +1693,7 @@
     {
       "name": "RecCrystalUnaspectedCluster",
       "type": "recipe",
-      "sortid": 206,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1766,7 +1703,7 @@
     {
       "name": "RecCrystalWaterCluster",
       "type": "recipe",
-      "sortid": 207,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1776,7 +1713,7 @@
     {
       "name": "RecCrystalWindCluster",
       "type": "recipe",
-      "sortid": 208,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1786,7 +1723,7 @@
     {
       "name": "RecClusterEarth",
       "type": "recipe",
-      "sortid": 209,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1796,7 +1733,7 @@
     {
       "name": "RecClusterFire",
       "type": "recipe",
-      "sortid": 210,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1806,7 +1743,7 @@
     {
       "name": "RecClusterIce",
       "type": "recipe",
-      "sortid": 211,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1816,7 +1753,7 @@
     {
       "name": "RecClusterLightning",
       "type": "recipe",
-      "sortid": 212,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1826,7 +1763,7 @@
     {
       "name": "RecClusterUnaspected",
       "type": "recipe",
-      "sortid": 213,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1836,7 +1773,7 @@
     {
       "name": "RecClusterWater",
       "type": "recipe",
-      "sortid": 214,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1846,7 +1783,7 @@
     {
       "name": "RecClusterWind",
       "type": "recipe",
-      "sortid": 215,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1886,7 +1823,7 @@
     {
       "name": "RecGrade1JR",
       "type": "recipe",
-      "sortid": 216,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1896,7 +1833,7 @@
     {
       "name": "RecGrade2JR",
       "type": "recipe",
-      "sortid": 217,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1906,7 +1843,7 @@
     {
       "name": "RecGrade3JR",
       "type": "recipe",
-      "sortid": 218,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1926,7 +1863,7 @@
     {
       "name": "AMDBigBoned",
       "type": "musicdisc",
-      "sortid": 63,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1936,7 +1873,7 @@
     {
       "name": "AMDImagination",
       "type": "musicdisc",
-      "sortid": 68,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1946,7 +1883,7 @@
     {
       "name": "AMDLunacy",
       "type": "musicdisc",
-      "sortid": 71,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1956,7 +1893,7 @@
     {
       "name": "AMDNightbloom",
       "type": "musicdisc",
-      "sortid": 75,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1966,7 +1903,7 @@
     {
       "name": "AMDPaPaya",
       "type": "musicdisc",
-      "sortid": 76,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1976,7 +1913,7 @@
     {
       "name": "AMDSteelReason",
       "type": "musicdisc",
-      "sortid": 80,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1986,7 +1923,7 @@
     {
       "name": "AMDTheEwerBrimmeth",
       "type": "musicdisc",
-      "sortid": 81,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1996,7 +1933,7 @@
     {
       "name": "AMDWaywardDaughter",
       "type": "musicdisc",
-      "sortid": 84,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2006,7 +1943,7 @@
     {
       "name": "JRBigBonedRightClickedInAir",
       "type": "procedure",
-      "sortid": 219,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2024,7 +1961,7 @@
     {
       "name": "JRBigBoned",
       "type": "item",
-      "sortid": 87,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2034,7 +1971,7 @@
     {
       "name": "JRImagination",
       "type": "item",
-      "sortid": 92,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2044,7 +1981,7 @@
     {
       "name": "JRImaginationRightClickedInAir",
       "type": "procedure",
-      "sortid": 220,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2062,7 +1999,7 @@
     {
       "name": "JRLunacy",
       "type": "item",
-      "sortid": 95,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2072,7 +2009,7 @@
     {
       "name": "JRLunacyRightClickedInAir",
       "type": "procedure",
-      "sortid": 221,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2090,7 +2027,7 @@
     {
       "name": "JRNightbloom",
       "type": "item",
-      "sortid": 99,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2100,7 +2037,7 @@
     {
       "name": "JRNightbloomRightClickedInAir",
       "type": "procedure",
-      "sortid": 222,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2118,7 +2055,7 @@
     {
       "name": "JRPaPaya",
       "type": "item",
-      "sortid": 100,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2128,7 +2065,7 @@
     {
       "name": "JRPaPayaRightClickedInAir",
       "type": "procedure",
-      "sortid": 223,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2146,7 +2083,7 @@
     {
       "name": "JRSteelReason",
       "type": "item",
-      "sortid": 104,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2156,7 +2093,7 @@
     {
       "name": "JRSteelReasonRightClickedInAir",
       "type": "procedure",
-      "sortid": 224,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2174,7 +2111,7 @@
     {
       "name": "JRTheEwerBrimmeth",
       "type": "item",
-      "sortid": 105,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2184,7 +2121,7 @@
     {
       "name": "JRTheEwerBrimmethRightClickedInAir",
       "type": "procedure",
-      "sortid": 225,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2202,7 +2139,7 @@
     {
       "name": "JRWaywardDaughter",
       "type": "item",
-      "sortid": 108,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2212,7 +2149,7 @@
     {
       "name": "JRWaywardDaughterRightClickedInAir",
       "type": "procedure",
-      "sortid": 226,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2230,7 +2167,7 @@
     {
       "name": "FCBigBoned",
       "type": "item",
-      "sortid": 111,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2240,7 +2177,7 @@
     {
       "name": "FCImagination",
       "type": "item",
-      "sortid": 116,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2250,7 +2187,7 @@
     {
       "name": "FCLunacy",
       "type": "item",
-      "sortid": 119,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2260,7 +2197,7 @@
     {
       "name": "FCNightbloom",
       "type": "item",
-      "sortid": 123,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2270,7 +2207,7 @@
     {
       "name": "FCSteelReason",
       "type": "item",
-      "sortid": 127,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2280,7 +2217,7 @@
     {
       "name": "FCTheEwerBrimmeth",
       "type": "item",
-      "sortid": 128,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2290,7 +2227,7 @@
     {
       "name": "FCWaywardDaughter",
       "type": "item",
-      "sortid": 131,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2300,7 +2237,7 @@
     {
       "name": "FCShadowbringers",
       "type": "item",
-      "sortid": 126,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2490,7 +2427,7 @@
     {
       "name": "RecEnchantedIronInk",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2500,7 +2437,7 @@
     {
       "name": "RecEnchantedGoldInk",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2510,7 +2447,7 @@
     {
       "name": "RecEnchantedDiamondInk",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2520,7 +2457,7 @@
     {
       "name": "RecEnchantedLapisInk",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2530,7 +2467,7 @@
     {
       "name": "RecEnchantedRedstoneInk",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2540,7 +2477,7 @@
     {
       "name": "RecEnchantedGlowstoneInk",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2550,7 +2487,7 @@
     {
       "name": "RecEnchantedEmeraldInk",
       "type": "recipe",
-      "sortid": 233,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2560,7 +2497,7 @@
     {
       "name": "RecEnchantedQuartzInk",
       "type": "recipe",
-      "sortid": 234,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2570,7 +2507,7 @@
     {
       "name": "RecEnchantedNetherBrickInk",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2580,7 +2517,7 @@
     {
       "name": "RecEnchantedEnderPearlInk",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2590,7 +2527,7 @@
     {
       "name": "RecAndLoveYouShallFind",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2600,7 +2537,7 @@
     {
       "name": "RecAthenaTheTirelessOne",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2610,7 +2547,7 @@
     {
       "name": "RecBigBoned",
       "type": "recipe",
-      "sortid": 239,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2620,7 +2557,7 @@
     {
       "name": "RecCloseInTheDistance",
       "type": "recipe",
-      "sortid": 240,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2630,7 +2567,7 @@
     {
       "name": "RecEscapeJourneys",
       "type": "recipe",
-      "sortid": 241,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2640,7 +2577,7 @@
     {
       "name": "RecFootfalls",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2650,7 +2587,7 @@
     {
       "name": "RecFromTheHeavens",
       "type": "recipe",
-      "sortid": 243,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2660,7 +2597,7 @@
     {
       "name": "RecImagination",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2690,7 +2627,7 @@
     {
       "name": "RecLunacy",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2700,7 +2637,7 @@
     {
       "name": "RecLunarWhale",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2710,7 +2647,7 @@
     {
       "name": "RecMetal",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2720,7 +2657,7 @@
     {
       "name": "RecMetalBruteJusticeMode",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2730,7 +2667,7 @@
     {
       "name": "RecNightbloom",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2740,7 +2677,7 @@
     {
       "name": "RecPaPaya",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2750,7 +2687,7 @@
     {
       "name": "RecPenitus",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2760,7 +2697,7 @@
     {
       "name": "RecScream",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2770,7 +2707,7 @@
     {
       "name": "RecShadowbringers",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2780,7 +2717,7 @@
     {
       "name": "RecSteelReason",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2790,7 +2727,7 @@
     {
       "name": "RecTheEwerBrimmeth",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2800,7 +2737,7 @@
     {
       "name": "RecTornFromTheHeavensOrchestral",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2810,7 +2747,7 @@
     {
       "name": "RecToTheEdge",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2820,24 +2757,26 @@
     {
       "name": "RecWaywardDaughter",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "rec_wayward_daughter",
       "path": "~/Recipes"
+    },
+    {
+      "name": "LaCucuracha",
+      "type": "musicdisc",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "la_cucuracha",
+      "path": "~/Music Discs"
     }
   ],
   "variable_elements": [],
   "sound_elements": [
-    {
-      "name": "lacucuracha",
-      "files": [
-        "la_cucaracha"
-      ],
-      "category": "record",
-      "subtitle": "La Cucuracha"
-    },
     {
       "name": "ffxiv.athenathetirelessone",
       "files": [
@@ -3029,6 +2968,14 @@
       ],
       "category": "record",
       "subtitle": "FFXIV - Wayward Daughter"
+    },
+    {
+      "name": "la_cucuracha",
+      "files": [
+        "la_cucaracha"
+      ],
+      "category": "record",
+      "subtitle": "Why did it have to be roaches, Wat?"
     }
   ],
   "language_map": {
@@ -3046,14 +2993,14 @@
       "item.fartsysadditions.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
       "item.amd_steel_reason.name": "Aetherial Music Disc - Steel Reason",
       "item.record.amd_metal.desc": "FFXIV - Metal",
-      "subtitles.lacucuracha": "La Cucuracha",
       "subtitles.ffxiv.wayward_daughter": "FFXIV - Wayward Daughter",
+      "subtitles.lacucuracha": "La Cucuracha",
       "subtitles.ffxiv.primals.locus": "Final Fantasy XIV - The Primals - Locus",
       "item.jr_from_the_heavens.name": "\"From The Heavens\" Jukebox Roll",
       "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "advancements.adv_pvc_powder.title": "Molten? Powdered? Music Disc..?",
-      "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
       "advancements.adv_100k_sharts.title": "A very large shart",
+      "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
       "item.fc_close_in_the_distance.name": "Faded Copy of Close in the Distance",
       "item.blank_g_2_jr.name": "Blank Grade 2 Jukebox Roll",
       "item.record.amd_steel_reason.desc": "FFXIV Garlean Leader Theme - Steel Reason",
@@ -3062,7 +3009,6 @@
       "item.fartsysadditions.faded_insatiable": "Faded Copy of Insatiable",
       "item.fartsysadditions.restored_close_in_the_distance": "Restored Copy of Close in the Distance",
       "item.fartsysadditions.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
-      "advancements.adv_blank_music_disc.descr": "Craft a blank music disc.",
       "subtitles.ffxiv.big_boned": "FFXIV - Big Boned",
       "item.crystal_lightning.name": "Lightning Crystal",
       "item.cluster_water.name": "Water Cluster",
@@ -3081,27 +3027,26 @@
       "item.fartsysadditions.ffxiv_primals_exponential_entropy.desc": "Final Fantasy XIV - The Primals - Exponential Entropy",
       "item.fartsysadditions.ffxiv_silent_scream.desc": "Final Fantasy XIV - Silent Scream",
       "item.amd_footfalls.name": "Aetherial Music Disc - Footfalls",
-      "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
       "item.cluster_unaspected.name": "Unaspected Cluster",
+      "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
       "item.enchanted_ender_pearl_ink.name": "Enchanted Ender Pearl Ink",
-      "item.fartsysadditions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "item.jr_footfalls.name": "\"Footfalls\" Jukebox Roll",
+      "item.fartsysadditions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "subtitles.touhou.badapple": "Touhou Project - Bad Apple (nomico)",
       "item.cluster_fire.name": "Fire Cluster",
       "block.fartsysadditions.rock_salt": "Rock Salt",
       "item.fartsysadditions.ffxiv_insatiable": "FFXIV - Insatiable",
       "subtitles.touhou.necrofantasia": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
-      "advancements.adv_music_press.title": "A pressing matter",
       "item.jr_nightbloom.name": "\"Nightbloom\" Jukebox Roll",
       "item.jr_locus.name": "\"Locus\" Jukebox Roll",
-      "item.fartsysadditions.faded_lunar_whale": "Faded Copy of Lunar Whale",
       "item.fc_torn_from_the_heavens_orchestral.name": "Faded Copy of Torn From The Heavens (Orchestral)",
+      "item.fartsysadditions.faded_lunar_whale": "Faded Copy of Lunar Whale",
       "item.fartsysadditions.bag_o_rock_salt": "Bag O Rock Salt",
       "item.fartsysadditions.restored_battle_on_the_big_bridge": "Restored Copy of Battle On The Big Bridge",
-      "item.fartsysadditions.shart_ten_thousand": "Ten Kilo-Sharts",
       "item.fartsysadditions.faded_metal": "Faded Copy of Metal",
-      "item.fartsysadditions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
+      "item.fartsysadditions.shart_ten_thousand": "Ten Kilo-Sharts",
       "item.fc_lunacy.name": "Faded Copy of Lunacy",
+      "item.fartsysadditions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
       "death.attack.selfdesharted": "%1$s self-desharted!",
       "item.record.amd_to_the_edge.desc": "FFXIV WoL Theme - To The Edge",
       "item.jr_big_boned.name": "\"Big Boned\" Jukebox Roll",
@@ -3112,8 +3057,8 @@
       "subtitles.ffxiv.primals.exponentialentropy": "Final Fantasy XIV - The Primals - Exponential Entropy",
       "item.fartsysadditions.demetori_necrofantasia": "Demetori - Necrofantasia",
       "item.record.amd_penitus.desc": "FFXIV - Penitus",
-      "subtitles.ffxiv.undertheweight": "Final Fantasy XIV - Under the Weight (Titan)",
       "subtitles.ffxiv.lunarwhale": "FFXIV - Lunar Whale",
+      "subtitles.ffxiv.undertheweight": "Final Fantasy XIV - Under the Weight (Titan)",
       "item.fartsysadditions.ffxiv_close_in_the_distance.desc": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
       "item.jr_imagination.name": "\"Imagination\" Jukebox Roll",
       "item.fartsysadditions.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
@@ -3126,17 +3071,16 @@
       "death.attack.waterydemise": "%1$s met a watery demise!",
       "item.cronus.name": "Cronus",
       "item.amd_to_the_edge.name": "Aetherial Music Disc - To The Edge",
-      "item.fartsysadditions.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "item.fartsysadditions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
+      "item.fartsysadditions.smash_pixels_of_glory": "Smash - Pixels of Glory",
       "subtitles.ffxiv.infinity": "Final Fantasy XIV - Infinity (Zurvan)",
       "item.fartsysadditions.faded_woe_that_is_madness": "Faded Copy of Woe That Is Madness",
       "advancements.adv_shart_special.descr": "EVERYBODY RUN. STAY AS FAR AWAY FROM THIS PLAYER AS POSSIBLE.",
       "item.fartsysadditions.faded_agent_of_inquiry": "Faded Copy of Agent Of Inquiry",
       "item.fartsysadditions.restored_exponential_entropy": "Restored Copy of Exponential Entropy",
-      "advancements.adv_resonant_aether.descr": "Create Resonant Aether.",
       "item.cluster_earth.name": "Earth Cluster",
-      "item.fartsysadditions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
       "item.crystal_fire.name": "Fire Crystal",
+      "item.fartsysadditions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
       "item.record.amd_the_ewer_brimmeth.desc": "FFXIV Old Sharlayan (Day) - The Ewer Brimmeth",
       "item.fartsysadditions.restored_landslide": "Restored Copy of Landslide",
       "item.fartsysadditions.shart_million": "Mega-Shart",
@@ -3145,14 +3089,14 @@
       "item.fartsysadditions.ffxiv_primals_locus.desc": "Final Fantasy XIV - The Primals - Locus",
       "subtitles.nge.cruelangelsthesis": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
       "item.fartsysadditions.restored_to_the_edge": "Restored Copy of To The Edge",
-      "item.amd_from_the_heavens.name": "Aetherial Music Disc - From The Heavens",
       "item.record.amd_from_the_heavens.desc": "FFXIV Final Omega Theme",
+      "item.amd_from_the_heavens.name": "Aetherial Music Disc - From The Heavens",
       "item.fartsysadditions.restored_agent_of_inquiry": "Restored Copy of Agent Of Inquiry",
       "item.shart_special.name": "Shart Special",
       "death.attack.woad.player": "%1$s experienced Professor\u0027s Ass.",
-      "subtitles.ffxiv.the_ewer_brimmeth": "FFXIV - The Ewer Brimmeth",
-      "item.jr_close_in_the_distance.name": "\"Close in the Distance\" Jukebox Roll",
       "item.fartsysadditions.ffxiv_shadowbringers": "FFXIV - Shadowbringers",
+      "item.jr_close_in_the_distance.name": "\"Close in the Distance\" Jukebox Roll",
+      "subtitles.ffxiv.the_ewer_brimmeth": "FFXIV - The Ewer Brimmeth",
       "item.amd_penitus.name": "Aetherial Music Disc - Penitus",
       "item.record.amd_shadowbringers.desc": "FFXIV - Shadowbringers",
       "item.fartsysadditions.touhou_project_bad_apple.desc": "Touhou Project - Bad Apple (nomico)",
@@ -3164,7 +3108,6 @@
       "item.fartsysadditions.kirby_battle_royale_dededestroyer_z": "Kirby Battle Royale - Dededestroyer Z",
       "item.fartsysadditions.faded_exponential_entropy": "Faded Copy of Exponential Entropy",
       "item.fartsysadditions.shart_hundred_thousand": "100 Kilo-Sharts",
-      "item.blank_music_disc.name": "Blank Music Disc",
       "subtitles.ffxiv.athenathetirelessone": "FFXIV - Athena, The Tireless One",
       "subtitles.ffxiv.brutejusticemode": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
       "subtitles.xc2.battle": "Xenoblade Chronicles 2 - Battle!!",
@@ -3176,14 +3119,13 @@
       "item.record.amd_imagination.desc": "FFXIV Aetherochemical Research Facility - Imagination",
       "subtitles.ffxiv.metal": "FFXIV - Metal",
       "item.shard_ice.name": "Ice Shard",
-      "item.vitiated_aether_crystal.name": "Vitiated Aether Crystal",
       "item.record.amd_close_in_the_distance.desc": "FFXIV Ultima Thule Theme - Close in the Distance",
       "subtitles.ffxiv.insatiable": "FFXIV - Insatiable",
       "item.shard_wind.name": "Wind Shard",
       "subtitles.touhou.cosmicmind": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren)",
       "item.shart_ten.name": "Mini Shart",
-      "item.shart_one.name": "Micro Shart",
       "item.fartsysadditions.ffxiv_locus": "FFXIV - Locus",
+      "item.shart_one.name": "Micro Shart",
       "tile.rock_salt.name": "Rock Salt",
       "item.fartsysadditions.debug_item": "Debug Item",
       "item.fartsysadditions.faded_under_the_weight": "Faded Copy of Under The Weight",
@@ -3195,7 +3137,6 @@
       "item.fartsysadditions.shart_ten_million": "10 Mega-Sharts",
       "item.fartsysadditions.faded_primals_locus": "Faded Copy of The Primals - Locus",
       "item.fartsysadditions.slipknot_psychosocial": "Slipknot - Psychosocial",
-      "advancements.adv_resonant_aether.title": "MORE POWAAAA",
       "item.record.amd_escape.desc": "FFXIV Stigma Dreamscape Theme - eScape (Journeys)",
       "item.fartsysadditions.xbc_2_battle.desc": "Xenoblade Chronicles 2 - Battle!!",
       "itemGroup.tabfmf_music": "FMF - Music",
@@ -3223,7 +3164,7 @@
       "item.fartsysadditions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
       "item.amd_metal.name": "Aetherial Music Disc - Metal",
-      "advancements.adv_music_press.descr": "Craft a Magitek Music Press from an anvil and iron block",
+      "subtitles.la_cucuracha": "Why did it have to be roaches, Wat?",
       "item.fartsysadditions.kirby_battle_royale_dededestroyer_z.desc": "Kirby Battle Royale - Dededestroyer Z",
       "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "item.jr_to_the_edge.name": "\"To The Edge\" Jukebox Roll",
@@ -3273,7 +3214,6 @@
       "subtitles.ffxiv.silentregardofstars": "Final Fantasy XIV - The Silent Regard of Stars (Hinterlands Night)",
       "item.fartsysadditions.xbc_2_battle": "XBC 2 - Battle",
       "item.amd_close_in_the_distance.name": "Aetherial Music Disc - Close in the Distance",
-      "advancements.adv_find_vitiated_aether.descr": "Obtain a Vitiated Aether Crystal.",
       "item.debug_item.name": "Debug Item",
       "subtitles.ffxiv.agentofinquiry": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.fartsysadditions.restored_primals_exponential_entropy": "Restored Copy of The Primals - Exponential Entropy",
@@ -3331,7 +3271,6 @@
       "item.blank_g_1_jr.name": "Blank Grade 1 Jukebox Roll",
       "item.fartsysadditions.ffxiv_silent_scream": "FFXIV - Silent Scream",
       "subtitles.ffxiv.knowledgeneversleeps": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
-      "advancements.adv_find_vitiated_aether.title": "What exactly IS this?",
       "subtitles.demetori.orientaldarkflight": "Demetori - Oriental Dark Flight",
       "item.record.amd_insatiable.desc": "FFXIV SHB Boss Theme - Insatiable",
       "item.fc_scream.name": "Faded Copy of Scream",
@@ -3348,7 +3287,6 @@
       "tile.ore_unaspected.name": "Unaspected Ore",
       "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.fartsysadditions.restored_silent_scream": "Restored Copy of Silent Scream",
-      "advancements.adv_restored_aether.title": "MAXIMUM POWWERRR!!!!!!!",
       "item.amd_locus.name": "Aetherial Music Disc - Locus",
       "advancements.adv_shart_death.title": "Meeting an EXPLOSIVE DEMISE",
       "item.record.amd_footfalls.desc": "FFXIV Endwalker - Footfalls",
@@ -3356,7 +3294,6 @@
       "item.fartsysadditions.touhou_project_cosmic_mind.desc": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren",
       "item.fartsysadditions.demetori_worlds_end": "Demetori - World\u0027s End",
       "advancements.adv_1m_sharts.descr": "Obtain one million sharts",
-      "advancements.adv_blank_music_disc.title": "Music... reborn!",
       "item.fc_and_love_you_shall_find.name": "Faded Copy of And Love You Shall Find",
       "item.fartsysadditions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "subtitles.ffxiv.tornfromtheheavensorchestral": "FFXIV - Torn From the Heavens (Orchestral)",
@@ -3371,7 +3308,6 @@
       "item.fartsysadditions.restored_brute_justice": "Restored Copy of Metal - Brute Justice Justice Mode",
       "item.shart_hundred.name": "Shart",
       "item.fc_wayward_daughter.name": "Faded Copy of Wayward Daughter",
-      "advancements.adv_restored_aether.descr": "Create a Restored Aether Crystal.",
       "item.amd_wayward_daughter.name": "Aetherial Music Disc - Wayward Daughter",
       "advancements.adv_1m_sharts.title": "A small loan of a million SHARTS",
       "item.fartsysadditions.faded_locus": "Faded Copy of Locus",
@@ -3399,6 +3335,7 @@
       "item.fartsysadditions.restored_aether_crystal": "Restored Aether Crystal",
       "item.fc_footfalls.name": "Faded Copy of Footfalls",
       "item.amd_torn_from_the_heavens_orchestral.name": "Aetherial Music Disc - Torn From The Heavens (Orchestral)",
+      "item.la_cucuracha.name": "Music Disc - La Cucuracha",
       "item.fc_steel_reason.name": "Faded Copy of Steel Reason",
       "subtitles.dmc5.deviltrigger": "Devil May Cry 5 - Devil Trigger (Nero)",
       "item.fartsysadditions.ffxiv_primals_locus": "FFXIV - The Primals - Locus",
@@ -3413,7 +3350,7 @@
       "item.jr_the_ewer_brimmeth.name": "\"The Ewer Brimmeth\" Jukebox Roll",
       "item.fc_escape.name": "Faded Copy of eScape (Journeys)",
       "item.fartsysadditions.blank_music_disc": "Blank Music Disc",
-      "item.fc_athena_the_tireless_one.name": "FC Athena The Tireless One",
+      "item.fc_athena_the_tireless_one.name": "Faded Copy of Athena The Tireless One",
       "item.fartsysadditions.faded_to_the_edge": "Faded Copy of To The Edge",
       "item.fartsysadditions.ffxiv_exponential_entropy.desc": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
       "subtitles.ffxiv.penitus": "FFXIV - Penitus (...Tell me, for whom do you fight?)",
@@ -3423,6 +3360,7 @@
       "item.fartsysadditions.xbc_you_will_know_our_names": "XBC - You Will Know Our Names",
       "item.jr_metal_brute_justice_mode.name": "\"Metal: Brute Justice Mode\" Jukebox Roll",
       "item.amd_big_boned.name": "Aetherial Music Disc - Big Boned",
+      "item.record.la_cucuracha.desc": "The roaches, Wat. The roaches.",
       "item.shard_earth.name": "Earth Shard",
       "item.fartsysadditions.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
       "item.fartsysadditions.ffxiv_knowledge_never_sleeps.desc": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
@@ -3450,19 +3388,19 @@
         "children": []
       },
       {
-        "name": "Recipes",
-        "children": []
-      },
-      {
-        "name": "Weapons",
-        "children": []
-      },
-      {
         "name": "Misc",
         "children": []
       },
       {
         "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Weapons",
         "children": []
       }
     ]

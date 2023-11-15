@@ -10,31 +10,31 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Blocks.DIRT#0"
       },
       {
-        "value": ""
+        "value": "CUSTOM:PVCPlastic"
       },
       {
-        "value": ""
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
       },
       {
         "value": "Items.POISONOUS_POTATO"
       },
       {
-        "value": "CUSTOM:BlankMusicDisc"
+        "value": "CUSTOM:PVCPlastic"
       },
       {
-        "value": ""
+        "value": "Blocks.DIRT#0"
       },
       {
-        "value": ""
+        "value": "CUSTOM:PVCPlastic"
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Blocks.DIRT#0"
       }
     ],
     "recipeReturnStack": {

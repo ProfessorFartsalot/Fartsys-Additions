@@ -1,14 +1,4 @@
 {
-  "lacucuracha": {
-    "category": "record",
-    "subtitle": "subtitles.lacucuracha",
-    "sounds": [
-      {
-        "name": "fartsysmagitechfantasy:la_cucaracha",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.athenathetirelessone": {
     "category": "record",
     "subtitle": "subtitles.ffxiv.athenathetirelessone",
@@ -245,6 +235,16 @@
     "sounds": [
       {
         "name": "fartsysmagitechfantasy:wayward_daughter",
+        "stream": true
+      }
+    ]
+  },
+  "la_cucuracha": {
+    "category": "record",
+    "subtitle": "subtitles.la_cucuracha",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:la_cucaracha",
         "stream": true
       }
     ]

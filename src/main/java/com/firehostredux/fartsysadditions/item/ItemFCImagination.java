@@ -24,7 +24,7 @@ public class ItemFCImagination extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_imagination")
 	public static final Item block = null;
 	public ItemFCImagination(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 116);
+		super(instance, 115);
 	}
 
 	@Override

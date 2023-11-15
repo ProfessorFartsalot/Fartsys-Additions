@@ -13,7 +13,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class TabFMFMusic extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public TabFMFMusic(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 178);
+		super(instance, 177);
 	}
 
 	@Override

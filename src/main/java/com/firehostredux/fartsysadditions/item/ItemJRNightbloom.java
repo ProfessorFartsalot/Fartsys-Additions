@@ -30,7 +30,7 @@ public class ItemJRNightbloom extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_nightbloom")
 	public static final Item block = null;
 	public ItemJRNightbloom(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 99);
+		super(instance, 98);
 	}
 
 	@Override

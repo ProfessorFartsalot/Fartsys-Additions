@@ -24,7 +24,7 @@ public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:debug_item")
 	public static final Item block = null;
 	public ItemDebugItem(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 60);
+		super(instance, 59);
 	}
 
 	@Override

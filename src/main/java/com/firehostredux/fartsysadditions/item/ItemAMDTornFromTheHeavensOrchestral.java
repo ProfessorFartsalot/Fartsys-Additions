@@ -25,7 +25,7 @@ public class ItemAMDTornFromTheHeavensOrchestral extends ElementsFartsysmagitech
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_torn_from_the_heavens_orchestral")
 	public static final Item block = null;
 	public ItemAMDTornFromTheHeavensOrchestral(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 82);
+		super(instance, 81);
 	}
 
 	@Override

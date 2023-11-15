@@ -24,7 +24,7 @@ public class ItemFCCloseInTheDistance extends ElementsFartsysmagitechfantasyMod.
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_close_in_the_distance")
 	public static final Item block = null;
 	public ItemFCCloseInTheDistance(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 112);
+		super(instance, 111);
 	}
 
 	@Override

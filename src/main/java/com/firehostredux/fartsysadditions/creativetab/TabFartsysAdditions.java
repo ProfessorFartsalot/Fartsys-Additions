@@ -13,7 +13,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class TabFartsysAdditions extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public TabFartsysAdditions(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 132);
+		super(instance, 131);
 	}
 
 	@Override
@@ -27,9 +27,9 @@ public class TabFartsysAdditions extends ElementsFartsysmagitechfantasyMod.ModEl
 
 			@SideOnly(Side.CLIENT)
 			public boolean hasSearchBar() {
-				return true;
+				return false;
 			}
-		}.setBackgroundImageName("item_search.png");
+		};
 	}
 	public static CreativeTabs tab;
 }
