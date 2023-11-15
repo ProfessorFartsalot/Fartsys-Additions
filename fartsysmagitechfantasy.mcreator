@@ -2029,6 +2029,87 @@
       "ids": {},
       "registry_name": "jr_big_boned",
       "path": "~/Music Discs"
+    },
+    {
+      "name": "JRImagination",
+      "type": "item",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_imagination",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRImaginationRightClickedInAir",
+      "type": "procedure",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_imagination_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JRLunacy",
+      "type": "item",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_lunacy",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRLunacyRightClickedInAir",
+      "type": "procedure",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_lunacy_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JRNightbloom",
+      "type": "item",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_nightbloom",
+      "path": "~/Music Discs"
+    },
+    {
+      "name": "JRNightbloomRightClickedInAir",
+      "type": "procedure",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jr_nightbloom_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2352,6 +2433,7 @@
       "subtitles.touhou.necrofantasia": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
       "advancements.adv_music_press.title": "A pressing matter",
       "item.fartsysadditions.faded_shadowbringers": "Faded Copy of Shadowbringers",
+      "item.jr_nightbloom.name": "\"Nightbloom\" Jukebox Roll",
       "item.jr_locus.name": "\"Locus\" Jukebox Roll",
       "subtitles.xc.youwillknowournames": "Xenoblade Chronicles -  You Will Know Our Names",
       "item.record.amd_pa_paya.desc": "FFXIV Easter Event - Pa-Paya",
@@ -2412,6 +2494,7 @@
       "subtitles.ffxiv.undertheweight": "Final Fantasy XIV - Under the Weight (Titan)",
       "subtitles.ffxiv.lunarwhale": "FFXIV - Lunar Whale",
       "item.fartsysadditions.ffxiv_close_in_the_distance.desc": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
+      "item.jr_imagination.name": "\"Imagination\" Jukebox Roll",
       "item.fartsysadditions.ffxiva_land_long_dead.desc": "Final Fantasy XIV - A Land Long Dead (The Burn)",
       "item.fartsysadditions.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
       "subtitles.ffxiv.lunacy": "FFXIV - Lunacy",
@@ -2584,6 +2667,7 @@
       "subtitles.ffxiv.silentscream": "Final Fantasy XIV - Silent Scream",
       "item.fartsysadditions.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
       "item.amd_nightbloom.name": "Aetherial Music Disc - Nightbloom",
+      "item.jr_lunacy.name": "JR Lunacy",
       "item.fartsysadditions.restored_knowledge_never_sleeps": "Restored Copy of Knowledge Never Sleeps",
       "item.fartsysadditions.ffxiv_knowledge_never_sleeps.desc": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
       "item.record.amd_lunar_whale.desc": "FFXIV - Lunar Whale",
