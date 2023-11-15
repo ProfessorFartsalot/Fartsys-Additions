@@ -168,5 +168,85 @@
         "stream": true
       }
     ]
+  },
+  "ffxiv.big_boned": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.big_boned",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:big_boned",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.imagination": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.imagination",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:imagination",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.lunacy": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.lunacy",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:lunacy",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.nightbloom": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.nightbloom",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:nightbloom",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.papaya": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.papaya",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:pa_paya",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.steel_reason": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.steel_reason",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:steel_reason",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.the_ewer_brimmeth": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.the_ewer_brimmeth",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:the_ewer_brimmeth",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.wayward_daughter": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.wayward_daughter",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:wayward_daughter",
+        "stream": true
+      }
+    ]
   }
 }

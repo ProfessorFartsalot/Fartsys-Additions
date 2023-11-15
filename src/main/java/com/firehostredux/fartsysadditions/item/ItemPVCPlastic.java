@@ -24,7 +24,7 @@ public class ItemPVCPlastic extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:pvc_dust")
 	public static final Item block = null;
 	public ItemPVCPlastic(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 15);
+		super(instance, 14);
 	}
 
 	@Override

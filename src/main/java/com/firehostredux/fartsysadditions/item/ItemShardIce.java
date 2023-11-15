@@ -20,7 +20,7 @@ public class ItemShardIce extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shard_ice")
 	public static final Item block = null;
 	public ItemShardIce(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 127);
+		super(instance, 24);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemBlankG2JR extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:blank_g_2_jr")
 	public static final Item block = null;
 	public ItemBlankG2JR(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 174);
+		super(instance, 40);
 	}
 
 	@Override

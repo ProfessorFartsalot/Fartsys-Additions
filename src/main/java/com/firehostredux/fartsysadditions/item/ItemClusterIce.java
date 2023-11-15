@@ -20,7 +20,7 @@ public class ItemClusterIce extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cluster_ice")
 	public static final Item block = null;
 	public ItemClusterIce(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 141);
+		super(instance, 26);
 	}
 
 	@Override

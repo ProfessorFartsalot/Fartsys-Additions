@@ -20,7 +20,7 @@ public class ItemCrystalEarth extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:crystal_earth")
 	public static final Item block = null;
 	public ItemCrystalEarth(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 132);
+		super(instance, 19);
 	}
 
 	@Override

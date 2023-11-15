@@ -20,7 +20,7 @@ public class ItemCrystalIce extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:crystal_ice")
 	public static final Item block = null;
 	public ItemCrystalIce(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 134);
+		super(instance, 25);
 	}
 
 	@Override

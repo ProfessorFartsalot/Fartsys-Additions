@@ -16,7 +16,7 @@ import net.minecraft.block.state.IBlockState;
 
 import java.util.List;
 
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
@@ -24,7 +24,7 @@ public class ItemFCAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_athena_the_tireless_one")
 	public static final Item block = null;
 	public ItemFCAthenaTheTirelessOne(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 110);
+		super(instance, 75);
 	}
 
 	@Override
@@ -44,7 +44,7 @@ public class ItemFCAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyMo
 			maxStackSize = 64;
 			setUnlocalizedName("fc_athena_the_tireless_one");
 			setRegistryName("fc_athena_the_tireless_one");
-			setCreativeTab(TabFartsysAdditions.tab);
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override

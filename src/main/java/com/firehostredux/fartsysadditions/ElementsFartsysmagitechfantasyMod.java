@@ -88,6 +88,22 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.penitus")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.andloveyoushallfind"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.andloveyoushallfind")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.big_boned"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.big_boned")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.imagination"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.imagination")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.lunacy"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.lunacy")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.nightbloom"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.nightbloom")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.papaya"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.papaya")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.steel_reason"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.steel_reason")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.the_ewer_brimmeth"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.the_ewer_brimmeth")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.wayward_daughter"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.wayward_daughter")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

@@ -20,7 +20,7 @@ public class ItemClusterUnaspected extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cluster_unaspected")
 	public static final Item block = null;
 	public ItemClusterUnaspected(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 143);
+		super(instance, 32);
 	}
 
 	@Override

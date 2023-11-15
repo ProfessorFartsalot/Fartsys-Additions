@@ -20,7 +20,7 @@ public class ItemShardUnaspected extends ElementsFartsysmagitechfantasyMod.ModEl
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shard_unaspected")
 	public static final Item block = null;
 	public ItemShardUnaspected(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 129);
+		super(instance, 30);
 	}
 
 	@Override

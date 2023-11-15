@@ -20,7 +20,7 @@ public class ItemCrystalUnaspected extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:crystal_unaspected")
 	public static final Item block = null;
 	public ItemCrystalUnaspected(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 136);
+		super(instance, 31);
 	}
 
 	@Override

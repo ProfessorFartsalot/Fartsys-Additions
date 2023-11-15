@@ -24,7 +24,7 @@ public class ItemFCFromTheHeavens extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_from_the_heavens")
 	public static final Item block = null;
 	public ItemFCFromTheHeavens(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 113);
+		super(instance, 78);
 	}
 
 	@Override

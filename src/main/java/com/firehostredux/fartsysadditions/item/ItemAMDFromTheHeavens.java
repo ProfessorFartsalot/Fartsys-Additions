@@ -25,7 +25,7 @@ public class ItemAMDFromTheHeavens extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_from_the_heavens")
 	public static final Item block = null;
 	public ItemAMDFromTheHeavens(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 23);
+		super(instance, 46);
 	}
 
 	@Override

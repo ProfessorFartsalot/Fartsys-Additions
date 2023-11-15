@@ -20,7 +20,7 @@ public class ItemCrystalWater extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:crystal_water")
 	public static final Item block = null;
 	public ItemCrystalWater(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 137);
+		super(instance, 34);
 	}
 
 	@Override

@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diamond_disc",
+    "name": "Aetherial Music Disc - Pa-Paya",
+    "description": "FFXIV Easter Event - Pa-Paya",
+    "creativeTab": {
+      "value": "CUSTOM:FMFMusic"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.papaya"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": false
+  }
+}

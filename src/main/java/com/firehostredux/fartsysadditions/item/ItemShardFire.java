@@ -20,7 +20,7 @@ public class ItemShardFire extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shard_fire")
 	public static final Item block = null;
 	public ItemShardFire(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 126);
+		super(instance, 21);
 	}
 
 	@Override

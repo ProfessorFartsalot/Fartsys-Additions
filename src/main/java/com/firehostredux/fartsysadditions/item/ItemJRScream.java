@@ -30,7 +30,7 @@ public class ItemJRScream extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_scream")
 	public static final Item block = null;
 	public ItemJRScream(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 37);
+		super(instance, 60);
 	}
 
 	@Override

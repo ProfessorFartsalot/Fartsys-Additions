@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "redstone_disc",
+    "name": "Aetherial Music Disc - Steel Reason",
+    "description": "FFXIV Garlean Leader Theme - Steel Reason",
+    "creativeTab": {
+      "value": "CUSTOM:FMFMusic"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.steel_reason"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": false
+  }
+}

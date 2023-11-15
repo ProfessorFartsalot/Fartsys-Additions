@@ -25,7 +25,7 @@ public class ItemAMDLunarWhale extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_lunar_whale")
 	public static final Item block = null;
 	public ItemAMDLunarWhale(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 30);
+		super(instance, 53);
 	}
 
 	@Override

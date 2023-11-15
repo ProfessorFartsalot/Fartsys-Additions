@@ -30,7 +30,7 @@ public class ItemJRTornFromTheHeavensOrchestral extends ElementsFartsysmagitechf
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_torn_from_the_heavens_orchestral")
 	public static final Item block = null;
 	public ItemJRTornFromTheHeavensOrchestral(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 38);
+		super(instance, 61);
 	}
 
 	@Override

@@ -13,7 +13,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class RecipeRecBagORockSalt extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public RecipeRecBagORockSalt(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 57);
+		super(instance, 95);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemClusterWater extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:cluster_water")
 	public static final Item block = null;
 	public ItemClusterWater(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 144);
+		super(instance, 35);
 	}
 
 	@Override
