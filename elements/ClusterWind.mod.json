@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "cluster_wind",
     "customModelName": "Normal",
     "name": "Wind Cluster",
     "rarity": "RARE",

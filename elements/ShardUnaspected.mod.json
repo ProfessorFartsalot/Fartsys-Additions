@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "shard_unaspected",
     "customModelName": "Normal",
     "name": "Unaspected Shard",
     "rarity": "COMMON",

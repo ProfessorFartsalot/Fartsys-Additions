@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "shard_lightning",
     "customModelName": "Normal",
     "name": "Lightning Shard",
     "rarity": "COMMON",

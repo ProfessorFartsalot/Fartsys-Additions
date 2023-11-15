@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "crystal_wind",
     "customModelName": "Normal",
     "name": "Wind Crystal",
     "rarity": "UNCOMMON",

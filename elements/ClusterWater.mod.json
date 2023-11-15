@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "cluster_water",
     "customModelName": "Normal",
     "name": "Water Cluster",
     "rarity": "RARE",
