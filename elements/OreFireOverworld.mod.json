@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "ore_unaspected",
+    "texture": "ore_fire_norm",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,9 +32,9 @@
         "subtract": false
       }
     ],
-    "name": "Unaspected Ore",
+    "name": "Fire Aspected Ore",
     "specialInfo": [],
-    "hardness": 3.0,
+    "hardness": 2.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
@@ -43,9 +43,9 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:CrystalUnaspected"
+      "value": "CUSTOM:CrystalFire"
     },
-    "dropAmount": 3,
+    "dropAmount": 2,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -76,7 +76,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 3,
+    "breakHarvestLevel": 2,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -104,15 +104,19 @@
     "spawnWorldTypes": [
       "Surface"
     ],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      }
+    ],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 10,
-    "frequencyOnChunk": 16,
-    "minGenerateHeight": 1,
-    "maxGenerateHeight": 16
+    "frequencyPerChunks": 8,
+    "frequencyOnChunk": 8,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 40
   }
 }

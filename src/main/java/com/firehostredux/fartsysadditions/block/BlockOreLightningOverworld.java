@@ -10,9 +10,11 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraft.world.gen.feature.WorldGenMinable;
 import net.minecraft.world.gen.IChunkGenerator;
 import net.minecraft.world.chunk.IChunkProvider;
+import net.minecraft.world.biome.Biome;
 import net.minecraft.world.World;
 import net.minecraft.world.IBlockAccess;
 import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.NonNullList;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemBlock;
@@ -26,21 +28,21 @@ import net.minecraft.block.Block;
 
 import java.util.Random;
 
-import com.firehostredux.fartsysadditions.item.ItemCrystalUnaspected;
+import com.firehostredux.fartsysadditions.item.ItemCrystalLightning;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
-public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_unaspected")
+public class BlockOreLightningOverworld extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_lightning_overworld")
 	public static final Block block = null;
-	public BlockOreUnaspected(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 42);
+	public BlockOreLightningOverworld(ElementsFartsysmagitechfantasyMod instance) {
+		super(instance, 214);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("ore_unaspected"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("ore_lightning_overworld"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -48,7 +50,7 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("fartsysmagitechfantasy:ore_unaspected", "inventory"));
+				new ModelResourceLocation("fartsysmagitechfantasy:ore_lightning_overworld", "inventory"));
 	}
 
 	@Override
@@ -58,11 +60,35 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 			dimensionCriteria = true;
 		if (!dimensionCriteria)
 			return;
-		for (int i = 0; i < 10; i++) {
+		boolean biomeCriteria = false;
+		Biome biome = world.getBiome(new BlockPos(chunkX, 128, chunkZ));
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("plains")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("extreme_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("sky")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("desert_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("forest_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("taiga_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("smaller_extreme_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("jungle_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("birch_forest_hills")))
+			biomeCriteria = true;
+		if (Biome.REGISTRY.getNameForObject(biome).equals(new ResourceLocation("extreme_hills_with_trees")))
+			biomeCriteria = true;
+		if (!biomeCriteria)
+			return;
+		for (int i = 0; i < 8; i++) {
 			int x = chunkX + random.nextInt(16);
-			int y = random.nextInt(15) + 1;
+			int y = random.nextInt(48) + 0;
 			int z = chunkZ + random.nextInt(16);
-			(new WorldGenMinable(block.getDefaultState(), 16, new com.google.common.base.Predicate<IBlockState>() {
+			(new WorldGenMinable(block.getDefaultState(), 8, new com.google.common.base.Predicate<IBlockState>() {
 				public boolean apply(IBlockState blockAt) {
 					boolean blockCriteria = false;
 					IBlockState require;
@@ -76,7 +102,7 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.ROCK);
-			setUnlocalizedName("ore_unaspected");
+			setUnlocalizedName("ore_lightning_overworld");
 			setSoundType(SoundType.STONE);
 			setHarvestLevel("pickaxe", 3);
 			setHardness(3F);
@@ -88,7 +114,7 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 
 		@Override
 		public void getDrops(NonNullList<ItemStack> drops, IBlockAccess world, BlockPos pos, IBlockState state, int fortune) {
-			drops.add(new ItemStack(ItemCrystalUnaspected.block, (int) (3)));
+			drops.add(new ItemStack(ItemCrystalLightning.block, (int) (1)));
 		}
 	}
 }

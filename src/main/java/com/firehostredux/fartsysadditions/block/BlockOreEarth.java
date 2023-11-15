@@ -26,21 +26,21 @@ import net.minecraft.block.Block;
 
 import java.util.Random;
 
-import com.firehostredux.fartsysadditions.item.ItemCrystalUnaspected;
+import com.firehostredux.fartsysadditions.item.ItemCrystalEarth;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
-public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_unaspected")
+public class BlockOreEarth extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:ore_earth")
 	public static final Block block = null;
-	public BlockOreUnaspected(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 42);
+	public BlockOreEarth(ElementsFartsysmagitechfantasyMod instance) {
+		super(instance, 209);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("ore_unaspected"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("ore_earth"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -48,7 +48,7 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("fartsysmagitechfantasy:ore_unaspected", "inventory"));
+				new ModelResourceLocation("fartsysmagitechfantasy:ore_earth", "inventory"));
 	}
 
 	@Override
@@ -58,9 +58,9 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 			dimensionCriteria = true;
 		if (!dimensionCriteria)
 			return;
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 4; i++) {
 			int x = chunkX + random.nextInt(16);
-			int y = random.nextInt(15) + 1;
+			int y = random.nextInt(40) + 0;
 			int z = chunkZ + random.nextInt(16);
 			(new WorldGenMinable(block.getDefaultState(), 16, new com.google.common.base.Predicate<IBlockState>() {
 				public boolean apply(IBlockState blockAt) {
@@ -76,9 +76,9 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.ROCK);
-			setUnlocalizedName("ore_unaspected");
+			setUnlocalizedName("ore_earth");
 			setSoundType(SoundType.STONE);
-			setHarvestLevel("pickaxe", 3);
+			setHarvestLevel("pickaxe", 2);
 			setHardness(3F);
 			setResistance(10F);
 			setLightLevel(0F);
@@ -88,7 +88,7 @@ public class BlockOreUnaspected extends ElementsFartsysmagitechfantasyMod.ModEle
 
 		@Override
 		public void getDrops(NonNullList<ItemStack> drops, IBlockAccess world, BlockPos pos, IBlockState state, int fortune) {
-			drops.add(new ItemStack(ItemCrystalUnaspected.block, (int) (3)));
+			drops.add(new ItemStack(ItemCrystalEarth.block, (int) (2)));
 		}
 	}
 }

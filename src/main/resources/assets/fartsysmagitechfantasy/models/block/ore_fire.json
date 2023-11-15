@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fartsysmagitechfantasy:blocks/ore_fire",
+    "up": "fartsysmagitechfantasy:blocks/ore_fire",
+    "north": "fartsysmagitechfantasy:blocks/ore_fire",
+    "east": "fartsysmagitechfantasy:blocks/ore_fire",
+    "south": "fartsysmagitechfantasy:blocks/ore_fire",
+    "west": "fartsysmagitechfantasy:blocks/ore_fire",
+    "particle": "fartsysmagitechfantasy:blocks/ore_fire"
+  }
+}

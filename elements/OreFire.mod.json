@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "ore_unaspected",
+    "texture": "ore_fire",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Unaspected Ore",
+    "name": "Fire Aspected Ore",
     "specialInfo": [],
     "hardness": 3.0,
     "resistance": 10.0,
@@ -43,7 +43,7 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:CrystalUnaspected"
+      "value": "CUSTOM:CrystalFire"
     },
     "dropAmount": 3,
     "useLootTableForDrops": false,
@@ -102,17 +102,21 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "Surface"
+      "Nether"
     ],
-    "restrictionBiomes": [],
-    "blocksToReplace": [
+    "restrictionBiomes": [
       {
-        "value": "Blocks.STONE"
+        "value": "nether"
       }
     ],
-    "frequencyPerChunks": 10,
-    "frequencyOnChunk": 16,
-    "minGenerateHeight": 1,
-    "maxGenerateHeight": 16
+    "blocksToReplace": [
+      {
+        "value": "Blocks.NETHERRACK"
+      }
+    ],
+    "frequencyPerChunks": 8,
+    "frequencyOnChunk": 8,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
   }
 }

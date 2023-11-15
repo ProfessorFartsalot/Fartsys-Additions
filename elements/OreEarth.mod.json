@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "ore_unaspected",
+    "texture": "ore_earth",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Unaspected Ore",
+    "name": "Earth Aspected Ore",
     "specialInfo": [],
     "hardness": 3.0,
     "resistance": 10.0,
@@ -43,9 +43,9 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:CrystalUnaspected"
+      "value": "CUSTOM:CrystalEarth"
     },
-    "dropAmount": 3,
+    "dropAmount": 2,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -76,7 +76,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 3,
+    "breakHarvestLevel": 2,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -110,9 +110,9 @@
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 10,
+    "frequencyPerChunks": 4,
     "frequencyOnChunk": 16,
-    "minGenerateHeight": 1,
-    "maxGenerateHeight": 16
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 40
   }
 }

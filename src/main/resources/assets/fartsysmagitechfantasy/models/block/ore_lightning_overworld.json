@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fartsysmagitechfantasy:blocks/ore_lightning_norm",
+    "up": "fartsysmagitechfantasy:blocks/ore_lightning_norm",
+    "north": "fartsysmagitechfantasy:blocks/ore_lightning_norm",
+    "east": "fartsysmagitechfantasy:blocks/ore_lightning_norm",
+    "south": "fartsysmagitechfantasy:blocks/ore_lightning_norm",
+    "west": "fartsysmagitechfantasy:blocks/ore_lightning_norm",
+    "particle": "fartsysmagitechfantasy:blocks/ore_lightning_norm"
+  }
+}
