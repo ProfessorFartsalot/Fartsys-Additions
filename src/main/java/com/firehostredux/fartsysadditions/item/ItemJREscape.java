@@ -30,7 +30,7 @@ public class ItemJREscape extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_escape")
 	public static final Item block = null;
 	public ItemJREscape(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 63);
+		super(instance, 71);
 	}
 
 	@Override

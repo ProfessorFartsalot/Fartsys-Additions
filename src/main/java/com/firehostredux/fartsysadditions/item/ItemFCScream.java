@@ -24,7 +24,7 @@ public class ItemFCScream extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_scream")
 	public static final Item block = null;
 	public ItemFCScream(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 76);
+		super(instance, 107);
 	}
 
 	@Override

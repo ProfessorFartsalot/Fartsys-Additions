@@ -25,7 +25,7 @@ public class ItemAMDInsatiable extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_insatiable")
 	public static final Item block = null;
 	public ItemAMDInsatiable(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 50);
+		super(instance, 51);
 	}
 
 	@Override

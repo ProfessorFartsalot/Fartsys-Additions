@@ -30,7 +30,7 @@ public class ItemJRShadowbringers extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_shadowbringers")
 	public static final Item block = null;
 	public ItemJRShadowbringers(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 70);
+		super(instance, 85);
 	}
 
 	@Override

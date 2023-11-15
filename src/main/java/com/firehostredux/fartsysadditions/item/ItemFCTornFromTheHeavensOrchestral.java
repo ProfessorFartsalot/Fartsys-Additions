@@ -24,7 +24,7 @@ public class ItemFCTornFromTheHeavensOrchestral extends ElementsFartsysmagitechf
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_torn_from_the_heavens_orchestral")
 	public static final Item block = null;
 	public ItemFCTornFromTheHeavensOrchestral(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 77);
+		super(instance, 111);
 	}
 
 	@Override
