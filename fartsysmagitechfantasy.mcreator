@@ -2586,6 +2586,246 @@
       "ids": {},
       "registry_name": "rec_enchanted_ender_pearl_ink",
       "path": "~/Recipes"
+    },
+    {
+      "name": "RecAndLoveYouShallFind",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_and_love_you_shall_find",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecAthenaTheTirelessOne",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_athena_the_tireless_one",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecBigBoned",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_big_boned",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecCloseInTheDistance",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_close_in_the_distance",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecEscapeJourneys",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_escape_journeys",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecFootfalls",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_footfalls",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecFromTheHeavens",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_from_the_heavens",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecImagination",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_imagination",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecInsatiable",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_insatiable",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecLocus",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_locus",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecLunacy",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_lunacy",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecLunarWhale",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_lunar_whale",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecMetal",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_metal",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecMetalBruteJusticeMode",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_metal_brute_justice_mode",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecNightbloom",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_nightbloom",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPaPaya",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_pa_paya",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecPenitus",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_penitus",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecScream",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_scream",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShadowbringers",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shadowbringers",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecSteelReason",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_steel_reason",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecTheEwerBrimmeth",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_the_ewer_brimmeth",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecTornFromTheHeavensOrchestral",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_torn_from_the_heavens_orchestral",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecToTheEdge",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_to_the_edge",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecWaywardDaughter",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_wayward_daughter",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],

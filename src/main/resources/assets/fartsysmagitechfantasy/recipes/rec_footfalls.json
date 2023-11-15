@@ -1,0 +1,36 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechfantasy:enchanted_nether_brick_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:fc_footfalls"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_footfalls",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechfantasy:enchanted_glowstone_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:fc_imagination"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_imagination",
+    "count": 1
+  }
+}

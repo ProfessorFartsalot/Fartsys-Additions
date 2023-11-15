@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CrystalFire"
+      },
+      {
+        "value": "CUSTOM:BlankG2JR"
+      },
+      {
+        "value": "CUSTOM:CrystalFire"
+      },
+      {
+        "value": "CUSTOM:CrystalLightning"
+      },
+      {
+        "value": "CUSTOM:FCMetalBruteJusticeMode"
+      },
+      {
+        "value": "CUSTOM:CrystalLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRMetalBruteJusticeMode"
+    },
+    "name": "rec_metal_brute_justice_mode",
+    "namespace": "mod"
+  }
+}

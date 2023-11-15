@@ -1,0 +1,36 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechfantasy:enchanted_redstone_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:shard_water"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:blank_g_1_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:shard_water"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:fc_steel_reason"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_steel_reason",
+    "count": 1
+  }
+}

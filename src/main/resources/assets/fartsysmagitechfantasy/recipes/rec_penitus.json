@@ -1,0 +1,36 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechfantasy:enchanted_redstone_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:shard_fire"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:blank_g_1_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:shard_fire"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:fc_penitus"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_penitus",
+    "count": 1
+  }
+}

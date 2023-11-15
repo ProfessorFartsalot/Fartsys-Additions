@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedRedstoneInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShardWater"
+      },
+      {
+        "value": "CUSTOM:BlankG1JR"
+      },
+      {
+        "value": "CUSTOM:ShardWater"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:FCSteelReason"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRSteelReason"
+    },
+    "name": "rec_steel_reason",
+    "namespace": "mod"
+  }
+}
