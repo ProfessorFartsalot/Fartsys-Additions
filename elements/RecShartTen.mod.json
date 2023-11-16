@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShartOne"
+      },
+      {
+        "value": "CUSTOM:ShartOne"
+      },
+      {
+        "value": "CUSTOM:ShartOne"
+      },
+      {
+        "value": "CUSTOM:ShartOne"
+      },
+      {
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "CUSTOM:ShartOne"
+      },
+      {
+        "value": "CUSTOM:ShartOne"
+      },
+      {
+        "value": "CUSTOM:ShartOne"
+      },
+      {
+        "value": "CUSTOM:ShartOne"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShartTen"
+    },
+    "name": "rec_shart_ten",
+    "namespace": "mod"
+  }
+}

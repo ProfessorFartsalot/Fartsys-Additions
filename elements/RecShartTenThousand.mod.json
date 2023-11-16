@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShartThousand"
+      },
+      {
+        "value": "CUSTOM:ShartThousand"
+      },
+      {
+        "value": "CUSTOM:ShartThousand"
+      },
+      {
+        "value": "CUSTOM:ShartThousand"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:ShartThousand"
+      },
+      {
+        "value": "CUSTOM:ShartThousand"
+      },
+      {
+        "value": "CUSTOM:ShartThousand"
+      },
+      {
+        "value": "CUSTOM:ShartThousand"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShartTenThousand"
+    },
+    "name": "rec_shart_ten_thousand",
+    "namespace": "mod"
+  }
+}

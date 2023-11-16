@@ -2854,6 +2854,66 @@
       "ids": {},
       "registry_name": "rec_exponential_entropy_primals",
       "path": "~/Recipes"
+    },
+    {
+      "name": "RecShartOne",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shart_one",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShartTen",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shart_ten",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShartHundred",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shart_hundred",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShartThousand",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shart_thousand",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShartTenThousand",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shart_ten_thousand",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RecShartHundredThousand",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rec_shart_hundred_thousand",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],

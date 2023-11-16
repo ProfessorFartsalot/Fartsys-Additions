@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    },
+    "1": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    },
+    "2": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:shart_ten"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:shart_hundred",
+    "count": 1
+  }
+}

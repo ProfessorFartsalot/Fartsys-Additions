@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    "1": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    "2": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:shart_ten_thousand",
+    "count": 1
+  }
+}
