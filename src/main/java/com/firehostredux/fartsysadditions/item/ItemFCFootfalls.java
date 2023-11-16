@@ -24,7 +24,7 @@ public class ItemFCFootfalls extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_footfalls")
 	public static final Item block = null;
 	public ItemFCFootfalls(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 113);
+		super(instance, 116);
 	}
 
 	@Override

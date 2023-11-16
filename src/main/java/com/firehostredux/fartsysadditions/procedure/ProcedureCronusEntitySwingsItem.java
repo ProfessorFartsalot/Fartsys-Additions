@@ -12,7 +12,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class ProcedureCronusEntitySwingsItem extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public ProcedureCronusEntitySwingsItem(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 153);
+		super(instance, 156);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

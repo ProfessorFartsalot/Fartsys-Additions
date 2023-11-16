@@ -30,7 +30,7 @@ public class ItemJRToTheEdge extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_to_the_edge")
 	public static final Item block = null;
 	public ItemJRToTheEdge(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 106);
+		super(instance, 108);
 	}
 
 	@Override

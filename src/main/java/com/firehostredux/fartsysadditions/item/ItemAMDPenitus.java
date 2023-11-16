@@ -25,7 +25,7 @@ public class ItemAMDPenitus extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_penitus")
 	public static final Item block = null;
 	public ItemAMDPenitus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 76);
+		super(instance, 77);
 	}
 
 	@Override

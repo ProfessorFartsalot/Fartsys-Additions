@@ -25,7 +25,7 @@ public class ItemAMDSteelReason extends ElementsFartsysmagitechfantasyMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_steel_reason")
 	public static final Item block = null;
 	public ItemAMDSteelReason(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 79);
+		super(instance, 80);
 	}
 
 	@Override

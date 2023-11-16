@@ -30,7 +30,7 @@ public class ItemJRFromTheHeavens extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_from_the_heavens")
 	public static final Item block = null;
 	public ItemJRFromTheHeavens(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 90);
+		super(instance, 92);
 	}
 
 	@Override

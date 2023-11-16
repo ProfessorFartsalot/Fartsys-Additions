@@ -30,7 +30,7 @@ public class ItemJRWaywardDaughter extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_wayward_daughter")
 	public static final Item block = null;
 	public ItemJRWaywardDaughter(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 107);
+		super(instance, 109);
 	}
 
 	@Override

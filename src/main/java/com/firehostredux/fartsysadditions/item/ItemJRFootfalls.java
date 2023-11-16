@@ -30,7 +30,7 @@ public class ItemJRFootfalls extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_footfalls")
 	public static final Item block = null;
 	public ItemJRFootfalls(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 89);
+		super(instance, 91);
 	}
 
 	@Override

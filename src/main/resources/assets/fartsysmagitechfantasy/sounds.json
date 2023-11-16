@@ -248,5 +248,15 @@
         "stream": true
       }
     ]
+  },
+  "ffxiv.exponential_entropy_primals": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.exponential_entropy_primals",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:exponential_entropy_primals",
+        "stream": true
+      }
+    ]
   }
 }

@@ -8,14 +8,22 @@ import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.world.World;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.EnumHand;
+import net.minecraft.util.EnumFacing;
+import net.minecraft.util.EnumActionResult;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
+import java.util.Map;
 import java.util.List;
+import java.util.HashMap;
 
+import com.firehostredux.fartsysadditions.procedure.ProcedureDebugItemRightClickedOnBlock;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
@@ -39,7 +47,7 @@ public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement 
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			setMaxDamage(0);
+			setMaxDamage(3);
 			maxStackSize = 1;
 			setUnlocalizedName("debug_item");
 			setRegistryName("debug_item");
@@ -65,6 +73,21 @@ public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement 
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
 			list.add("Serves no real purpose.");
+		}
+
+		@Override
+		public EnumActionResult onItemUseFirst(EntityPlayer entity, World world, BlockPos pos, EnumFacing direction, float hitX, float hitY,
+				float hitZ, EnumHand hand) {
+			EnumActionResult retval = super.onItemUseFirst(entity, world, pos, direction, hitX, hitY, hitZ, hand);
+			ItemStack itemstack = entity.getHeldItem(hand);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				ProcedureDebugItemRightClickedOnBlock.executeProcedure($_dependencies);
+			}
+			return retval;
 		}
 	}
 }

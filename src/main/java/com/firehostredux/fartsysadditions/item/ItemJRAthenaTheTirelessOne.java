@@ -30,7 +30,7 @@ public class ItemJRAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_athena_the_tireless_one")
 	public static final Item block = null;
 	public ItemJRAthenaTheTirelessOne(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 85);
+		super(instance, 86);
 	}
 
 	@Override

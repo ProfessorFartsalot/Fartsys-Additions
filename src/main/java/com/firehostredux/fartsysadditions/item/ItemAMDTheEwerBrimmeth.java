@@ -25,7 +25,7 @@ public class ItemAMDTheEwerBrimmeth extends ElementsFartsysmagitechfantasyMod.Mo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_the_ewer_brimmeth")
 	public static final Item block = null;
 	public ItemAMDTheEwerBrimmeth(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 80);
+		super(instance, 81);
 	}
 
 	@Override

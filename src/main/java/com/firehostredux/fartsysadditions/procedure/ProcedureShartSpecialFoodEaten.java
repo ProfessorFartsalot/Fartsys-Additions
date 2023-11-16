@@ -12,7 +12,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class ProcedureShartSpecialFoodEaten extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public ProcedureShartSpecialFoodEaten(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 134);
+		super(instance, 137);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

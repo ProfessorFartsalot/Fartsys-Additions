@@ -30,7 +30,7 @@ public class ItemJRLunarWhale extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_lunar_whale")
 	public static final Item block = null;
 	public ItemJRLunarWhale(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 95);
+		super(instance, 97);
 	}
 
 	@Override
