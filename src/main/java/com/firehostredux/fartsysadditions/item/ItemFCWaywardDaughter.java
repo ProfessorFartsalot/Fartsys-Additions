@@ -24,7 +24,7 @@ public class ItemFCWaywardDaughter extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_wayward_daughter")
 	public static final Item block = null;
 	public ItemFCWaywardDaughter(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 133);
+		super(instance, 142);
 	}
 
 	@Override

@@ -124,6 +124,25 @@
                 ]
               }
             ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+              {
+                "type": "item",
+                "name": "fartsysmagitechfantasy:fc_and_love_you_shall_find",
+                "weight": 2,
+                "functions": [
+                  {
+                    "function": "set_count",
+                    "count": {
+                      "min": 1,
+                      "max": 1
+                    }
+                  }
+                ]
+              }
+            ]
         }
     ]
 }

@@ -106,6 +106,8 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "la_cucuracha")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.exponential_entropy_primals"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.exponential_entropy_primals")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "sweaty_socks"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "sweaty_socks")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

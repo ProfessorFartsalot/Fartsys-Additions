@@ -24,7 +24,7 @@ public class ItemFCPenitus extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_penitus")
 	public static final Item block = null;
 	public ItemFCPenitus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 126);
+		super(instance, 135);
 	}
 
 	@Override

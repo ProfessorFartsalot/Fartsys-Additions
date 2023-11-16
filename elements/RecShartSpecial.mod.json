@@ -10,31 +10,31 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:ShartTenMillion"
+        "value": "CUSTOM:ShartTwentyMillion"
       },
       {
         "value": "CUSTOM:ShartTenMillion"
       },
       {
-        "value": "CUSTOM:ShartTenMillion"
+        "value": "CUSTOM:ShartTwentyMillion"
       },
       {
         "value": "CUSTOM:ShartTenMillion"
       },
       {
-        "value": "Items.GOLDEN_APPLE#0"
+        "value": "Items.GOLDEN_APPLE#1"
       },
       {
         "value": "CUSTOM:ShartTenMillion"
       },
       {
-        "value": "CUSTOM:ShartTenMillion"
+        "value": "CUSTOM:ShartTwentyMillion"
       },
       {
         "value": "CUSTOM:ShartTenMillion"
       },
       {
-        "value": "CUSTOM:ShartTenMillion"
+        "value": "CUSTOM:ShartTwentyMillion"
       }
     ],
     "recipeReturnStack": {

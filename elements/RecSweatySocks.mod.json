@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SweatySocks"
+    },
+    "name": "rec_sweaty_socks",
+    "namespace": "mod"
+  }
+}

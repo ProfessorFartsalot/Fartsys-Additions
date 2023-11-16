@@ -13,7 +13,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class RecipeRecPVCPlastic0b extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public RecipeRecPVCPlastic0b(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 152);
+		super(instance, 161);
 	}
 
 	@Override

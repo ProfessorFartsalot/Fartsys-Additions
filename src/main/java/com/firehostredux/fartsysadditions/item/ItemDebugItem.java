@@ -32,7 +32,7 @@ public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:debug_item")
 	public static final Item block = null;
 	public ItemDebugItem(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 59);
+		super(instance, 68);
 	}
 
 	@Override

@@ -30,7 +30,7 @@ public class ItemJRSteelReason extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_steel_reason")
 	public static final Item block = null;
 	public ItemJRSteelReason(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 105);
+		super(instance, 114);
 	}
 
 	@Override

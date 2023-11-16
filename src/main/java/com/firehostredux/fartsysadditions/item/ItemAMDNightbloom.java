@@ -25,7 +25,7 @@ public class ItemAMDNightbloom extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_nightbloom")
 	public static final Item block = null;
 	public ItemAMDNightbloom(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 75);
+		super(instance, 84);
 	}
 
 	@Override

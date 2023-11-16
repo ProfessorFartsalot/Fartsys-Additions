@@ -258,5 +258,15 @@
         "stream": true
       }
     ]
+  },
+  "sweaty_socks": {
+    "category": "record",
+    "subtitle": "subtitles.sweaty_socks",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:sweaty_socks",
+        "stream": true
+      }
+    ]
   }
 }

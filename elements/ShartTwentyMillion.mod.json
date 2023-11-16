@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "tenmillionsharts",
+    "texture": "20m",
     "customModelName": "Normal",
-    "name": "Twenty Mega Sharts",
+    "name": "20 Mega Sharts",
     "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"

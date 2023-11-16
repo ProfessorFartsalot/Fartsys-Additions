@@ -259,381 +259,198 @@
         "entries": [
           {
             "type": "item",
-            "name": "fartsysadditions:vitiated_aether_crystal",
-            "weight": 4,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 0,
-                  "max": 3
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:cluster_unaspected",
+            "weight": 4
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_penitus",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_and_love_you_shall_find",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_battle_on_the_big_bridge",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_athena_the_tireless_one",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_infinity",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_big_boned",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_knowledge_never_sleeps",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_close_in_the_distance",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_under_the_weight",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_escape",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_woe_that_is_madness",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_exponential_entropy_primals",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_footfalls",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_footfalls",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_silent_regard_of_stars",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_from_the_heavens",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_primals_exponential_entropy",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_imagination",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_shadowbringers",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_insatiable",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_exponential_entropy",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_locus",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_out_of_time",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_lunacy",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_close_in_the_distance",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_lunar_whale",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_metal",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_metal",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_primals_brute_justice",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_metal_brute_justice_mode",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_lunar_whale",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_nightbloom",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_brute_justice",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_penitus",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_primals_locus",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_scream",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_a_land_long_dead",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_shadowbringers",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_locus",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_steel_reason",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_insatiable",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_the_ewer_brimmeth",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_agent_of_inquiry",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_to_the_edge",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_landslide",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_torn_from_the_heavens_orchestral",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_to_the_edge",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:fc_wayward_daughter",
+            "weight": 2
           },
           {
             "type": "item",
-            "name": "fartsysadditions:restored_aether_crystal",
-            "weight": 3,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:cluster_lightning",
+            "weight": 3
           },
           {
             "type": "item",
-            "name": "fartsysadditions:bag_o_rock_salt",
-            "weight": 5,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
+            "name": "fartsysmagitechfantasy:cluster_fire",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_wind",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_water",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_earth",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_ice",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_one",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_ten",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_twenty",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_hundred",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_two_hundred",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_thousand",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:bag_o_rock_salt",
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:pvc_dust",
+            "weight": 5
           },
           {
             "type": "item",
@@ -1007,403 +824,6 @@
           },
           {
             "type": "item",
-            "name": "fartsysadditions:faded_silent_scream",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "rolls": 12,
-        "entries": [
-          {
-            "type": "item",
-            "name": "fartsysadditions:vitiated_aether_crystal",
-            "weight": 4,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 0,
-                  "max": 3
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_penitus",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_battle_on_the_big_bridge",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_infinity",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_knowledge_never_sleeps",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_under_the_weight",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_woe_that_is_madness",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_footfalls",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_silent_regard_of_stars",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_primals_exponential_entropy",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_shadowbringers",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_exponential_entropy",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_out_of_time",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_close_in_the_distance",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_metal",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_primals_brute_justice",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_lunar_whale",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_brute_justice",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_primals_locus",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_a_land_long_dead",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_locus",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_insatiable",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_agent_of_inquiry",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_landslide",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_to_the_edge",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:restored_aether_crystal",
-            "weight": 3,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:bag_o_rock_salt",
-            "weight": 5,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
             "name": "minecraft:golden_apple",
             "weight": 7,
             "functions": [
@@ -1768,20 +1188,6 @@
                 "levels": {
                   "min": 5,
                   "max": 20
-                }
-              }
-            ]
-          },
-          {
-            "type": "item",
-            "name": "fartsysadditions:faded_silent_scream",
-            "weight": 2,
-            "functions": [
-              {
-                "function": "set_count",
-                "count": {
-                  "min": 1,
-                  "max": 1
                 }
               }
             ]

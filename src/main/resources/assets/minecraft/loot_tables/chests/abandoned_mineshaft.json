@@ -399,32 +399,32 @@
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:lightning_cluster",
+          "name": "fartsysmagitechfantasy:cluster_lightning",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:fire_cluster",
+          "name": "fartsysmagitechfantasy:cluster_fire",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:wind_cluster",
+          "name": "fartsysmagitechfantasy:cluster_wind",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:water_cluster",
+          "name": "fartsysmagitechfantasy:cluster_water",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:earth_cluster",
+          "name": "fartsysmagitechfantasy:cluster_earth",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:ice_cluster",
+          "name": "fartsysmagitechfantasy:cluster_ice",
           "weight": 3
         },
         {
@@ -601,11 +601,6 @@
               "function": "enchant_randomly"
             }
           ]
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:faded_silent_scream",
-          "weight": 2
         }
       ]
     }

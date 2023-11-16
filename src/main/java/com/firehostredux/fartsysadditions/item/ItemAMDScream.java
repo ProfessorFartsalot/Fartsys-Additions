@@ -25,7 +25,7 @@ public class ItemAMDScream extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_scream")
 	public static final Item block = null;
 	public ItemAMDScream(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 78);
+		super(instance, 87);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class ItemAMDEscape extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_escape")
 	public static final Item block = null;
 	public ItemAMDEscape(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 64);
+		super(instance, 73);
 	}
 
 	@Override

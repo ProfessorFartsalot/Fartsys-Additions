@@ -3,32 +3,32 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "fartsysmagitechfantasy:shart_ten_million"
+      "item": "fartsysmagitechfantasy:shart_twenty_million"
     },
     {
       "item": "fartsysmagitechfantasy:shart_ten_million"
     },
     {
-      "item": "fartsysmagitechfantasy:shart_ten_million"
+      "item": "fartsysmagitechfantasy:shart_twenty_million"
     },
     {
       "item": "fartsysmagitechfantasy:shart_ten_million"
     },
     {
       "item": "minecraft:golden_apple",
-      "data": 0
+      "data": 1
     },
     {
       "item": "fartsysmagitechfantasy:shart_ten_million"
     },
     {
-      "item": "fartsysmagitechfantasy:shart_ten_million"
+      "item": "fartsysmagitechfantasy:shart_twenty_million"
     },
     {
       "item": "fartsysmagitechfantasy:shart_ten_million"
     },
     {
-      "item": "fartsysmagitechfantasy:shart_ten_million"
+      "item": "fartsysmagitechfantasy:shart_twenty_million"
     }
   ],
   "result": {

@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = FartsysmagitechfantasyMod.MODID, version = FartsysmagitechfantasyMod.VERSION)
 public class FartsysmagitechfantasyMod {
 	public static final String MODID = "fartsysmagitechfantasy";
-	public static final String VERSION = "1.3.3";
+	public static final String VERSION = "1.3.5";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("fartsysmagitechfan:a");
 	@SidedProxy(clientSide = "com.firehostredux.fartsysadditions.ClientProxyFartsysmagitechfantasyMod", serverSide = "com.firehostredux.fartsysadditions.ServerProxyFartsysmagitechfantasyMod")
 	public static IProxyFartsysmagitechfantasyMod proxy;

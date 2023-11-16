@@ -32,7 +32,7 @@ public class ItemBagORockSalt extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:bag_o_rock_salt")
 	public static final Item block = null;
 	public ItemBagORockSalt(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 47);
+		super(instance, 48);
 	}
 
 	@Override

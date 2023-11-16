@@ -15,7 +15,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class ProcedureJRExponentialEntropyPrimalsRightClickedInAir extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public ProcedureJRExponentialEntropyPrimalsRightClickedInAir(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 260);
+		super(instance, 269);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

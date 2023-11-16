@@ -30,7 +30,7 @@ public class ItemJRInsatiable extends ElementsFartsysmagitechfantasyMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_insatiable")
 	public static final Item block = null;
 	public ItemJRInsatiable(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 94);
+		super(instance, 103);
 	}
 
 	@Override

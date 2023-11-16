@@ -25,7 +25,7 @@ public class ItemAMDAthenaTheTirelessOne extends ElementsFartsysmagitechfantasyM
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_athena_the_tireless_one")
 	public static final Item block = null;
 	public ItemAMDAthenaTheTirelessOne(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 61);
+		super(instance, 70);
 	}
 
 	@Override

@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc03",
+    "name": "Sweaty Socks",
+    "description": "Kissone Kinoma - Sweaty Socks",
+    "creativeTab": {
+      "value": "CUSTOM:FartsysAdditions"
+    },
+    "music": {
+      "value": "CUSTOM:sweaty_socks"
+    },
+    "specialInfo": [
+      "A diddy to make your tootsies wetter and your socks sweatier."
+    ],
+    "hasGlow": true
+  }
+}
