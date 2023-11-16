@@ -1,40 +1,35 @@
 {
   "group": "fartsysmagitechfantasy",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "012",
-    "345",
-    "678"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     },
-    "1": {
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     },
-    "2": {
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     },
-    "3": {
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     },
-    "4": {
-      "item": "minecraft:paper"
+    {
+      "item": "fartsysmagitechfantasy:shart_two"
     },
-    "5": {
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     },
-    "6": {
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     },
-    "7": {
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     },
-    "8": {
+    {
       "item": "fartsysmagitechfantasy:shart_one"
     }
-  },
+  ],
   "result": {
     "item": "fartsysmagitechfantasy:shart_ten",
     "count": 1

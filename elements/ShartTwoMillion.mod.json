@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "oneshart",
+    "texture": "onemillionsharts",
     "customModelName": "Normal",
-    "name": "One Shart",
-    "rarity": "COMMON",
+    "name": "Two Mega Sharts",
+    "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
@@ -23,11 +23,11 @@
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
-    "damageVsEntity": 1.0,
+    "damageVsEntity": 0.0,
     "specialInfo": [
-      "A single shart."
+      "Two million sharts."
     ],
-    "hasGlow": false,
+    "hasGlow": true,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64

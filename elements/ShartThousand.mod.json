@@ -5,8 +5,8 @@
     "renderType": 0,
     "texture": "onethousandsharts",
     "customModelName": "Normal",
-    "name": "Kilo-shart",
-    "rarity": "COMMON",
+    "name": "Kilo Shart",
+    "rarity": "UNCOMMON",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
@@ -25,7 +25,8 @@
     "enableMeleeDamage": true,
     "damageVsEntity": 3.0,
     "specialInfo": [
-      "Strength of a thousand sharts."
+      "Finally",
+      "one kilo shart per second!"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

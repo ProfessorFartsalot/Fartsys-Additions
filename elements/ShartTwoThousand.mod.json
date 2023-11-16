@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "oneshart",
+    "texture": "onethousandsharts",
     "customModelName": "Normal",
-    "name": "One Shart",
-    "rarity": "COMMON",
+    "name": "Two Kilo Sharts",
+    "rarity": "UNCOMMON",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
     },
@@ -23,9 +23,9 @@
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
-    "damageVsEntity": 1.0,
+    "damageVsEntity": 0.0,
     "specialInfo": [
-      "A single shart."
+      "TWO kilo sharts per second!"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

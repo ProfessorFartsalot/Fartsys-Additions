@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "oneshart",
+    "texture": "tensharts",
     "customModelName": "Normal",
-    "name": "One Shart",
+    "name": "Two Deca Sharts",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
@@ -23,9 +23,9 @@
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
-    "damageVsEntity": 1.0,
+    "damageVsEntity": 0.0,
     "specialInfo": [
-      "A single shart."
+      "Twenty sharts."
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

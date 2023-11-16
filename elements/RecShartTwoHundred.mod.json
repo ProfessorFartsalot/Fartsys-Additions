@@ -13,34 +13,34 @@
         "value": "CUSTOM:ShartHundred"
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
+      },
+      {
+        "value": ""
       },
       {
         "value": "CUSTOM:ShartHundred"
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartTwoHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
-      },
-      {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ShartThousand"
+      "value": "CUSTOM:ShartTwoHundred"
     },
-    "name": "rec_shart_thousand",
+    "name": "rec_shart_two_hundred",
     "namespace": "mod"
   }
 }

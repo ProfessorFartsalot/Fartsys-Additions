@@ -10,37 +10,37 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": "CUSTOM:ShartTen"
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": "CUSTOM:ShartTen"
       },
       {
-        "value": "CUSTOM:ShartTwoHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ShartHundred"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ShartThousand"
+      "value": "CUSTOM:ShartTwenty"
     },
-    "name": "rec_shart_thousand",
+    "name": "rec_shart_twenty",
     "namespace": "mod"
   }
 }
