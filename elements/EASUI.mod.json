@@ -1,0 +1,117 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "EAS Block",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "EAS Block",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Message to display (Required)",
+          "width": 120,
+          "height": 20,
+          "name": "Message",
+          "x": 132,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Done",
+          "onClick": {
+            "name": "EASUpdate"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "Done",
+          "x": 246,
+          "y": 177
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Numerical frequency (Required)",
+          "width": 120,
+          "height": 20,
+          "name": "Frequency",
+          "x": 132,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Message to Display",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Message to Display",
+          "x": 132,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Frequency (123.456 for example)",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Frequency (123.456 for example)",
+          "x": 132,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Toggle EAS Sound",
+          "onClick": {
+            "name": "EASToggleSND"
+          },
+          "width": 105,
+          "height": 20,
+          "name": "Toggle EAS Sound",
+          "x": 132,
+          "y": 175
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Sound Enabled: ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Sound Enabled: ",
+          "x": 133,
+          "y": 161
+        }
+      }
+    ]
+  }
+}

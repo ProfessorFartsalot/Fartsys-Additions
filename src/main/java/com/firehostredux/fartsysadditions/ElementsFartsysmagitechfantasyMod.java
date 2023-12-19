@@ -45,6 +45,8 @@ import java.util.ArrayList;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Retention;
 
+import com.firehostredux.fartsysadditions.gui.GuiEASUI;
+
 public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGenerator {
 	public final List<ModElement> elements = new ArrayList<>();
 	public final List<Supplier<Block>> blocks = new ArrayList<>();
@@ -108,6 +110,8 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.exponential_entropy_primals")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "sweaty_socks"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "sweaty_socks")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "eas"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "eas")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {
@@ -179,11 +183,15 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 	public static class GuiHandler implements IGuiHandler {
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == GuiEASUI.GUIID)
+				return new GuiEASUI.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == GuiEASUI.GUIID)
+				return new GuiEASUI.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}

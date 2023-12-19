@@ -268,5 +268,15 @@
         "stream": true
       }
     ]
+  },
+  "eas": {
+    "category": "block",
+    "subtitle": "subtitles.eas",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:eas",
+        "stream": false
+      }
+    ]
   }
 }
