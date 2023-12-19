@@ -48,7 +48,7 @@ public class ProcedureEASBlockRedstone extends ElementsFartsysmagitechfantasyMod
               if ((((it).hasTagCompound() ? (it).getTagCompound().getDouble("easFreq") : -1) == (world.getTileEntity(pos).getTileData().getDouble("easFreq")))) {
                 //Broadcast EAS if matching frequency
                 if (world.getTileEntity(pos).getTileData().getBoolean("easSound") == true){
-        			world.playSound(pl.get(i), 0, 0, 0, ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:eas")), SoundCategory.BLOCKS, 0.25F, 1.0F);
+        			world.playSound(null, pl.get(i).posX,pl.get(i).posY,pl.get(i).posZ, ElementsFartsysmagitechfantasyMod.sounds.get(new ResourceLocation("fartsysmagitechfantasy:eas")), SoundCategory.BLOCKS, 0.5F, 1.0F);
                 }
                 world.getMinecraftServer().getCommandManager().executeCommand(server, "tellraw @p {\"text\":\"--- EAS BROADCAST REQUESTED ---\",\"color\":\"dark_red\"}");
                 pl.get(i).sendMessage(new TextComponentString(world.getTileEntity(pos).getTileData().getString("easMessage")));
