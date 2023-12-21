@@ -39,6 +39,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 import com.firehostredux.fartsysadditions.procedure.ProcedureEASBlockRedstone;
+import com.firehostredux.fartsysadditions.procedure.ProcedureEASBlockBlockAdded;
 import com.firehostredux.fartsysadditions.gui.GuiEASUI;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
 import com.firehostredux.fartsysadditions.FartsysmagitechfantasyMod;
@@ -124,6 +125,18 @@ public class BlockEASBlock extends ElementsFartsysmagitechfantasyMod.ModElement 
 				return Container.calcRedstoneFromInventory((TileEntityCustom) tileentity);
 			else
 				return 0;
+		}
+
+		@Override
+		public void onBlockAdded(World world, BlockPos pos, IBlockState state) {
+			super.onBlockAdded(world, pos, state);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				ProcedureEASBlockBlockAdded.executeProcedure($_dependencies);
+			}
 		}
 
 		@Override

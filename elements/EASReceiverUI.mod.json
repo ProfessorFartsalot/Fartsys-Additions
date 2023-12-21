@@ -1,0 +1,90 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "EAS Receiver",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "EAS Receiver",
+          "x": 129,
+          "y": 42
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "TODO_SETME",
+          "width": 120,
+          "height": 20,
+          "name": "ReceiverFrequency",
+          "x": 129,
+          "y": 85
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Frequency (123.456 for example)",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Frequency (123.456 for example)",
+          "x": 129,
+          "y": 70
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Done",
+          "onClick": {
+            "name": "ShartSpecialFoodEaten"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "Done",
+          "x": 248,
+          "y": 176
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Toggle Sound",
+          "width": 85,
+          "height": 20,
+          "name": "Toggle Sound",
+          "x": 130,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Label text",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Label text",
+          "x": 130,
+          "y": 164
+        }
+      }
+    ]
+  }
+}

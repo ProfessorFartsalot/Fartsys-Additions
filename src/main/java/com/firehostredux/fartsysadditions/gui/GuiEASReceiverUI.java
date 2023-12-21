@@ -4,8 +4,6 @@ package com.firehostredux.fartsysadditions.gui;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.input.Keyboard;
 
-import org.apache.logging.log4j.message.Message;
-
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.network.simpleimpl.MessageContext;
 import net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler;
@@ -30,18 +28,16 @@ import java.util.HashMap;
 
 import java.io.IOException;
 
-import com.firehostredux.fartsysadditions.procedure.ProcedureWaffleOfAssDestructionFoodEaten;
 import com.firehostredux.fartsysadditions.procedure.ProcedureShartSpecialFoodEaten;
-import com.firehostredux.fartsysadditions.procedure.ProcedureEASUpdate;
 import com.firehostredux.fartsysadditions.FartsysmagitechfantasyMod;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
-public class GuiEASUI extends ElementsFartsysmagitechfantasyMod.ModElement {
-	public static int GUIID = 1;
+public class GuiEASReceiverUI extends ElementsFartsysmagitechfantasyMod.ModElement {
+	public static int GUIID = 2;
 	public static HashMap guistate = new HashMap();
-	public GuiEASUI(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 288);
+	public GuiEASReceiverUI(ElementsFartsysmagitechfantasyMod instance) {
+		super(instance, 295);
 	}
 
 	@Override
@@ -93,9 +89,7 @@ public class GuiEASUI extends ElementsFartsysmagitechfantasyMod.ModElement {
 		private World world;
 		private int x, y, z;
 		private EntityPlayer entity;
-		GuiTextField Message;
-		GuiTextField Frequency;
-		GuiTextField WatchMessage;
+		GuiTextField ReceiverFrequency;
 		public GuiWindow(World world, int x, int y, int z, EntityPlayer entity) {
 			super(new GuiContainerMod(world, x, y, z, entity));
 			this.world = world;
@@ -103,8 +97,8 @@ public class GuiEASUI extends ElementsFartsysmagitechfantasyMod.ModElement {
 			this.y = y;
 			this.z = z;
 			this.entity = entity;
-			this.xSize = 200;
-			this.ySize = 132;
+			this.xSize = 176;
+			this.ySize = 166;
 		}
 
 		@Override
@@ -123,44 +117,29 @@ public class GuiEASUI extends ElementsFartsysmagitechfantasyMod.ModElement {
 		@Override
 		public void updateScreen() {
 			super.updateScreen();
-			Message.updateCursorCounter();
-			Frequency.updateCursorCounter();
-			WatchMessage.updateCursorCounter();
+			ReceiverFrequency.updateCursorCounter();
 		}
 
 		@Override
 		protected void mouseClicked(int mouseX, int mouseY, int mouseButton) throws IOException {
-			Message.mouseClicked(mouseX - guiLeft, mouseY - guiTop, mouseButton);
-			Frequency.mouseClicked(mouseX - guiLeft, mouseY - guiTop, mouseButton);
-			WatchMessage.mouseClicked(mouseX - guiLeft, mouseY - guiTop, mouseButton);
+			ReceiverFrequency.mouseClicked(mouseX - guiLeft, mouseY - guiTop, mouseButton);
 			super.mouseClicked(mouseX, mouseY, mouseButton);
 		}
 
 		@Override
 		protected void keyTyped(char typedChar, int keyCode) throws IOException {
-			Message.textboxKeyTyped(typedChar, keyCode);
-			if (Message.isFocused())
-				return;
-			Frequency.textboxKeyTyped(typedChar, keyCode);
-			if (Frequency.isFocused())
-				return;
-			WatchMessage.textboxKeyTyped(typedChar, keyCode);
-			if (WatchMessage.isFocused())
+			ReceiverFrequency.textboxKeyTyped(typedChar, keyCode);
+			if (ReceiverFrequency.isFocused())
 				return;
 			super.keyTyped(typedChar, keyCode);
 		}
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(int par1, int par2) {
-			Message.drawTextBox();
-			Frequency.drawTextBox();
-			this.fontRenderer.drawString("Warning Message", 27, 50, -1);
-			this.fontRenderer.drawString("Frequency", 41, 93, -1);
-			this.fontRenderer.drawString("Watch Message", 32, 7, -1);
-			WatchMessage.drawTextBox();
-			this.fontRenderer.drawString("Sensitivity", 141, 7, -1);
-			this.fontRenderer.drawString("1", 167, 24, -1);
-			this.fontRenderer.drawString("4", 167, 67, -1);
+			this.fontRenderer.drawString("EAS Receiver", 3, 5, -1);
+			ReceiverFrequency.drawTextBox();
+			this.fontRenderer.drawString("Frequency (123.456 for example)", 3, 33, -1);
+			this.fontRenderer.drawString("Label text", 4, 127, -1);
 		}
 
 		@Override
@@ -172,25 +151,16 @@ public class GuiEASUI extends ElementsFartsysmagitechfantasyMod.ModElement {
 		@Override
 		public void initGui() {
 			super.initGui();
-			this.guiLeft = (this.width - 200) / 2;
-			this.guiTop = (this.height - 132) / 2;
+			this.guiLeft = (this.width - 176) / 2;
+			this.guiTop = (this.height - 166) / 2;
 			Keyboard.enableRepeatEvents(true);
 			this.buttonList.clear();
-			Message = new GuiTextField(0, this.fontRenderer, 4, 62, 120, 20);
-			guistate.put("text:Message", Message);
-			Message.setMaxStringLength(32767);
-			Message.setText("Message to display (Required)");
-			this.buttonList.add(new GuiButton(0, this.guiLeft + 147, this.guiTop + 105, 45, 20, "Done"));
-			Frequency = new GuiTextField(1, this.fontRenderer, 4, 105, 120, 20);
-			guistate.put("text:Frequency", Frequency);
-			Frequency.setMaxStringLength(32767);
-			Frequency.setText("Numerical frequency (Required)");
-			WatchMessage = new GuiTextField(2, this.fontRenderer, 4, 19, 120, 20);
-			guistate.put("text:WatchMessage", WatchMessage);
-			WatchMessage.setMaxStringLength(32767);
-			WatchMessage.setText("");
-			this.buttonList.add(new GuiButton(1, this.guiLeft + 154, this.guiTop + 19, 30, 20, "1"));
-			this.buttonList.add(new GuiButton(2, this.guiLeft + 154, this.guiTop + 62, 30, 20, "4"));
+			ReceiverFrequency = new GuiTextField(0, this.fontRenderer, 3, 48, 120, 20);
+			guistate.put("text:ReceiverFrequency", ReceiverFrequency);
+			ReceiverFrequency.setMaxStringLength(32767);
+			ReceiverFrequency.setText("TODO_SETME");
+			this.buttonList.add(new GuiButton(0, this.guiLeft + 122, this.guiTop + 139, 45, 20, "Done"));
+			this.buttonList.add(new GuiButton(1, this.guiLeft + 4, this.guiTop + 139, 85, 20, "Toggle Sound"));
 		}
 
 		@Override
@@ -309,30 +279,7 @@ public class GuiEASUI extends ElementsFartsysmagitechfantasyMod.ModElement {
 			{
 				Map<String, Object> $_dependencies = new HashMap<>();
 				$_dependencies.put("entity", entity);
-				$_dependencies.put("guistate", guistate);
-				$_dependencies.put("x", x);
-				$_dependencies.put("y", y);
-				$_dependencies.put("z", z);
-				$_dependencies.put("world", world);
-				ProcedureEASUpdate.executeProcedure($_dependencies);
-			}
-		}
-		if (buttonID == 1) {
-			{
-				Map<String, Object> $_dependencies = new HashMap<>();
-				$_dependencies.put("entity", entity);
 				ProcedureShartSpecialFoodEaten.executeProcedure($_dependencies);
-			}
-		}
-		if (buttonID == 2) {
-			{
-				Map<String, Object> $_dependencies = new HashMap<>();
-				$_dependencies.put("entity", entity);
-				$_dependencies.put("x", x);
-				$_dependencies.put("y", y);
-				$_dependencies.put("z", z);
-				$_dependencies.put("world", world);
-				ProcedureWaffleOfAssDestructionFoodEaten.executeProcedure($_dependencies);
 			}
 		}
 	}

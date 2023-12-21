@@ -26,9 +26,12 @@
     "damageVsEntity": 0.0,
     "specialInfo": [],
     "hasGlow": false,
-    "guiBoundTo": "<NONE>",
+    "guiBoundTo": "EASReceiverUI",
     "inventorySize": 9,
     "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "EASToggleSND"
+    },
     "onRightClickedOnBlock": {
       "name": "EASReceiverRightClickedOnBlock"
     }

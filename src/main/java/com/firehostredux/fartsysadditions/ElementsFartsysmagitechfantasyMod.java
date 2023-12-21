@@ -46,6 +46,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Retention;
 
 import com.firehostredux.fartsysadditions.gui.GuiEASUI;
+import com.firehostredux.fartsysadditions.gui.GuiEASReceiverUI;
 
 public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGenerator {
 	public final List<ModElement> elements = new ArrayList<>();
@@ -185,6 +186,8 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
 			if (id == GuiEASUI.GUIID)
 				return new GuiEASUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiEASReceiverUI.GUIID)
+				return new GuiEASReceiverUI.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
@@ -192,6 +195,8 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
 			if (id == GuiEASUI.GUIID)
 				return new GuiEASUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiEASReceiverUI.GUIID)
+				return new GuiEASReceiverUI.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}

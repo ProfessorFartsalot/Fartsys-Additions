@@ -3,26 +3,13 @@
   "_type": "gui",
   "definition": {
     "type": 0,
-    "width": 176,
-    "height": 166,
+    "width": 200,
+    "height": 132,
     "inventoryOffsetX": 0,
     "inventoryOffsetY": 0,
     "renderBgLayer": false,
     "doesPauseGame": false,
     "components": [
-      {
-        "type": "label",
-        "data": {
-          "text": "EAS Block",
-          "color": {
-            "value": -1,
-            "falpha": 0.0
-          },
-          "name": "EAS Block",
-          "x": 132,
-          "y": 44
-        }
-      },
       {
         "type": "textfield",
         "data": {
@@ -30,8 +17,8 @@
           "width": 120,
           "height": 20,
           "name": "Message",
-          "x": 132,
-          "y": 80
+          "x": 118,
+          "y": 116
         }
       },
       {
@@ -44,8 +31,8 @@
           "width": 45,
           "height": 20,
           "name": "Done",
-          "x": 246,
-          "y": 177
+          "x": 261,
+          "y": 159
         }
       },
       {
@@ -55,61 +42,125 @@
           "width": 120,
           "height": 20,
           "name": "Frequency",
-          "x": 132,
-          "y": 134
+          "x": 118,
+          "y": 159
         }
       },
       {
         "type": "label",
         "data": {
-          "text": "Message to Display",
+          "text": "Warning Message",
           "color": {
             "value": -1,
             "falpha": 0.0
           },
-          "name": "Message to Display",
-          "x": 132,
-          "y": 66
+          "name": "Warning Message",
+          "x": 141,
+          "y": 104
         }
       },
       {
         "type": "label",
         "data": {
-          "text": "Frequency (123.456 for example)",
+          "text": "Frequency",
           "color": {
             "value": -1,
             "falpha": 0.0
           },
-          "name": "Frequency (123.456 for example)",
-          "x": 132,
-          "y": 120
+          "name": "Frequency",
+          "x": 155,
+          "y": 147
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Watch Message",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Watch Message",
+          "x": 146,
+          "y": 61
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "WatchMessage",
+          "x": 118,
+          "y": 73
         }
       },
       {
         "type": "button",
         "data": {
-          "text": "Toggle EAS Sound",
+          "text": "1",
           "onClick": {
-            "name": "EASToggleSND"
+            "name": "ShartSpecialFoodEaten"
           },
-          "width": 105,
+          "width": 30,
           "height": 20,
-          "name": "Toggle EAS Sound",
-          "x": 132,
-          "y": 175
+          "name": "1",
+          "x": 268,
+          "y": 73
         }
       },
       {
         "type": "label",
         "data": {
-          "text": "Sound Enabled: ",
+          "text": "Sensitivity",
           "color": {
             "value": -1,
             "falpha": 0.0
           },
-          "name": "Sound Enabled: ",
-          "x": 133,
-          "y": 161
+          "name": "Sensitivity",
+          "x": 255,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "4",
+          "onClick": {
+            "name": "WaffleOfAssDestructionFoodEaten"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "4",
+          "x": 268,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "1",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "1",
+          "x": 281,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "4",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "4",
+          "x": 281,
+          "y": 121
         }
       }
     ]

@@ -1,6 +1,7 @@
 
 package com.firehostredux.fartsysadditions.item;
-
+import com.firehostredux.fartsysadditions.gui.GuiEASReceiverUI;
+import com.firehostredux.fartsysadditions.FartsysmagitechfantasyMod;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.registry.GameRegistry;
@@ -12,6 +13,7 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.EnumHand;
 import net.minecraft.util.EnumFacing;
 import net.minecraft.util.EnumActionResult;
+import net.minecraft.util.ActionResult;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.entity.player.EntityPlayer;
@@ -21,6 +23,7 @@ import net.minecraft.block.state.IBlockState;
 import java.util.Map;
 import java.util.HashMap;
 
+import com.firehostredux.fartsysadditions.procedure.ProcedureEASToggleSND;
 import com.firehostredux.fartsysadditions.procedure.ProcedureEASReceiverRightClickedOnBlock;
 import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
@@ -68,6 +71,19 @@ public class ItemEASReceiver extends ElementsFartsysmagitechfantasyMod.ModElemen
 		}
 
 		@Override
+		public ActionResult<ItemStack> onItemRightClick(World world, EntityPlayer entity, EnumHand hand) {
+			ActionResult<ItemStack> ar = super.onItemRightClick(world, entity, hand);
+			ItemStack itemstack = ar.getResult();
+			int x = (int) entity.posX;
+			int y = (int) entity.posY;
+			int z = (int) entity.posZ;
+			{
+				entity.openGui(FartsysmagitechfantasyMod.instance, GuiEASReceiverUI.GUIID, world, x, y, z);
+			}
+			return ar;
+		}
+
+		@Override
 		public EnumActionResult onItemUseFirst(EntityPlayer entity, World world, BlockPos pos, EnumFacing direction, float hitX, float hitY,
 				float hitZ, EnumHand hand) {
 			EnumActionResult retval = super.onItemUseFirst(entity, world, pos, direction, hitX, hitY, hitZ, hand);
@@ -77,7 +93,7 @@ public class ItemEASReceiver extends ElementsFartsysmagitechfantasyMod.ModElemen
 			int z = pos.getZ();
 			{
 				Map<String, Object> $_dependencies = new HashMap<>();
-				$_dependencies.put("itemstack", itemstack);
+				$_dependencies.put("entity", entity);
 				$_dependencies.put("x", x);
 				$_dependencies.put("y", y);
 				$_dependencies.put("z", z);
