@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc11",
+    "name": "Aetherial Music Disc - Chip Oil Jiggle Tune",
+    "description": "Kissone Kinoma - Motor Oil Jiggle Jungle (Fartsy Chiptune)",
+    "creativeTab": {
+      "value": "CUSTOM:FMFMusic"
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.chipoiljiggletune"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust. Kinda like Kissone's metal rods in his spine."
+    ],
+    "hasGlow": true
+  }
+}

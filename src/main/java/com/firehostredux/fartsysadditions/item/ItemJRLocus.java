@@ -30,7 +30,7 @@ public class ItemJRLocus extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_locus")
 	public static final Item block = null;
 	public ItemJRLocus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 104);
+		super(instance, 105);
 	}
 
 	@Override

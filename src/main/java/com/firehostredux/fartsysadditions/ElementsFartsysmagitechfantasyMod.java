@@ -45,8 +45,6 @@ import java.util.ArrayList;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Retention;
 
-import com.firehostredux.fartsysadditions.gui.GuiEASUI;
-
 public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGenerator {
 	public final List<ModElement> elements = new ArrayList<>();
 	public final List<Supplier<Block>> blocks = new ArrayList<>();
@@ -86,8 +84,6 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.metalbrutejusticemode")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.penitus"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.penitus")));
-		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.andloveyoushallfind"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.andloveyoushallfind")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.big_boned"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.big_boned")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.imagination"),
@@ -108,10 +104,46 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "la_cucuracha")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.exponential_entropy_primals"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.exponential_entropy_primals")));
-		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "sweaty_socks"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "sweaty_socks")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "eas"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "eas")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.battleagainstatruehero"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.battleagainstatruehero")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.betweenchipsandtunes"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.betweenchipsandtunes")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipcountry"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipcountry")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipoiljiggletune"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipoiljiggletune")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.andloveyoushallfind"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.andloveyoushallfind")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipsofthetunes"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipsofthetunes")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipsun"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipsun")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipsofnature"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chipsofnature")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chiptunetrigger"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.chiptunetrigger")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.driftveilchiptune"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.driftveilchiptune")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.dynamitechiptune"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.dynamitechiptune")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.exponentialchiptune"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.exponentialchiptune")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.nevergonnachiptune"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.nevergonnachiptune")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "kissonekinoma.motoroiljigglejungle"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "kissonekinoma.motoroiljigglejungle")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.sweatychips"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.sweatychips")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "kissonekinoma.sweatysocks"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "kissonekinoma.sweatysocks")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "woad"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "woad")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "emone"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "emone")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.landslide"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.landslide")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {
@@ -183,15 +215,11 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 	public static class GuiHandler implements IGuiHandler {
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-			if (id == GuiEASUI.GUIID)
-				return new GuiEASUI.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-			if (id == GuiEASUI.GUIID)
-				return new GuiEASUI.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}

@@ -24,7 +24,7 @@ public class ItemFCShadowbringers extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_shadowbringers")
 	public static final Item block = null;
 	public ItemFCShadowbringers(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 137);
+		super(instance, 138);
 	}
 
 	@Override

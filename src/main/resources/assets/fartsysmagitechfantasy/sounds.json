@@ -149,16 +149,6 @@
       }
     ]
   },
-  "ffxiv.andloveyoushallfind": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.andloveyoushallfind",
-    "sounds": [
-      {
-        "name": "fartsysmagitechfantasy:andloveyoushallfind",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.big_boned": {
     "category": "record",
     "subtitle": "subtitles.ffxiv.big_boned",
@@ -259,16 +249,6 @@
       }
     ]
   },
-  "sweaty_socks": {
-    "category": "record",
-    "subtitle": "subtitles.sweaty_socks",
-    "sounds": [
-      {
-        "name": "fartsysmagitechfantasy:sweaty_socks",
-        "stream": true
-      }
-    ]
-  },
   "eas": {
     "category": "block",
     "subtitle": "subtitles.eas",
@@ -276,6 +256,196 @@
       {
         "name": "fartsysmagitechfantasy:eas",
         "stream": false
+      }
+    ]
+  },
+  "fartsy.battleagainstatruehero": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.battleagainstatruehero",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:battleagainstatruechiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.betweenchipsandtunes": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.betweenchipsandtunes",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:betweenchipsandtunes",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipcountry": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipcountry",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:chipcountry",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipoiljiggletune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipoiljiggletune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:chipoiljiggletune",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.andloveyoushallfind": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.andloveyoushallfind",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:andloveyoushallfind",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipsofthetunes": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipsofthetunes",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:chips_of_the_tunes",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipsun": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipsun",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:chipsun",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipsofnature": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipsofnature",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:rules_of_chiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chiptunetrigger": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chiptunetrigger",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:chiptunetrigger",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.driftveilchiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.driftveilchiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:driftveilchiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.dynamitechiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.dynamitechiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:dynamitechiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.exponentialchiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.exponentialchiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:exponentialchiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.nevergonnachiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.nevergonnachiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:nevergonnachiptune",
+        "stream": true
+      }
+    ]
+  },
+  "kissonekinoma.motoroiljigglejungle": {
+    "category": "record",
+    "subtitle": "subtitles.kissonekinoma.motoroiljigglejungle",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:kissonemotoroil",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.sweatychips": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.sweatychips",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:sweatychips",
+        "stream": true
+      }
+    ]
+  },
+  "kissonekinoma.sweatysocks": {
+    "category": "record",
+    "subtitle": "subtitles.kissonekinoma.sweatysocks",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:sweaty_socks",
+        "stream": true
+      }
+    ]
+  },
+  "woad": {
+    "category": "record",
+    "subtitle": "subtitles.woad",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:woad",
+        "stream": true
+      }
+    ]
+  },
+  "emone": {
+    "category": "record",
+    "subtitle": "subtitles.emone",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:emone",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.landslide": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.landslide",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:landslide",
+        "stream": true
       }
     ]
   }

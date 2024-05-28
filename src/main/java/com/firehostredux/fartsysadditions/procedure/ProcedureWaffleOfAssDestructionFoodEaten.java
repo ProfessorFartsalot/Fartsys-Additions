@@ -3,8 +3,11 @@ package com.firehostredux.fartsysadditions.procedure;
 import net.minecraft.world.World;
 import net.minecraft.util.math.Vec3d;
 import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.SoundCategory;
+import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.DamageSource;
 import net.minecraft.server.MinecraftServer;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.effect.EntityLightningBolt;
 import net.minecraft.entity.Entity;
 import net.minecraft.command.ICommandSender;
@@ -16,7 +19,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class ProcedureWaffleOfAssDestructionFoodEaten extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public ProcedureWaffleOfAssDestructionFoodEaten(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 145);
+		super(instance, 161);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {
@@ -90,7 +93,10 @@ public class ProcedureWaffleOfAssDestructionFoodEaten extends ElementsFartsysmag
 				public Vec3d getPositionVector() {
 					return new Vec3d(x, y, z);
 				}
-			}, "playsound fartsys_additions:woad master @a ~ ~ ~ 0.125");
+			}, "playsound fartsysmagitechfantasy:woad master @a ~ ~ ~ 0.25");
 		}
+		world.playSound((EntityPlayer) null, x, y, z,
+				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("fartsysmagitechfantasy:woad")),
+				SoundCategory.NEUTRAL, (float) 1, (float) 1);
 	}
 }

@@ -24,7 +24,7 @@ public class ItemFCMetal extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_metal")
 	public static final Item block = null;
 	public ItemFCMetal(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 132);
+		super(instance, 133);
 	}
 
 	@Override

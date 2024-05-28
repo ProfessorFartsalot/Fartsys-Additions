@@ -24,7 +24,7 @@ public class ItemFCBigBoned extends ElementsFartsysmagitechfantasyMod.ModElement
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_big_boned")
 	public static final Item block = null;
 	public ItemFCBigBoned(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 121);
+		super(instance, 122);
 	}
 
 	@Override

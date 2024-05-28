@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "professor",
     "customModelName": "Normal",
-    "name": "Debug Item",
+    "name": "Mini Fartsy",
     "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
@@ -25,7 +25,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Serves no real purpose."
+      "Previously the Debug Item. Did nothing until now. Used in some crafting recipes"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

@@ -32,7 +32,7 @@ public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:debug_item")
 	public static final Item block = null;
 	public ItemDebugItem(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 68);
+		super(instance, 67);
 	}
 
 	@Override
@@ -72,7 +72,7 @@ public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement 
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("Serves no real purpose.");
+			list.add("Previously the Debug Item. Did nothing until now. Used in some crafting recipes");
 		}
 
 		@Override
@@ -85,6 +85,10 @@ public class ItemDebugItem extends ElementsFartsysmagitechfantasyMod.ModElement 
 			int z = pos.getZ();
 			{
 				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
 				ProcedureDebugItemRightClickedOnBlock.executeProcedure($_dependencies);
 			}
 			return retval;

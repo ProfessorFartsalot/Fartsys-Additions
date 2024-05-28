@@ -13,7 +13,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class TabFartsysAdditions extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public TabFartsysAdditions(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 143);
+		super(instance, 159);
 	}
 
 	@Override
