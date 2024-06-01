@@ -25,7 +25,7 @@ public class ItemAMDDriftveilCity extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_driftveil_city")
 	public static final Item block = null;
 	public ItemAMDDriftveilCity(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 152);
+		super(instance, 154);
 	}
 
 	@Override

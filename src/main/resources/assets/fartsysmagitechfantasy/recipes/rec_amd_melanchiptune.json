@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechfantasy:crystal_earth"
+    },
+    "1": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "2": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:cluster_water"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:crystal_earth"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_melanchiptune",
+    "count": 1
+  }
+}

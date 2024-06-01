@@ -25,7 +25,7 @@ public class ItemAMDNeverGonnaGiveYouUp extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_never_gonna_give_you_up")
 	public static final Item block = null;
 	public ItemAMDNeverGonnaGiveYouUp(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 155);
+		super(instance, 159);
 	}
 
 	@Override

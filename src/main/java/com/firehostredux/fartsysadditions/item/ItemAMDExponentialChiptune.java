@@ -25,7 +25,7 @@ public class ItemAMDExponentialChiptune extends ElementsFartsysmagitechfantasyMo
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_exponential_chiptune")
 	public static final Item block = null;
 	public ItemAMDExponentialChiptune(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 154);
+		super(instance, 156);
 	}
 
 	@Override

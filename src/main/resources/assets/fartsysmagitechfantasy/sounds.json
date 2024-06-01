@@ -448,5 +448,45 @@
         "stream": true
       }
     ]
+  },
+  "fartsy.brutechiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.brutechiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:brutechiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.melanchiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.melanchiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:melanchiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.ffxivtwicestrickendevocalized": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.ffxivtwicestrickendevocalized",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:twicestricken_instrumental",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.twicestricken": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.twicestricken",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:twicestricken_full",
+        "stream": true
+      }
+    ]
   }
 }

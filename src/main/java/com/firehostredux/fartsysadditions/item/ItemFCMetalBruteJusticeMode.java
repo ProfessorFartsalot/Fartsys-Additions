@@ -24,7 +24,7 @@ public class ItemFCMetalBruteJusticeMode extends ElementsFartsysmagitechfantasyM
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_metal_brute_justice_mode")
 	public static final Item block = null;
 	public ItemFCMetalBruteJusticeMode(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 134);
+		super(instance, 135);
 	}
 
 	@Override

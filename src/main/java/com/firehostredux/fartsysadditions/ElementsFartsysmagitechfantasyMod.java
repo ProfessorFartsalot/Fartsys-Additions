@@ -144,6 +144,14 @@ public class ElementsFartsysmagitechfantasyMod implements IFuelHandler, IWorldGe
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "emone")));
 		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.landslide"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.landslide")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.brutechiptune"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.brutechiptune")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.melanchiptune"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.melanchiptune")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "fartsy.ffxivtwicestrickendevocalized"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "fartsy.ffxivtwicestrickendevocalized")));
+		sounds.put(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.twicestricken"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechfantasy", "ffxiv.twicestricken")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

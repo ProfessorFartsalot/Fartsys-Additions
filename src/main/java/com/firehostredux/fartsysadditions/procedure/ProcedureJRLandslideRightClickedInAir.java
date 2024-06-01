@@ -15,7 +15,7 @@ import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
 public class ProcedureJRLandslideRightClickedInAir extends ElementsFartsysmagitechfantasyMod.ModElement {
 	public ProcedureJRLandslideRightClickedInAir(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 318);
+		super(instance, 322);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

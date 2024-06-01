@@ -25,7 +25,7 @@ public class ItemAMDBatCountry extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_bat_country")
 	public static final Item block = null;
 	public ItemAMDBatCountry(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 146);
+		super(instance, 147);
 	}
 
 	@Override

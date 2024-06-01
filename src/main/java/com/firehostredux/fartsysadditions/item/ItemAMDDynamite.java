@@ -25,7 +25,7 @@ public class ItemAMDDynamite extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_dynamite")
 	public static final Item block = null;
 	public ItemAMDDynamite(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 153);
+		super(instance, 155);
 	}
 
 	@Override
