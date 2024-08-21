@@ -1,7 +1,6 @@
 
 package com.firehostredux.fartsysadditions.item;
-import com.firehostredux.fartsysadditions.gui.GuiEASReceiverUI;
-import com.firehostredux.fartsysadditions.FartsysmagitechfantasyMod;
+
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.registry.GameRegistry;
@@ -9,31 +8,29 @@ import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.world.World;
-import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.EnumHand;
-import net.minecraft.util.EnumFacing;
-import net.minecraft.util.EnumActionResult;
 import net.minecraft.util.ActionResult;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
 import java.util.Map;
+import java.util.List;
 import java.util.HashMap;
 
-import com.firehostredux.fartsysadditions.procedure.ProcedureEASToggleSND;
-import com.firehostredux.fartsysadditions.procedure.ProcedureEASReceiverRightClickedOnBlock;
-import com.firehostredux.fartsysadditions.creativetab.TabFartsysAdditions;
+import com.firehostredux.fartsysadditions.procedure.ProcedureJRLandslideRightClickedInAir;
+import com.firehostredux.fartsysadditions.creativetab.TabFMFMusic;
 import com.firehostredux.fartsysadditions.ElementsFartsysmagitechfantasyMod;
 
 @ElementsFartsysmagitechfantasyMod.ModElement.Tag
-public class ItemEASReceiver extends ElementsFartsysmagitechfantasyMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:eas_receiver")
+public class ItemJRLandslide extends ElementsFartsysmagitechfantasyMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_landslide")
 	public static final Item block = null;
-	public ItemEASReceiver(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 292);
+	public ItemJRLandslide(ElementsFartsysmagitechfantasyMod instance) {
+		super(instance, 105);
 	}
 
 	@Override
@@ -44,15 +41,15 @@ public class ItemEASReceiver extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:eas_receiver", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechfantasy:jr_landslide", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
-			maxStackSize = 64;
-			setUnlocalizedName("eas_receiver");
-			setRegistryName("eas_receiver");
-			setCreativeTab(TabFartsysAdditions.tab);
+			maxStackSize = 1;
+			setUnlocalizedName("jr_landslide");
+			setRegistryName("jr_landslide");
+			setCreativeTab(TabFMFMusic.tab);
 		}
 
 		@Override
@@ -71,6 +68,18 @@ public class ItemEASReceiver extends ElementsFartsysmagitechfantasyMod.ModElemen
 		}
 
 		@Override
+		@SideOnly(Side.CLIENT)
+		public boolean hasEffect(ItemStack itemstack) {
+			return true;
+		}
+
+		@Override
+		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
+			super.addInformation(itemstack, world, list, flag);
+			list.add("Right click in hand to obtain a copy of Landslide");
+		}
+
+		@Override
 		public ActionResult<ItemStack> onItemRightClick(World world, EntityPlayer entity, EnumHand hand) {
 			ActionResult<ItemStack> ar = super.onItemRightClick(world, entity, hand);
 			ItemStack itemstack = ar.getResult();
@@ -78,29 +87,11 @@ public class ItemEASReceiver extends ElementsFartsysmagitechfantasyMod.ModElemen
 			int y = (int) entity.posY;
 			int z = (int) entity.posZ;
 			{
-				entity.openGui(FartsysmagitechfantasyMod.instance, GuiEASReceiverUI.GUIID, world, x, y, z);
-			}
-			return ar;
-		}
-
-		@Override
-		public EnumActionResult onItemUseFirst(EntityPlayer entity, World world, BlockPos pos, EnumFacing direction, float hitX, float hitY,
-				float hitZ, EnumHand hand) {
-			EnumActionResult retval = super.onItemUseFirst(entity, world, pos, direction, hitX, hitY, hitZ, hand);
-			ItemStack itemstack = entity.getHeldItem(hand);
-			int x = pos.getX();
-			int y = pos.getY();
-			int z = pos.getZ();
-			{
 				Map<String, Object> $_dependencies = new HashMap<>();
 				$_dependencies.put("entity", entity);
-				$_dependencies.put("x", x);
-				$_dependencies.put("y", y);
-				$_dependencies.put("z", z);
-				$_dependencies.put("world", world);
-				ProcedureEASReceiverRightClickedOnBlock.executeProcedure($_dependencies);
+				ProcedureJRLandslideRightClickedInAir.executeProcedure($_dependencies);
 			}
-			return retval;
+			return ar;
 		}
 	}
 }

@@ -10,37 +10,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:CrystalEarth"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ClusterLightning"
+        "value": ""
       },
       {
-        "value": "CUSTOM:CrystalEarth"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ClusterLightning"
+        "value": ""
       },
       {
-        "value": "CUSTOM:BlankG3JR"
+        "value": "TAG:biomesoplenty:fleshchunk"
       },
       {
-        "value": "CUSTOM:ClusterLightning"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ClusterEarth"
+        "value": ""
       },
       {
-        "value": "CUSTOM:EnchantedEmeraldInk"
+        "value": ""
       },
       {
-        "value": "CUSTOM:ClusterEarth"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:JRTwiceStricken"
+      "value": "Items.ROTTEN_FLESH"
     },
-    "name": "rec_jr_twice_stricken",
+    "name": "rec_rotten_flesh",
     "namespace": "mod"
   }
 }
