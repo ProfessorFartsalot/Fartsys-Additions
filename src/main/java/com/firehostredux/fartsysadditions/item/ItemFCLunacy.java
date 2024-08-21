@@ -24,7 +24,7 @@ public class ItemFCLunacy extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:fc_lunacy")
 	public static final Item block = null;
 	public ItemFCLunacy(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 130);
+		super(instance, 132);
 	}
 
 	@Override

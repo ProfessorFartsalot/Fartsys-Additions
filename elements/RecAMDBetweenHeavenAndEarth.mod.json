@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ClusterWind"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:DebugItem"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AMDBetweenHeavenAndEarth"
+    },
+    "name": "rec_amd_between_heaven_and_earth",
+    "namespace": "mod"
+  }
+}

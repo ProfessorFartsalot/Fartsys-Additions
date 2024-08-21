@@ -24,7 +24,7 @@ public class ItemShartTwenty extends ElementsFartsysmagitechfantasyMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:shart_twenty")
 	public static final Item block = null;
 	public ItemShartTwenty(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 53);
+		super(instance, 52);
 	}
 
 	@Override

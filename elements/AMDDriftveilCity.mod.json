@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0e",
+    "name": "Aetherial Music Disc - Driftveil City",
+    "description": "Pokemon Black & White - Driftveil City (Fartsy Chiptune)",
+    "creativeTab": {
+      "value": "CUSTOM:FMFMusic"
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.driftveilchiptune"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": true
+  }
+}

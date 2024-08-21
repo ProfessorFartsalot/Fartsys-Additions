@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:DebugItem"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AMDChipOilJiggleTune"
+    },
+    "name": "rec_amd_chip_oil_jiggle_tune",
+    "namespace": "mod"
+  }
+}

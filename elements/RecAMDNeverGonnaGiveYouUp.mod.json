@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:DebugItem"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GOLDEN_HOE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AMDNeverGonnaGiveYouUp"
+    },
+    "name": "rec_amd_never_gonna_give_you_up",
+    "namespace": "mod"
+  }
+}

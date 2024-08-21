@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0e",
+    "name": "Aetherial Music Disc - Never Gonna Give You Up",
+    "description": "Rick Astley - Never Gonna Give You Up (Fartsy Chiptune)",
+    "creativeTab": {
+      "value": "CUSTOM:FMFMusic"
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.nevergonnachiptune"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": true
+  }
+}

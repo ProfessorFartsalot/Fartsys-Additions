@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc10",
+    "name": "Aetherial Music Disc - Devil Trigger",
+    "description": "Devil May Cry V - Devil Trigger (Fartsy Chiptune)",
+    "creativeTab": {
+      "value": "CUSTOM:FMFMusic"
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.chiptunetrigger"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": false
+  }
+}
