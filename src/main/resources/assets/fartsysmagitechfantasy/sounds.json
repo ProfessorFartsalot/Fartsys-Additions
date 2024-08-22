@@ -488,5 +488,165 @@
         "stream": true
       }
     ]
+  },
+  "ffxiv.interphosp1": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.interphosp1",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:interphos",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.alongfall": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.alongfall",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:alongfall",
+        "stream": true
+      }
+    ]
+  },
+  "ffdnt.triumph": {
+    "category": "record",
+    "subtitle": "subtitles.ffdnt.triumph",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:triumph_dissidiant",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.papaya_demastered": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.papaya_demastered",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:papaya_demastered",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.whobringsshadow": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.whobringsshadow",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:whobringsshadow",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.tomorrowandtomorrow": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.tomorrowandtomorrow",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:tomorrowandtomorrow",
+        "stream": true
+      }
+    ]
+  },
+  "xc2.battle": {
+    "category": "record",
+    "subtitle": "subtitles.xc2.battle",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:battle",
+        "stream": true
+      }
+    ]
+  },
+  "xcde.youwillknowournames": {
+    "category": "record",
+    "subtitle": "subtitles.xcde.youwillknowournames",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:youwillknow_remastered",
+        "stream": true
+      }
+    ]
+  },
+  "pokemons1.burningbattlefield": {
+    "category": "record",
+    "subtitle": "subtitles.pokemons1.burningbattlefield",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:burningbattlefield",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.sandsofamber": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.sandsofamber",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:sandsofamber",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.fiend": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.fiend",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:fiend",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.neathdarkwaters": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.neathdarkwaters",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:neathdarkwaters",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.andchipsyoushallfind": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.andchipsyoushallfind",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:andchipsyoushallfind",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.insatiablechips": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.insatiablechips",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:insatiablechips",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.hicsvntleones": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.hicsvntleones",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:hicsvntleones",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.oneamongsttheweary": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.oneamongsttheweary",
+    "sounds": [
+      {
+        "name": "fartsysmagitechfantasy:oneamongsttheweary",
+        "stream": true
+      }
+    ]
   }
 }

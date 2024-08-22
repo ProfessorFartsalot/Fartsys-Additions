@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedEnderPearlInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ClusterWind"
+      },
+      {
+        "value": "CUSTOM:BlankG2JR"
+      },
+      {
+        "value": "CUSTOM:ClusterWind"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRALongFall"
+    },
+    "name": "rec_a_long_fall",
+    "namespace": "mod"
+  }
+}

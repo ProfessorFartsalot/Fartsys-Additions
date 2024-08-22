@@ -25,7 +25,7 @@ public class ItemAMDLocus extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_locus")
 	public static final Item block = null;
 	public ItemAMDLocus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 79);
+		super(instance, 97);
 	}
 
 	@Override

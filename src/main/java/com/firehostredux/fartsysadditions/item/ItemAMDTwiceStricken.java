@@ -25,7 +25,7 @@ public class ItemAMDTwiceStricken extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_twice_stricken")
 	public static final Item block = null;
 	public ItemAMDTwiceStricken(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 93);
+		super(instance, 124);
 	}
 
 	@Override

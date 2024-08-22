@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedRedstoneInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ClusterIce"
+      },
+      {
+        "value": "CUSTOM:BlankG2JR"
+      },
+      {
+        "value": "CUSTOM:ClusterIce"
+      },
+      {
+        "value": "CUSTOM:CrystalLightning"
+      },
+      {
+        "value": "CUSTOM:ClusterFire"
+      },
+      {
+        "value": "CUSTOM:CrystalLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRTriumphDissidiaNT"
+    },
+    "name": "rec_triumph_dissidia_nt",
+    "namespace": "mod"
+  }
+}

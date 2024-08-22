@@ -30,7 +30,7 @@ public class ItemJRPenitus extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_penitus")
 	public static final Item block = null;
 	public ItemJRPenitus(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 113);
+		super(instance, 154);
 	}
 
 	@Override

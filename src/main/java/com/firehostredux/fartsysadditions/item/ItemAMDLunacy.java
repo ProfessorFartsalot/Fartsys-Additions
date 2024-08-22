@@ -25,7 +25,7 @@ public class ItemAMDLunacy extends ElementsFartsysmagitechfantasyMod.ModElement 
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_lunacy")
 	public static final Item block = null;
 	public ItemAMDLunacy(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 80);
+		super(instance, 98);
 	}
 
 	@Override

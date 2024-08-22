@@ -25,7 +25,7 @@ public class ItemAMDMelanchiptune extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_melanchiptune")
 	public static final Item block = null;
 	public ItemAMDMelanchiptune(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 157);
+		super(instance, 100);
 	}
 
 	@Override

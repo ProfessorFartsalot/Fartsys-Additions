@@ -30,7 +30,7 @@ public class ItemJRTwiceStricken extends ElementsFartsysmagitechfantasyMod.ModEl
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_twice_stricken")
 	public static final Item block = null;
 	public ItemJRTwiceStricken(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 327);
+		super(instance, 164);
 	}
 
 	@Override

@@ -30,7 +30,7 @@ public class ItemJRImagination extends ElementsFartsysmagitechfantasyMod.ModElem
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_imagination")
 	public static final Item block = null;
 	public ItemJRImagination(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 103);
+		super(instance, 140);
 	}
 
 	@Override

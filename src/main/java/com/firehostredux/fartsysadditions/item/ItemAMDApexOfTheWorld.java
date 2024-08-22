@@ -25,7 +25,7 @@ public class ItemAMDApexOfTheWorld extends ElementsFartsysmagitechfantasyMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_apex_of_the_world")
 	public static final Item block = null;
 	public ItemAMDApexOfTheWorld(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 145);
+		super(instance, 71);
 	}
 
 	@Override

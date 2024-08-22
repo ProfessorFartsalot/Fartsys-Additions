@@ -25,7 +25,7 @@ public class ItemAMDChipOilJiggleTune extends ElementsFartsysmagitechfantasyMod.
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_chip_oil_jiggle_tune")
 	public static final Item block = null;
 	public ItemAMDChipOilJiggleTune(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 150);
+		super(instance, 80);
 	}
 
 	@Override

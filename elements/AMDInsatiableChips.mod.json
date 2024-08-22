@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc0e",
+    "name": "Aetherial Music Disc - Insatiable Chips",
+    "description": "FFXIV - Insatiable (Fartsy Chiptune)",
+    "creativeTab": {
+      "value": "CUSTOM:FMFMusic"
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.insatiablechips"
+    },
+    "specialInfo": [
+      "Item is aetherial. Can not be melted down into PVC dust."
+    ],
+    "hasGlow": true
+  }
+}

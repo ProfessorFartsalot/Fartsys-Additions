@@ -25,7 +25,7 @@ public class ItemAMDTwiceStrickenInstrumental extends ElementsFartsysmagitechfan
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_twice_stricken_instrumental")
 	public static final Item block = null;
 	public ItemAMDTwiceStrickenInstrumental(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 162);
+		super(instance, 125);
 	}
 
 	@Override

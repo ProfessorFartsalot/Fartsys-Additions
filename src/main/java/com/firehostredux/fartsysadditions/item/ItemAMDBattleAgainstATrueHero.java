@@ -25,7 +25,7 @@ public class ItemAMDBattleAgainstATrueHero extends ElementsFartsysmagitechfantas
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_battle_against_a_true_hero")
 	public static final Item block = null;
 	public ItemAMDBattleAgainstATrueHero(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 146);
+		super(instance, 75);
 	}
 
 	@Override

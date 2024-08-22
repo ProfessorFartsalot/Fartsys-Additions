@@ -25,7 +25,7 @@ public class ItemAMDSweatySocks extends ElementsFartsysmagitechfantasyMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_sweaty_socks")
 	public static final Item block = null;
 	public ItemAMDSweatySocks(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 161);
+		super(instance, 118);
 	}
 
 	@Override

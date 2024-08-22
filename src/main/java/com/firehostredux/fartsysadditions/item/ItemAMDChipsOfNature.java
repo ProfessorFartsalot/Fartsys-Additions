@@ -25,7 +25,7 @@ public class ItemAMDChipsOfNature extends ElementsFartsysmagitechfantasyMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:amd_chips_of_nature")
 	public static final Item block = null;
 	public ItemAMDChipsOfNature(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 151);
+		super(instance, 112);
 	}
 
 	@Override

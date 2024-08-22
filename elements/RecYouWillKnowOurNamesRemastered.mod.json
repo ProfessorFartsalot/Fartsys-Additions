@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalFire"
+      },
+      {
+        "value": "CUSTOM:EnchantedRedstoneInk"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:DebugItem"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "CUSTOM:BlankG3JR"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AMDYouWillKnowOurNamesRemastered"
+    },
+    "name": "rec_you_will_know_our_names_remastered",
+    "namespace": "mod"
+  }
+}

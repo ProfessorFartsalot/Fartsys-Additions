@@ -30,7 +30,7 @@ public class ItemJRPaPaya extends ElementsFartsysmagitechfantasyMod.ModElement {
 	@GameRegistry.ObjectHolder("fartsysmagitechfantasy:jr_pa_paya")
 	public static final Item block = null;
 	public ItemJRPaPaya(ElementsFartsysmagitechfantasyMod instance) {
-		super(instance, 112);
+		super(instance, 152);
 	}
 
 	@Override
