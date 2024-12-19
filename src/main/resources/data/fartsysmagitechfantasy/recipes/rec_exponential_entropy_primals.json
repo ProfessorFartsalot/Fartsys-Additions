@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_gold_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:fc_exponential_entropy_primals"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_exponential_entropy_primals",
+    "count": 1
+  }
+}

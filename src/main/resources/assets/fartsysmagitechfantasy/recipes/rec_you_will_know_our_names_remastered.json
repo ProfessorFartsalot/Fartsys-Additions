@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    "1": {
+      "item": "fartsysmagitechfantasy:enchanted_redstone_ink"
+    },
+    "2": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:shard_unaspected"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:shard_unaspected"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_you_will_know_our_names_remastered",
+    "count": 1
+  }
+}

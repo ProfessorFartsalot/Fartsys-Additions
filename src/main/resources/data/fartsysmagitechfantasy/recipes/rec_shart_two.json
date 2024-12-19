@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:shart_one"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_one"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:shart_two",
+    "count": 1
+  }
+}

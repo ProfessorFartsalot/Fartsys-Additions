@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Dynamite",
+    "rarity": "RARE",
+    "texture": "disc14",
+    "description": "Taio Cruz - Dynamite (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.dynamitechiptune"
+    },
+    "lengthInTicks": 3880,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Torn From The Heavens (Orchestral)",
+    "rarity": "RARE",
+    "texture": "quartz_disc",
+    "description": "FFXIV The Omega Protocol - Torn From The Heavens (Orchestral)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.tornfromtheheavensorchestral"
+    },
+    "lengthInTicks": 2290,
+    "analogOutput": 0
+  }
+}

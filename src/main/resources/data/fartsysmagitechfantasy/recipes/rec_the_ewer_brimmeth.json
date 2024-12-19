@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_nether_brick_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_wind"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:fc_the_ewer_brimmeth"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_the_ewer_brimmeth",
+    "count": 1
+  }
+}

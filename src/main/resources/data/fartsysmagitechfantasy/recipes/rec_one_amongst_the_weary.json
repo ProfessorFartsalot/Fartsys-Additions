@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_star"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:enchanted_nether_brick_ink"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_one_amongst_the_weary",
+    "count": 1
+  }
+}

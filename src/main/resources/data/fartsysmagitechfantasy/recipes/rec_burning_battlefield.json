@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:crystal_ice"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:cluster_ice"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_burning_battlefield",
+    "count": 1
+  }
+}

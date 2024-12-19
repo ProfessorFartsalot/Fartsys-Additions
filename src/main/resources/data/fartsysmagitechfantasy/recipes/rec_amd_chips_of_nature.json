@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:ore_lightning"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_chips_of_nature",
+    "count": 1
+  }
+}

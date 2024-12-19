@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fartsysmagitechfantasy:block/ore_earth",
+    "up": "fartsysmagitechfantasy:block/ore_earth",
+    "north": "fartsysmagitechfantasy:block/ore_earth",
+    "east": "fartsysmagitechfantasy:block/ore_earth",
+    "south": "fartsysmagitechfantasy:block/ore_earth",
+    "west": "fartsysmagitechfantasy:block/ore_earth",
+    "particle": "fartsysmagitechfantasy:block/ore_earth"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "fartsysmagitechfantasy:blocks/ore_unaspected",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fartsysmagitechfantasy:crystal_unaspected",
+          "functions": [
+            {
+              "count": 3,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

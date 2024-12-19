@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "windswept_hills",
+    "the_end",
+    "windswept_forest"
+  ],
+  "features": "fartsysmagitechfantasy:ore_lightning_overworld",
+  "step": "underground_ores"
+}

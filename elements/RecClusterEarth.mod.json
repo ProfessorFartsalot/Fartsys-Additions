@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterUnaspected"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ClusterEarth"
+    },
+    "name": "rec_cluster_earth",
+    "namespace": "mod"
+  }
+}

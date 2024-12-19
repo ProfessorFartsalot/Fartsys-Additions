@@ -1,0 +1,25 @@
+{
+  "_fv": 69,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Meeting an EXPLOSIVE DEMISE",
+    "achievementDescription": "RIP. We warned you not to eat it.",
+    "achievementIcon": {
+      "value": "CUSTOM:WaffleOfAssDestruction"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": true,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 0,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:AdvShartSpecial"
+    },
+    "triggerxml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"advancement_trigger\" x=\"40\" y=\"80\"><next><block type=\"item_consumed\" x=\"48\" y=\"42\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:WaffleOfAssDestruction</field></block></value></block></next></block></xml>"
+  }
+}

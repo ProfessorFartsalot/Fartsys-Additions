@@ -1,0 +1,9 @@
+{
+  "parent": "fartsysmagitechfantasy:custom/rocksalt",
+  "textures": {
+    "all": "fartsysmagitechfantasy:block/rocksalt",
+    "particle": "fartsysmagitechfantasy:block/rocksalt",
+    "texture": "fartsysmagitechfantasy:block/rocksalt"
+  },
+  "render_type": "translucent"
+}

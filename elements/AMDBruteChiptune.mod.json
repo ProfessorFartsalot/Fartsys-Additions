@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Metal: Brute Justice Mode",
+    "rarity": "RARE",
+    "texture": "disc0f",
+    "description": "FFXIV - Metal: Brute Justice Mode (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.brutechiptune"
+    },
+    "lengthInTicks": 2220,
+    "analogOutput": 0
+  }
+}

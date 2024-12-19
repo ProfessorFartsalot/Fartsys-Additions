@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Battle!!",
+    "rarity": "RARE",
+    "texture": "redstone_disc",
+    "description": "Xenoblade Chronicles II - Battle!!",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:xc2.battle"
+    },
+    "lengthInTicks": 3910,
+    "analogOutput": 0
+  }
+}

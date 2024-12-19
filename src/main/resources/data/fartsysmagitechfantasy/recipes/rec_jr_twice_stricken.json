@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:crystal_earth"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:enchanted_emerald_ink"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_twice_stricken",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nether_wastes",
+  "features": "fartsysmagitechfantasy:ore_fire",
+  "step": "underground_ores"
+}

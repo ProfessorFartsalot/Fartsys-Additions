@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fartsysadditions",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:shart_ten_million"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:shart_special"
+    },
+    "c": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:waffle_of_ass_destruction",
+    "count": 1
+  }
+}

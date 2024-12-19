@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Twice Stricken (Instrumental)",
+    "rarity": "RARE",
+    "texture": "disc11",
+    "description": "FFXIV - Twice Stricken (De-Vocalized by Fartsy)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.ffxivtwicestrickendevocalized"
+    },
+    "lengthInTicks": 3230,
+    "analogOutput": 0
+  }
+}

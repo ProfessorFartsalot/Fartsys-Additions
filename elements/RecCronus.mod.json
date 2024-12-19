@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ClusterWater"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#1"
+      },
+      {
+        "value": "CUSTOM:ClusterWind"
+      },
+      {
+        "value": "Items.DIAMOND_SWORD"
+      },
+      {
+        "value": "CUSTOM:ClusterIce"
+      },
+      {
+        "value": "CUSTOM:ClusterUnaspected"
+      },
+      {
+        "value": "CUSTOM:ClusterFire"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cronus"
+    },
+    "name": "rec_cronus",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:cluster_wind"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:crystal_wind",
+    "count": 8
+  }
+}

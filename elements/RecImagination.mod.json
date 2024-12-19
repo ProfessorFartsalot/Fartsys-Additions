@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedGlowstoneInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:BlankG2JR"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:FCImagination"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRImagination"
+    },
+    "name": "rec_imagination",
+    "namespace": "mod"
+  }
+}

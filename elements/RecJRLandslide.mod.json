@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:EnchantedEnderPearlInk"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:BlankG3JR"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRLandslide"
+    },
+    "name": "rec_jr_landslide",
+    "namespace": "mod"
+  }
+}

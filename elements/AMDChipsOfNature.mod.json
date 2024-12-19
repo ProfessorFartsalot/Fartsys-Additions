@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Rules of Nature",
+    "rarity": "RARE",
+    "texture": "disc13",
+    "description": "Metal Gear Rising: Revengeance - Rules of Nature (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.chipsofnature"
+    },
+    "lengthInTicks": 2770,
+    "analogOutput": 0
+  }
+}

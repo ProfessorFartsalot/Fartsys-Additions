@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "b": {
+      "item": "minecraft:bone_meal"
+    },
+    "c": {
+      "item": "minecraft:paper"
+    },
+    "d": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:blank_g_3_jr",
+    "count": 1
+  }
+}

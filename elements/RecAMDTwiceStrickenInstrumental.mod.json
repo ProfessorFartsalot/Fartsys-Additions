@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:DebugItem"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AMDTwiceStrickenInstrumental"
+    },
+    "name": "rec_amd_twice_stricken_instrumental",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:BlankG3JR"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:EnchantedEmeraldInk"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRTwiceStricken"
+    },
+    "name": "rec_jr_twice_stricken",
+    "namespace": "mod"
+  }
+}

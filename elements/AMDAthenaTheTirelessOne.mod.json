@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Athena, The Tireless One",
+    "rarity": "RARE",
+    "texture": "quartz_disc",
+    "description": "FFXIV P12 Theme (Athena, The Tireless One)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.athenathetirelessone"
+    },
+    "lengthInTicks": 6350,
+    "analogOutput": 0
+  }
+}

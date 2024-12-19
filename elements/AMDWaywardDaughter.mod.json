@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Wayward Daughter",
+    "rarity": "RARE",
+    "texture": "redstone_disc",
+    "description": "FFXIV Tsukiyomi Phase 3 - Wayward Daughter",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.wayward_daughter"
+    },
+    "lengthInTicks": 4870,
+    "analogOutput": 0
+  }
+}

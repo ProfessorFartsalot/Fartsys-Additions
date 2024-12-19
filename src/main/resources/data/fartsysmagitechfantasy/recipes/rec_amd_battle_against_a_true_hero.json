@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_star"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "d": {
+      "item": "minecraft:cod"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_battle_against_a_true_hero",
+    "count": 1
+  }
+}

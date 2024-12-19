@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_gold_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:fc_metal_brute_justice_mode"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_metal_brute_justice_mode",
+    "count": 1
+  }
+}

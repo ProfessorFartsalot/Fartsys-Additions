@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_glowstone_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_water"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:fc_insatiable"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_insatiable",
+    "count": 1
+  }
+}

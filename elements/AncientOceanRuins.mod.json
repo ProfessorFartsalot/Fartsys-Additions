@@ -1,0 +1,30 @@
+{
+  "_fv": 69,
+  "_type": "structure",
+  "definition": {
+    "structure": "ancient_ocean_ruins",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 24,
+    "separation": 12,
+    "restrictionBiomes": [
+      {
+        "value": "#minecraft:is_ocean"
+      }
+    ],
+    "terrainAdaptation": "beard_box",
+    "generationStep": "FLUID_SPRINGS",
+    "surfaceDetectionType": "OCEAN_FLOOR_WG",
+    "useStartHeight": false,
+    "startHeightProviderType": "VERY_BIASED_TO_BOTTOM",
+    "startHeightMin": 0,
+    "startHeightMax": 45,
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

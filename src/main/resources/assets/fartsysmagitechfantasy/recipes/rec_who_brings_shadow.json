@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "1": {
+      "item": "fartsysmagitechfantasy:enchanted_nether_brick_ink"
+    },
+    "2": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_who_brings_shadow",
+    "count": 1
+  }
+}

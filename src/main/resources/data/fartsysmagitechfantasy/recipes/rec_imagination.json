@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_glowstone_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:fc_imagination"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_imagination",
+    "count": 1
+  }
+}

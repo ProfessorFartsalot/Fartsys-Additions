@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Who Brings Shadow",
+    "rarity": "RARE",
+    "texture": "nether_brick_disc",
+    "description": "FFXIV - Who Brings Shadow (Hades Theme)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.whobringsshadow"
+    },
+    "lengthInTicks": 4690,
+    "analogOutput": 0
+  }
+}

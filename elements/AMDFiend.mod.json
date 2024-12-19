@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Fiend",
+    "rarity": "RARE",
+    "texture": "emerald_disc",
+    "description": "FFXIV - Fiend (Sephirot Theme)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.fiend"
+    },
+    "lengthInTicks": 4450,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedEnderPearlInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ClusterUnaspected"
+      },
+      {
+        "value": "CUSTOM:BlankG3JR"
+      },
+      {
+        "value": "CUSTOM:ClusterUnaspected"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:FCCloseInTheDistance"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRCloseInTheDistance"
+    },
+    "name": "rec_close_in_the_distance",
+    "namespace": "mod"
+  }
+}

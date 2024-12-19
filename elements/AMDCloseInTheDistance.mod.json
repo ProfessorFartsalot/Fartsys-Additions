@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Close in the Distance",
+    "rarity": "RARE",
+    "texture": "ender_pearl_disc",
+    "description": "FFXIV Ultima Thule Theme - Close in the Distance",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.closeinthedistance"
+    },
+    "lengthInTicks": 4350,
+    "analogOutput": 0
+  }
+}

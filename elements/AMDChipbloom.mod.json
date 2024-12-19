@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Chipbloom",
+    "rarity": "COMMON",
+    "texture": "disc0f",
+    "description": "FFXIV - Nightbloom (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.chipbloom"
+    },
+    "lengthInTicks": 2210,
+    "analogOutput": 0
+  }
+}

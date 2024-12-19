@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Footfalls",
+    "rarity": "RARE",
+    "texture": "nether_brick_disc",
+    "description": "FFXIV Endwalker - Footfalls",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.footfalls"
+    },
+    "lengthInTicks": 6900,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:EnchantedQuartzInk"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:BlankG3JR"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:CrystalIce"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:CrystalFire"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRTomorrowAndTomorrow"
+    },
+    "name": "rec_tomorrow_and_tomorrow",
+    "namespace": "mod"
+  }
+}

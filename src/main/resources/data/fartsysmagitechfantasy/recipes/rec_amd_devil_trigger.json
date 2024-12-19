@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "minecraft:diamond_sword"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "e": {
+      "item": "minecraft:zombie_head"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_devil_trigger",
+    "count": 1
+  }
+}

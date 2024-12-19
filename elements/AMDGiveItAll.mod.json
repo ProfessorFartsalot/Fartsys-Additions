@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Give it All",
+    "rarity": "EPIC",
+    "texture": "disc09",
+    "description": "FFXIV - Give it All",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.giveitall"
+    },
+    "lengthInTicks": 7130,
+    "analogOutput": 1
+  }
+}

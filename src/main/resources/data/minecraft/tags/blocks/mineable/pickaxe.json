@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "fartsysmagitechfantasy:ore_wind",
+    "fartsysmagitechfantasy:ore_water",
+    "fartsysmagitechfantasy:ore_lightning_overworld",
+    "fartsysmagitechfantasy:ore_lightning",
+    "fartsysmagitechfantasy:ore_ice",
+    "fartsysmagitechfantasy:ore_fire_overworld",
+    "fartsysmagitechfantasy:ore_fire",
+    "fartsysmagitechfantasy:ore_earth",
+    "fartsysmagitechfantasy:ore_unaspected"
+  ]
+}

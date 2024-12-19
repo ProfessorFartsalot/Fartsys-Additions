@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Sweaty Socks",
+    "rarity": "RARE",
+    "texture": "disc15",
+    "description": "Kissone Kinoma - Sweaty Socks",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust. Kinda like Kissone's metal rods in his spine."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:kissonekinoma.sweatysocks"
+    },
+    "lengthInTicks": 3310,
+    "analogOutput": 0
+  }
+}

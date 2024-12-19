@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - One Amongst The Weary",
+    "rarity": "RARE",
+    "texture": "lapis_disc",
+    "description": "FFXIV - One Amongst The Weary (Anabaseios 9/10 Theme)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.oneamongsttheweary"
+    },
+    "lengthInTicks": 2950,
+    "analogOutput": 0
+  }
+}

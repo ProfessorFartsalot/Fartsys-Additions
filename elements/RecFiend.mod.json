@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedEmeraldInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:BlankG2JR"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:FCFiend"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRFiend"
+    },
+    "name": "rec_fiend",
+    "namespace": "mod"
+  }
+}

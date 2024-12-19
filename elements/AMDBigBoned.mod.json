@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Big Boned",
+    "rarity": "RARE",
+    "texture": "iron_disc",
+    "description": "FFXIV Fat Chocobo Mount - Big Boned",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.big_boned"
+    },
+    "lengthInTicks": 3070,
+    "analogOutput": 0
+  }
+}

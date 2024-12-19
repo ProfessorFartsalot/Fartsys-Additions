@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_nether_brick_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_ice"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:fc_shadowbringers"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_shadowbringers",
+    "count": 1
+  }
+}

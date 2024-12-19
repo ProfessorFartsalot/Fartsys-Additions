@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShartMillion"
+      },
+      {
+        "value": "CUSTOM:ShartMillion"
+      },
+      {
+        "value": "CUSTOM:ShartMillion"
+      },
+      {
+        "value": "CUSTOM:ShartMillion"
+      },
+      {
+        "value": "CUSTOM:ShartTwoMillion"
+      },
+      {
+        "value": "CUSTOM:ShartMillion"
+      },
+      {
+        "value": "CUSTOM:ShartMillion"
+      },
+      {
+        "value": "CUSTOM:ShartMillion"
+      },
+      {
+        "value": "CUSTOM:ShartMillion"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShartTenMillion"
+    },
+    "name": "rec_shart_ten_million",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_redstone_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:crystal_earth"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_1_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "e": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_papaya_demastered",
+    "count": 1
+  }
+}

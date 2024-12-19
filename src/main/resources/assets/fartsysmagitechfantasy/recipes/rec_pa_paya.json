@@ -1,0 +1,36 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechfantasy:enchanted_ender_pearl_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:shard_earth"
+    },
+    "4": {
+      "item": "fartsysmagitechfantasy:blank_g_1_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:shard_earth"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    "7": {
+      "item": "minecraft:egg"
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_pa_paya",
+    "count": 1
+  }
+}

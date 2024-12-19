@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Blocks.SPONGE#1"
+      },
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:DebugItem"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Blocks.SPONGE#1"
+      },
+      {
+        "value": "Items.POTATO"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AMDSweatyChips"
+    },
+    "name": "rec_amd_sweaty_chips",
+    "namespace": "mod"
+  }
+}

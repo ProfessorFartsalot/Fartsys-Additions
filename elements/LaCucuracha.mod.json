@@ -1,0 +1,26 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc - La Cucuracha",
+    "rarity": "RARE",
+    "texture": "disc01",
+    "description": "The roaches, Wat. The roaches.",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FartsysAdditions"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:la_cucuracha"
+    },
+    "lengthInTicks": 1350,
+    "analogOutput": 0
+  }
+}

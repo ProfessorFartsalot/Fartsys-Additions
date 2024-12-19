@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:enchanted_ender_pearl_ink"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "e": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_landslide",
+    "count": 1
+  }
+}

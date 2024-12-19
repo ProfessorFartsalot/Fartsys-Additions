@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:air"
+    },
+    "b": {
+      "item": "minecraft:jungle_sapling"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "d": {
+      "item": "minecraft:orange_wool"
+    },
+    "e": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_motor_oil_jiggle_jungle",
+    "count": 1
+  }
+}

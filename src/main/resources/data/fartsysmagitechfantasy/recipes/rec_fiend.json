@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_emerald_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:fc_fiend"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_fiend",
+    "count": 1
+  }
+}

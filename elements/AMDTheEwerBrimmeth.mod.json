@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - The Ewer Brimmeth",
+    "rarity": "RARE",
+    "texture": "nether_brick_disc",
+    "description": "FFXIV Old Sharlayan (Day) - The Ewer Brimmeth",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.the_ewer_brimmeth"
+    },
+    "lengthInTicks": 4870,
+    "analogOutput": 0
+  }
+}

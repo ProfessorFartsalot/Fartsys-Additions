@@ -1,0 +1,10 @@
+{
+  "_fv": 69,
+  "_type": "loottable",
+  "definition": {
+    "type": "Block",
+    "pools": [],
+    "name": "chests/ancient_ocean_loot",
+    "namespace": "mod"
+  }
+}

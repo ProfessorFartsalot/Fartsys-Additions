@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - To The Edge",
+    "rarity": "RARE",
+    "texture": "ender_pearl_disc",
+    "description": "FFXIV WoL Theme - To The Edge",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.totheedge"
+    },
+    "lengthInTicks": 8450,
+    "analogOutput": 0
+  }
+}

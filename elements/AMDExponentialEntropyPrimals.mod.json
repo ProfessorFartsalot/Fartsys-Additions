@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Exponential Entropy (The Primals)",
+    "rarity": "RARE",
+    "texture": "gold_disc",
+    "description": "FFXIV The Primals - Exponential Entropy",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.exponential_entropy_primals"
+    },
+    "lengthInTicks": 3010,
+    "analogOutput": 0
+  }
+}

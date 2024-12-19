@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_star"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:enchanted_ender_pearl_ink"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_hic_svnt_leones",
+    "count": 1
+  }
+}

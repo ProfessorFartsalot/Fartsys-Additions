@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - And Chips You Shall Find",
+    "rarity": "RARE",
+    "texture": "disc0f",
+    "description": "FFXIV - And Love You Shall Find (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.andchipsyoushallfind"
+    },
+    "lengthInTicks": 3510,
+    "analogOutput": 0
+  }
+}

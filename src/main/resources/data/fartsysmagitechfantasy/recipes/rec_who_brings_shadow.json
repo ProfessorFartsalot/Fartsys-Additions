@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ded",
+    "fgf"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:enchanted_nether_brick_ink"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "g": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_who_brings_shadow",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_fv": 69,
+  "_type": "structure",
+  "definition": {
+    "structure": "catacomb",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 20,
+    "separation": 7,
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "mutated_savanna"
+      }
+    ],
+    "terrainAdaptation": "bury",
+    "generationStep": "SURFACE_STRUCTURES",
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "useStartHeight": true,
+    "startHeightProviderType": "UNIFORM",
+    "startHeightMin": 40,
+    "startHeightMax": 60,
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

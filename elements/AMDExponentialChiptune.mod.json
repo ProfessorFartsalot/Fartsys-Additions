@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Exponential Chiptune",
+    "rarity": "RARE",
+    "texture": "disc14",
+    "description": "FFXIV - Exponential Entropy (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.exponentialchiptune"
+    },
+    "lengthInTicks": 3350,
+    "analogOutput": 0
+  }
+}

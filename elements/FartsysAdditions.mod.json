@@ -1,0 +1,11 @@
+{
+  "_fv": 69,
+  "_type": "tab",
+  "definition": {
+    "name": "FMF - Core",
+    "icon": {
+      "value": "CUSTOM:DebugItem"
+    },
+    "showSearch": false
+  }
+}

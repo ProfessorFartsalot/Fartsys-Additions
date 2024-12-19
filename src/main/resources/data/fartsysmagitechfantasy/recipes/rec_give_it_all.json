@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "b": {
+      "item": "minecraft:nether_star"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_give_it_all",
+    "count": 1
+  }
+}

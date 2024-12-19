@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Paved in Solitude",
+    "rarity": "RARE",
+    "texture": "glowstone_disc",
+    "description": "FFXIV - Paved in Solitude",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.interphosp1"
+    },
+    "lengthInTicks": 4210,
+    "analogOutput": 0
+  }
+}

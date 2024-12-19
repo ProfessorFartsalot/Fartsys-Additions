@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Apex Of The World",
+    "rarity": "RARE",
+    "texture": "disc12",
+    "description": "Fire Emblem 3H - Apex Of The World (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.chipsofthetunes"
+    },
+    "lengthInTicks": 5350,
+    "analogOutput": 0
+  }
+}

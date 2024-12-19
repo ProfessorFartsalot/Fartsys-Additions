@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:ghast_tear"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "d": {
+      "item": "minecraft:golden_hoe"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_never_gonna_give_you_up",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_iron_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:shard_water"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_1_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:shard_lightning"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:fc_big_boned"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_big_boned",
+    "count": 1
+  }
+}

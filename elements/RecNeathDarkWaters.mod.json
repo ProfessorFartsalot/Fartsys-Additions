@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedEnderPearlInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ClusterWater"
+      },
+      {
+        "value": "CUSTOM:BlankG2JR"
+      },
+      {
+        "value": "CUSTOM:ClusterWater"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
+        "value": "CUSTOM:CrystalWater"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRNeathDarkWaters"
+    },
+    "name": "rec_neath_dark_waters",
+    "namespace": "mod"
+  }
+}

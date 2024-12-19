@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:orange_dye"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "d": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_chip_oil_jiggle_tune",
+    "count": 1
+  }
+}

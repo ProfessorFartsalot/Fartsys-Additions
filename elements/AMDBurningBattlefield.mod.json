@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Burning Battlefield",
+    "rarity": "RARE",
+    "texture": "glowstone_disc",
+    "description": "Pokemon Season 1 (Anime) - Burning Battlefield",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:pokemons1.burningbattlefield"
+    },
+    "lengthInTicks": 3390,
+    "analogOutput": 0
+  }
+}

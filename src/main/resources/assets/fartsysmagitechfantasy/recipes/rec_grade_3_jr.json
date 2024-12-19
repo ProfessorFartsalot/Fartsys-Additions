@@ -1,0 +1,44 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 15
+    },
+    "2": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "3": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "5": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "6": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "7": {
+      "item": "minecraft:tallgrass",
+      "data": 32767
+    },
+    "8": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:blank_g_3_jr",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_iron_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:crystal_earth"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:fc_metal"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_metal",
+    "count": 1
+  }
+}

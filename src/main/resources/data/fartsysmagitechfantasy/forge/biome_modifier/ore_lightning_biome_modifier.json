@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "the_end",
+  "features": "fartsysmagitechfantasy:ore_lightning",
+  "step": "underground_ores"
+}

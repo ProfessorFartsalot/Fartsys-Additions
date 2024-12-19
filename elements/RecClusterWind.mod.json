@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:ClusterUnaspected"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      },
+      {
+        "value": "CUSTOM:CrystalWind"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ClusterWind"
+    },
+    "name": "rec_cluster_wind",
+    "namespace": "mod"
+  }
+}

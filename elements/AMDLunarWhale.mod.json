@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Lunar Whale",
+    "rarity": "RARE",
+    "texture": "lapis_disc",
+    "description": "FFXIV - Lunar Whale",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.lunarwhale"
+    },
+    "lengthInTicks": 1850,
+    "analogOutput": 0
+  }
+}

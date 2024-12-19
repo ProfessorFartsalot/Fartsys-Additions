@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Kissone Kinoma - Motor Oil Jiggle Jungle",
+    "rarity": "RARE",
+    "texture": "disc15",
+    "description": "Kissone Kinoma - Motor Oil Jiggle Jungle",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust. Kinda like Kissone's metal rods in his spine."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:kissonekinoma.motoroiljigglejungle"
+    },
+    "lengthInTicks": 4870,
+    "analogOutput": 0
+  }
+}

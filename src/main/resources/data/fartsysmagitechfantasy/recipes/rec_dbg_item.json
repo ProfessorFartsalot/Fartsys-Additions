@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_wind"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:debug_item",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_redstone_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_ice"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_triumph_dissidia_nt",
+    "count": 1
+  }
+}

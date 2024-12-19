@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_and_chips_you_shall_find",
+    "count": 1
+  }
+}

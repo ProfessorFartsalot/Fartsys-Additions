@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:crystal_earth"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:shard_earth",
+    "count": 8
+  }
+}

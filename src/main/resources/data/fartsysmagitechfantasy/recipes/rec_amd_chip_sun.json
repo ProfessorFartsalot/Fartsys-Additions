@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:tnt"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_chip_sun",
+    "count": 1
+  }
+}

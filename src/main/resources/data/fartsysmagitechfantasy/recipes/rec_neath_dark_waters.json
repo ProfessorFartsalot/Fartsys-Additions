@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_ender_pearl_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_water"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_neath_dark_waters",
+    "count": 1
+  }
+}

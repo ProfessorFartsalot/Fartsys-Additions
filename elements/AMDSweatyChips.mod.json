@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Sweaty Chips",
+    "rarity": "RARE",
+    "texture": "disc11",
+    "description": "Kissone Kinoma - Sweaty Socks (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust. Kinda like Kissone's metal rods in his spine."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.sweatychips"
+    },
+    "lengthInTicks": 3310,
+    "analogOutput": 0
+  }
+}

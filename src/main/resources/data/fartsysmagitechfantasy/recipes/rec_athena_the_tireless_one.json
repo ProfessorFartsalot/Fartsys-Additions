@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_quartz_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:cluster_unaspected"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:fc_athena_the_tireless_one"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_athena_the_tireless_one",
+    "count": 1
+  }
+}

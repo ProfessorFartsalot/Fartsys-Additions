@@ -1,0 +1,13 @@
+{
+  "group": "fartsysmagitechfantasy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:fleshchunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:rotten_flesh",
+    "count": 1
+  }
+}

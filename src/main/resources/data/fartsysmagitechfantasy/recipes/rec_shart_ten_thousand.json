@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_two_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    },
+    {
+      "item": "fartsysmagitechfantasy:shart_thousand"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechfantasy:shart_ten_thousand",
+    "count": 1
+  }
+}

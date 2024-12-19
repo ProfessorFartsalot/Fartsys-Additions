@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Battle Against A True Hero",
+    "rarity": "RARE",
+    "texture": "disc0e",
+    "description": "Undertale - Battle Against A True Hero (Fartsy Chiptune)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:fartsy.battleagainstatruehero"
+    },
+    "lengthInTicks": 3080,
+    "analogOutput": 0
+  }
+}

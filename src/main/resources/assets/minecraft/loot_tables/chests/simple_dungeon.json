@@ -1,0 +1,1198 @@
+{
+    "pools": [
+      {
+        "rolls": 2,
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:saddle",
+            "weight": 20
+          },
+          {
+            "type": "item",
+            "name": "minecraft:golden_apple",
+            "weight": 15
+          },
+          {
+            "type": "item",
+            "name": "minecraft:golden_apple",
+            "weight": 2,
+            "functions": [
+              {
+                "function": "set_data",
+                "data": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:record_13",
+            "weight": 15
+          },
+          {
+            "type": "item",
+            "name": "minecraft:record_cat",
+            "weight": 15
+          },
+          {
+            "type": "item",
+            "name": "minecraft:name_tag",
+            "weight": 20
+          },
+          {
+            "type": "item",
+            "name": "minecraft:golden_horse_armor",
+            "weight": 10
+          },
+          {
+            "type": "item",
+            "name": "minecraft:iron_horse_armor",
+            "weight": 15
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_horse_armor",
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "name": "minecraft:book",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "enchant_randomly"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 3,
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:iron_ingot",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:gold_ingot",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:bread",
+            "weight": 20
+          },
+          {
+            "type": "item",
+            "name": "minecraft:wheat",
+            "weight": 20,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:bucket",
+            "weight": 10
+          },
+          {
+            "type": "item",
+            "name": "minecraft:redstone",
+            "weight": 15,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:coal",
+            "weight": 15,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:melon_seeds",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            ],
+            "weight": 10
+          },
+          {
+            "type": "item",
+            "name": "minecraft:pumpkin_seeds",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            ],
+            "weight": 10
+          },
+          {
+            "type": "item",
+            "name": "minecraft:beetroot_seeds",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            ],
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "rolls": 3,
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:bone",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 8
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:gunpowder",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 8
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:rotten_flesh",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 8
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:string",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 8
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 12,
+        "entries": [
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_unaspected",
+            "weight": 4
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_and_love_you_shall_find",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_athena_the_tireless_one",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_big_boned",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_close_in_the_distance",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_escape",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_exponential_entropy_primals",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_footfalls",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_from_the_heavens",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_imagination",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_insatiable",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_locus",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_lunacy",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_lunar_whale",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_metal",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_metal_brute_justice_mode",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_nightbloom",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_penitus",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_scream",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_shadowbringers",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_steel_reason",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_the_ewer_brimmeth",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_to_the_edge",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_torn_from_the_heavens_orchestral",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:fc_wayward_daughter",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_lightning",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_fire",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_wind",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_water",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_earth",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:cluster_ice",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_one",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_ten",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_twenty",
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_hundred",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_two_hundred",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:shart_thousand",
+            "weight": 2
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:bag_o_rock_salt",
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "name": "fartsysmagitechfantasy:pvc_dust",
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "name": "minecraft:golden_apple",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:golden_apple",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:name_tag",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:iron_pickaxe",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:map",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_helmet",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_chestplate",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_leggings",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_boots",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:iron_ingot",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:gold_ingot",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond",
+            "weight": 2,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:redstone",
+            "weight": 4,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:coal",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:bread",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:melon_seeds",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:pumpkin_seeds",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:beetroot_seeds",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:rail",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:detector_rail",
+            "weight": 51,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:activator_rail",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:torch",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:enchanted_book",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 5,
+                  "max": 20
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:golden_apple",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:golden_apple",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:name_tag",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:iron_pickaxe",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:map",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_helmet",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_chestplate",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_leggings",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond_boots",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 1
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 0,
+                  "max": 10
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:iron_ingot",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:gold_ingot",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:diamond",
+            "weight": 2,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:redstone",
+            "weight": 4,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:coal",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:bread",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:melon_seeds",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:pumpkin_seeds",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:beetroot_seeds",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:rail",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:detector_rail",
+            "weight": 51,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:activator_rail",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:torch",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "name": "minecraft:enchanted_book",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              },
+              {
+                "function": "enchant_with_levels",
+                "treasure": true,
+                "levels": {
+                  "min": 5,
+                  "max": 20
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fartsysmagitechfantasy:block/ore_unaspected",
+    "up": "fartsysmagitechfantasy:block/ore_unaspected",
+    "north": "fartsysmagitechfantasy:block/ore_unaspected",
+    "east": "fartsysmagitechfantasy:block/ore_unaspected",
+    "south": "fartsysmagitechfantasy:block/ore_unaspected",
+    "west": "fartsysmagitechfantasy:block/ore_unaspected",
+    "particle": "fartsysmagitechfantasy:block/ore_unaspected"
+  },
+  "render_type": "solid"
+}

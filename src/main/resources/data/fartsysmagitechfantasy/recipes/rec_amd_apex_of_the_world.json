@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:cluster_earth"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_apex_of_the_world",
+    "count": 1
+  }
+}

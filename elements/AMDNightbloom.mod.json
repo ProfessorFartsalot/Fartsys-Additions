@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Nightbloom",
+    "rarity": "RARE",
+    "texture": "redstone_disc",
+    "description": "FFXIV Tsukiyomi Phase 1 - Nightbloom",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.nightbloom"
+    },
+    "lengthInTicks": 2700,
+    "analogOutput": 0
+  }
+}

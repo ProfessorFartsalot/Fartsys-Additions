@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:crystal_earth"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_twice_stricken_instrumental",
+    "count": 1
+  }
+}

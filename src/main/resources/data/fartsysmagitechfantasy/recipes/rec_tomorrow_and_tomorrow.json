@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ded",
+    "fgh"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:crystal_wind"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:enchanted_quartz_ink"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:crystal_water"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:pvc_dust"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:blank_g_3_jr"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:crystal_ice"
+    },
+    "g": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "h": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_tomorrow_and_tomorrow",
+    "count": 1
+  }
+}

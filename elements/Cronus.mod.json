@@ -1,0 +1,38 @@
+{
+  "_fv": 69,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Special",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "testsword",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Cronus",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FartsysAdditions"
+      }
+    ],
+    "efficiency": 0.0,
+    "attackSpeed": 0.45,
+    "enchantability": 200,
+    "damageVsEntity": 68.0,
+    "usageCount": 0,
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntitySwing": {
+      "name": "CronusEntitySwingsItem"
+    }
+  }
+}

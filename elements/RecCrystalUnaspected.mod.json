@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      },
+      {
+        "value": "CUSTOM:ShardUnaspected"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrystalUnaspected"
+    },
+    "name": "rec_crystal_unaspected",
+    "namespace": "mod"
+  }
+}

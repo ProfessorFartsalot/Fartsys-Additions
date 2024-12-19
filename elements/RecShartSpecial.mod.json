@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "fartsyadditions",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShartTwentyMillion"
+      },
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      },
+      {
+        "value": "CUSTOM:ShartTwentyMillion"
+      },
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#1"
+      },
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      },
+      {
+        "value": "CUSTOM:ShartTwentyMillion"
+      },
+      {
+        "value": "CUSTOM:ShartTenMillion"
+      },
+      {
+        "value": "CUSTOM:ShartTwentyMillion"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShartSpecial"
+    },
+    "name": "rec_shart_special",
+    "namespace": "mod"
+  }
+}

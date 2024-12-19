@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:CrystalUnaspected"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      },
+      {
+        "value": "CUSTOM:ShardLightning"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrystalLightning"
+    },
+    "name": "rec_crystal_lightning",
+    "namespace": "mod"
+  }
+}

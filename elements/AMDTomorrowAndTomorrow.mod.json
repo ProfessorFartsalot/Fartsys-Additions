@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Tomorrow and Tomorrow",
+    "rarity": "RARE",
+    "texture": "quartz_disc",
+    "description": "FFXIV - Tomorrow and Tomorrow (Crystarium Night Theme)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.tomorrowandtomorrow"
+    },
+    "lengthInTicks": 5210,
+    "analogOutput": 0
+  }
+}

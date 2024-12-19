@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:enchanted_gold_ink"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:crystal_fire"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:blank_g_2_jr"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:crystal_ice"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:crystal_lightning"
+    },
+    "f": {
+      "item": "fartsysmagitechfantasy:fc_locus"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:jr_locus",
+    "count": 1
+  }
+}

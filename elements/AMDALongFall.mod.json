@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - A Long Fall (The Twinning)",
+    "rarity": "RARE",
+    "texture": "ender_pearl_disc",
+    "description": "FFXIV - A Long Fall (The Twinning Theme)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.alongfall"
+    },
+    "lengthInTicks": 2750,
+    "analogOutput": 0
+  }
+}

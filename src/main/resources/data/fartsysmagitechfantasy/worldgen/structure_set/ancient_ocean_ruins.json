@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "fartsysmagitechfantasy:ancient_ocean_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 24,
+    "separation": 12,
+    "salt": 676335060
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - And Love You Shall Find",
+    "rarity": "RARE",
+    "texture": "diamond_disc",
+    "description": "FFXIV - And Love You Shall Find",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.andloveyoushallfind"
+    },
+    "lengthInTicks": 6570,
+    "analogOutput": 0
+  }
+}

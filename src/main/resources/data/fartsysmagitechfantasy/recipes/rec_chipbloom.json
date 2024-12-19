@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "fartsysmagitechfantasy:cluster_lightning"
+    },
+    "b": {
+      "item": "fartsysmagitechfantasy:enchanted_ender_pearl_ink"
+    },
+    "c": {
+      "item": "fartsysmagitechfantasy:cluster_fire"
+    },
+    "d": {
+      "item": "fartsysmagitechfantasy:debug_item"
+    },
+    "e": {
+      "item": "fartsysmagitechfantasy:fc_nightbloom"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechfantasy:amd_chipbloom",
+    "count": 1
+  }
+}

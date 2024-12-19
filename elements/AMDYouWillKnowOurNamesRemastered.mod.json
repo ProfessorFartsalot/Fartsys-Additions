@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - You Will Know Our Names (Remastered)",
+    "rarity": "RARE",
+    "texture": "redstone_disc",
+    "description": "Xenoblade Chronicles: DE - You Will Know Our Names (Remastered)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:xcde.youwillknowournames"
+    },
+    "lengthInTicks": 2350,
+    "analogOutput": 0
+  }
+}

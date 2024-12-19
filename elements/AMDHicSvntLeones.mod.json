@@ -1,0 +1,28 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aetherial Music Disc - Hic Svnt Leones",
+    "rarity": "RARE",
+    "texture": "redstone_disc",
+    "description": "FFXIV - Hic Svnt Leones (Hesperos Theme)",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:FMFMusic"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": [
+        "Item is aetherial. Can not be melted down into PVC dust."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:ffxiv.hicsvntleones"
+    },
+    "lengthInTicks": 5330,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "desert",
+    "beach",
+    "savanna",
+    "savanna_plateau",
+    "badlands",
+    "wooded_badlands",
+    "basalt_deltas"
+  ],
+  "features": "fartsysmagitechfantasy:ore_fire_overworld",
+  "step": "underground_ores"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "desert",
+    "windswept_hills",
+    "forest",
+    "jungle",
+    "sparse_jungle",
+    "birch_forest",
+    "dark_forest",
+    "old_growth_pine_taiga",
+    "windswept_forest",
+    "badlands"
+  ],
+  "features": "fartsysmagitechfantasy:ore_wind",
+  "step": "underground_ores"
+}
