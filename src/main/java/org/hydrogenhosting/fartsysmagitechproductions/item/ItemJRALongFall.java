@@ -30,7 +30,7 @@ public class ItemJRALongFall extends ElementsFartsysmagitechproductionsMod.ModEl
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jra_long_fall")
 	public static final Item block = null;
 	public ItemJRALongFall(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 114);
+		super(instance, 112);
 	}
 
 	@Override

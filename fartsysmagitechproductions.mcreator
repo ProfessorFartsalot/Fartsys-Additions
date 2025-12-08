@@ -15,7 +15,7 @@
     {
       "name": "FartsysAdditions",
       "type": "tab",
-      "sortid": 147,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fartsysadditions",
@@ -105,7 +105,7 @@
     {
       "name": "ShartTenMillionItemIsDroppedByPlayer",
       "type": "procedure",
-      "sortid": 148,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_ten_million_item_is_dropped_by_player",
@@ -138,7 +138,7 @@
     {
       "name": "WaffleOfAssDestructionFoodEaten",
       "type": "procedure",
-      "sortid": 149,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "waffle_of_ass_destruction_food_eaten",
@@ -171,7 +171,7 @@
     {
       "name": "ShartSpecialFoodEaten",
       "type": "procedure",
-      "sortid": 150,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shart_special_food_eaten",
@@ -197,7 +197,7 @@
     {
       "name": "BagORockSaltSpawnRockSalt",
       "type": "procedure",
-      "sortid": 151,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bag_o_rock_salt_spawn_rock_salt",
@@ -239,7 +239,7 @@
     {
       "name": "RecBagORockSalt",
       "type": "recipe",
-      "sortid": 152,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_bag_o_rock_salt",
@@ -248,7 +248,7 @@
     {
       "name": "RecShartSpecial",
       "type": "recipe",
-      "sortid": 153,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_shart_special",
@@ -257,7 +257,7 @@
     {
       "name": "RecWaffleOfAssDest",
       "type": "recipe",
-      "sortid": 154,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_waffle_of_ass_dest",
@@ -275,7 +275,7 @@
     {
       "name": "RecPVCPlastic01",
       "type": "recipe",
-      "sortid": 155,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_01",
@@ -284,7 +284,7 @@
     {
       "name": "RecPVCPlastic02",
       "type": "recipe",
-      "sortid": 156,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_02",
@@ -293,7 +293,7 @@
     {
       "name": "RecPVCPlastic03",
       "type": "recipe",
-      "sortid": 157,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_03",
@@ -302,7 +302,7 @@
     {
       "name": "RecPVCPlastic04",
       "type": "recipe",
-      "sortid": 158,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_04",
@@ -311,7 +311,7 @@
     {
       "name": "RecPVCPlastic05",
       "type": "recipe",
-      "sortid": 159,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_05",
@@ -320,7 +320,7 @@
     {
       "name": "RecPVCPlastic06",
       "type": "recipe",
-      "sortid": 160,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_06",
@@ -329,7 +329,7 @@
     {
       "name": "RecPVCPlastic07",
       "type": "recipe",
-      "sortid": 161,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_07",
@@ -338,7 +338,7 @@
     {
       "name": "RecPVCPlastic08",
       "type": "recipe",
-      "sortid": 162,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_08",
@@ -347,7 +347,7 @@
     {
       "name": "RecPVCPlastic09",
       "type": "recipe",
-      "sortid": 163,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_09",
@@ -356,7 +356,7 @@
     {
       "name": "RecPVCPlastic0a",
       "type": "recipe",
-      "sortid": 164,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0a",
@@ -365,7 +365,7 @@
     {
       "name": "RecPVCPlastic0b",
       "type": "recipe",
-      "sortid": 165,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0b",
@@ -374,7 +374,7 @@
     {
       "name": "RecPVCPlastic0c",
       "type": "recipe",
-      "sortid": 166,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0c",
@@ -383,7 +383,7 @@
     {
       "name": "RecPVCPlastic0e",
       "type": "recipe",
-      "sortid": 167,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0e",
@@ -392,7 +392,7 @@
     {
       "name": "RecPVCPlastic0f",
       "type": "recipe",
-      "sortid": 168,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_pvc_plastic_0f",
@@ -410,7 +410,7 @@
     {
       "name": "CronusEntitySwingsItem",
       "type": "procedure",
-      "sortid": 169,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cronus_entity_swings_item",
@@ -427,7 +427,7 @@
     {
       "name": "RecNotchApple",
       "type": "recipe",
-      "sortid": 170,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_notch_apple",
@@ -436,7 +436,7 @@
     {
       "name": "RecSaddle",
       "type": "recipe",
-      "sortid": 171,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_saddle",
@@ -445,7 +445,7 @@
     {
       "name": "AdvShartSpecial",
       "type": "achievement",
-      "sortid": 172,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_shart_special",
@@ -454,7 +454,7 @@
     {
       "name": "AdvShartDeath",
       "type": "achievement",
-      "sortid": 173,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_shart_death",
@@ -463,7 +463,7 @@
     {
       "name": "AdvTMSharts",
       "type": "achievement",
-      "sortid": 174,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_tm_sharts",
@@ -472,7 +472,7 @@
     {
       "name": "Adv1mSharts",
       "type": "achievement",
-      "sortid": 175,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_1m_sharts",
@@ -481,7 +481,7 @@
     {
       "name": "Adv100kSharts",
       "type": "achievement",
-      "sortid": 176,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_100k_sharts",
@@ -490,7 +490,7 @@
     {
       "name": "AdvPVCPowder",
       "type": "achievement",
-      "sortid": 177,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_pvc_powder",
@@ -499,7 +499,7 @@
     {
       "name": "RecCronus",
       "type": "recipe",
-      "sortid": 178,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rec_cronus",
@@ -508,7 +508,7 @@
     {
       "name": "AdvCronus",
       "type": "achievement",
-      "sortid": 179,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "registry_name": "adv_cronus",
@@ -527,7 +527,7 @@
     {
       "name": "RecLaCucuracha",
       "type": "recipe",
-      "sortid": 180,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -547,7 +547,7 @@
     {
       "name": "AMDCloseInTheDistance",
       "type": "musicdisc",
-      "sortid": 81,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -557,7 +557,7 @@
     {
       "name": "AMDFootfalls",
       "type": "musicdisc",
-      "sortid": 88,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -577,7 +577,7 @@
     {
       "name": "AMDMetal",
       "type": "musicdisc",
-      "sortid": 95,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -587,7 +587,7 @@
     {
       "name": "AMDMetalBruteJusticeMode",
       "type": "musicdisc",
-      "sortid": 96,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -597,7 +597,7 @@
     {
       "name": "AMDLocus",
       "type": "musicdisc",
-      "sortid": 92,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -607,7 +607,7 @@
     {
       "name": "JRAthenaTheTirelessOneRightClickedInAir",
       "type": "procedure",
-      "sortid": 181,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -625,7 +625,7 @@
     {
       "name": "JRAthenaTheTirelessOne",
       "type": "item",
-      "sortid": 116,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -635,7 +635,7 @@
     {
       "name": "JRCloseInTheDistance",
       "type": "item",
-      "sortid": 118,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -645,7 +645,7 @@
     {
       "name": "JRCloseInTheDistanceRightClickedInAir",
       "type": "procedure",
-      "sortid": 182,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -663,7 +663,7 @@
     {
       "name": "JRFootfalls",
       "type": "item",
-      "sortid": 121,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -673,7 +673,7 @@
     {
       "name": "JRFootfallsRightClickedInAir",
       "type": "procedure",
-      "sortid": 183,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -691,7 +691,7 @@
     {
       "name": "FMFMusic",
       "type": "tab",
-      "sortid": 184,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -701,7 +701,7 @@
     {
       "name": "JRAndLoveYouShallFind",
       "type": "item",
-      "sortid": 115,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -711,7 +711,7 @@
     {
       "name": "JRAndLoveYouShallFindRightClickedInAir",
       "type": "procedure",
-      "sortid": 185,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -729,7 +729,7 @@
     {
       "name": "JRMetal",
       "type": "item",
-      "sortid": 126,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -739,7 +739,7 @@
     {
       "name": "JRMetalRightClickedInAir",
       "type": "procedure",
-      "sortid": 186,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -757,7 +757,7 @@
     {
       "name": "JRMetalBruteJusticeMode",
       "type": "item",
-      "sortid": 127,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -767,7 +767,7 @@
     {
       "name": "JRMetalBruteJusticeModeRightClickedInAir",
       "type": "procedure",
-      "sortid": 187,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -785,7 +785,7 @@
     {
       "name": "JRLocus",
       "type": "item",
-      "sortid": 124,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -795,7 +795,7 @@
     {
       "name": "JRLocusRightClickedInAir",
       "type": "procedure",
-      "sortid": 188,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -813,7 +813,7 @@
     {
       "name": "FCAthenaTheTirelessOne",
       "type": "item",
-      "sortid": 137,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -823,7 +823,7 @@
     {
       "name": "FCCloseInTheDistance",
       "type": "item",
-      "sortid": 139,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -833,7 +833,7 @@
     {
       "name": "FCFootfalls",
       "type": "item",
-      "sortid": 141,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -843,7 +843,7 @@
     {
       "name": "FCAndLoveYouShallFind",
       "type": "item",
-      "sortid": 136,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -853,7 +853,7 @@
     {
       "name": "FCMetal",
       "type": "item",
-      "sortid": 144,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -863,7 +863,7 @@
     {
       "name": "FCMetalBruteJusticeMode",
       "type": "item",
-      "sortid": 145,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -873,7 +873,7 @@
     {
       "name": "FCLocus",
       "type": "item",
-      "sortid": 142,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1093,7 +1093,7 @@
     {
       "name": "RecShardEarth",
       "type": "recipe",
-      "sortid": 189,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1103,7 +1103,7 @@
     {
       "name": "RecShardFire",
       "type": "recipe",
-      "sortid": 190,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1113,7 +1113,7 @@
     {
       "name": "RecShardIce",
       "type": "recipe",
-      "sortid": 191,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1123,7 +1123,7 @@
     {
       "name": "RecShardLightning",
       "type": "recipe",
-      "sortid": 192,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1133,7 +1133,7 @@
     {
       "name": "RecShardUnaspected",
       "type": "recipe",
-      "sortid": 193,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1143,7 +1143,7 @@
     {
       "name": "RecShardWater",
       "type": "recipe",
-      "sortid": 194,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1153,7 +1153,7 @@
     {
       "name": "RecShardWind",
       "type": "recipe",
-      "sortid": 195,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1163,7 +1163,7 @@
     {
       "name": "RecCrystalEarth",
       "type": "recipe",
-      "sortid": 196,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1173,7 +1173,7 @@
     {
       "name": "RecCrystalFire",
       "type": "recipe",
-      "sortid": 197,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1183,7 +1183,7 @@
     {
       "name": "RecCrystalIce",
       "type": "recipe",
-      "sortid": 198,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1193,7 +1193,7 @@
     {
       "name": "RecCrystalLightning",
       "type": "recipe",
-      "sortid": 199,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1203,7 +1203,7 @@
     {
       "name": "RecCrystalUnaspected",
       "type": "recipe",
-      "sortid": 200,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1213,7 +1213,7 @@
     {
       "name": "RecCrystalWater",
       "type": "recipe",
-      "sortid": 201,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1223,7 +1223,7 @@
     {
       "name": "RecCrystalWind",
       "type": "recipe",
-      "sortid": 202,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1233,7 +1233,7 @@
     {
       "name": "RecCrystalEarthCluster",
       "type": "recipe",
-      "sortid": 203,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1243,7 +1243,7 @@
     {
       "name": "RecCrystalFireCluster",
       "type": "recipe",
-      "sortid": 204,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1253,7 +1253,7 @@
     {
       "name": "RecCrystalIceCluster",
       "type": "recipe",
-      "sortid": 205,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1263,7 +1263,7 @@
     {
       "name": "RecCrystalLightningCluster",
       "type": "recipe",
-      "sortid": 206,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1273,7 +1273,7 @@
     {
       "name": "RecCrystalUnaspectedCluster",
       "type": "recipe",
-      "sortid": 207,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1283,7 +1283,7 @@
     {
       "name": "RecCrystalWaterCluster",
       "type": "recipe",
-      "sortid": 208,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1293,7 +1293,7 @@
     {
       "name": "RecCrystalWindCluster",
       "type": "recipe",
-      "sortid": 209,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1303,7 +1303,7 @@
     {
       "name": "RecClusterEarth",
       "type": "recipe",
-      "sortid": 210,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1313,7 +1313,7 @@
     {
       "name": "RecClusterFire",
       "type": "recipe",
-      "sortid": 211,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1323,7 +1323,7 @@
     {
       "name": "RecClusterIce",
       "type": "recipe",
-      "sortid": 212,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1333,7 +1333,7 @@
     {
       "name": "RecClusterLightning",
       "type": "recipe",
-      "sortid": 213,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1343,7 +1343,7 @@
     {
       "name": "RecClusterUnaspected",
       "type": "recipe",
-      "sortid": 214,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1353,7 +1353,7 @@
     {
       "name": "RecClusterWater",
       "type": "recipe",
-      "sortid": 215,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1363,7 +1363,7 @@
     {
       "name": "RecClusterWind",
       "type": "recipe",
-      "sortid": 216,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1403,7 +1403,7 @@
     {
       "name": "RecGrade1JR",
       "type": "recipe",
-      "sortid": 217,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1413,7 +1413,7 @@
     {
       "name": "RecGrade2JR",
       "type": "recipe",
-      "sortid": 218,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1423,7 +1423,7 @@
     {
       "name": "RecGrade3JR",
       "type": "recipe",
-      "sortid": 219,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1443,7 +1443,7 @@
     {
       "name": "AMDBigBoned",
       "type": "musicdisc",
-      "sortid": 77,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1451,19 +1451,9 @@
       "path": "~/Music Discs"
     },
     {
-      "name": "AMDLunacy",
-      "type": "musicdisc",
-      "sortid": 93,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "amd_lunacy",
-      "path": "~/Music Discs"
-    },
-    {
       "name": "AMDPaPaya",
       "type": "musicdisc",
-      "sortid": 101,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1473,7 +1463,7 @@
     {
       "name": "AMDTheEwerBrimmeth",
       "type": "musicdisc",
-      "sortid": 108,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1483,7 +1473,7 @@
     {
       "name": "JRBigBonedRightClickedInAir",
       "type": "procedure",
-      "sortid": 220,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1501,7 +1491,7 @@
     {
       "name": "JRBigBoned",
       "type": "item",
-      "sortid": 117,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1509,37 +1499,9 @@
       "path": "~/Music Discs"
     },
     {
-      "name": "JRLunacy",
-      "type": "item",
-      "sortid": 125,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "jr_lunacy",
-      "path": "~/Music Discs"
-    },
-    {
-      "name": "JRLunacyRightClickedInAir",
-      "type": "procedure",
-      "sortid": 221,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "jr_lunacy_right_clicked_in_air",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      },
-      "path": "~/Procedures"
-    },
-    {
       "name": "JRPaPaya",
       "type": "item",
-      "sortid": 130,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1549,7 +1511,7 @@
     {
       "name": "JRPaPayaRightClickedInAir",
       "type": "procedure",
-      "sortid": 222,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1567,7 +1529,7 @@
     {
       "name": "JRTheEwerBrimmeth",
       "type": "item",
-      "sortid": 133,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1577,7 +1539,7 @@
     {
       "name": "JRTheEwerBrimmethRightClickedInAir",
       "type": "procedure",
-      "sortid": 223,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1595,7 +1557,7 @@
     {
       "name": "FCBigBoned",
       "type": "item",
-      "sortid": 138,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1603,19 +1565,9 @@
       "path": "~/Music Discs"
     },
     {
-      "name": "FCLunacy",
-      "type": "item",
-      "sortid": 143,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "fc_lunacy",
-      "path": "~/Music Discs"
-    },
-    {
       "name": "FCTheEwerBrimmeth",
       "type": "item",
-      "sortid": 146,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1805,7 +1757,7 @@
     {
       "name": "RecEnchantedIronInk",
       "type": "recipe",
-      "sortid": 224,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1815,7 +1767,7 @@
     {
       "name": "RecEnchantedGoldInk",
       "type": "recipe",
-      "sortid": 225,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1825,7 +1777,7 @@
     {
       "name": "RecEnchantedDiamondInk",
       "type": "recipe",
-      "sortid": 226,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1835,7 +1787,7 @@
     {
       "name": "RecEnchantedLapisInk",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1845,7 +1797,7 @@
     {
       "name": "RecEnchantedRedstoneInk",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1855,7 +1807,7 @@
     {
       "name": "RecEnchantedGlowstoneInk",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1865,7 +1817,7 @@
     {
       "name": "RecEnchantedEmeraldInk",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1875,7 +1827,7 @@
     {
       "name": "RecEnchantedQuartzInk",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1885,7 +1837,7 @@
     {
       "name": "RecEnchantedNetherBrickInk",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1895,7 +1847,7 @@
     {
       "name": "RecEnchantedEnderPearlInk",
       "type": "recipe",
-      "sortid": 233,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1905,7 +1857,7 @@
     {
       "name": "RecAndLoveYouShallFind",
       "type": "recipe",
-      "sortid": 234,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1915,7 +1867,7 @@
     {
       "name": "RecAthenaTheTirelessOne",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1925,7 +1877,7 @@
     {
       "name": "RecBigBoned",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1935,7 +1887,7 @@
     {
       "name": "RecCloseInTheDistance",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1945,7 +1897,7 @@
     {
       "name": "RecFootfalls",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1955,7 +1907,7 @@
     {
       "name": "RecLocus",
       "type": "recipe",
-      "sortid": 239,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1963,19 +1915,9 @@
       "path": "~/Recipes"
     },
     {
-      "name": "RecLunacy",
-      "type": "recipe",
-      "sortid": 240,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "rec_lunacy",
-      "path": "~/Recipes"
-    },
-    {
       "name": "RecMetal",
       "type": "recipe",
-      "sortid": 241,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1985,7 +1927,7 @@
     {
       "name": "RecMetalBruteJusticeMode",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1995,7 +1937,7 @@
     {
       "name": "RecPaPaya",
       "type": "recipe",
-      "sortid": 243,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2005,7 +1947,7 @@
     {
       "name": "RecTheEwerBrimmeth",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2025,7 +1967,7 @@
     {
       "name": "DebugItemRightClickedOnBlock",
       "type": "procedure",
-      "sortid": 245,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2055,7 +1997,7 @@
     {
       "name": "RecDbgItem",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2065,7 +2007,7 @@
     {
       "name": "AMDExponentialEntropyPrimals",
       "type": "musicdisc",
-      "sortid": 86,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2075,7 +2017,7 @@
     {
       "name": "JRExponentialEntropyPrimals",
       "type": "item",
-      "sortid": 119,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2085,7 +2027,7 @@
     {
       "name": "JRExponentialEntropyPrimalsRightClickedInAir",
       "type": "procedure",
-      "sortid": 247,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2103,7 +2045,7 @@
     {
       "name": "FCExponentialEntropyPrimals",
       "type": "item",
-      "sortid": 140,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2113,7 +2055,7 @@
     {
       "name": "RecExponentialEntropyPrimals",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2123,7 +2065,7 @@
     {
       "name": "RecShartOne",
       "type": "recipe",
-      "sortid": 249,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2133,7 +2075,7 @@
     {
       "name": "RecShartTen",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2143,7 +2085,7 @@
     {
       "name": "RecShartHundred",
       "type": "recipe",
-      "sortid": 251,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2153,7 +2095,7 @@
     {
       "name": "RecShartThousand",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2163,7 +2105,7 @@
     {
       "name": "RecShartTenThousand",
       "type": "recipe",
-      "sortid": 253,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2173,7 +2115,7 @@
     {
       "name": "RecShartHundredThousand",
       "type": "recipe",
-      "sortid": 254,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2263,7 +2205,7 @@
     {
       "name": "RecShartMillion",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2273,7 +2215,7 @@
     {
       "name": "RecShartTenMillion",
       "type": "recipe",
-      "sortid": 256,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2283,7 +2225,7 @@
     {
       "name": "RecShartTwo",
       "type": "recipe",
-      "sortid": 257,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2293,7 +2235,7 @@
     {
       "name": "RecShartTwenty",
       "type": "recipe",
-      "sortid": 258,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2303,7 +2245,7 @@
     {
       "name": "RecShartTwoHundred",
       "type": "recipe",
-      "sortid": 259,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2313,7 +2255,7 @@
     {
       "name": "RecShartTwoThousand",
       "type": "recipe",
-      "sortid": 260,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2323,7 +2265,7 @@
     {
       "name": "RecShartTwentyThousand",
       "type": "recipe",
-      "sortid": 261,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2333,7 +2275,7 @@
     {
       "name": "RecShartTwoHundredThousand",
       "type": "recipe",
-      "sortid": 262,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2343,7 +2285,7 @@
     {
       "name": "RecShartTwoMillion",
       "type": "recipe",
-      "sortid": 263,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2353,7 +2295,7 @@
     {
       "name": "RecShartTwentyMillion",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2363,7 +2305,7 @@
     {
       "name": "AMDBetweenHeavenAndEarth",
       "type": "musicdisc",
-      "sortid": 76,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2383,7 +2325,7 @@
     {
       "name": "AMDChipOilJiggleTune",
       "type": "musicdisc",
-      "sortid": 80,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2403,7 +2345,7 @@
     {
       "name": "AMDChipSun",
       "type": "musicdisc",
-      "sortid": 103,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2413,7 +2355,7 @@
     {
       "name": "AMDChipsOfNature",
       "type": "musicdisc",
-      "sortid": 104,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2423,7 +2365,7 @@
     {
       "name": "AMDDevilTrigger",
       "type": "musicdisc",
-      "sortid": 82,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2433,7 +2375,7 @@
     {
       "name": "AMDDriftveilCity",
       "type": "musicdisc",
-      "sortid": 83,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2443,7 +2385,7 @@
     {
       "name": "AMDDynamite",
       "type": "musicdisc",
-      "sortid": 84,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2453,7 +2395,7 @@
     {
       "name": "AMDExponentialChiptune",
       "type": "musicdisc",
-      "sortid": 85,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2463,7 +2405,7 @@
     {
       "name": "AMDNeverGonnaGiveYouUp",
       "type": "musicdisc",
-      "sortid": 99,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2473,7 +2415,7 @@
     {
       "name": "AMDMotorOilJiggleJungle",
       "type": "musicdisc",
-      "sortid": 98,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2483,7 +2425,7 @@
     {
       "name": "AMDSweatySocks",
       "type": "musicdisc",
-      "sortid": 107,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2493,7 +2435,7 @@
     {
       "name": "AMDSweatyChips",
       "type": "musicdisc",
-      "sortid": 106,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2503,7 +2445,7 @@
     {
       "name": "RecAMDBetweenHeavenAndEarth",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2513,7 +2455,7 @@
     {
       "name": "RecAMDBatCountry",
       "type": "recipe",
-      "sortid": 267,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2523,7 +2465,7 @@
     {
       "name": "RecAMDChipOilJiggleTune",
       "type": "recipe",
-      "sortid": 268,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2533,7 +2475,7 @@
     {
       "name": "RecAMDApexOfTheWorld",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2543,7 +2485,7 @@
     {
       "name": "RecAMDChipSun",
       "type": "recipe",
-      "sortid": 270,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2553,7 +2495,7 @@
     {
       "name": "RecAMDChipsOfNature",
       "type": "recipe",
-      "sortid": 271,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2563,7 +2505,7 @@
     {
       "name": "RecAMDDevilTrigger",
       "type": "recipe",
-      "sortid": 272,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2573,7 +2515,7 @@
     {
       "name": "RecAMDDriftveilCity",
       "type": "recipe",
-      "sortid": 273,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2583,7 +2525,7 @@
     {
       "name": "RecAMDDynamite",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2593,7 +2535,7 @@
     {
       "name": "RecExponentialChiptune",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2603,7 +2545,7 @@
     {
       "name": "RecAMDNeverGonnaGiveYouUp",
       "type": "recipe",
-      "sortid": 276,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2613,7 +2555,7 @@
     {
       "name": "RecAMDMotorOilJiggleJungle",
       "type": "recipe",
-      "sortid": 277,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2623,7 +2565,7 @@
     {
       "name": "RecAMDSweatySocks",
       "type": "recipe",
-      "sortid": 278,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2633,7 +2575,7 @@
     {
       "name": "RecAMDSweatyChips",
       "type": "recipe",
-      "sortid": 279,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2643,7 +2585,7 @@
     {
       "name": "AMDLandslide",
       "type": "musicdisc",
-      "sortid": 91,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2653,7 +2595,7 @@
     {
       "name": "JRLandslideRightClickedInAir",
       "type": "procedure",
-      "sortid": 280,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2671,7 +2613,7 @@
     {
       "name": "JRLandslide",
       "type": "item",
-      "sortid": 123,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2681,7 +2623,7 @@
     {
       "name": "RecJRLandslide",
       "type": "recipe",
-      "sortid": 281,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2691,7 +2633,7 @@
     {
       "name": "AMDBruteChiptune",
       "type": "musicdisc",
-      "sortid": 78,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2701,7 +2643,7 @@
     {
       "name": "AMDTwiceStricken",
       "type": "musicdisc",
-      "sortid": 109,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2711,7 +2653,7 @@
     {
       "name": "RecAMDBruteChiptune",
       "type": "recipe",
-      "sortid": 282,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2721,7 +2663,7 @@
     {
       "name": "JRTwiceStricken",
       "type": "item",
-      "sortid": 134,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2731,7 +2673,7 @@
     {
       "name": "JRTwiceStrickenRightClickedInAir",
       "type": "procedure",
-      "sortid": 284,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2749,7 +2691,7 @@
     {
       "name": "RecJRTwiceStricken",
       "type": "recipe",
-      "sortid": 285,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2759,7 +2701,7 @@
     {
       "name": "AMDInterphosP1",
       "type": "musicdisc",
-      "sortid": 90,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2769,7 +2711,7 @@
     {
       "name": "JRInterphosP1",
       "type": "item",
-      "sortid": 122,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2779,7 +2721,7 @@
     {
       "name": "AMDALongFall",
       "type": "musicdisc",
-      "sortid": 68,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2789,7 +2731,7 @@
     {
       "name": "JRALongFall",
       "type": "item",
-      "sortid": 114,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2799,7 +2741,7 @@
     {
       "name": "AMDPapayaDemastered",
       "type": "musicdisc",
-      "sortid": 102,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2809,7 +2751,7 @@
     {
       "name": "JRPapayaDemastered",
       "type": "item",
-      "sortid": 131,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2819,7 +2761,7 @@
     {
       "name": "AMDWhoBringsShadow",
       "type": "musicdisc",
-      "sortid": 111,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2829,7 +2771,7 @@
     {
       "name": "JRWhoBringsShadow",
       "type": "item",
-      "sortid": 135,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2849,7 +2791,7 @@
     {
       "name": "AMDYouWillKnowOurNamesRemastered",
       "type": "musicdisc",
-      "sortid": 112,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2859,7 +2801,7 @@
     {
       "name": "AMDBurningBattlefield",
       "type": "musicdisc",
-      "sortid": 79,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2869,7 +2811,7 @@
     {
       "name": "AMDSandsOfAmber",
       "type": "musicdisc",
-      "sortid": 105,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2879,7 +2821,7 @@
     {
       "name": "JRSandsOfAmber",
       "type": "item",
-      "sortid": 132,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2889,7 +2831,7 @@
     {
       "name": "AMDFiend",
       "type": "musicdisc",
-      "sortid": 87,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2899,7 +2841,7 @@
     {
       "name": "JRFiend",
       "type": "item",
-      "sortid": 120,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2909,7 +2851,7 @@
     {
       "name": "AMDNeathDarkWaters",
       "type": "musicdisc",
-      "sortid": 97,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2919,7 +2861,7 @@
     {
       "name": "JRNeathDarkWaters",
       "type": "item",
-      "sortid": 128,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2929,7 +2871,7 @@
     {
       "name": "AMDInsatiableChips",
       "type": "musicdisc",
-      "sortid": 89,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2939,7 +2881,7 @@
     {
       "name": "RecConcrete00",
       "type": "recipe",
-      "sortid": 286,
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2949,7 +2891,7 @@
     {
       "name": "RecConcrete01",
       "type": "recipe",
-      "sortid": 287,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2959,7 +2901,7 @@
     {
       "name": "RecConcrete02",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2969,7 +2911,7 @@
     {
       "name": "RecConcrete03",
       "type": "recipe",
-      "sortid": 289,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2979,7 +2921,7 @@
     {
       "name": "RecConcrete04",
       "type": "recipe",
-      "sortid": 290,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2989,7 +2931,7 @@
     {
       "name": "RecConcrete05",
       "type": "recipe",
-      "sortid": 291,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2999,7 +2941,7 @@
     {
       "name": "RecConcrete06",
       "type": "recipe",
-      "sortid": 292,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3009,7 +2951,7 @@
     {
       "name": "RecConcrete07",
       "type": "recipe",
-      "sortid": 293,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3019,7 +2961,7 @@
     {
       "name": "RecConcrete08",
       "type": "recipe",
-      "sortid": 294,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3029,7 +2971,7 @@
     {
       "name": "RecConcrete09",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 291,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3039,7 +2981,7 @@
     {
       "name": "RecConcrete0a",
       "type": "recipe",
-      "sortid": 296,
+      "sortid": 292,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3049,7 +2991,7 @@
     {
       "name": "RecConcrete0b",
       "type": "recipe",
-      "sortid": 297,
+      "sortid": 293,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3059,7 +3001,7 @@
     {
       "name": "RecConcrete0c",
       "type": "recipe",
-      "sortid": 298,
+      "sortid": 294,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3069,7 +3011,7 @@
     {
       "name": "RecConcrete0d",
       "type": "recipe",
-      "sortid": 299,
+      "sortid": 295,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3079,7 +3021,7 @@
     {
       "name": "RecConcrete0e",
       "type": "recipe",
-      "sortid": 300,
+      "sortid": 296,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3089,7 +3031,7 @@
     {
       "name": "RecConcrete0f",
       "type": "recipe",
-      "sortid": 301,
+      "sortid": 297,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3099,7 +3041,7 @@
     {
       "name": "RecConcretePowder00",
       "type": "recipe",
-      "sortid": 302,
+      "sortid": 298,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3109,7 +3051,7 @@
     {
       "name": "RecConcretePowder01",
       "type": "recipe",
-      "sortid": 303,
+      "sortid": 299,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3119,7 +3061,7 @@
     {
       "name": "RecConcretePowder02",
       "type": "recipe",
-      "sortid": 304,
+      "sortid": 300,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3129,7 +3071,7 @@
     {
       "name": "RecConcretePowder03",
       "type": "recipe",
-      "sortid": 305,
+      "sortid": 301,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3139,7 +3081,7 @@
     {
       "name": "RecConcretePowder04",
       "type": "recipe",
-      "sortid": 306,
+      "sortid": 302,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3149,7 +3091,7 @@
     {
       "name": "RecConcretePowder05",
       "type": "recipe",
-      "sortid": 307,
+      "sortid": 303,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3159,7 +3101,7 @@
     {
       "name": "RecConcretePowder06",
       "type": "recipe",
-      "sortid": 308,
+      "sortid": 304,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3169,7 +3111,7 @@
     {
       "name": "RecConcretePowder07",
       "type": "recipe",
-      "sortid": 309,
+      "sortid": 305,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3179,7 +3121,7 @@
     {
       "name": "RecConcretePowder08",
       "type": "recipe",
-      "sortid": 310,
+      "sortid": 306,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3189,7 +3131,7 @@
     {
       "name": "RecConcretePowder09",
       "type": "recipe",
-      "sortid": 311,
+      "sortid": 307,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3199,7 +3141,7 @@
     {
       "name": "RecConcretePowder0a",
       "type": "recipe",
-      "sortid": 312,
+      "sortid": 308,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3209,7 +3151,7 @@
     {
       "name": "RecConcretePowder0b",
       "type": "recipe",
-      "sortid": 313,
+      "sortid": 309,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3219,7 +3161,7 @@
     {
       "name": "RecConcretePowder0c",
       "type": "recipe",
-      "sortid": 314,
+      "sortid": 310,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3229,7 +3171,7 @@
     {
       "name": "RecConcretePowder0d",
       "type": "recipe",
-      "sortid": 315,
+      "sortid": 311,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3239,7 +3181,7 @@
     {
       "name": "RecConcretePowder0e",
       "type": "recipe",
-      "sortid": 316,
+      "sortid": 312,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3249,7 +3191,7 @@
     {
       "name": "RecConcretePowder0f",
       "type": "recipe",
-      "sortid": 317,
+      "sortid": 313,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3259,7 +3201,7 @@
     {
       "name": "RecInsatiableChips",
       "type": "recipe",
-      "sortid": 319,
+      "sortid": 314,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3269,7 +3211,7 @@
     {
       "name": "RecBattle",
       "type": "recipe",
-      "sortid": 320,
+      "sortid": 315,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3279,7 +3221,7 @@
     {
       "name": "RecYouWillKnowOurNamesRemastered",
       "type": "recipe",
-      "sortid": 321,
+      "sortid": 316,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3289,7 +3231,7 @@
     {
       "name": "RecNeathDarkWaters",
       "type": "recipe",
-      "sortid": 322,
+      "sortid": 317,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3299,7 +3241,7 @@
     {
       "name": "RecFiend",
       "type": "recipe",
-      "sortid": 323,
+      "sortid": 318,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3309,7 +3251,7 @@
     {
       "name": "RecSandsOfAmber",
       "type": "recipe",
-      "sortid": 324,
+      "sortid": 319,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3319,7 +3261,7 @@
     {
       "name": "RecBurningBattlefield",
       "type": "recipe",
-      "sortid": 325,
+      "sortid": 320,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3329,7 +3271,7 @@
     {
       "name": "RecWhoBringsShadow",
       "type": "recipe",
-      "sortid": 326,
+      "sortid": 321,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3339,7 +3281,7 @@
     {
       "name": "RecPapayaDemastered",
       "type": "recipe",
-      "sortid": 327,
+      "sortid": 322,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3349,7 +3291,7 @@
     {
       "name": "RecALongFall",
       "type": "recipe",
-      "sortid": 328,
+      "sortid": 323,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3359,7 +3301,7 @@
     {
       "name": "RecInterphos",
       "type": "recipe",
-      "sortid": 329,
+      "sortid": 324,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3369,7 +3311,7 @@
     {
       "name": "AMDOneAmongstTheWeary",
       "type": "musicdisc",
-      "sortid": 100,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3379,7 +3321,7 @@
     {
       "name": "JROneAmongstTheWeary",
       "type": "item",
-      "sortid": 129,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3389,7 +3331,7 @@
     {
       "name": "RecOneAmongstTheWeary",
       "type": "recipe",
-      "sortid": 330,
+      "sortid": 325,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3399,7 +3341,7 @@
     {
       "name": "JRInterphosP1RightClickedInAir",
       "type": "procedure",
-      "sortid": 331,
+      "sortid": 326,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3417,7 +3359,7 @@
     {
       "name": "JRALongFallRightClickedInAir",
       "type": "procedure",
-      "sortid": 332,
+      "sortid": 327,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3435,7 +3377,7 @@
     {
       "name": "JRPapayaDemasteredRightClickedInAir",
       "type": "procedure",
-      "sortid": 333,
+      "sortid": 328,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3453,7 +3395,7 @@
     {
       "name": "JRWhoBringsShadowRightClickedInAir",
       "type": "procedure",
-      "sortid": 334,
+      "sortid": 329,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3471,7 +3413,7 @@
     {
       "name": "JRSandsOfAmberRightClickedInAir",
       "type": "procedure",
-      "sortid": 335,
+      "sortid": 330,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3489,7 +3431,7 @@
     {
       "name": "JRFiendRightClickedInAir",
       "type": "procedure",
-      "sortid": 336,
+      "sortid": 331,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3507,7 +3449,7 @@
     {
       "name": "JRNeathDarkWatersRightClickedInAir",
       "type": "procedure",
-      "sortid": 337,
+      "sortid": 332,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3525,7 +3467,7 @@
     {
       "name": "JROneAmongstTheWearyRightClickedInAir",
       "type": "procedure",
-      "sortid": 338,
+      "sortid": 333,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3543,7 +3485,7 @@
     {
       "name": "AMDBadAppleFC",
       "type": "musicdisc",
-      "sortid": 113,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3553,7 +3495,7 @@
     {
       "name": "RecAMDBadAppleFC",
       "type": "recipe",
-      "sortid": 339,
+      "sortid": 334,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3563,7 +3505,7 @@
     {
       "name": "AMDCloZeeKoto",
       "type": "musicdisc",
-      "sortid": 340,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3573,7 +3515,7 @@
     {
       "name": "BugItemRightClickedOnBlock",
       "type": "procedure",
-      "sortid": 341,
+      "sortid": 335,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3607,7 +3549,7 @@
     {
       "name": "BugItem",
       "type": "item",
-      "sortid": 341,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3617,7 +3559,7 @@
     {
       "name": "RecAMDCloZeeKoto",
       "type": "recipe",
-      "sortid": 342,
+      "sortid": 336,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4002,6 +3944,14 @@
       ],
       "category": "record",
       "subtitle": "[Chill Trap] CloZee - Koto"
+    },
+    {
+      "name": "kiki.tuturu",
+      "files": [
+        "tuturu"
+      ],
+      "category": "player",
+      "subtitle": "Tuturu"
     }
   ],
   "language_map": {
@@ -4088,7 +4038,6 @@
       "item.fartsysadditions.shart_ten_thousand": "Ten Kilo-Sharts",
       "item.fartsysadditions.faded_metal": "Faded Copy of Metal",
       "item.fartsysadditions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
-      "item.fc_lunacy.name": "Faded Copy of Lunacy",
       "death.attack.selfdesharted": "%1$s self-desharted!",
       "item.jr_big_boned.name": "\"Big Boned\" Jukebox Roll",
       "subtitles.fartsy.dynamitechiptune": "Taio Cruz - Dynamite (Fartsy Chiptune)",
@@ -4127,6 +4076,7 @@
       "item.amd_bad_apple_fc.name": "Aetherial Music Disc - Bad Apple-FC",
       "item.fartsysadditions.faded_agent_of_inquiry": "Faded Copy of Agent Of Inquiry",
       "item.shart_two_hundred_thousand.name": "200 Kilo Sharts",
+      "subtitles.kiki.tuturu": "Tuturu",
       "item.record.amd_sweaty_chips.desc": "Kissone Kinoma - Sweaty Socks (Fartsy Chiptune)",
       "item.fartsysadditions.restored_exponential_entropy": "Restored Copy of Exponential Entropy",
       "item.cluster_earth.name": "Earth Cluster",
@@ -4200,13 +4150,12 @@
       "item.amd_fiend.name": "Aetherial Music Disc - Fiend",
       "item.amd_devil_trigger.name": "Aetherial Music Disc - Devil Trigger",
       "item.fartsysadditions.xbc_2_battle.desc": "Xenoblade Chronicles 2 - Battle!!",
-      "itemGroup.tabfmf_music": "FMF - Music",
+      "itemGroup.tabfmf_music": "FMP - Music",
       "item.record.amd_dynamite.desc": "Taio Cruz - Dynamite (Fartsy Chiptune)",
       "item.fartsysadditions.restored_woe_that_is_madness": "Restored Copy of Woe That Is Madness",
       "item.crystal_ice.name": "Ice Crystal",
       "death.attack.selfdesharted.player": "%1$s self-desharted!",
       "subtitles.ffxiv.silentscream": "Final Fantasy XIV - Silent Scream",
-      "item.jr_lunacy.name": "\"Lunacy\" Jukebox Roll",
       "item.enchanted_emerald_ink.name": "Enchanted Emerald Ink",
       "item.fartsysadditions.restored_knowledge_never_sleeps": "Restored Copy of Knowledge Never Sleeps",
       "item.fartsysadditions.ffxiv_footfalls.desc": "Final Fantasy XIV - Footfalls (Endwalker)",
@@ -4252,7 +4201,7 @@
       "item.fartsysadditions.ngea_cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
       "subtitles.touhou.unowenwasher": "Touhou Project - U.N. Owen Was Her? (EoSD/6.0 Flandre)",
       "item.fartsysadditions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
-      "itemGroup.tabfartsysadditions": "FMF - Core",
+      "itemGroup.tabfartsysadditions": "FMP - Core",
       "advancements.adv_tm_sharts.descr": "Obtain ten million sharts",
       "item.fartsysadditions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
       "subtitles.fartsy.battleagainstatruehero": "Undertale - Battle Against A True Hero (Fartsy Chiptune)",
@@ -4332,7 +4281,6 @@
       "subtitles.ffxiv.battleonthebigbridge": "FFXIV - Battle on the Big Bridge",
       "item.waffle_of_ass_destruction.name": "Waffle Of Ass Destruction",
       "subtitles.ffxiv.nightbloom": "FFXIV - Nightbloom",
-      "item.record.amd_lunacy.desc": "FFXIV Tsukiyomi Phase 2 - Lunacy",
       "item.jr_neath_dark_waters.name": "\"Neath Dark Waters\" Jukebox Roll",
       "item.fartsysadditions.faded_silent_regard_of_stars": "Faded Copy of The Silent Regard of Stars",
       "item.amd_papaya_demastered.name": "Aetherial Music Disc - Pa-Paya (Demastered)",
@@ -4471,8 +4419,7 @@
       "item.fartsysadditions.dmc_5_silver_bullet.desc": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.fartsysadditions.faded_footfalls": "Faded Copy of Footfalls",
       "item.fartsysadditions.faded_knowledge_never_sleeps": "Faded Copy of Knowledge Never Sleeps",
-      "item.fartsysadditions.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode",
-      "item.amd_lunacy.name": "Aetherial Music Disc - Lunacy"
+      "item.fartsysadditions.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode"
     }
   },
   "foldersRoot": {

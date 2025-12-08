@@ -30,7 +30,7 @@ public class ItemJRNeathDarkWaters extends ElementsFartsysmagitechproductionsMod
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_neath_dark_waters")
 	public static final Item block = null;
 	public ItemJRNeathDarkWaters(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 128);
+		super(instance, 126);
 	}
 
 	@Override

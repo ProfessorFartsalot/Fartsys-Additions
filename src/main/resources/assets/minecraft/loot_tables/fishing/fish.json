@@ -54,7 +54,7 @@
             "entries": [
               {
                 "type": "item",
-                "name": "fartsysmagitechfantasy:shard_water",
+                "name": "fartsysmagitechproductions:shard_water",
                 "weight": 2,
                 "functions": [
                   {
@@ -73,7 +73,7 @@
             "entries": [
               {
                 "type": "item",
-                "name": "fartsysmagitechfantasy:shard_wind",
+                "name": "fartsysmagitechproductions:shard_wind",
                 "weight": 2,
                 "functions": [
                   {
@@ -92,7 +92,7 @@
             "entries": [
               {
                 "type": "item",
-                "name": "fartsysmagitechfantasy:shard_earth",
+                "name": "fartsysmagitechproductions:shard_earth",
                 "weight": 2,
                 "functions": [
                   {
@@ -111,7 +111,7 @@
             "entries": [
               {
                 "type": "item",
-                "name": "fartsysmagitechfantasy:shard_unaspected",
+                "name": "fartsysmagitechproductions:shard_unaspected",
                 "weight": 2,
                 "functions": [
                   {
@@ -130,7 +130,7 @@
             "entries": [
               {
                 "type": "item",
-                "name": "fartsysmagitechfantasy:fc_and_love_you_shall_find",
+                "name": "fartsysmagitechproductions:fc_and_love_you_shall_find",
                 "weight": 2,
                 "functions": [
                   {

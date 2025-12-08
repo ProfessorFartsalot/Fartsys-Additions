@@ -25,7 +25,7 @@ public class ItemAMDCloseInTheDistance extends ElementsFartsysmagitechproduction
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_close_in_the_distance")
 	public static final Item block = null;
 	public ItemAMDCloseInTheDistance(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 81);
+		super(instance, 80);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class ItemAMDFiend extends ElementsFartsysmagitechproductionsMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_fiend")
 	public static final Item block = null;
 	public ItemAMDFiend(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 87);
+		super(instance, 86);
 	}
 
 	@Override

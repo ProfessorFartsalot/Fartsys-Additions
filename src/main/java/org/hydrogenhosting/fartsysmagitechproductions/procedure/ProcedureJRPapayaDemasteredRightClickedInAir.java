@@ -15,7 +15,7 @@ import java.util.Map;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class ProcedureJRPapayaDemasteredRightClickedInAir extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public ProcedureJRPapayaDemasteredRightClickedInAir(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 333);
+		super(instance, 328);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

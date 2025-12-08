@@ -30,7 +30,7 @@ public class ItemJRTheEwerBrimmeth extends ElementsFartsysmagitechproductionsMod
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_the_ewer_brimmeth")
 	public static final Item block = null;
 	public ItemJRTheEwerBrimmeth(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 133);
+		super(instance, 131);
 	}
 
 	@Override

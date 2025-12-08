@@ -24,7 +24,7 @@ public class ItemFCExponentialEntropyPrimals extends ElementsFartsysmagitechprod
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:fc_exponential_entropy_primals")
 	public static final Item block = null;
 	public ItemFCExponentialEntropyPrimals(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 140);
+		super(instance, 138);
 	}
 
 	@Override

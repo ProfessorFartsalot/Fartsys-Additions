@@ -25,7 +25,7 @@ public class ItemAMDChipSun extends ElementsFartsysmagitechproductionsMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_chip_sun")
 	public static final Item block = null;
 	public ItemAMDChipSun(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 103);
+		super(instance, 101);
 	}
 
 	@Override

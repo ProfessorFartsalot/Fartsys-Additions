@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Blocks.SAND#1"
       },
       {
         "value": "CUSTOM:EnchantedGoldInk"
       },
       {
-        "value": ""
+        "value": "Blocks.SAND#1"
       },
       {
         "value": "CUSTOM:ClusterFire"

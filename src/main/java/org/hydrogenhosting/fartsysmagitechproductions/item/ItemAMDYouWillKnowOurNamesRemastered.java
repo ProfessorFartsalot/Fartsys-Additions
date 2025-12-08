@@ -25,7 +25,7 @@ public class ItemAMDYouWillKnowOurNamesRemastered extends ElementsFartsysmagitec
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_you_will_know_our_names_remastered")
 	public static final Item block = null;
 	public ItemAMDYouWillKnowOurNamesRemastered(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 112);
+		super(instance, 109);
 	}
 
 	@Override

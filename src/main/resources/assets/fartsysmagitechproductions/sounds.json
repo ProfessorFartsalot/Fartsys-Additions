@@ -468,5 +468,15 @@
         "stream": true
       }
     ]
+  },
+  "kiki.tuturu": {
+    "category": "player",
+    "subtitle": "subtitles.kiki.tuturu",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:tuturu",
+        "stream": false
+      }
+    ]
   }
 }

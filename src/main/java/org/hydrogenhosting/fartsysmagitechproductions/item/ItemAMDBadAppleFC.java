@@ -25,7 +25,7 @@ public class ItemAMDBadAppleFC extends ElementsFartsysmagitechproductionsMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_bad_apple_fc")
 	public static final Item block = null;
 	public ItemAMDBadAppleFC(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 113);
+		super(instance, 110);
 	}
 
 	@Override

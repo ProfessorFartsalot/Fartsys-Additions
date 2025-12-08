@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "tab",
   "definition": {
-    "name": "FMF - Core",
+    "name": "FMP - Core",
     "icon": {
       "value": "CUSTOM:DebugItem"
     },
-    "showSearch": false
+    "showSearch": true
   }
 }

@@ -25,7 +25,7 @@ public class ItemAMDDevilTrigger extends ElementsFartsysmagitechproductionsMod.M
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_devil_trigger")
 	public static final Item block = null;
 	public ItemAMDDevilTrigger(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 82);
+		super(instance, 81);
 	}
 
 	@Override

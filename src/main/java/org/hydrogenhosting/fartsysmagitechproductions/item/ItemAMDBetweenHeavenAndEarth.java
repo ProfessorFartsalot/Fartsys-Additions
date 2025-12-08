@@ -25,7 +25,7 @@ public class ItemAMDBetweenHeavenAndEarth extends ElementsFartsysmagitechproduct
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_between_heaven_and_earth")
 	public static final Item block = null;
 	public ItemAMDBetweenHeavenAndEarth(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 76);
+		super(instance, 75);
 	}
 
 	@Override

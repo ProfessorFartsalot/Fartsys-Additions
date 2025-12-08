@@ -15,7 +15,7 @@ import java.util.Map;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class ProcedureJRExponentialEntropyPrimalsRightClickedInAir extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public ProcedureJRExponentialEntropyPrimalsRightClickedInAir(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 247);
+		super(instance, 245);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

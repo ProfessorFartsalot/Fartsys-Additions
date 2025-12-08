@@ -2,13 +2,21 @@
   "group": "fartsysmagitechproductions",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 1 ",
+    "012",
     "345",
     "678"
   ],
   "key": {
+    "0": {
+      "item": "minecraft:sand",
+      "data": 1
+    },
     "1": {
       "item": "fartsysmagitechproductions:enchanted_gold_ink"
+    },
+    "2": {
+      "item": "minecraft:sand",
+      "data": 1
     },
     "3": {
       "item": "fartsysmagitechproductions:cluster_fire"

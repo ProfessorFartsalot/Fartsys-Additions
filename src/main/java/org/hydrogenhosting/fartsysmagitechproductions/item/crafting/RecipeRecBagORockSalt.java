@@ -13,7 +13,7 @@ import net.minecraft.init.Items;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class RecipeRecBagORockSalt extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public RecipeRecBagORockSalt(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 152);
+		super(instance, 150);
 	}
 
 	@Override

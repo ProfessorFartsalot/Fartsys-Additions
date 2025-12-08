@@ -25,7 +25,7 @@ public class ItemAMDSandsOfAmber extends ElementsFartsysmagitechproductionsMod.M
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_sands_of_amber")
 	public static final Item block = null;
 	public ItemAMDSandsOfAmber(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 105);
+		super(instance, 103);
 	}
 
 	@Override

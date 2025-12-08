@@ -25,7 +25,7 @@ public class ItemAMDInterphosP1 extends ElementsFartsysmagitechproductionsMod.Mo
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_interphos_p_1")
 	public static final Item block = null;
 	public ItemAMDInterphosP1(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 90);
+		super(instance, 89);
 	}
 
 	@Override

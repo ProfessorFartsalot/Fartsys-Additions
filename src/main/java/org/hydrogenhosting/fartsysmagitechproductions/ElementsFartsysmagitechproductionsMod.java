@@ -148,6 +148,8 @@ public class ElementsFartsysmagitechproductionsMod implements IFuelHandler, IWor
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.badapplefc")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "kiki.clozee_koto"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "kiki.clozee_koto")));
+		sounds.put(new ResourceLocation("fartsysmagitechproductions", "kiki.tuturu"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "kiki.tuturu")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

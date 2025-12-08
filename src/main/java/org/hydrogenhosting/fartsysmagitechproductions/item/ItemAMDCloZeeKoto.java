@@ -25,7 +25,7 @@ public class ItemAMDCloZeeKoto extends ElementsFartsysmagitechproductionsMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_clo_zee_koto")
 	public static final Item block = null;
 	public ItemAMDCloZeeKoto(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 340);
+		super(instance, 111);
 	}
 
 	@Override

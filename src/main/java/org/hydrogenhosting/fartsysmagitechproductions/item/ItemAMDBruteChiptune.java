@@ -25,7 +25,7 @@ public class ItemAMDBruteChiptune extends ElementsFartsysmagitechproductionsMod.
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_brute_chiptune")
 	public static final Item block = null;
 	public ItemAMDBruteChiptune(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 78);
+		super(instance, 77);
 	}
 
 	@Override

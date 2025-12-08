@@ -30,7 +30,7 @@ public class ItemJRInterphosP1 extends ElementsFartsysmagitechproductionsMod.Mod
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_interphos_p_1")
 	public static final Item block = null;
 	public ItemJRInterphosP1(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 122);
+		super(instance, 120);
 	}
 
 	@Override

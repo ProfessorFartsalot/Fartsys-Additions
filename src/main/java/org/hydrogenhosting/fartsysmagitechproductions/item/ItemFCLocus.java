@@ -24,7 +24,7 @@ public class ItemFCLocus extends ElementsFartsysmagitechproductionsMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:fc_locus")
 	public static final Item block = null;
 	public ItemFCLocus(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 142);
+		super(instance, 140);
 	}
 
 	@Override

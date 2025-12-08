@@ -21,7 +21,10 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
+import net.minecraft.block.BlockFalling;
 import net.minecraft.block.Block;
+
+import java.util.Random;
 
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class BlockRockSalt extends ElementsFartsysmagitechproductionsMod.ModElement {
@@ -43,7 +46,7 @@ public class BlockRockSalt extends ElementsFartsysmagitechproductionsMod.ModElem
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
 				new ModelResourceLocation("fartsysmagitechproductions:rock_salt", "inventory"));
 	}
-	public static class BlockCustom extends Block {
+	public static class BlockCustom extends BlockFalling {
 		public BlockCustom() {
 			super(Material.SAND);
 			setUnlocalizedName("rock_salt");
@@ -79,7 +82,7 @@ public class BlockRockSalt extends ElementsFartsysmagitechproductionsMod.ModElem
 
 		@Override
 		public AxisAlignedBB getBoundingBox(IBlockState state, IBlockAccess source, BlockPos pos) {
-			return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 0, 16, 1, 16));
+			return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 0, 1, 0.125, 1));
 		}
 
 		@Override
@@ -95,6 +98,11 @@ public class BlockRockSalt extends ElementsFartsysmagitechproductionsMod.ModElem
 		@Override
 		public boolean isReplaceable(IBlockAccess blockAccess, BlockPos pos) {
 			return true;
+		}
+
+		@Override
+		public int quantityDropped(Random random) {
+			return 0;
 		}
 	}
 }

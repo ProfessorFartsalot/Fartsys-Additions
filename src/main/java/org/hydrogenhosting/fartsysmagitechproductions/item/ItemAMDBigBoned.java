@@ -25,7 +25,7 @@ public class ItemAMDBigBoned extends ElementsFartsysmagitechproductionsMod.ModEl
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_big_boned")
 	public static final Item block = null;
 	public ItemAMDBigBoned(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 77);
+		super(instance, 76);
 	}
 
 	@Override

@@ -30,7 +30,7 @@ public class ItemJRMetal extends ElementsFartsysmagitechproductionsMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_metal")
 	public static final Item block = null;
 	public ItemJRMetal(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 126);
+		super(instance, 124);
 	}
 
 	@Override

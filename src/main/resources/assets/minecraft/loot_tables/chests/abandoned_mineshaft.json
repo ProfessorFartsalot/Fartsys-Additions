@@ -274,197 +274,102 @@
       "entries": [
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:cluster_unaspected",
+          "name": "fartsysmagitechproductions:cluster_unaspected",
           "weight": 4
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:fc_and_love_you_shall_find",
+          "name": "fartsysmagitechproductions:fc_and_love_you_shall_find",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:fc_athena_the_tireless_one",
+          "name": "fartsysmagitechproductions:fc_athena_the_tireless_one",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:fc_big_boned",
+          "name": "fartsysmagitechproductions:fc_close_in_the_distance",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:fc_close_in_the_distance",
+          "name": "fartsysmagitechproductions:fc_exponential_entropy_primals",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:fc_escape",
+          "name": "fartsysmagitechproductions:fc_metal_brute_justice_mode",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:fc_exponential_entropy_primals",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_footfalls",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_from_the_heavens",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_imagination",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_insatiable",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_locus",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_lunacy",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_lunar_whale",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_metal",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_metal_brute_justice_mode",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_nightbloom",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_penitus",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_scream",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_shadowbringers",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_steel_reason",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_the_ewer_brimmeth",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_to_the_edge",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_torn_from_the_heavens_orchestral",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:fc_wayward_daughter",
-          "weight": 2
-        },
-        {
-          "type": "item",
-          "name": "fartsysmagitechfantasy:cluster_lightning",
+          "name": "fartsysmagitechproductions:cluster_lightning",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:cluster_fire",
+          "name": "fartsysmagitechproductions:cluster_fire",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:cluster_wind",
+          "name": "fartsysmagitechproductions:cluster_wind",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:cluster_water",
+          "name": "fartsysmagitechproductions:cluster_water",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:cluster_earth",
+          "name": "fartsysmagitechproductions:cluster_earth",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:cluster_ice",
+          "name": "fartsysmagitechproductions:cluster_ice",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:shart_one",
+          "name": "fartsysmagitechproductions:shart_one",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:shart_ten",
+          "name": "fartsysmagitechproductions:shart_ten",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:shart_twenty",
+          "name": "fartsysmagitechproductions:shart_twenty",
           "weight": 3
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:shart_hundred",
+          "name": "fartsysmagitechproductions:shart_hundred",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:shart_two_hundred",
+          "name": "fartsysmagitechproductions:shart_two_hundred",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:shart_thousand",
+          "name": "fartsysmagitechproductions:shart_thousand",
           "weight": 2
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:bag_o_rock_salt",
+          "name": "fartsysmagitechproductions:bag_o_rock_salt",
           "weight": 5
         },
         {
           "type": "item",
-          "name": "fartsysmagitechfantasy:pvc_dust",
+          "name": "fartsysmagitechproductions:pvc_dust",
           "weight": 5
         },
         {

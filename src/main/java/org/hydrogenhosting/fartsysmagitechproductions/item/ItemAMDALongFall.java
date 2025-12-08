@@ -25,7 +25,7 @@ public class ItemAMDALongFall extends ElementsFartsysmagitechproductionsMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amda_long_fall")
 	public static final Item block = null;
 	public ItemAMDALongFall(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 68);
+		super(instance, 69);
 	}
 
 	@Override

@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class TabFartsysAdditions extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public TabFartsysAdditions(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 147);
+		super(instance, 145);
 	}
 
 	@Override
@@ -27,9 +27,9 @@ public class TabFartsysAdditions extends ElementsFartsysmagitechproductionsMod.M
 
 			@SideOnly(Side.CLIENT)
 			public boolean hasSearchBar() {
-				return false;
+				return true;
 			}
-		};
+		}.setBackgroundImageName("item_search.png");
 	}
 	public static CreativeTabs tab;
 }

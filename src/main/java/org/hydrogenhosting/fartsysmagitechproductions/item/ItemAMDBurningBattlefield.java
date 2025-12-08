@@ -25,7 +25,7 @@ public class ItemAMDBurningBattlefield extends ElementsFartsysmagitechproduction
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_burning_battlefield")
 	public static final Item block = null;
 	public ItemAMDBurningBattlefield(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 79);
+		super(instance, 78);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class ItemAMDWhoBringsShadow extends ElementsFartsysmagitechproductionsMo
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_who_brings_shadow")
 	public static final Item block = null;
 	public ItemAMDWhoBringsShadow(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 111);
+		super(instance, 108);
 	}
 
 	@Override

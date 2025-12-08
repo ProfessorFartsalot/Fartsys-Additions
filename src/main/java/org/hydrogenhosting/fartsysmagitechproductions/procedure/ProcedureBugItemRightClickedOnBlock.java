@@ -5,6 +5,8 @@ import org.hydrogenhosting.fartsysmagitechproductions.ElementsFartsysmagitechpro
 
 import net.minecraft.world.World;
 import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.SoundCategory;
+import net.minecraft.util.ResourceLocation;
 import net.minecraft.potion.PotionEffect;
 import net.minecraft.item.ItemStack;
 import net.minecraft.init.MobEffects;
@@ -18,7 +20,7 @@ import java.util.Map;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class ProcedureBugItemRightClickedOnBlock extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public ProcedureBugItemRightClickedOnBlock(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 341);
+		super(instance, 335);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {
@@ -47,10 +49,20 @@ public class ProcedureBugItemRightClickedOnBlock extends ElementsFartsysmagitech
 		int y = (int) dependencies.get("y");
 		int z = (int) dependencies.get("z");
 		World world = (World) dependencies.get("world");
-		world.setBlockState(new BlockPos((int) x, (int) y, (int) z), Blocks.DOUBLE_PLANT.getStateFromMeta(1), 3);
-		if (entity instanceof EntityLivingBase)
-			((EntityLivingBase) entity).addPotionEffect(new PotionEffect(MobEffects.REGENERATION, (int) 140, (int) 1));
-		if (entity instanceof EntityPlayer)
-			((EntityPlayer) entity).inventory.clearMatchingItems(new ItemStack(ItemBugItem.block, (int) (1)).getItem(), -1, (int) 1, null);
+		if (((entity instanceof EntityPlayer)
+				? ((EntityPlayer) entity).inventory.hasItemStack(new ItemStack(ItemBugItem.block, (int) (1)))
+				: false)) {
+			if (((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == Blocks.AIR.getDefaultState().getBlock())) {
+				world.setBlockState(new BlockPos((int) x, (int) (y + 1), (int) z), Blocks.DOUBLE_PLANT.getStateFromMeta(1), 3);
+				if (entity instanceof EntityLivingBase)
+					((EntityLivingBase) entity).addPotionEffect(new PotionEffect(MobEffects.REGENERATION, (int) 140, (int) 1));
+				if (entity instanceof EntityPlayer)
+					((EntityPlayer) entity).inventory.clearMatchingItems(new ItemStack(ItemBugItem.block, (int) (1)).getItem(), -1, (int) 1, null);
+				world.playSound((EntityPlayer) null, x, y, z,
+						(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY
+								.getObject(new ResourceLocation("fartsysmagitechproductions:kiki.tuturu")),
+						SoundCategory.NEUTRAL, (float) 1, (float) 1);
+			}
+		}
 	}
 }

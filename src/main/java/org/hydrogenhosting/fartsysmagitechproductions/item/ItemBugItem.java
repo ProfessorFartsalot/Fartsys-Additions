@@ -32,7 +32,7 @@ public class ItemBugItem extends ElementsFartsysmagitechproductionsMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:bug_item")
 	public static final Item block = null;
 	public ItemBugItem(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 341);
+		super(instance, 68);
 	}
 
 	@Override

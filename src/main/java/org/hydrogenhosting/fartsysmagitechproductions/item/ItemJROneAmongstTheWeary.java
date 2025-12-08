@@ -30,7 +30,7 @@ public class ItemJROneAmongstTheWeary extends ElementsFartsysmagitechproductions
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_one_amongst_the_weary")
 	public static final Item block = null;
 	public ItemJROneAmongstTheWeary(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 129);
+		super(instance, 127);
 	}
 
 	@Override

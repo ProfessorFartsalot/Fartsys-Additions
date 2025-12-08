@@ -10,7 +10,7 @@ import java.util.Map;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class ProcedureDebugItemRightClickedOnBlock extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public ProcedureDebugItemRightClickedOnBlock(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 245);
+		super(instance, 243);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {
