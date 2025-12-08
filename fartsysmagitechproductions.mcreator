@@ -3491,7 +3491,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRALongFallRightClickedInAir",
@@ -3508,7 +3509,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRPapayaDemasteredRightClickedInAir",
@@ -3525,7 +3527,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRWhoBringsShadowRightClickedInAir",
@@ -3542,7 +3545,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRSandsOfAmberRightClickedInAir",
@@ -3559,7 +3563,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRFiendRightClickedInAir",
@@ -3576,7 +3581,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JRNeathDarkWatersRightClickedInAir",
@@ -3593,7 +3599,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "JROneAmongstTheWearyRightClickedInAir",
@@ -3610,7 +3617,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     }
   ],
   "variable_elements": [],
@@ -3622,38 +3630,6 @@
       ],
       "category": "record",
       "subtitle": "FFXIV - Athena, The Tireless One"
-    },
-    {
-      "name": "ffxiv.scream",
-      "files": [
-        "scream"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Scream"
-    },
-    {
-      "name": "ffxiv.tornfromtheheavensorchestral",
-      "files": [
-        "torn_from_the_heavens_orchestral"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Torn From the Heavens (Orchestral)"
-    },
-    {
-      "name": "ffxiv.escape_journeys",
-      "files": [
-        "escape_journeys"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - eScape (Journeys)"
-    },
-    {
-      "name": "ffxiv.fromtheheavens",
-      "files": [
-        "from_the_heavens"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - From the Heavens (...Hello World!)"
     },
     {
       "name": "ffxiv.closeinthedistance",
@@ -3670,38 +3646,6 @@
       ],
       "category": "record",
       "subtitle": "FFXIV - Footfalls"
-    },
-    {
-      "name": "ffxiv.insatiable",
-      "files": [
-        "insatiable"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Insatiable"
-    },
-    {
-      "name": "ffxiv.totheedge",
-      "files": [
-        "totheedge"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - To The Edge"
-    },
-    {
-      "name": "ffxiv.lunarwhale",
-      "files": [
-        "lunarwhale"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Lunar Whale"
-    },
-    {
-      "name": "ffxiv.shadowbringers",
-      "files": [
-        "shadowbringers"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Shadowbringers"
     },
     {
       "name": "ffxiv.metal",
@@ -3728,44 +3672,12 @@
       "subtitle": "FFXIV - Metal: Brute Justice Mode"
     },
     {
-      "name": "ffxiv.penitus",
-      "files": [
-        "penitus"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Penitus (...Tell me, for whom do you fight?)"
-    },
-    {
       "name": "ffxiv.big_boned",
       "files": [
         "big_boned"
       ],
       "category": "record",
       "subtitle": "FFXIV - Big Boned"
-    },
-    {
-      "name": "ffxiv.imagination",
-      "files": [
-        "imagination"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Imagination"
-    },
-    {
-      "name": "ffxiv.lunacy",
-      "files": [
-        "lunacy"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Lunacy"
-    },
-    {
-      "name": "ffxiv.nightbloom",
-      "files": [
-        "nightbloom"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Nightbloom"
     },
     {
       "name": "ffxiv.papaya",
@@ -3776,28 +3688,12 @@
       "subtitle": "FFXIV - Pa-Paya"
     },
     {
-      "name": "ffxiv.steel_reason",
-      "files": [
-        "steel_reason"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Steel Reason"
-    },
-    {
       "name": "ffxiv.the_ewer_brimmeth",
       "files": [
         "the_ewer_brimmeth"
       ],
       "category": "record",
       "subtitle": "FFXIV - The Ewer Brimmeth"
-    },
-    {
-      "name": "ffxiv.wayward_daughter",
-      "files": [
-        "wayward_daughter"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Wayward Daughter"
     },
     {
       "name": "la_cucuracha",
@@ -4024,14 +3920,6 @@
       "subtitle": "FFXIV - A Long Fall (The Twinning)"
     },
     {
-      "name": "ffdnt.triumph",
-      "files": [
-        "triumph_dissidiant"
-      ],
-      "category": "record",
-      "subtitle": "FF Dissidia NT - Triumph"
-    },
-    {
       "name": "ffxiv.papaya_demastered",
       "files": [
         "papaya_demastered"
@@ -4120,14 +4008,6 @@
       "subtitle": "FFXIV - Insatiable (Fartsy Chiptune)"
     },
     {
-      "name": "ffxiv.hicsvntleones",
-      "files": [
-        "hicsvntleones"
-      ],
-      "category": "record",
-      "subtitle": "FFXIV - Hic Svnt Leones (Hesperos Theme)"
-    },
-    {
       "name": "ffxiv.oneamongsttheweary",
       "files": [
         "oneamongsttheweary"
@@ -4158,15 +4038,15 @@
       "item.fartsysadditions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
       "item.fartsysadditions.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
       "item.record.amd_metal.desc": "FFXIV - Metal",
-      "subtitles.ffxiv.wayward_daughter": "FFXIV - Wayward Daughter",
       "subtitles.lacucuracha": "La Cucuracha",
+      "subtitles.ffxiv.wayward_daughter": "FFXIV - Wayward Daughter",
       "subtitles.ffxiv.primals.locus": "Final Fantasy XIV - The Primals - Locus",
       "item.jr_interphos_p_1.name": "\"The Interphos (Phase 1)\" Jukebox Roll",
       "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "item.record.amd_between_heaven_and_earth.desc": "Fire Emblem 3H - Between Heaven and Earth (Fartsy Chiptune)",
       "advancements.adv_pvc_powder.title": "Molten? Powdered? Music Disc..?",
-      "advancements.adv_100k_sharts.title": "A very large shart",
       "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
+      "advancements.adv_100k_sharts.title": "A very large shart",
       "item.fc_close_in_the_distance.name": "Faded Copy of Close in the Distance",
       "item.amd_burning_battlefield.name": "Aetherial Music Disc - Burning Battlefield",
       "item.record.amd_chips_of_nature.desc": "Metal Gear Rising: Revengeance - Rules of Nature (Fartsy Chiptune)",
@@ -4178,8 +4058,8 @@
       "item.fartsysadditions.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
       "item.record.amd_who_brings_shadow.desc": "FFXIV - Who Brings Shadow (Hades Theme)",
       "subtitles.ffxiv.big_boned": "FFXIV - Big Boned",
-      "item.cluster_water.name": "Water Cluster",
       "item.crystal_lightning.name": "Lightning Crystal",
+      "item.cluster_water.name": "Water Cluster",
       "advancements.adv_shart_death.descr": "RIP. We warned you not to eat it.",
       "item.record.amd_interphos_p_1.desc": "FFXIV Final Boss Theme (Phase 1)",
       "item.fartsysadditions.ffxiv_insatiable.desc": "Final Fantasy XIV - Insatiable",
@@ -4188,8 +4068,8 @@
       "item.fartsysadditions.slipknot_psychosocial.desc": "Slipknot - Psychosocial",
       "item.fartsysadditions.ffxiv_to_the_edge.desc": "Final Fantasy XIV - To The Edge",
       "item.fc_metal_brute_justice_mode.name": "Faded Copy of Metal: Brute Justice Mode",
-      "item.jr_fiend.name": "\"Fiend\" Jukebox Roll",
       "item.fartsysadditions.faded_a_land_long_dead": "Faded Copy of A Land Long Dead",
+      "item.jr_fiend.name": "\"Fiend\" Jukebox Roll",
       "subtitles.ffxiv.escape_journeys": "FFXIV - eScape (Journeys)",
       "item.fartsysadditions.faded_primals_brute_justice": "Faded Copy of The Primals - Metal - Primals Brute Justice",
       "item.amd_exponential_chiptune.name": "Aetherial Music Disc - Exponential Chiptune",
@@ -4199,11 +4079,11 @@
       "item.fartsysadditions.ffxiv_silent_scream.desc": "Final Fantasy XIV - Silent Scream",
       "item.record.amd_one_amongst_the_weary.desc": "FFXIV - One Amongst The Weary (Anabaseios 9/10 Theme)",
       "item.amd_footfalls.name": "Aetherial Music Disc - Footfalls",
-      "item.cluster_unaspected.name": "Unaspected Cluster",
       "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
+      "item.cluster_unaspected.name": "Unaspected Cluster",
       "item.enchanted_ender_pearl_ink.name": "Enchanted Ender Pearl Ink",
-      "item.jr_footfalls.name": "\"Footfalls\" Jukebox Roll",
       "item.fartsysadditions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "item.jr_footfalls.name": "\"Footfalls\" Jukebox Roll",
       "subtitles.touhou.badapple": "Touhou Project - Bad Apple (nomico)",
       "item.cluster_fire.name": "Fire Cluster",
       "block.fartsysadditions.rock_salt": "Rock Salt",
@@ -4212,8 +4092,8 @@
       "subtitles.fartsy.chipsofnature": "Metal Gear Rising: Revengeance - Rules of Nature (Fartsy Chiptune)",
       "item.jr_locus.name": "\"Locus\" Jukebox Roll",
       "subtitles.fartsy.sweatychips": "Kissone Kinoma - Sweaty Socks (Fartsy Chiptune)",
-      "subtitles.ffxiv.interphosp1": "FFXIV - The Interphos (Phase 1)",
       "item.fartsysadditions.faded_lunar_whale": "Faded Copy of Lunar Whale",
+      "subtitles.ffxiv.interphosp1": "FFXIV - The Interphos (Phase 1)",
       "item.fartsysadditions.bag_o_rock_salt": "Bag O Rock Salt",
       "subtitles.ffxiv.twicestricken": "FFXIV - Twice Stricken",
       "item.fartsysadditions.restored_battle_on_the_big_bridge": "Restored Copy of Battle On The Big Bridge",
@@ -4236,14 +4116,14 @@
       "item.fc_exponential_entropy_primals.name": "Faded Copy of Exponential Entropy (The Primals)",
       "subtitles.ffxiv.undertheweight": "Final Fantasy XIV - Under the Weight (Titan)",
       "subtitles.ffxiv.lunarwhale": "FFXIV - Lunar Whale",
-      "item.fartsysadditions.ffxiv_close_in_the_distance.desc": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
       "item.record.amd_apex_of_the_world.desc": "Fire Emblem 3H - Apex Of The World (Fartsy Chiptune)",
+      "item.fartsysadditions.ffxiv_close_in_the_distance.desc": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
       "subtitles.ffxiv.alongfall": "FFXIV - A Long Fall (The Twinning)",
       "item.fartsysadditions.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
       "subtitles.ffxiv.lunacy": "FFXIV - Lunacy",
       "item.jra_long_fall.name": "\"A Long Fall\" Jukebox Roll",
-      "item.fartsysadditions.ffxiv_primals_exponential_entropy": "FFXIV - The Primals - Exponential Entropy",
       "item.fartsysadditions.restored_primals_locus": "Restored Copy of The Primals - Locus",
+      "item.fartsysadditions.ffxiv_primals_exponential_entropy": "FFXIV - The Primals - Exponential Entropy",
       "item.amd_twice_stricken_instrumental.name": "Aetherial Music Disc - Twice Stricken (Instrumental)",
       "item.amd_metal_brute_justice_mode.name": "Aetherial Music Disc - Metal: Brute Justice Mode",
       "death.attack.waterydemise": "%1$s met a watery demise!",
@@ -4261,8 +4141,8 @@
       "item.record.amd_sweaty_chips.desc": "Kissone Kinoma - Sweaty Socks (Fartsy Chiptune)",
       "item.fartsysadditions.restored_exponential_entropy": "Restored Copy of Exponential Entropy",
       "item.cluster_earth.name": "Earth Cluster",
-      "item.fartsysadditions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
       "item.crystal_fire.name": "Fire Crystal",
+      "item.fartsysadditions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
       "item.record.amd_the_ewer_brimmeth.desc": "FFXIV Old Sharlayan (Day) - The Ewer Brimmeth",
       "item.fartsysadditions.restored_landslide": "Restored Copy of Landslide",
       "subtitles.fartsy.insatiablechips": "FFXIV - Insatiable (Fartsy Chiptune)",
