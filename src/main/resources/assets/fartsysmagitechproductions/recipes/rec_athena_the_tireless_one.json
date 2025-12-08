@@ -1,0 +1,36 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_quartz_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_3_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:fc_athena_the_tireless_one"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_athena_the_tireless_one",
+    "count": 1
+  }
+}

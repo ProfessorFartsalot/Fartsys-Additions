@@ -1,0 +1,13 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:crystal_lightning",
+    "count": 8
+  }
+}

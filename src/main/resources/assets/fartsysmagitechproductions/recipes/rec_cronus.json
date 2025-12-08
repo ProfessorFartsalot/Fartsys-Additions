@@ -1,0 +1,38 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:cluster_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_earth"
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "data": 1
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_wind"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_fire"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:cronus",
+    "count": 1
+  }
+}

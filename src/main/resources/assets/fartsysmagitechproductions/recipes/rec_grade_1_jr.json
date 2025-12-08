@@ -1,0 +1,20 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:paper"
+    },
+    "1": {
+      "item": "fartsysmagitechproductions:shard_wind"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:blank_g_1_jr",
+    "count": 1
+  }
+}

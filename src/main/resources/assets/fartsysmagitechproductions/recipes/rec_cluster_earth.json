@@ -1,0 +1,37 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:cluster_earth",
+    "count": 1
+  }
+}

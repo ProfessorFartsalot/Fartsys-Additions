@@ -1,0 +1,8 @@
+{
+  "parent": "fartsysmagitechproductions:custom/rocksalt",
+  "textures": {
+    "all": "fartsysmagitechproductions:blocks/rocksalt",
+    "particle": "fartsysmagitechproductions:blocks/rocksalt",
+    "texture": "fartsysmagitechproductions:blocks/rocksalt"
+  }
+}

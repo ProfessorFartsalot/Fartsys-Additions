@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "fartsysmagitechproductions:ore_lightning"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:cluster_earth"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_chips_of_nature",
+    "count": 1
+  }
+}

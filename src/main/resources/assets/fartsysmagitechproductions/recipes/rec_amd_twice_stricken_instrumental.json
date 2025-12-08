@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    "1": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "2": {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_twice_stricken_instrumental",
+    "count": 1
+  }
+}

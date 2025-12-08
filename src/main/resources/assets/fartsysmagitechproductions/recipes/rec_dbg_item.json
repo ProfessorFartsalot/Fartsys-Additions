@@ -1,0 +1,42 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "fartsysmagitechproductions:cluster_fire"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_3_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:cluster_wind"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:debug_item",
+    "count": 1
+  }
+}

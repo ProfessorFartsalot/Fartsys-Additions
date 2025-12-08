@@ -1,0 +1,19 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:concrete",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 8
+    }
+  ],
+  "result": {
+    "item": "minecraft:concrete",
+    "data": 7,
+    "count": 1
+  }
+}

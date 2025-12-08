@@ -1,0 +1,37 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:cluster_lightning",
+    "count": 1
+  }
+}

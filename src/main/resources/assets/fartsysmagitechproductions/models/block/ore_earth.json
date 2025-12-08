@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fartsysmagitechproductions:blocks/ore_earth",
+    "up": "fartsysmagitechproductions:blocks/ore_earth",
+    "north": "fartsysmagitechproductions:blocks/ore_earth",
+    "east": "fartsysmagitechproductions:blocks/ore_earth",
+    "south": "fartsysmagitechproductions:blocks/ore_earth",
+    "west": "fartsysmagitechproductions:blocks/ore_earth",
+    "particle": "fartsysmagitechproductions:blocks/ore_earth"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:shart_one",
+    "count": 1
+  }
+}

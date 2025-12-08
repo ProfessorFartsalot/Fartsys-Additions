@@ -1,0 +1,652 @@
+{
+  "ffxiv.athenathetirelessone": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.athenathetirelessone",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:athena_the_tireless_one",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.scream": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.scream",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:scream",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.tornfromtheheavensorchestral": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.tornfromtheheavensorchestral",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:torn_from_the_heavens_orchestral",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.escape_journeys": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.escape_journeys",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:escape_journeys",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.fromtheheavens": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.fromtheheavens",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:from_the_heavens",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.closeinthedistance": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.closeinthedistance",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:closeinthedistance",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.footfalls": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.footfalls",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:footfalls",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.insatiable": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.insatiable",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:insatiable",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.totheedge": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.totheedge",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:totheedge",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.lunarwhale": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.lunarwhale",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:lunarwhale",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.shadowbringers": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.shadowbringers",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:shadowbringers",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.metal": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.metal",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:metalmetal",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.locus": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.locus",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:locus",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.metalbrutejusticemode": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.metalbrutejusticemode",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:brutejustice",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.penitus": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.penitus",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:penitus",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.big_boned": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.big_boned",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:big_boned",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.imagination": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.imagination",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:imagination",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.lunacy": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.lunacy",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:lunacy",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.nightbloom": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.nightbloom",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:nightbloom",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.papaya": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.papaya",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:pa_paya",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.steel_reason": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.steel_reason",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:steel_reason",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.the_ewer_brimmeth": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.the_ewer_brimmeth",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:the_ewer_brimmeth",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.wayward_daughter": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.wayward_daughter",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:wayward_daughter",
+        "stream": true
+      }
+    ]
+  },
+  "la_cucuracha": {
+    "category": "record",
+    "subtitle": "subtitles.la_cucuracha",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:la_cucaracha",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.exponential_entropy_primals": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.exponential_entropy_primals",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:exponential_entropy_primals",
+        "stream": true
+      }
+    ]
+  },
+  "eas": {
+    "category": "block",
+    "subtitle": "subtitles.eas",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:eas",
+        "stream": false
+      }
+    ]
+  },
+  "fartsy.battleagainstatruehero": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.battleagainstatruehero",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:battleagainstatruechiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.betweenchipsandtunes": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.betweenchipsandtunes",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:betweenchipsandtunes",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipcountry": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipcountry",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:chipcountry",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipoiljiggletune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipoiljiggletune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:chipoiljiggletune",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.andloveyoushallfind": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.andloveyoushallfind",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:andloveyoushallfind",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipsofthetunes": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipsofthetunes",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:chips_of_the_tunes",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipsun": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipsun",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:chipsun",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chipsofnature": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chipsofnature",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:rules_of_chiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.chiptunetrigger": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.chiptunetrigger",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:chiptunetrigger",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.driftveilchiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.driftveilchiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:driftveilchiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.dynamitechiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.dynamitechiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:dynamitechiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.exponentialchiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.exponentialchiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:exponentialchiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.nevergonnachiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.nevergonnachiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:nevergonnachiptune",
+        "stream": true
+      }
+    ]
+  },
+  "kissonekinoma.motoroiljigglejungle": {
+    "category": "record",
+    "subtitle": "subtitles.kissonekinoma.motoroiljigglejungle",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:kissonemotoroil",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.sweatychips": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.sweatychips",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:sweatychips",
+        "stream": true
+      }
+    ]
+  },
+  "kissonekinoma.sweatysocks": {
+    "category": "record",
+    "subtitle": "subtitles.kissonekinoma.sweatysocks",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:sweaty_socks",
+        "stream": true
+      }
+    ]
+  },
+  "woad": {
+    "category": "record",
+    "subtitle": "subtitles.woad",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:woad",
+        "stream": true
+      }
+    ]
+  },
+  "emone": {
+    "category": "record",
+    "subtitle": "subtitles.emone",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:emone",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.landslide": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.landslide",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:landslide",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.brutechiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.brutechiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:brutechiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.melanchiptune": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.melanchiptune",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:melanchiptune",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.ffxivtwicestrickendevocalized": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.ffxivtwicestrickendevocalized",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:twicestricken_instrumental",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.twicestricken": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.twicestricken",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:twicestricken_full",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.interphosp1": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.interphosp1",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:interphos",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.alongfall": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.alongfall",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:alongfall",
+        "stream": true
+      }
+    ]
+  },
+  "ffdnt.triumph": {
+    "category": "record",
+    "subtitle": "subtitles.ffdnt.triumph",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:triumph_dissidiant",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.papaya_demastered": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.papaya_demastered",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:papaya_demastered",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.whobringsshadow": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.whobringsshadow",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:whobringsshadow",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.tomorrowandtomorrow": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.tomorrowandtomorrow",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:tomorrowandtomorrow",
+        "stream": true
+      }
+    ]
+  },
+  "xc2.battle": {
+    "category": "record",
+    "subtitle": "subtitles.xc2.battle",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:battle",
+        "stream": true
+      }
+    ]
+  },
+  "xcde.youwillknowournames": {
+    "category": "record",
+    "subtitle": "subtitles.xcde.youwillknowournames",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:youwillknow_remastered",
+        "stream": true
+      }
+    ]
+  },
+  "pokemons1.burningbattlefield": {
+    "category": "record",
+    "subtitle": "subtitles.pokemons1.burningbattlefield",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:burningbattlefield",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.sandsofamber": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.sandsofamber",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:sandsofamber",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.fiend": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.fiend",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:fiend",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.neathdarkwaters": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.neathdarkwaters",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:neathdarkwaters",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.andchipsyoushallfind": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.andchipsyoushallfind",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:andchipsyoushallfind",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.insatiablechips": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.insatiablechips",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:insatiablechips",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.hicsvntleones": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.hicsvntleones",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:hicsvntleones",
+        "stream": true
+      }
+    ]
+  },
+  "ffxiv.oneamongsttheweary": {
+    "category": "record",
+    "subtitle": "subtitles.ffxiv.oneamongsttheweary",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:oneamongsttheweary",
+        "stream": true
+      }
+    ]
+  }
+}

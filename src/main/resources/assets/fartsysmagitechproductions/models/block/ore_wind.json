@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fartsysmagitechproductions:blocks/ore_wind",
+    "up": "fartsysmagitechproductions:blocks/ore_wind",
+    "north": "fartsysmagitechproductions:blocks/ore_wind",
+    "east": "fartsysmagitechproductions:blocks/ore_wind",
+    "south": "fartsysmagitechproductions:blocks/ore_wind",
+    "west": "fartsysmagitechproductions:blocks/ore_wind",
+    "particle": "fartsysmagitechproductions:blocks/ore_wind"
+  }
+}

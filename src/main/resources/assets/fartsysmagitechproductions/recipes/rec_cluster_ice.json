@@ -1,0 +1,37 @@
+{
+  "group": "fartsysmagitechproductions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_ice"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:cluster_ice",
+    "count": 1
+  }
+}
