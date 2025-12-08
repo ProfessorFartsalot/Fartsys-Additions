@@ -56,50 +56,22 @@ public class ElementsFartsysmagitechproductionsMod implements IFuelHandler, IWor
 	public ElementsFartsysmagitechproductionsMod() {
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.athenathetirelessone"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.athenathetirelessone")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.scream"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.scream")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.tornfromtheheavensorchestral"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.tornfromtheheavensorchestral")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.escape_journeys"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.escape_journeys")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.fromtheheavens"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.fromtheheavens")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.closeinthedistance"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.closeinthedistance")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.footfalls"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.footfalls")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.insatiable"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.insatiable")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.totheedge"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.totheedge")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.lunarwhale"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.lunarwhale")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.shadowbringers"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.shadowbringers")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.metal"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.metal")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.locus"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.locus")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.metalbrutejusticemode"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.metalbrutejusticemode")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.penitus"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.penitus")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.big_boned"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.big_boned")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.imagination"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.imagination")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.lunacy"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.lunacy")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.nightbloom"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.nightbloom")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.papaya"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.papaya")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.steel_reason"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.steel_reason")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.the_ewer_brimmeth"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.the_ewer_brimmeth")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.wayward_daughter"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.wayward_daughter")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "la_cucuracha"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "la_cucuracha")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.exponential_entropy_primals"),
@@ -156,8 +128,6 @@ public class ElementsFartsysmagitechproductionsMod implements IFuelHandler, IWor
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.interphosp1")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.alongfall"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.alongfall")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffdnt.triumph"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffdnt.triumph")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.papaya_demastered"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.papaya_demastered")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.whobringsshadow"),
@@ -180,8 +150,6 @@ public class ElementsFartsysmagitechproductionsMod implements IFuelHandler, IWor
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.andchipsyoushallfind")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.insatiablechips"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.insatiablechips")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.hicsvntleones"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.hicsvntleones")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.oneamongsttheweary"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.oneamongsttheweary")));
 	}

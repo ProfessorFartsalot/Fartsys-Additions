@@ -9,46 +9,6 @@
       }
     ]
   },
-  "ffxiv.scream": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.scream",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:scream",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.tornfromtheheavensorchestral": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.tornfromtheheavensorchestral",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:torn_from_the_heavens_orchestral",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.escape_journeys": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.escape_journeys",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:escape_journeys",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.fromtheheavens": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.fromtheheavens",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:from_the_heavens",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.closeinthedistance": {
     "category": "record",
     "subtitle": "subtitles.ffxiv.closeinthedistance",
@@ -65,46 +25,6 @@
     "sounds": [
       {
         "name": "fartsysmagitechproductions:footfalls",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.insatiable": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.insatiable",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:insatiable",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.totheedge": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.totheedge",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:totheedge",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.lunarwhale": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.lunarwhale",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:lunarwhale",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.shadowbringers": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.shadowbringers",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:shadowbringers",
         "stream": true
       }
     ]
@@ -139,52 +59,12 @@
       }
     ]
   },
-  "ffxiv.penitus": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.penitus",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:penitus",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.big_boned": {
     "category": "record",
     "subtitle": "subtitles.ffxiv.big_boned",
     "sounds": [
       {
         "name": "fartsysmagitechproductions:big_boned",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.imagination": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.imagination",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:imagination",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.lunacy": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.lunacy",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:lunacy",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.nightbloom": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.nightbloom",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:nightbloom",
         "stream": true
       }
     ]
@@ -199,32 +79,12 @@
       }
     ]
   },
-  "ffxiv.steel_reason": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.steel_reason",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:steel_reason",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.the_ewer_brimmeth": {
     "category": "record",
     "subtitle": "subtitles.ffxiv.the_ewer_brimmeth",
     "sounds": [
       {
         "name": "fartsysmagitechproductions:the_ewer_brimmeth",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.wayward_daughter": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.wayward_daughter",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:wayward_daughter",
         "stream": true
       }
     ]
@@ -509,16 +369,6 @@
       }
     ]
   },
-  "ffdnt.triumph": {
-    "category": "record",
-    "subtitle": "subtitles.ffdnt.triumph",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:triumph_dissidiant",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.papaya_demastered": {
     "category": "record",
     "subtitle": "subtitles.ffxiv.papaya_demastered",
@@ -625,16 +475,6 @@
     "sounds": [
       {
         "name": "fartsysmagitechproductions:insatiablechips",
-        "stream": true
-      }
-    ]
-  },
-  "ffxiv.hicsvntleones": {
-    "category": "record",
-    "subtitle": "subtitles.ffxiv.hicsvntleones",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:hicsvntleones",
         "stream": true
       }
     ]
