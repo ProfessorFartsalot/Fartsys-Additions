@@ -25,7 +25,7 @@ public class ItemAMDOneAmongstTheWeary extends ElementsFartsysmagitechproduction
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_one_amongst_the_weary")
 	public static final Item block = null;
 	public ItemAMDOneAmongstTheWeary(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 107);
+		super(instance, 100);
 	}
 
 	@Override

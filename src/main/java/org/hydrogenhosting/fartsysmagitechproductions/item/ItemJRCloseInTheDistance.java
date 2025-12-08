@@ -30,7 +30,7 @@ public class ItemJRCloseInTheDistance extends ElementsFartsysmagitechproductions
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_close_in_the_distance")
 	public static final Item block = null;
 	public ItemJRCloseInTheDistance(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 133);
+		super(instance, 118);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemFCAndLoveYouShallFind extends ElementsFartsysmagitechproduction
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:fc_and_love_you_shall_find")
 	public static final Item block = null;
 	public ItemFCAndLoveYouShallFind(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 167);
+		super(instance, 136);
 	}
 
 	@Override

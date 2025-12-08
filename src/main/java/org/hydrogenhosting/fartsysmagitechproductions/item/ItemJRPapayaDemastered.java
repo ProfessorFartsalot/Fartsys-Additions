@@ -30,7 +30,7 @@ public class ItemJRPapayaDemastered extends ElementsFartsysmagitechproductionsMo
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_papaya_demastered")
 	public static final Item block = null;
 	public ItemJRPapayaDemastered(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 153);
+		super(instance, 131);
 	}
 
 	@Override

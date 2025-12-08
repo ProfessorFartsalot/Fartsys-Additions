@@ -30,7 +30,7 @@ public class ItemJRWhoBringsShadow extends ElementsFartsysmagitechproductionsMod
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_who_brings_shadow")
 	public static final Item block = null;
 	public ItemJRWhoBringsShadow(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 166);
+		super(instance, 135);
 	}
 
 	@Override

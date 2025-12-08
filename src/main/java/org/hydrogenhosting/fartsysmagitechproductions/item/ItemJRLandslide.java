@@ -30,7 +30,7 @@ public class ItemJRLandslide extends ElementsFartsysmagitechproductionsMod.ModEl
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_landslide")
 	public static final Item block = null;
 	public ItemJRLandslide(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 143);
+		super(instance, 123);
 	}
 
 	@Override

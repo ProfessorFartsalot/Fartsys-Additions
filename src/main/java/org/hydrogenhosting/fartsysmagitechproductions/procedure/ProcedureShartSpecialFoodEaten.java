@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class ProcedureShartSpecialFoodEaten extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public ProcedureShartSpecialFoodEaten(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 194);
+		super(instance, 150);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

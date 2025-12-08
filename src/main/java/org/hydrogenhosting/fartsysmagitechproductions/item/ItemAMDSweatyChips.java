@@ -25,7 +25,7 @@ public class ItemAMDSweatyChips extends ElementsFartsysmagitechproductionsMod.Mo
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_sweaty_chips")
 	public static final Item block = null;
 	public ItemAMDSweatyChips(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 117);
+		super(instance, 106);
 	}
 
 	@Override

@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class TabFartsysAdditions extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public TabFartsysAdditions(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 191);
+		super(instance, 147);
 	}
 
 	@Override

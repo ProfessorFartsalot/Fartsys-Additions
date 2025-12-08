@@ -119,16 +119,6 @@
       }
     ]
   },
-  "fartsy.battleagainstatruehero": {
-    "category": "record",
-    "subtitle": "subtitles.fartsy.battleagainstatruehero",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:battleagainstatruechiptune",
-        "stream": true
-      }
-    ]
-  },
   "fartsy.betweenchipsandtunes": {
     "category": "record",
     "subtitle": "subtitles.fartsy.betweenchipsandtunes",
@@ -319,26 +309,6 @@
       }
     ]
   },
-  "fartsy.melanchiptune": {
-    "category": "record",
-    "subtitle": "subtitles.fartsy.melanchiptune",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:melanchiptune",
-        "stream": true
-      }
-    ]
-  },
-  "fartsy.ffxivtwicestrickendevocalized": {
-    "category": "record",
-    "subtitle": "subtitles.fartsy.ffxivtwicestrickendevocalized",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:twicestricken_instrumental",
-        "stream": true
-      }
-    ]
-  },
   "ffxiv.twicestricken": {
     "category": "record",
     "subtitle": "subtitles.ffxiv.twicestricken",
@@ -459,16 +429,6 @@
       }
     ]
   },
-  "fartsy.andchipsyoushallfind": {
-    "category": "record",
-    "subtitle": "subtitles.fartsy.andchipsyoushallfind",
-    "sounds": [
-      {
-        "name": "fartsysmagitechproductions:andchipsyoushallfind",
-        "stream": true
-      }
-    ]
-  },
   "fartsy.insatiablechips": {
     "category": "record",
     "subtitle": "subtitles.fartsy.insatiablechips",
@@ -485,6 +445,16 @@
     "sounds": [
       {
         "name": "fartsysmagitechproductions:oneamongsttheweary",
+        "stream": true
+      }
+    ]
+  },
+  "fartsy.badapplefc": {
+    "category": "record",
+    "subtitle": "subtitles.fartsy.badapplefc",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:badapplefc",
         "stream": true
       }
     ]

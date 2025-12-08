@@ -25,7 +25,7 @@ public class ItemAMDLandslide extends ElementsFartsysmagitechproductionsMod.ModE
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_landslide")
 	public static final Item block = null;
 	public ItemAMDLandslide(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 96);
+		super(instance, 91);
 	}
 
 	@Override

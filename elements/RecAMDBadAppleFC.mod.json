@@ -10,37 +10,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
-      },
-      {
-        "value": "CUSTOM:ClusterEarth"
-      },
-      {
-        "value": ""
+        "value": "CUSTOM:ClusterIce"
       },
       {
         "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:ClusterIce"
+      },
+      {
+        "value": "Items.APPLE"
       },
       {
         "value": "CUSTOM:DebugItem"
       },
       {
-        "value": "CUSTOM:PVCPlastic"
+        "value": "Items.POISONOUS_POTATO"
       },
       {
-        "value": ""
+        "value": "CUSTOM:ClusterFire"
       },
       {
         "value": "CUSTOM:BlankG3JR"
       },
       {
-        "value": ""
+        "value": "CUSTOM:ClusterFire"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:AMDAndChipsYouShallFind"
+      "value": "CUSTOM:AMDBadAppleFC"
     },
-    "name": "rec_and_chips_you_shall_find",
+    "name": "rec_amd_bad_apple_fc",
     "namespace": "mod"
   }
 }

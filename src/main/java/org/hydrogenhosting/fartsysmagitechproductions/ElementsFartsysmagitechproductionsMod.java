@@ -78,8 +78,6 @@ public class ElementsFartsysmagitechproductionsMod implements IFuelHandler, IWor
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.exponential_entropy_primals")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "eas"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "eas")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.battleagainstatruehero"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.battleagainstatruehero")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.betweenchipsandtunes"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.betweenchipsandtunes")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.chipcountry"),
@@ -118,10 +116,6 @@ public class ElementsFartsysmagitechproductionsMod implements IFuelHandler, IWor
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.landslide")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.brutechiptune"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.brutechiptune")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.melanchiptune"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.melanchiptune")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.ffxivtwicestrickendevocalized"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.ffxivtwicestrickendevocalized")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.twicestricken"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.twicestricken")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.interphosp1"),
@@ -146,12 +140,12 @@ public class ElementsFartsysmagitechproductionsMod implements IFuelHandler, IWor
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.fiend")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.neathdarkwaters"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.neathdarkwaters")));
-		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.andchipsyoushallfind"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.andchipsyoushallfind")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.insatiablechips"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.insatiablechips")));
 		sounds.put(new ResourceLocation("fartsysmagitechproductions", "ffxiv.oneamongsttheweary"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "ffxiv.oneamongsttheweary")));
+		sounds.put(new ResourceLocation("fartsysmagitechproductions", "fartsy.badapplefc"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsysmagitechproductions", "fartsy.badapplefc")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

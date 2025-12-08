@@ -30,7 +30,7 @@ public class ItemJRSandsOfAmber extends ElementsFartsysmagitechproductionsMod.Mo
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_sands_of_amber")
 	public static final Item block = null;
 	public ItemJRSandsOfAmber(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 155);
+		super(instance, 132);
 	}
 
 	@Override

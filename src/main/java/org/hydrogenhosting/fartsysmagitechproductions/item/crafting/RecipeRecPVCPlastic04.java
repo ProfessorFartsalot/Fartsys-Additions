@@ -13,7 +13,7 @@ import net.minecraft.init.Items;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class RecipeRecPVCPlastic04 extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public RecipeRecPVCPlastic04(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 202);
+		super(instance, 158);
 	}
 
 	@Override

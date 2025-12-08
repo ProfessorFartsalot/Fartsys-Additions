@@ -30,7 +30,7 @@ public class ItemJRBigBoned extends ElementsFartsysmagitechproductionsMod.ModEle
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_big_boned")
 	public static final Item block = null;
 	public ItemJRBigBoned(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 132);
+		super(instance, 117);
 	}
 
 	@Override

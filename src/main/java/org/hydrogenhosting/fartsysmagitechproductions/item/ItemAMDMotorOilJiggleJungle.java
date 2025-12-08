@@ -25,7 +25,7 @@ public class ItemAMDMotorOilJiggleJungle extends ElementsFartsysmagitechproducti
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_motor_oil_jiggle_jungle")
 	public static final Item block = null;
 	public ItemAMDMotorOilJiggleJungle(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 104);
+		super(instance, 98);
 	}
 
 	@Override

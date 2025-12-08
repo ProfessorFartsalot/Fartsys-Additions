@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
 public class TabFMFMusic extends ElementsFartsysmagitechproductionsMod.ModElement {
 	public TabFMFMusic(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 232);
+		super(instance, 184);
 	}
 
 	@Override

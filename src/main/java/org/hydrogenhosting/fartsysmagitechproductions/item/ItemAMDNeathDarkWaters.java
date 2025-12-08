@@ -25,7 +25,7 @@ public class ItemAMDNeathDarkWaters extends ElementsFartsysmagitechproductionsMo
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_neath_dark_waters")
 	public static final Item block = null;
 	public ItemAMDNeathDarkWaters(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 103);
+		super(instance, 97);
 	}
 
 	@Override

@@ -2,14 +2,14 @@
   "_fv": 18,
   "_type": "musicdisc",
   "definition": {
-    "texture": "disc11",
-    "name": "Aetherial Music Disc - Twice Stricken (Instrumental)",
-    "description": "FFXIV - Twice Stricken (De-Vocalized by Fartsy)",
+    "texture": "disc0e",
+    "name": "Aetherial Music Disc - Bad Apple-FC",
+    "description": "Fartsy - Bad Apple (2017 GXSCC Beta Famicom Mix)",
     "creativeTab": {
       "value": "CUSTOM:FMFMusic"
     },
     "music": {
-      "value": "CUSTOM:fartsy.ffxivtwicestrickendevocalized"
+      "value": "CUSTOM:fartsy.badapplefc"
     },
     "specialInfo": [
       "Item is aetherial. Can not be melted down into PVC dust."

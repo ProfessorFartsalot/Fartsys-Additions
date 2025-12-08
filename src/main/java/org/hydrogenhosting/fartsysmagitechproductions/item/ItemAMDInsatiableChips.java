@@ -25,7 +25,7 @@ public class ItemAMDInsatiableChips extends ElementsFartsysmagitechproductionsMo
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_insatiable_chips")
 	public static final Item block = null;
 	public ItemAMDInsatiableChips(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 94);
+		super(instance, 89);
 	}
 
 	@Override

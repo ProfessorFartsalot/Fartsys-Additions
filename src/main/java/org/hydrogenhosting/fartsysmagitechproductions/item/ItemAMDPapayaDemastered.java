@@ -25,7 +25,7 @@ public class ItemAMDPapayaDemastered extends ElementsFartsysmagitechproductionsM
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_papaya_demastered")
 	public static final Item block = null;
 	public ItemAMDPapayaDemastered(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 109);
+		super(instance, 102);
 	}
 
 	@Override

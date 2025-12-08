@@ -21,11 +21,11 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import java.util.List;
 
 @ElementsFartsysmagitechproductionsMod.ModElement.Tag
-public class ItemAMDMelanchiptune extends ElementsFartsysmagitechproductionsMod.ModElement {
-	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_melanchiptune")
+public class ItemAMDBadAppleFC extends ElementsFartsysmagitechproductionsMod.ModElement {
+	@GameRegistry.ObjectHolder("fartsysmagitechproductions:amd_bad_apple_fc")
 	public static final Item block = null;
-	public ItemAMDMelanchiptune(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 100);
+	public ItemAMDBadAppleFC(ElementsFartsysmagitechproductionsMod instance) {
+		super(instance, 113);
 	}
 
 	@Override
@@ -36,21 +36,15 @@ public class ItemAMDMelanchiptune extends ElementsFartsysmagitechproductionsMod.
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechproductions:amd_melanchiptune", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("fartsysmagitechproductions:amd_bad_apple_fc", "inventory"));
 	}
 	public static class MusicDiscItemCustom extends ItemRecord {
 		public MusicDiscItemCustom() {
-			super("amd_melanchiptune",
-					ElementsFartsysmagitechproductionsMod.sounds.get(new ResourceLocation("fartsysmagitechproductions:fartsy.melanchiptune")));
-			setUnlocalizedName("amd_melanchiptune");
-			setRegistryName("amd_melanchiptune");
+			super("amd_bad_apple_fc",
+					ElementsFartsysmagitechproductionsMod.sounds.get(new ResourceLocation("fartsysmagitechproductions:fartsy.badapplefc")));
+			setUnlocalizedName("amd_bad_apple_fc");
+			setRegistryName("amd_bad_apple_fc");
 			setCreativeTab(TabFMFMusic.tab);
-		}
-
-		@Override
-		@SideOnly(Side.CLIENT)
-		public boolean hasEffect(ItemStack itemstack) {
-			return true;
 		}
 
 		@Override

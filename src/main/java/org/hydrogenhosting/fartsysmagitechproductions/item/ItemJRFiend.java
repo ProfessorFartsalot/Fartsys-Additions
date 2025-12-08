@@ -30,7 +30,7 @@ public class ItemJRFiend extends ElementsFartsysmagitechproductionsMod.ModElemen
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_fiend")
 	public static final Item block = null;
 	public ItemJRFiend(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 136);
+		super(instance, 120);
 	}
 
 	@Override

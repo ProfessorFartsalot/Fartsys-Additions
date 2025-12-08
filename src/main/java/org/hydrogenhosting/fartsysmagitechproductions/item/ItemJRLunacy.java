@@ -30,7 +30,7 @@ public class ItemJRLunacy extends ElementsFartsysmagitechproductionsMod.ModEleme
 	@GameRegistry.ObjectHolder("fartsysmagitechproductions:jr_lunacy")
 	public static final Item block = null;
 	public ItemJRLunacy(ElementsFartsysmagitechproductionsMod instance) {
-		super(instance, 145);
+		super(instance, 125);
 	}
 
 	@Override
