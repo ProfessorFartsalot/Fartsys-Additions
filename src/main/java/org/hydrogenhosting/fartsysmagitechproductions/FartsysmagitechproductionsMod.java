@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = FartsysmagitechproductionsMod.MODID, version = FartsysmagitechproductionsMod.VERSION)
 public class FartsysmagitechproductionsMod {
 	public static final String MODID = "fartsysmagitechproductions";
-	public static final String VERSION = "2.0.0";
+	public static final String VERSION = "2.0.0c";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("fartsysmagitechpro:a");
 	@SidedProxy(clientSide = "org.hydrogenhosting.fartsysmagitechproductions.ClientProxyFartsysmagitechproductionsMod", serverSide = "org.hydrogenhosting.fartsysmagitechproductions.ServerProxyFartsysmagitechproductionsMod")
 	public static IProxyFartsysmagitechproductionsMod proxy;
