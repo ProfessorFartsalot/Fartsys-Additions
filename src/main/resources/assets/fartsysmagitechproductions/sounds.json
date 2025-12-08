@@ -458,5 +458,15 @@
         "stream": true
       }
     ]
+  },
+  "kiki.clozee_koto": {
+    "category": "record",
+    "subtitle": "subtitles.kiki.clozee_koto",
+    "sounds": [
+      {
+        "name": "fartsysmagitechproductions:koto",
+        "stream": true
+      }
+    ]
   }
 }

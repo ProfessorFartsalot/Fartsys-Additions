@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "professor",
+    "texture": "kiki",
     "customModelName": "Normal",
-    "name": "Mini Fartsy",
+    "name": "Mini Kiki",
     "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:FartsysAdditions"
@@ -25,14 +25,15 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Previously the Debug Item. Did nothing until now. Used in some crafting recipes"
+      "You've heard of the Debug Item",
+      "now meet its other half."
     ],
-    "hasGlow": false,
+    "hasGlow": true,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
     "onRightClickedOnBlock": {
-      "name": "DebugItemRightClickedOnBlock"
+      "name": "BugItemRightClickedOnBlock"
     }
   }
 }

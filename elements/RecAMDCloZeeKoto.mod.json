@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:ClusterLightning"
+      },
+      {
+        "value": "CUSTOM:BugItem"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      },
+      {
+        "value": "CUSTOM:BlankG3JR"
+      },
+      {
+        "value": "CUSTOM:PVCPlastic"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AMDCloZeeKoto"
+    },
+    "name": "rec_amd_clo_zee_koto",
+    "namespace": "mod"
+  }
+}
