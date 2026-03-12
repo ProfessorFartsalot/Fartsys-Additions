@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "fartsysmagitechproductions:rock_salt"
+    "": {
+      "model": "fartsysmagitechproductions:block/rock_salt"
     }
   }
 }

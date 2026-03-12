@@ -1,7 +1,4 @@
 {
-  "id_map": {
-    "GUI": 1
-  },
   "mod_elements": [
     {
       "name": "DebugItem",
@@ -515,22 +512,11 @@
       "path": "~/Advancements"
     },
     {
-      "name": "WaffleOfAssDestruction",
-      "type": "food",
-      "sortid": 66,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "waffle_of_ass_destruction",
-      "path": "~/Misc"
-    },
-    {
       "name": "RecLaCucuracha",
       "type": "recipe",
       "sortid": 178,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_la_cucuracha",
       "path": "~/Recipes"
     },
@@ -540,7 +526,6 @@
       "sortid": 72,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_athena_the_tireless_one",
       "path": "~/Music Discs"
     },
@@ -550,7 +535,6 @@
       "sortid": 80,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_close_in_the_distance",
       "path": "~/Music Discs"
     },
@@ -560,7 +544,6 @@
       "sortid": 87,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_footfalls",
       "path": "~/Music Discs"
     },
@@ -570,7 +553,6 @@
       "sortid": 70,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_and_love_you_shall_find",
       "path": "~/Music Discs"
     },
@@ -580,7 +562,6 @@
       "sortid": 93,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_metal",
       "path": "~/Music Discs"
     },
@@ -590,7 +571,6 @@
       "sortid": 94,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_metal_brute_justice_mode",
       "path": "~/Music Discs"
     },
@@ -600,7 +580,6 @@
       "sortid": 91,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_locus",
       "path": "~/Music Discs"
     },
@@ -610,7 +589,6 @@
       "sortid": 179,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_athena_the_tireless_one_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -628,7 +606,6 @@
       "sortid": 114,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_athena_the_tireless_one",
       "path": "~/Music Discs"
     },
@@ -638,7 +615,6 @@
       "sortid": 116,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_close_in_the_distance",
       "path": "~/Music Discs"
     },
@@ -648,7 +624,6 @@
       "sortid": 180,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_close_in_the_distance_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -666,7 +641,6 @@
       "sortid": 119,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_footfalls",
       "path": "~/Music Discs"
     },
@@ -676,7 +650,6 @@
       "sortid": 181,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_footfalls_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -694,7 +667,6 @@
       "sortid": 182,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fmf_music",
       "path": "~/Music Discs"
     },
@@ -704,7 +676,6 @@
       "sortid": 113,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_and_love_you_shall_find",
       "path": "~/Music Discs"
     },
@@ -714,7 +685,6 @@
       "sortid": 183,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_and_love_you_shall_find_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -732,7 +702,6 @@
       "sortid": 124,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_metal",
       "path": "~/Music Discs"
     },
@@ -742,7 +711,6 @@
       "sortid": 184,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_metal_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -760,7 +728,6 @@
       "sortid": 125,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_metal_brute_justice_mode",
       "path": "~/Music Discs"
     },
@@ -770,7 +737,6 @@
       "sortid": 185,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_metal_brute_justice_mode_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -788,7 +754,6 @@
       "sortid": 122,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_locus",
       "path": "~/Music Discs"
     },
@@ -798,7 +763,6 @@
       "sortid": 186,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_locus_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -816,7 +780,6 @@
       "sortid": 135,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_athena_the_tireless_one",
       "path": "~/Music Discs"
     },
@@ -826,7 +789,6 @@
       "sortid": 137,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_close_in_the_distance",
       "path": "~/Music Discs"
     },
@@ -836,7 +798,6 @@
       "sortid": 139,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_footfalls",
       "path": "~/Music Discs"
     },
@@ -846,7 +807,6 @@
       "sortid": 134,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_and_love_you_shall_find",
       "path": "~/Music Discs"
     },
@@ -856,7 +816,6 @@
       "sortid": 142,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_metal",
       "path": "~/Music Discs"
     },
@@ -866,7 +825,6 @@
       "sortid": 143,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_metal_brute_justice_mode",
       "path": "~/Music Discs"
     },
@@ -876,7 +834,6 @@
       "sortid": 140,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_locus",
       "path": "~/Music Discs"
     },
@@ -886,7 +843,6 @@
       "sortid": 10,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shard_earth",
       "path": "~/Misc"
     },
@@ -896,7 +852,6 @@
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shard_fire",
       "path": "~/Misc"
     },
@@ -906,7 +861,6 @@
       "sortid": 16,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shard_ice",
       "path": "~/Misc"
     },
@@ -916,7 +870,6 @@
       "sortid": 19,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shard_lightning",
       "path": "~/Misc"
     },
@@ -926,7 +879,6 @@
       "sortid": 22,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shard_unaspected",
       "path": "~/Misc"
     },
@@ -936,7 +888,6 @@
       "sortid": 25,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shard_water",
       "path": "~/Misc"
     },
@@ -946,7 +897,6 @@
       "sortid": 28,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shard_wind",
       "path": "~/Misc"
     },
@@ -956,7 +906,6 @@
       "sortid": 11,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "crystal_earth",
       "path": "~/Misc"
     },
@@ -966,7 +915,6 @@
       "sortid": 14,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "crystal_fire",
       "path": "~/Misc"
     },
@@ -976,7 +924,6 @@
       "sortid": 17,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "crystal_ice",
       "path": "~/Misc"
     },
@@ -986,7 +933,6 @@
       "sortid": 20,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "crystal_lightning",
       "path": "~/Misc"
     },
@@ -996,7 +942,6 @@
       "sortid": 23,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "crystal_unaspected",
       "path": "~/Misc"
     },
@@ -1006,7 +951,6 @@
       "sortid": 26,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "crystal_water",
       "path": "~/Misc"
     },
@@ -1016,7 +960,6 @@
       "sortid": 29,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "crystal_wind",
       "path": "~/Misc"
     },
@@ -1026,7 +969,6 @@
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cluster_earth",
       "path": "~/Misc"
     },
@@ -1036,7 +978,6 @@
       "sortid": 15,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cluster_fire",
       "path": "~/Misc"
     },
@@ -1046,7 +987,6 @@
       "sortid": 18,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cluster_ice",
       "path": "~/Misc"
     },
@@ -1056,7 +996,6 @@
       "sortid": 21,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cluster_lightning",
       "path": "~/Misc"
     },
@@ -1066,7 +1005,6 @@
       "sortid": 24,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cluster_unaspected",
       "path": "~/Misc"
     },
@@ -1076,7 +1014,6 @@
       "sortid": 27,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cluster_water",
       "path": "~/Misc"
     },
@@ -1086,7 +1023,6 @@
       "sortid": 30,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cluster_wind",
       "path": "~/Misc"
     },
@@ -1096,7 +1032,6 @@
       "sortid": 187,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shard_earth",
       "path": "~/Recipes"
     },
@@ -1106,7 +1041,6 @@
       "sortid": 188,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shard_fire",
       "path": "~/Recipes"
     },
@@ -1116,7 +1050,6 @@
       "sortid": 189,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shard_ice",
       "path": "~/Recipes"
     },
@@ -1126,7 +1059,6 @@
       "sortid": 190,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shard_lightning",
       "path": "~/Recipes"
     },
@@ -1136,7 +1068,6 @@
       "sortid": 191,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shard_unaspected",
       "path": "~/Recipes"
     },
@@ -1146,7 +1077,6 @@
       "sortid": 192,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shard_water",
       "path": "~/Recipes"
     },
@@ -1156,7 +1086,6 @@
       "sortid": 193,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shard_wind",
       "path": "~/Recipes"
     },
@@ -1166,7 +1095,6 @@
       "sortid": 194,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_earth",
       "path": "~/Recipes"
     },
@@ -1176,7 +1104,6 @@
       "sortid": 195,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_fire",
       "path": "~/Recipes"
     },
@@ -1186,7 +1113,6 @@
       "sortid": 196,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_ice",
       "path": "~/Recipes"
     },
@@ -1196,7 +1122,6 @@
       "sortid": 197,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_lightning",
       "path": "~/Recipes"
     },
@@ -1206,7 +1131,6 @@
       "sortid": 198,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_unaspected",
       "path": "~/Recipes"
     },
@@ -1216,7 +1140,6 @@
       "sortid": 199,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_water",
       "path": "~/Recipes"
     },
@@ -1226,7 +1149,6 @@
       "sortid": 200,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_wind",
       "path": "~/Recipes"
     },
@@ -1236,7 +1158,6 @@
       "sortid": 201,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_earth_cluster",
       "path": "~/Recipes"
     },
@@ -1246,7 +1167,6 @@
       "sortid": 202,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_fire_cluster",
       "path": "~/Recipes"
     },
@@ -1256,7 +1176,6 @@
       "sortid": 203,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_ice_cluster",
       "path": "~/Recipes"
     },
@@ -1266,7 +1185,6 @@
       "sortid": 204,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_lightning_cluster",
       "path": "~/Recipes"
     },
@@ -1276,7 +1194,6 @@
       "sortid": 205,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_unaspected_cluster",
       "path": "~/Recipes"
     },
@@ -1286,7 +1203,6 @@
       "sortid": 206,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_water_cluster",
       "path": "~/Recipes"
     },
@@ -1296,7 +1212,6 @@
       "sortid": 207,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_crystal_wind_cluster",
       "path": "~/Recipes"
     },
@@ -1306,7 +1221,6 @@
       "sortid": 208,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_cluster_earth",
       "path": "~/Recipes"
     },
@@ -1316,7 +1230,6 @@
       "sortid": 209,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_cluster_fire",
       "path": "~/Recipes"
     },
@@ -1326,7 +1239,6 @@
       "sortid": 210,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_cluster_ice",
       "path": "~/Recipes"
     },
@@ -1336,7 +1248,6 @@
       "sortid": 211,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_cluster_lightning",
       "path": "~/Recipes"
     },
@@ -1346,7 +1257,6 @@
       "sortid": 212,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_cluster_unaspected",
       "path": "~/Recipes"
     },
@@ -1356,7 +1266,6 @@
       "sortid": 213,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_cluster_water",
       "path": "~/Recipes"
     },
@@ -1366,7 +1275,6 @@
       "sortid": 214,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_cluster_wind",
       "path": "~/Recipes"
     },
@@ -1376,7 +1284,6 @@
       "sortid": 31,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "blank_g_1_jr",
       "path": "~/Misc"
     },
@@ -1386,7 +1293,6 @@
       "sortid": 32,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "blank_g_2_jr",
       "path": "~/Misc"
     },
@@ -1396,7 +1302,6 @@
       "sortid": 33,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "blank_g_3_jr",
       "path": "~/Misc"
     },
@@ -1406,7 +1311,6 @@
       "sortid": 215,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_grade_1_jr",
       "path": "~/Recipes"
     },
@@ -1416,7 +1320,6 @@
       "sortid": 216,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_grade_2_jr",
       "path": "~/Recipes"
     },
@@ -1426,7 +1329,6 @@
       "sortid": 217,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_grade_3_jr",
       "path": "~/Recipes"
     },
@@ -1436,7 +1338,6 @@
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_unaspected",
       "path": "~/Misc"
     },
@@ -1446,7 +1347,6 @@
       "sortid": 76,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_big_boned",
       "path": "~/Music Discs"
     },
@@ -1456,7 +1356,6 @@
       "sortid": 99,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_pa_paya",
       "path": "~/Music Discs"
     },
@@ -1466,7 +1365,6 @@
       "sortid": 106,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_the_ewer_brimmeth",
       "path": "~/Music Discs"
     },
@@ -1476,7 +1374,6 @@
       "sortid": 218,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_big_boned_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -1494,7 +1391,6 @@
       "sortid": 115,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_big_boned",
       "path": "~/Music Discs"
     },
@@ -1504,7 +1400,6 @@
       "sortid": 128,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_pa_paya",
       "path": "~/Music Discs"
     },
@@ -1514,7 +1409,6 @@
       "sortid": 220,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_pa_paya_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -1532,7 +1426,6 @@
       "sortid": 131,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_the_ewer_brimmeth",
       "path": "~/Music Discs"
     },
@@ -1542,7 +1435,6 @@
       "sortid": 221,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_the_ewer_brimmeth_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -1560,7 +1452,6 @@
       "sortid": 136,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_big_boned",
       "path": "~/Music Discs"
     },
@@ -1570,7 +1461,6 @@
       "sortid": 144,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_the_ewer_brimmeth",
       "path": "~/Music Discs"
     },
@@ -1580,7 +1470,6 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_earth",
       "path": "~/Misc"
     },
@@ -1590,7 +1479,6 @@
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_fire",
       "path": "~/Misc"
     },
@@ -1600,7 +1488,6 @@
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_fire_overworld",
       "path": "~/Misc"
     },
@@ -1610,7 +1497,6 @@
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_ice",
       "path": "~/Misc"
     },
@@ -1620,7 +1506,6 @@
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_lightning",
       "path": "~/Misc"
     },
@@ -1630,7 +1515,6 @@
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_lightning_overworld",
       "path": "~/Misc"
     },
@@ -1640,7 +1524,6 @@
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_water",
       "path": "~/Misc"
     },
@@ -1650,7 +1533,6 @@
       "sortid": 9,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "ore_wind",
       "path": "~/Misc"
     },
@@ -1660,7 +1542,6 @@
       "sortid": 34,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_iron_ink",
       "path": "~/Misc"
     },
@@ -1670,7 +1551,6 @@
       "sortid": 35,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_gold_ink",
       "path": "~/Misc"
     },
@@ -1680,7 +1560,6 @@
       "sortid": 36,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_diamond_ink",
       "path": "~/Misc"
     },
@@ -1690,7 +1569,6 @@
       "sortid": 37,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_lapis_ink",
       "path": "~/Misc"
     },
@@ -1700,7 +1578,6 @@
       "sortid": 38,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_redstone_ink",
       "path": "~/Misc"
     },
@@ -1710,7 +1587,6 @@
       "sortid": 39,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_glowstone_ink",
       "path": "~/Misc"
     },
@@ -1720,7 +1596,6 @@
       "sortid": 40,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_emerald_ink",
       "path": "~/Misc"
     },
@@ -1730,7 +1605,6 @@
       "sortid": 41,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_quartz_ink",
       "path": "~/Misc"
     },
@@ -1740,7 +1614,6 @@
       "sortid": 42,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_nether_brick_ink",
       "path": "~/Misc"
     },
@@ -1750,7 +1623,6 @@
       "sortid": 43,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "enchanted_ender_pearl_ink",
       "path": "~/Misc"
     },
@@ -1760,7 +1632,6 @@
       "sortid": 222,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_iron_ink",
       "path": "~/Recipes"
     },
@@ -1770,7 +1641,6 @@
       "sortid": 223,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_gold_ink",
       "path": "~/Recipes"
     },
@@ -1780,7 +1650,6 @@
       "sortid": 224,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_diamond_ink",
       "path": "~/Recipes"
     },
@@ -1790,7 +1659,6 @@
       "sortid": 225,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_lapis_ink",
       "path": "~/Recipes"
     },
@@ -1800,7 +1668,6 @@
       "sortid": 226,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_redstone_ink",
       "path": "~/Recipes"
     },
@@ -1810,7 +1677,6 @@
       "sortid": 227,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_glowstone_ink",
       "path": "~/Recipes"
     },
@@ -1820,7 +1686,6 @@
       "sortid": 228,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_emerald_ink",
       "path": "~/Recipes"
     },
@@ -1830,7 +1695,6 @@
       "sortid": 229,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_quartz_ink",
       "path": "~/Recipes"
     },
@@ -1840,7 +1704,6 @@
       "sortid": 230,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_nether_brick_ink",
       "path": "~/Recipes"
     },
@@ -1850,7 +1713,6 @@
       "sortid": 231,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_enchanted_ender_pearl_ink",
       "path": "~/Recipes"
     },
@@ -1860,7 +1722,6 @@
       "sortid": 232,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_and_love_you_shall_find",
       "path": "~/Recipes"
     },
@@ -1870,7 +1731,6 @@
       "sortid": 233,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_athena_the_tireless_one",
       "path": "~/Recipes"
     },
@@ -1880,7 +1740,6 @@
       "sortid": 234,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_big_boned",
       "path": "~/Recipes"
     },
@@ -1890,7 +1749,6 @@
       "sortid": 235,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_close_in_the_distance",
       "path": "~/Recipes"
     },
@@ -1900,7 +1758,6 @@
       "sortid": 236,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_footfalls",
       "path": "~/Recipes"
     },
@@ -1910,7 +1767,6 @@
       "sortid": 237,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_locus",
       "path": "~/Recipes"
     },
@@ -1920,7 +1776,6 @@
       "sortid": 239,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_metal",
       "path": "~/Recipes"
     },
@@ -1930,7 +1785,6 @@
       "sortid": 240,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_metal_brute_justice_mode",
       "path": "~/Recipes"
     },
@@ -1940,7 +1794,6 @@
       "sortid": 241,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_pa_paya",
       "path": "~/Recipes"
     },
@@ -1950,7 +1803,6 @@
       "sortid": 242,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_the_ewer_brimmeth",
       "path": "~/Recipes"
     },
@@ -1960,7 +1812,6 @@
       "sortid": 46,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "la_cucuracha",
       "path": "~/Music Discs"
     },
@@ -1970,7 +1821,6 @@
       "sortid": 243,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "debug_item_right_clicked_on_block",
       "metadata": {
         "dependencies": [
@@ -2000,7 +1850,6 @@
       "sortid": 244,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_dbg_item",
       "path": "~/Recipes"
     },
@@ -2010,7 +1859,6 @@
       "sortid": 85,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_exponential_entropy_primals",
       "path": "~/Music Discs"
     },
@@ -2020,7 +1868,6 @@
       "sortid": 117,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_exponential_entropy_primals",
       "path": "~/Music Discs"
     },
@@ -2030,7 +1877,6 @@
       "sortid": 245,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_exponential_entropy_primals_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -2048,7 +1894,6 @@
       "sortid": 138,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "fc_exponential_entropy_primals",
       "path": "~/Music Discs"
     },
@@ -2058,7 +1903,6 @@
       "sortid": 246,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_exponential_entropy_primals",
       "path": "~/Recipes"
     },
@@ -2068,7 +1912,6 @@
       "sortid": 247,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_one",
       "path": "~/Recipes"
     },
@@ -2078,7 +1921,6 @@
       "sortid": 248,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_ten",
       "path": "~/Recipes"
     },
@@ -2088,7 +1930,6 @@
       "sortid": 249,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_hundred",
       "path": "~/Recipes"
     },
@@ -2098,7 +1939,6 @@
       "sortid": 250,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_thousand",
       "path": "~/Recipes"
     },
@@ -2108,7 +1948,6 @@
       "sortid": 251,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_ten_thousand",
       "path": "~/Recipes"
     },
@@ -2118,7 +1957,6 @@
       "sortid": 252,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_hundred_thousand",
       "path": "~/Recipes"
     },
@@ -2128,7 +1966,6 @@
       "sortid": 50,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_two",
       "path": "~/Misc"
     },
@@ -2138,7 +1975,6 @@
       "sortid": 52,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_twenty",
       "path": "~/Misc"
     },
@@ -2148,7 +1984,6 @@
       "sortid": 54,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_two_hundred",
       "path": "~/Misc"
     },
@@ -2158,7 +1993,6 @@
       "sortid": 56,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_two_thousand",
       "path": "~/Misc"
     },
@@ -2168,7 +2002,6 @@
       "sortid": 58,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_twenty_thousand",
       "path": "~/Misc"
     },
@@ -2178,7 +2011,6 @@
       "sortid": 60,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_two_hundred_thousand",
       "path": "~/Misc"
     },
@@ -2188,7 +2020,6 @@
       "sortid": 62,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_two_million",
       "path": "~/Misc"
     },
@@ -2198,7 +2029,6 @@
       "sortid": 64,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "shart_twenty_million",
       "path": "~/Misc"
     },
@@ -2208,7 +2038,6 @@
       "sortid": 253,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_million",
       "path": "~/Recipes"
     },
@@ -2218,7 +2047,6 @@
       "sortid": 254,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_ten_million",
       "path": "~/Recipes"
     },
@@ -2228,7 +2056,6 @@
       "sortid": 255,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_two",
       "path": "~/Recipes"
     },
@@ -2238,7 +2065,6 @@
       "sortid": 256,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_twenty",
       "path": "~/Recipes"
     },
@@ -2248,7 +2074,6 @@
       "sortid": 257,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_two_hundred",
       "path": "~/Recipes"
     },
@@ -2258,7 +2083,6 @@
       "sortid": 258,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_two_thousand",
       "path": "~/Recipes"
     },
@@ -2268,7 +2092,6 @@
       "sortid": 259,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_twenty_thousand",
       "path": "~/Recipes"
     },
@@ -2278,7 +2101,6 @@
       "sortid": 260,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_two_hundred_thousand",
       "path": "~/Recipes"
     },
@@ -2288,7 +2110,6 @@
       "sortid": 261,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_two_million",
       "path": "~/Recipes"
     },
@@ -2298,7 +2119,6 @@
       "sortid": 262,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_shart_twenty_million",
       "path": "~/Recipes"
     },
@@ -2308,7 +2128,6 @@
       "sortid": 75,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_between_heaven_and_earth",
       "path": "~/Music Discs"
     },
@@ -2318,7 +2137,6 @@
       "sortid": 73,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_bat_country",
       "path": "~/Music Discs"
     },
@@ -2328,7 +2146,6 @@
       "sortid": 79,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_chip_oil_jiggle_tune",
       "path": "~/Music Discs"
     },
@@ -2338,7 +2155,6 @@
       "sortid": 71,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_apex_of_the_world",
       "path": "~/Music Discs"
     },
@@ -2348,7 +2164,6 @@
       "sortid": 101,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_chip_sun",
       "path": "~/Music Discs"
     },
@@ -2358,7 +2173,6 @@
       "sortid": 102,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_chips_of_nature",
       "path": "~/Music Discs"
     },
@@ -2368,7 +2182,6 @@
       "sortid": 81,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_devil_trigger",
       "path": "~/Music Discs"
     },
@@ -2378,7 +2191,6 @@
       "sortid": 82,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_driftveil_city",
       "path": "~/Music Discs"
     },
@@ -2388,7 +2200,6 @@
       "sortid": 83,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_dynamite",
       "path": "~/Music Discs"
     },
@@ -2398,7 +2209,6 @@
       "sortid": 84,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_exponential_chiptune",
       "path": "~/Music Discs"
     },
@@ -2408,7 +2218,6 @@
       "sortid": 97,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_never_gonna_give_you_up",
       "path": "~/Music Discs"
     },
@@ -2418,7 +2227,6 @@
       "sortid": 96,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_motor_oil_jiggle_jungle",
       "path": "~/Music Discs"
     },
@@ -2428,7 +2236,6 @@
       "sortid": 105,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_sweaty_socks",
       "path": "~/Music Discs"
     },
@@ -2438,7 +2245,6 @@
       "sortid": 104,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_sweaty_chips",
       "path": "~/Music Discs"
     },
@@ -2448,7 +2254,6 @@
       "sortid": 263,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_between_heaven_and_earth",
       "path": "~/Recipes"
     },
@@ -2458,7 +2263,6 @@
       "sortid": 264,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_bat_country",
       "path": "~/Recipes"
     },
@@ -2468,7 +2272,6 @@
       "sortid": 265,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_chip_oil_jiggle_tune",
       "path": "~/Recipes"
     },
@@ -2478,7 +2281,6 @@
       "sortid": 266,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_apex_of_the_world",
       "path": "~/Recipes"
     },
@@ -2488,7 +2290,6 @@
       "sortid": 267,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_chip_sun",
       "path": "~/Recipes"
     },
@@ -2498,7 +2299,6 @@
       "sortid": 268,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_chips_of_nature",
       "path": "~/Recipes"
     },
@@ -2508,7 +2308,6 @@
       "sortid": 269,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_devil_trigger",
       "path": "~/Recipes"
     },
@@ -2518,7 +2317,6 @@
       "sortid": 270,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_driftveil_city",
       "path": "~/Recipes"
     },
@@ -2528,7 +2326,6 @@
       "sortid": 271,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_dynamite",
       "path": "~/Recipes"
     },
@@ -2538,7 +2335,6 @@
       "sortid": 272,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_exponential_chiptune",
       "path": "~/Recipes"
     },
@@ -2548,7 +2344,6 @@
       "sortid": 273,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_never_gonna_give_you_up",
       "path": "~/Recipes"
     },
@@ -2558,7 +2353,6 @@
       "sortid": 274,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_motor_oil_jiggle_jungle",
       "path": "~/Recipes"
     },
@@ -2568,7 +2362,6 @@
       "sortid": 275,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_sweaty_socks",
       "path": "~/Recipes"
     },
@@ -2578,7 +2371,6 @@
       "sortid": 276,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_sweaty_chips",
       "path": "~/Recipes"
     },
@@ -2588,7 +2380,6 @@
       "sortid": 90,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_landslide",
       "path": "~/Music Discs"
     },
@@ -2598,7 +2389,6 @@
       "sortid": 277,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_landslide_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -2616,7 +2406,6 @@
       "sortid": 121,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_landslide",
       "path": "~/Music Discs"
     },
@@ -2626,7 +2415,6 @@
       "sortid": 278,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_jr_landslide",
       "path": "~/Recipes"
     },
@@ -2636,7 +2424,6 @@
       "sortid": 77,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_brute_chiptune",
       "path": "~/Music Discs"
     },
@@ -2646,7 +2433,6 @@
       "sortid": 107,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_twice_stricken",
       "path": "~/Music Discs"
     },
@@ -2656,7 +2442,6 @@
       "sortid": 279,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_brute_chiptune",
       "path": "~/Recipes"
     },
@@ -2666,7 +2451,6 @@
       "sortid": 132,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_twice_stricken",
       "path": "~/Music Discs"
     },
@@ -2676,7 +2460,6 @@
       "sortid": 280,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_twice_stricken_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -2694,7 +2477,6 @@
       "sortid": 281,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_jr_twice_stricken",
       "path": "~/Recipes"
     },
@@ -2704,7 +2486,6 @@
       "sortid": 89,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_interphos_p_1",
       "path": "~/Music Discs"
     },
@@ -2714,7 +2495,6 @@
       "sortid": 120,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_interphos_p_1",
       "path": "~/Music Discs"
     },
@@ -2724,7 +2504,6 @@
       "sortid": 69,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amda_long_fall",
       "path": "~/Music Discs"
     },
@@ -2734,7 +2513,6 @@
       "sortid": 112,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jra_long_fall",
       "path": "~/Music Discs"
     },
@@ -2744,7 +2522,6 @@
       "sortid": 100,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_papaya_demastered",
       "path": "~/Music Discs"
     },
@@ -2754,7 +2531,6 @@
       "sortid": 129,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_papaya_demastered",
       "path": "~/Music Discs"
     },
@@ -2764,7 +2540,6 @@
       "sortid": 108,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_who_brings_shadow",
       "path": "~/Music Discs"
     },
@@ -2774,7 +2549,6 @@
       "sortid": 133,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_who_brings_shadow",
       "path": "~/Music Discs"
     },
@@ -2784,7 +2558,6 @@
       "sortid": 74,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_battle",
       "path": "~/Music Discs"
     },
@@ -2794,7 +2567,6 @@
       "sortid": 109,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_you_will_know_our_names_remastered",
       "path": "~/Music Discs"
     },
@@ -2804,7 +2576,6 @@
       "sortid": 78,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_burning_battlefield",
       "path": "~/Music Discs"
     },
@@ -2814,7 +2585,6 @@
       "sortid": 103,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_sands_of_amber",
       "path": "~/Music Discs"
     },
@@ -2824,7 +2594,6 @@
       "sortid": 130,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_sands_of_amber",
       "path": "~/Music Discs"
     },
@@ -2834,7 +2603,6 @@
       "sortid": 86,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_fiend",
       "path": "~/Music Discs"
     },
@@ -2844,7 +2612,6 @@
       "sortid": 118,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_fiend",
       "path": "~/Music Discs"
     },
@@ -2854,7 +2621,6 @@
       "sortid": 95,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_neath_dark_waters",
       "path": "~/Music Discs"
     },
@@ -2864,7 +2630,6 @@
       "sortid": 126,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_neath_dark_waters",
       "path": "~/Music Discs"
     },
@@ -2874,7 +2639,6 @@
       "sortid": 88,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_insatiable_chips",
       "path": "~/Music Discs"
     },
@@ -2884,7 +2648,6 @@
       "sortid": 282,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_00",
       "path": "~/Recipes"
     },
@@ -2894,7 +2657,6 @@
       "sortid": 283,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_01",
       "path": "~/Recipes"
     },
@@ -2904,7 +2666,6 @@
       "sortid": 284,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_02",
       "path": "~/Recipes"
     },
@@ -2914,7 +2675,6 @@
       "sortid": 285,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_03",
       "path": "~/Recipes"
     },
@@ -2924,7 +2684,6 @@
       "sortid": 286,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_04",
       "path": "~/Recipes"
     },
@@ -2934,7 +2693,6 @@
       "sortid": 287,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_05",
       "path": "~/Recipes"
     },
@@ -2944,7 +2702,6 @@
       "sortid": 288,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_06",
       "path": "~/Recipes"
     },
@@ -2954,7 +2711,6 @@
       "sortid": 289,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_07",
       "path": "~/Recipes"
     },
@@ -2964,7 +2720,6 @@
       "sortid": 290,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_08",
       "path": "~/Recipes"
     },
@@ -2974,7 +2729,6 @@
       "sortid": 291,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_09",
       "path": "~/Recipes"
     },
@@ -2984,7 +2738,6 @@
       "sortid": 292,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_0a",
       "path": "~/Recipes"
     },
@@ -2994,7 +2747,6 @@
       "sortid": 293,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_0b",
       "path": "~/Recipes"
     },
@@ -3004,7 +2756,6 @@
       "sortid": 294,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_0c",
       "path": "~/Recipes"
     },
@@ -3014,7 +2765,6 @@
       "sortid": 295,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_0d",
       "path": "~/Recipes"
     },
@@ -3024,7 +2774,6 @@
       "sortid": 296,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_0e",
       "path": "~/Recipes"
     },
@@ -3034,7 +2783,6 @@
       "sortid": 297,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_0f",
       "path": "~/Recipes"
     },
@@ -3044,7 +2792,6 @@
       "sortid": 298,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_00",
       "path": "~/Recipes"
     },
@@ -3054,7 +2801,6 @@
       "sortid": 299,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_01",
       "path": "~/Recipes"
     },
@@ -3064,7 +2810,6 @@
       "sortid": 300,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_02",
       "path": "~/Recipes"
     },
@@ -3074,7 +2819,6 @@
       "sortid": 301,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_03",
       "path": "~/Recipes"
     },
@@ -3084,7 +2828,6 @@
       "sortid": 302,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_04",
       "path": "~/Recipes"
     },
@@ -3094,7 +2837,6 @@
       "sortid": 303,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_05",
       "path": "~/Recipes"
     },
@@ -3104,7 +2846,6 @@
       "sortid": 304,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_06",
       "path": "~/Recipes"
     },
@@ -3114,7 +2855,6 @@
       "sortid": 305,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_07",
       "path": "~/Recipes"
     },
@@ -3124,7 +2864,6 @@
       "sortid": 306,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_08",
       "path": "~/Recipes"
     },
@@ -3134,7 +2873,6 @@
       "sortid": 307,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_09",
       "path": "~/Recipes"
     },
@@ -3144,7 +2882,6 @@
       "sortid": 308,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_0a",
       "path": "~/Recipes"
     },
@@ -3154,7 +2891,6 @@
       "sortid": 309,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_0b",
       "path": "~/Recipes"
     },
@@ -3164,7 +2900,6 @@
       "sortid": 310,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_0c",
       "path": "~/Recipes"
     },
@@ -3174,7 +2909,6 @@
       "sortid": 311,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_0d",
       "path": "~/Recipes"
     },
@@ -3184,7 +2918,6 @@
       "sortid": 312,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_0e",
       "path": "~/Recipes"
     },
@@ -3194,7 +2927,6 @@
       "sortid": 313,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_concrete_powder_0f",
       "path": "~/Recipes"
     },
@@ -3204,7 +2936,6 @@
       "sortid": 314,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_insatiable_chips",
       "path": "~/Recipes"
     },
@@ -3214,7 +2945,6 @@
       "sortid": 315,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_battle",
       "path": "~/Recipes"
     },
@@ -3224,7 +2954,6 @@
       "sortid": 316,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_you_will_know_our_names_remastered",
       "path": "~/Recipes"
     },
@@ -3234,7 +2963,6 @@
       "sortid": 317,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_neath_dark_waters",
       "path": "~/Recipes"
     },
@@ -3244,7 +2972,6 @@
       "sortid": 318,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_fiend",
       "path": "~/Recipes"
     },
@@ -3254,7 +2981,6 @@
       "sortid": 319,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_sands_of_amber",
       "path": "~/Recipes"
     },
@@ -3264,7 +2990,6 @@
       "sortid": 320,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_burning_battlefield",
       "path": "~/Recipes"
     },
@@ -3274,7 +2999,6 @@
       "sortid": 321,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_who_brings_shadow",
       "path": "~/Recipes"
     },
@@ -3284,7 +3008,6 @@
       "sortid": 322,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_papaya_demastered",
       "path": "~/Recipes"
     },
@@ -3294,7 +3017,6 @@
       "sortid": 323,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_a_long_fall",
       "path": "~/Recipes"
     },
@@ -3304,7 +3026,6 @@
       "sortid": 324,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_interphos",
       "path": "~/Recipes"
     },
@@ -3314,7 +3035,6 @@
       "sortid": 98,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_one_amongst_the_weary",
       "path": "~/Music Discs"
     },
@@ -3324,7 +3044,6 @@
       "sortid": 127,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_one_amongst_the_weary",
       "path": "~/Music Discs"
     },
@@ -3334,7 +3053,6 @@
       "sortid": 325,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_one_amongst_the_weary",
       "path": "~/Recipes"
     },
@@ -3344,7 +3062,6 @@
       "sortid": 326,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_interphos_p_1_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3362,7 +3079,6 @@
       "sortid": 327,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jra_long_fall_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3380,7 +3096,6 @@
       "sortid": 328,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_papaya_demastered_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3398,7 +3113,6 @@
       "sortid": 329,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_who_brings_shadow_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3416,7 +3130,6 @@
       "sortid": 330,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_sands_of_amber_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3434,7 +3147,6 @@
       "sortid": 331,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_fiend_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3452,7 +3164,6 @@
       "sortid": 332,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_neath_dark_waters_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3470,7 +3181,6 @@
       "sortid": 333,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jr_one_amongst_the_weary_right_clicked_in_air",
       "metadata": {
         "dependencies": [
@@ -3488,7 +3198,6 @@
       "sortid": 110,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_bad_apple_fc",
       "path": "~/Music Discs"
     },
@@ -3498,7 +3207,6 @@
       "sortid": 334,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_bad_apple_fc",
       "path": "~/Recipes"
     },
@@ -3508,7 +3216,6 @@
       "sortid": 111,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "amd_clo_zee_koto",
       "path": "~/Music Discs"
     },
@@ -3518,7 +3225,6 @@
       "sortid": 335,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bug_item_right_clicked_on_block",
       "metadata": {
         "dependencies": [
@@ -3552,7 +3258,6 @@
       "sortid": 68,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bug_item",
       "path": "~/Misc"
     },
@@ -3562,9 +3267,17 @@
       "sortid": 336,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rec_amd_clo_zee_koto",
       "path": "~/Recipes"
+    },
+    {
+      "name": "WaffleOfAssDestruction",
+      "type": "item",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_of_ass_destruction",
+      "path": "~/Misc"
     }
   ],
   "variable_elements": [],
@@ -3962,53 +3675,68 @@
       "item.fc_the_ewer_brimmeth.name": "Faded Copy of The Ewer Brimmeth",
       "item.amd_apex_of_the_world.name": "Aetherial Music Disc - Apex Of The World",
       "subtitles.ffxiv.whobringsshadow": "FFXIV - Who Brings Shadow (Hades Theme)",
+      "item.fartsysmagitechproductions.fc_and_love_you_shall_find": "Faded Copy of And Love You Shall Find",
       "item.jr_one_amongst_the_weary.name": "\"One Amongst The Weary\" Jukebox Roll",
       "death.attack.waterydemise.player": "%1$s met a watery demise!",
+      "item.fartsysmagitechproductions.amd_sweaty_socks": "Aetherial Music Disc - Sweaty Socks",
       "tile.ore_ice.name": "Ice Aspected Ore",
+      "item.fartsysmagitechproductions.fc_the_ewer_brimmeth": "Faded Copy of The Ewer Brimmeth",
       "item.record.amd_battle.desc": "Xenoblade Chronicles II - Battle!!",
       "item.fartsysadditions.ffxiv_battle_on_the_big_bridge": "FFXIV - Battle On The Big Bridge",
       "item.crystal_earth.name": "Earth Crystal",
       "item.amd_neath_dark_waters.name": "Aetherial Music Disc - Neath Dark Waters",
       "item.shart_two_thousand.name": "Two Kilo Sharts",
+      "item.fartsysmagitechproductions.amd_chip_oil_jiggle_tune": "Aetherial Music Disc - Chip Oil Jiggle Tune",
+      "item.fartsysmagitechproductions.amd_sands_of_amber": "Aetherial Music Disc - Sands Of Amber",
       "item.record.amd_neath_dark_waters.desc": "FFXIV - Neath Dark Waters (The Tempest - Amaurot Theme)",
+      "item.fartsysmagitechproductions.waffle_of_ass_destruction": "Waffle Of Ass Destruction",
       "item.fartsysadditions.ffxiv_infinity.desc": "Final Fantasy XIV - Infinity (Zurvan)",
+      "item.fartsysmagitechproductions.shart_twenty_thousand": "Twenty Kilo Sharts",
       "subtitles.ffxiv.exponential_entropy_primals": "FFXIV The Primals - Exponential Entropy",
       "item.fartsysadditions.demetori_oriental_dark_flight.desc": "Demetori - Oriental Dark Flight",
       "item.fartsysadditions.xbc_you_will_know_our_names.desc": "Xenoblade Chronicles - You Will Know Our Names",
+      "item.fartsysmagitechproductions.cluster_ice": "Ice Cluster",
       "item.record.amd_metal.desc": "FFXIV - Metal",
-      "subtitles.lacucuracha": "La Cucuracha",
       "subtitles.ffxiv.wayward_daughter": "FFXIV - Wayward Daughter",
+      "subtitles.lacucuracha": "La Cucuracha",
       "subtitles.ffxiv.primals.locus": "Final Fantasy XIV - The Primals - Locus",
+      "item.fartsysmagitechproductions.shart_ten_thousand": "Ten Kilo-Sharts",
       "item.jr_interphos_p_1.name": "\"The Interphos (Phase 1)\" Jukebox Roll",
       "subtitles.touhou.nuclearfusion": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
       "item.record.amd_between_heaven_and_earth.desc": "Fire Emblem 3H - Between Heaven and Earth (Fartsy Chiptune)",
       "advancements.adv_pvc_powder.title": "Molten? Powdered? Music Disc..?",
-      "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
       "advancements.adv_100k_sharts.title": "A very large shart",
+      "item.fartsysadditions.magitek_music_press": "Magitek Music Press",
       "item.fc_close_in_the_distance.name": "Faded Copy of Close in the Distance",
       "item.amd_burning_battlefield.name": "Aetherial Music Disc - Burning Battlefield",
       "item.record.amd_chips_of_nature.desc": "Metal Gear Rising: Revengeance - Rules of Nature (Fartsy Chiptune)",
       "item.blank_g_2_jr.name": "Blank Grade 2 Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_you_will_know_our_names_remastered": "Aetherial Music Disc - You Will Know Our Names (Remastered)",
       "item.shard_lightning.name": "Lightning Shard",
       "item.enchanted_diamond_ink.name": "Enchanted Diamond Ink",
       "item.fartsysadditions.faded_insatiable": "Faded Copy of Insatiable",
+      "item.fartsysmagitechproductions.amd_footfalls": "Aetherial Music Disc - Footfalls",
       "item.fartsysadditions.restored_close_in_the_distance": "Restored Copy of Close in the Distance",
       "item.fartsysadditions.touhou_project_cosmic_mind": "Touhou Project - Cosmic Mind",
       "item.record.amd_who_brings_shadow.desc": "FFXIV - Who Brings Shadow (Hades Theme)",
+      "item.fartsysmagitechproductions.amd_apex_of_the_world": "Aetherial Music Disc - Apex Of The World",
       "subtitles.ffxiv.big_boned": "FFXIV - Big Boned",
-      "item.crystal_lightning.name": "Lightning Crystal",
       "item.cluster_water.name": "Water Cluster",
+      "item.crystal_lightning.name": "Lightning Crystal",
       "advancements.adv_shart_death.descr": "RIP. We warned you not to eat it.",
       "item.record.amd_interphos_p_1.desc": "FFXIV Final Boss Theme (Phase 1)",
+      "item.fartsysmagitechproductions.jr_footfalls": "\"Footfalls\" Jukebox Roll",
       "item.fartsysadditions.ffxiv_insatiable.desc": "Final Fantasy XIV - Insatiable",
       "item.fartsysadditions.restored_insatiable": "Restored Copy of Insatiable",
       "item.fartsysadditions.ffxiv_to_the_edge": "FFXIV - To The Edge",
       "item.fartsysadditions.slipknot_psychosocial.desc": "Slipknot - Psychosocial",
       "item.fartsysadditions.ffxiv_to_the_edge.desc": "Final Fantasy XIV - To The Edge",
       "item.fc_metal_brute_justice_mode.name": "Faded Copy of Metal: Brute Justice Mode",
-      "item.fartsysadditions.faded_a_land_long_dead": "Faded Copy of A Land Long Dead",
       "item.jr_fiend.name": "\"Fiend\" Jukebox Roll",
+      "item.fartsysadditions.faded_a_land_long_dead": "Faded Copy of A Land Long Dead",
+      "item.fartsysmagitechproductions.blank_g_1_jr": "Blank Grade 1 Jukebox Roll",
       "subtitles.ffxiv.escape_journeys": "FFXIV - eScape (Journeys)",
+      "item.fartsysmagitechproductions.amd_sweaty_chips.desc": "Kissone Kinoma - Sweaty Socks (Fartsy Chiptune)",
       "item.fartsysadditions.faded_primals_brute_justice": "Faded Copy of The Primals - Metal - Primals Brute Justice",
       "item.amd_exponential_chiptune.name": "Aetherial Music Disc - Exponential Chiptune",
       "item.fartsysadditions.ffxiv_landslide": "FFXIV - Landslide",
@@ -4017,55 +3745,77 @@
       "item.fartsysadditions.ffxiv_silent_scream.desc": "Final Fantasy XIV - Silent Scream",
       "item.record.amd_one_amongst_the_weary.desc": "FFXIV - One Amongst The Weary (Anabaseios 9/10 Theme)",
       "item.amd_footfalls.name": "Aetherial Music Disc - Footfalls",
-      "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
+      "item.fartsysmagitechproductions.jra_long_fall": "\"A Long Fall\" Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_dynamite": "Aetherial Music Disc - Dynamite",
       "item.cluster_unaspected.name": "Unaspected Cluster",
+      "subtitles.demetori.necrofantasia": "Demetori - Necrofantasia",
       "item.enchanted_ender_pearl_ink.name": "Enchanted Ender Pearl Ink",
-      "item.fartsysadditions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
       "item.jr_footfalls.name": "\"Footfalls\" Jukebox Roll",
+      "item.fartsysadditions.smash_pixels_of_glory.desc": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "item.fartsysmagitechproductions.amd_twice_stricken": "Aetherial Music Disc - Twice Stricken",
       "subtitles.touhou.badapple": "Touhou Project - Bad Apple (nomico)",
       "item.cluster_fire.name": "Fire Cluster",
       "block.fartsysadditions.rock_salt": "Rock Salt",
       "item.fartsysadditions.ffxiv_insatiable": "FFXIV - Insatiable",
       "subtitles.touhou.necrofantasia": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
       "subtitles.fartsy.chipsofnature": "Metal Gear Rising: Revengeance - Rules of Nature (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_burning_battlefield.desc": "Pokemon Season 1 (Anime) - Burning Battlefield",
       "item.jr_locus.name": "\"Locus\" Jukebox Roll",
       "subtitles.fartsy.sweatychips": "Kissone Kinoma - Sweaty Socks (Fartsy Chiptune)",
-      "item.fartsysadditions.faded_lunar_whale": "Faded Copy of Lunar Whale",
       "subtitles.ffxiv.interphosp1": "FFXIV - The Interphos (Phase 1)",
+      "item.fartsysadditions.faded_lunar_whale": "Faded Copy of Lunar Whale",
+      "item.fartsysmagitechproductions.amd_fiend": "Aetherial Music Disc - Fiend",
+      "item.fartsysmagitechproductions.amd_bat_country": "Aetherial Music Disc - Bat Country",
+      "item.fartsysmagitechproductions.crystal_ice": "Ice Crystal",
+      "item.fartsysmagitechproductions.amd_between_heaven_and_earth.desc": "Fire Emblem 3H - Between Heaven and Earth (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_clo_zee_koto": "Aetherial Music Disc - CloZee - Koto",
+      "item.fartsysmagitechproductions.shart_two_hundred_thousand": "200 Kilo Sharts",
+      "block.fartsysmagitechproductions.ore_lightning_overworld": "Lightning Aspected Ore",
       "item.fartsysadditions.bag_o_rock_salt": "Bag O Rock Salt",
+      "item.fartsysmagitechproductions.amd_chips_of_nature.desc": "Metal Gear Rising: Revengeance - Rules of Nature (Fartsy Chiptune)",
       "subtitles.ffxiv.twicestricken": "FFXIV - Twice Stricken",
       "item.fartsysadditions.restored_battle_on_the_big_bridge": "Restored Copy of Battle On The Big Bridge",
       "item.fartsysadditions.shart_ten_thousand": "Ten Kilo-Sharts",
       "item.fartsysadditions.faded_metal": "Faded Copy of Metal",
+      "item.fartsysmagitechproductions.jr_the_ewer_brimmeth": "\"The Ewer Brimmeth\" Jukebox Roll",
       "item.fartsysadditions.demetori_oriental_dark_flight": "Demetori - Oriental Dark Flight",
       "death.attack.selfdesharted": "%1$s self-desharted!",
+      "item.fartsysmagitechproductions.blank_g_2_jr": "Blank Grade 2 Jukebox Roll",
       "item.jr_big_boned.name": "\"Big Boned\" Jukebox Roll",
       "subtitles.fartsy.dynamitechiptune": "Taio Cruz - Dynamite (Fartsy Chiptune)",
       "item.shart_twenty_thousand.name": "Twenty Kilo Sharts",
       "item.fartsysadditions.ffxiv_woe_that_is_madness": "FFXIV - Woe That Is Madness",
       "advancements.adv_tm_sharts.title": "Making it rain (the stinky way)",
       "item.fartsysadditions.shart_hundred": "Shart",
+      "item.fartsysmagitechproductions.amd_neath_dark_waters": "Aetherial Music Disc - Neath Dark Waters",
       "subtitles.kiki.clozee_koto": "[Chill Trap] CloZee - Koto",
+      "item.fartsysmagitechproductions.cluster_water": "Water Cluster",
       "item.fartsysadditions.ffxiv_out_of_time": "FFXIV - Out Of Time",
+      "item.fartsysmagitechproductions.shard_ice": "Ice Shard",
       "subtitles.ffxiv.primals.exponentialentropy": "Final Fantasy XIV - The Primals - Exponential Entropy",
       "item.record.amd_sands_of_amber.desc": "FFXIV - Sands of Amber (Amh Araeng Day Theme)",
+      "block.fartsysmagitechproductions.ore_fire_overworld": "Fire Aspected Ore",
       "item.fartsysadditions.demetori_necrofantasia": "Demetori - Necrofantasia",
       "item.fc_exponential_entropy_primals.name": "Faded Copy of Exponential Entropy (The Primals)",
+      "item.fartsysmagitechproductions.amd_exponential_chiptune.desc": "FFXIV - Exponential Entropy (Fartsy Chiptune)",
       "subtitles.ffxiv.undertheweight": "Final Fantasy XIV - Under the Weight (Titan)",
       "subtitles.ffxiv.lunarwhale": "FFXIV - Lunar Whale",
-      "item.record.amd_apex_of_the_world.desc": "Fire Emblem 3H - Apex Of The World (Fartsy Chiptune)",
       "item.fartsysadditions.ffxiv_close_in_the_distance.desc": "Final Fantasy XIV - Close in the Distance (Ultima Thule)",
+      "item.record.amd_apex_of_the_world.desc": "Fire Emblem 3H - Apex Of The World (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_sands_of_amber.desc": "FFXIV - Sands of Amber (Amh Araeng Day Theme)",
       "subtitles.ffxiv.alongfall": "FFXIV - A Long Fall (The Twinning)",
       "item.fartsysadditions.ffxiv_lunar_whale": "FFXIV - Lunar Whale",
       "subtitles.ffxiv.lunacy": "FFXIV - Lunacy",
       "item.jra_long_fall.name": "\"A Long Fall\" Jukebox Roll",
       "item.record.amd_clo_zee_koto.desc": "[Chill Trap] CloZee - Koto",
-      "item.fartsysadditions.restored_primals_locus": "Restored Copy of The Primals - Locus",
       "item.fartsysadditions.ffxiv_primals_exponential_entropy": "FFXIV - The Primals - Exponential Entropy",
+      "item.fartsysadditions.restored_primals_locus": "Restored Copy of The Primals - Locus",
       "item.amd_metal_brute_justice_mode.name": "Aetherial Music Disc - Metal: Brute Justice Mode",
       "death.attack.waterydemise": "%1$s met a watery demise!",
       "item.amd_dynamite.name": "Aetherial Music Disc - Dynamite",
       "item.cronus.name": "Cronus",
+      "item.fartsysmagitechproductions.crystal_wind": "Wind Crystal",
+      "item.fartsysmagitechproductions.amd_fiend.desc": "FFXIV - Fiend (Sephirot Theme)",
       "subtitles.fartsy.chipoiljiggletune": "Kissone Kinoma - Motor Oil Jiggle Jungle (Fartsy Chiptune)",
       "item.fartsysadditions.ffxiv_under_the_weight.desc": "Final Fantasy XIV - Under the Weight (Titan)",
       "item.fartsysadditions.smash_pixels_of_glory": "Smash - Pixels of Glory",
@@ -4073,15 +3823,22 @@
       "item.fartsysadditions.faded_woe_that_is_madness": "Faded Copy of Woe That Is Madness",
       "advancements.adv_shart_special.descr": "EVERYBODY RUN. STAY AS FAR AWAY FROM THIS PLAYER AS POSSIBLE.",
       "item.amd_chip_oil_jiggle_tune.name": "Aetherial Music Disc - Chip Oil Jiggle Tune",
+      "item.fartsysmagitechproductions.shard_fire": "Fire Shard",
       "item.amd_bad_apple_fc.name": "Aetherial Music Disc - Bad Apple-FC",
       "item.fartsysadditions.faded_agent_of_inquiry": "Faded Copy of Agent Of Inquiry",
+      "item.fartsysmagitechproductions.amd_pa_paya": "Aetherial Music Disc - Pa-Paya",
       "item.shart_two_hundred_thousand.name": "200 Kilo Sharts",
+      "item.fartsysmagitechproductions.amd_chip_sun": "Aetherial Music Disc - Red Sun",
+      "item.fartsysmagitechproductions.amd_who_brings_shadow.desc": "FFXIV - Who Brings Shadow (Hades Theme)",
       "subtitles.kiki.tuturu": "Tuturu",
       "item.record.amd_sweaty_chips.desc": "Kissone Kinoma - Sweaty Socks (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.jr_big_boned": "\"Big Boned\" Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_who_brings_shadow": "Aetherial Music Disc - Who Brings Shadow",
+      "item.fartsysmagitechproductions.cluster_earth": "Earth Cluster",
       "item.fartsysadditions.restored_exponential_entropy": "Restored Copy of Exponential Entropy",
       "item.cluster_earth.name": "Earth Cluster",
-      "item.crystal_fire.name": "Fire Crystal",
       "item.fartsysadditions.ffxiv_knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
+      "item.crystal_fire.name": "Fire Crystal",
       "item.record.amd_the_ewer_brimmeth.desc": "FFXIV Old Sharlayan (Day) - The Ewer Brimmeth",
       "item.fartsysadditions.restored_landslide": "Restored Copy of Landslide",
       "subtitles.fartsy.insatiablechips": "FFXIV - Insatiable (Fartsy Chiptune)",
@@ -4089,102 +3846,152 @@
       "item.shart_thousand.name": "Kilo Shart",
       "subtitles.slipknot.psychosocial": "Slipknot - Psychosocial",
       "item.fartsysadditions.ffxiv_primals_locus.desc": "Final Fantasy XIV - The Primals - Locus",
+      "item.fartsysmagitechproductions.amd_exponential_entropy_primals.desc": "FFXIV The Primals - Exponential Entropy",
+      "item.fartsysmagitechproductions.shart_twenty": "Two Deca Sharts",
+      "item.fartsysmagitechproductions.amd_between_heaven_and_earth": "Aetherial Music Disc - Between Heaven and Earth",
       "subtitles.nge.cruelangelsthesis": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
+      "item.fartsysmagitechproductions.amd_papaya_demastered": "Aetherial Music Disc - Pa-Paya (Demastered)",
+      "item.fartsysmagitechproductions.shart_hundred_thousand": "100 Kilo-Sharts",
       "item.fartsysadditions.restored_to_the_edge": "Restored Copy of To The Edge",
-      "item.fartsysadditions.restored_agent_of_inquiry": "Restored Copy of Agent Of Inquiry",
-      "subtitles.fartsy.chipsofthetunes": "Fire Emblem 3H - Apex of the World (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_locus": "Aetherial Music Disc - Locus",
+      "item.fartsysmagitechproductions.amd_big_boned": "Aetherial Music Disc - Big Boned",
       "item.amd_never_gonna_give_you_up.name": "Aetherial Music Disc - Never Gonna Give You Up",
+      "subtitles.fartsy.chipsofthetunes": "Fire Emblem 3H - Apex of the World (Fartsy Chiptune)",
+      "item.fartsysadditions.restored_agent_of_inquiry": "Restored Copy of Agent Of Inquiry",
       "item.shart_special.name": "Shart Special",
       "death.attack.woad.player": "%1$s experienced Professor\u0027s Ass.",
       "item.fartsysadditions.ffxiv_shadowbringers": "FFXIV - Shadowbringers",
       "item.jr_close_in_the_distance.name": "\"Close in the Distance\" Jukebox Roll",
       "subtitles.ffxiv.the_ewer_brimmeth": "FFXIV - The Ewer Brimmeth",
+      "item.fartsysmagitechproductions.amd_exponential_chiptune": "Aetherial Music Disc - Exponential Chiptune",
       "item.amd_insatiable_chips.name": "Aetherial Music Disc - Insatiable Chips",
       "item.record.amd_insatiable_chips.desc": "FFXIV - Insatiable (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.fc_metal_brute_justice_mode": "Faded Copy of Metal: Brute Justice Mode",
       "item.fartsysadditions.touhou_project_bad_apple.desc": "Touhou Project - Bad Apple (nomico)",
+      "item.fartsysmagitechproductions.cluster_wind": "Wind Cluster",
       "subtitles.ffxiv.footfalls": "FFXIV - Footfalls",
+      "block.fartsysmagitechproductions.ore_unaspected": "Unaspected Ore",
+      "item.fartsysmagitechproductions.amd_driftveil_city": "Aetherial Music Disc - Driftveil City",
       "item.crystal_wind.name": "Wind Crystal",
       "item.fartsysadditions.ffxiv_brute_justice.desc": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
       "item.fartsysadditions.restored_penitus": "Restored Copy of Penitus",
+      "item.fartsysmagitechproductions.shart_ten": "Deca Shart",
       "item.jr_pa_paya.name": "\"Pa-Paya\" Jukebox Roll",
       "item.fartsysadditions.kirby_battle_royale_dededestroyer_z": "Kirby Battle Royale - Dededestroyer Z",
       "item.fartsysadditions.faded_exponential_entropy": "Faded Copy of Exponential Entropy",
+      "item.fartsysmagitechproductions.pvc_dust": "PVC Dust",
+      "item.fartsysmagitechproductions.amd_metal.desc": "FFXIV - Metal",
       "item.fartsysadditions.shart_hundred_thousand": "100 Kilo-Sharts",
       "subtitles.ffxiv.athenathetirelessone": "FFXIV - Athena, The Tireless One",
       "subtitles.ffxiv.brutejusticemode": "Final Fantasy XIV - Metal: Brute Justice Mode (Alexander Brute Justice)",
+      "item.fartsysmagitechproductions.amd_close_in_the_distance.desc": "FFXIV Ultima Thule Theme - Close in the Distance",
+      "item.fartsysmagitechproductions.amd_one_amongst_the_weary": "Aetherial Music Disc - One Amongst The Weary",
       "subtitles.fartsy.betweenchipsandtunes": "Fire Emblem 3H - Between Heaven and Earth (Fartsy Chiptune)",
       "subtitles.ffxiv.hicsvntleones": "FFXIV - Hic Svnt Leones (Hesperos Theme)",
       "subtitles.xc2.battle": "Xenoblade Chronicles II - Battle!!",
+      "item.fartsysmagitechproductions.amd_athena_the_tireless_one": "Aetherial Music Disc - Athena, The Tireless One",
       "item.record.amd_burning_battlefield.desc": "Pokemon Season 1 (Anime) - Burning Battlefield",
       "item.fartsysadditions.dmc_5_devil_trigger.desc": "Devil May Cry 5 - Devil Trigger (Nero)",
+      "item.fartsysmagitechproductions.amd_and_love_you_shall_find": "Aetherial Music Disc - And Love You Shall Find",
+      "item.fartsysmagitechproductions.amd_chip_sun.desc": "Metal Gear Rising: Revengeance - Red Sun (Fartsy Chiptune)",
       "item.fartsysadditions.cronus": "Cronus",
       "item.fartsysadditions.faded_landslide": "Faded Copy of Landslide",
       "item.amd_twice_stricken.name": "Aetherial Music Disc - Twice Stricken",
       "item.fartsysadditions.restored_a_land_long_dead": "Restored Copy of A Land Long Dead",
       "subtitles.ffxiv.andloveyoushallfind": "FFXIV - And Love You Shall Find",
+      "block.fartsysmagitechproductions.ore_wind": "Wind Aspected Ore",
       "subtitles.ffxiv.metal": "FFXIV - Metal",
       "item.shard_ice.name": "Ice Shard",
       "subtitles.ffxiv.twicestrickenfartsyinstrumental": "FFXIV - Twice Stricken (Fartsy Instrumental)",
       "item.record.amd_close_in_the_distance.desc": "FFXIV Ultima Thule Theme - Close in the Distance",
       "subtitles.ffxiv.insatiable": "FFXIV - Insatiable",
+      "item.fartsysmagitechproductions.jr_locus": "\"Locus\" Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_motor_oil_jiggle_jungle.desc": "Kissone Kinoma - Motor Oil Jiggle Jungle",
       "subtitles.eas": "--- EAS Activation Requested ---",
       "item.amd_who_brings_shadow.name": "Aetherial Music Disc - Who Brings Shadow",
+      "item.fartsysmagitechproductions.amd_driftveil_city.desc": "Pokemon Black \u0026 White - Driftveil City (Fartsy Chiptune)",
       "item.shard_wind.name": "Wind Shard",
+      "item.fartsysmagitechproductions.crystal_earth": "Earth Crystal",
       "subtitles.touhou.cosmicmind": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren)",
       "item.shart_ten.name": "Deca Shart",
       "item.shart_one.name": "One Shart",
       "item.fartsysadditions.ffxiv_locus": "FFXIV - Locus",
       "tile.rock_salt.name": "Rock Salt",
       "item.fartsysadditions.debug_item": "Debug Item",
+      "item.fartsysmagitechproductions.jr_athena_the_tireless_one": "\"Athena, the Tireless One\" Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_landslide": "Aetherial Music Disc - Landslide",
+      "item.fartsysmagitechproductions.shard_earth": "Earth Shard",
       "item.amd_between_heaven_and_earth.name": "Aetherial Music Disc - Between Heaven and Earth",
       "item.fartsysadditions.faded_under_the_weight": "Faded Copy of Under The Weight",
       "subtitles.ffxiv.metalbrutejusticemode": "FFXIV - Metal: Brute Justice Mode",
       "item.jr_and_love_you_shall_find.name": "\"And Love You Shall Find\" Jukebox Roll",
       "item.amd_pa_paya.name": "Aetherial Music Disc - Pa-Paya",
       "subtitles.kbr.dededestroyerz": "Kirby Battle Royale - De De Destroyer Z",
+      "item.fartsysmagitechproductions.jr_and_love_you_shall_find": "\"And Love You Shall Find\" Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_devil_trigger.desc": "Devil May Cry V - Devil Trigger (Fartsy Chiptune)",
       "subtitles.ffxiv.woethatismadness": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "subtitles.fartsy.chipcountry": "Avenged Sevenfold - Bat Country (Fartsy Chiptune)",
       "item.fartsysadditions.shart_ten_million": "10 Mega-Sharts",
       "item.fartsysadditions.faded_primals_locus": "Faded Copy of The Primals - Locus",
       "item.fartsysadditions.slipknot_psychosocial": "Slipknot - Psychosocial",
+      "item.fartsysmagitechproductions.shart_ten_million": "10 Mega-Sharts",
       "item.amd_fiend.name": "Aetherial Music Disc - Fiend",
       "item.amd_devil_trigger.name": "Aetherial Music Disc - Devil Trigger",
+      "item.fartsysmagitechproductions.amd_bad_apple_fc.desc": "Fartsy - Bad Apple (2017 GXSCC Beta Famicom Mix)",
       "item.fartsysadditions.xbc_2_battle.desc": "Xenoblade Chronicles 2 - Battle!!",
       "itemGroup.tabfmf_music": "FMP - Music",
+      "item.fartsysmagitechproductions.jr_interphos_p_1": "\"The Interphos (Phase 1)\" Jukebox Roll",
       "item.record.amd_dynamite.desc": "Taio Cruz - Dynamite (Fartsy Chiptune)",
       "item.fartsysadditions.restored_woe_that_is_madness": "Restored Copy of Woe That Is Madness",
       "item.crystal_ice.name": "Ice Crystal",
+      "item.fartsysmagitechproductions.amd_metal_brute_justice_mode": "Aetherial Music Disc - Metal: Brute Justice Mode",
       "death.attack.selfdesharted.player": "%1$s self-desharted!",
+      "item.fartsysmagitechproductions.amd_never_gonna_give_you_up": "Aetherial Music Disc - Never Gonna Give You Up",
       "subtitles.ffxiv.silentscream": "Final Fantasy XIV - Silent Scream",
+      "item.fartsysmagitechproductions.jr_exponential_entropy_primals": "\"Exponential Entropy (The Primals)\" Jukebox Roll",
       "item.enchanted_emerald_ink.name": "Enchanted Emerald Ink",
+      "item.fartsysmagitechproductions.shart_twenty_million": "20 Mega Sharts",
       "item.fartsysadditions.restored_knowledge_never_sleeps": "Restored Copy of Knowledge Never Sleeps",
+      "item.fartsysmagitechproductions.amd_the_ewer_brimmeth.desc": "FFXIV Old Sharlayan (Day) - The Ewer Brimmeth",
       "item.fartsysadditions.ffxiv_footfalls.desc": "Final Fantasy XIV - Footfalls (Endwalker)",
+      "item.fartsysmagitechproductions.amd_battle.desc": "Xenoblade Chronicles II - Battle!!",
       "item.record.amd_you_will_know_our_names_remastered.desc": "Xenoblade Chronicles: DE - You Will Know Our Names (Remastered)",
+      "item.fartsysmagitechproductions.amd_insatiable_chips": "Aetherial Music Disc - Insatiable Chips",
       "item.fartsysadditions.faded_close_in_the_distance": "Faded Copy of Close In The Distance",
       "item.fartsysadditions.ffxiv_agent_of_inquiry": "FFXIV - Agent Of Inquiry",
       "item.crystal_water.name": "Water Crystal",
       "subtitles.ffxiv.exponentialentropy": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
       "item.shart_two_hundred.name": "Two Hecto Sharts",
       "item.fartsysadditions.restored_under_the_weight": "Restored Copy of Under The Weight",
+      "item.fartsysmagitechproductions.fc_metal": "Faded Copy of Metal",
       "item.record.amd_athena_the_tireless_one.desc": "FFXIV P12 Theme (Athena, The Tireless One)",
       "item.record.amd_driftveil_city.desc": "Pokemon Black \u0026 White - Driftveil City (Fartsy Chiptune)",
       "subtitles.ffdnt.triumph": "FF Dissidia NT - Triumph",
       "item.amd_the_ewer_brimmeth.name": "Aetherial Music Disc - The Ewer Brimmeth",
+      "item.fartsysmagitechproductions.enchanted_quartz_ink": "Enchanted Quartz Ink",
       "item.fartsysadditions.ffxiv_agent_of_inquiry.desc": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "subtitles.ffxiv.fiend": "FFXIV - Fiend (Sephirot Theme)",
       "subtitles.ffxiv.shdaowbringers": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
       "item.amd_metal.name": "Aetherial Music Disc - Metal",
+      "item.fartsysmagitechproductions.amd_insatiable_chips.desc": "FFXIV - Insatiable (Fartsy Chiptune)",
       "subtitles.la_cucuracha": "Why did it have to be roaches, Wat?",
       "item.bug_item.name": "Mini Kiki",
       "item.fartsysadditions.kirby_battle_royale_dededestroyer_z.desc": "Kirby Battle Royale - Dededestroyer Z",
       "subtitles.smash.pixelsofglory": "Fridgebits - Pixels of Glory (Project M Theme Remix)",
+      "item.fartsysmagitechproductions.amd_metal_brute_justice_mode.desc": "FFXIV - Metal: Brute Justice Mode",
+      "item.fartsysmagitechproductions.amd_twice_stricken.desc": "FFXIV - Twice Stricken",
       "subtitles.sweaty_socks": "A diddy to make your tootsies wetter and your socks sweatier.",
       "item.record.amd_bat_country.desc": "Avenged Sevenfold - Bat Country (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_motor_oil_jiggle_jungle": "Kissone Kinoma - Motor Oil Jiggle Jungle",
       "item.record.amd_chip_sun.desc": "Metal Gear Rising: Revengeance - Red Sun (Fartsy Chiptune)",
       "subtitles.ffxiv.tomorrowandtomorrow": "FFXIV - Tomorrow and Tomorrow",
+      "item.fartsysmagitechproductions.enchanted_redstone_ink": "Enchanted Redstone Ink",
       "item.amd_chip_sun.name": "Aetherial Music Disc - Red Sun",
+      "item.fartsysmagitechproductions.jr_pa_paya": "\"Pa-Paya\" Jukebox Roll",
+      "item.fartsysmagitechproductions.enchanted_gold_ink": "Enchanted Gold Ink",
       "item.fartsysadditions.ffxiv_footfalls": "FFXIV - Footfalls",
       "subtitles.xcde.youwillknowournames": "Xenoblade Chronicles: Definitive Edition - You Will Know Our Names (Remastered)",
+      "item.fartsysmagitechproductions.fc_exponential_entropy_primals": "Faded Copy of Exponential Entropy (The Primals)",
       "item.fartsysadditions.ffxiv_primals_brute_justice.desc": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "item.enchanted_nether_brick_ink.name": "Enchanted Nether Brick Ink",
       "item.fartsysadditions.restored_primals_brute_justice": "Restored Copy of The Primals - Metal - Brute Justice Mode",
@@ -4195,40 +4002,62 @@
       "item.shart_two.name": "Two Sharts",
       "subtitles.fartsy.chiptunetrigger": "DmC V - Devil Trigger (Fartsy Chiptune)",
       "death.attack.woad": "%1$s experienced Professor\u0027s Ass.",
+      "item.fartsysmagitechproductions.shart_two_hundred": "Two Hecto Sharts",
       "subtitles.ffxiv.papaya_demastered": "FFXIV - Pa-Paya (Demastered)",
+      "item.fartsysmagitechproductions.jr_landslide": "\"Landslide\" Jukebox  Roll",
+      "item.fartsysmagitechproductions.cronus": "Cronus",
+      "item.fartsysmagitechproductions.amd_the_ewer_brimmeth": "Aetherial Music Disc - The Ewer Brimmeth",
       "item.cluster_ice.name": "Ice Cluster",
       "item.record.amd_big_boned.desc": "FFXIV Fat Chocobo Mount - Big Boned",
+      "item.fartsysmagitechproductions.amd_exponential_entropy_primals": "Aetherial Music Disc - Exponential Entropy (The Primals)",
+      "item.fartsysmagitechproductions.amd_and_love_you_shall_find.desc": "FFXIV - And Love You Shall Find",
       "item.fartsysadditions.ngea_cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis (OP)",
+      "item.fartsysmagitechproductions.jr_neath_dark_waters": "\"Neath Dark Waters\" Jukebox Roll",
       "subtitles.touhou.unowenwasher": "Touhou Project - U.N. Owen Was Her? (EoSD/6.0 Flandre)",
+      "item.fartsysmagitechproductions.amd_landslide.desc": "FFXIV - Landslide (E4S (Titan) Theme)",
+      "item.fartsysmagitechproductions.jr_sands_of_amber": "\"Sands of Amber\" Jukebox Roll",
       "item.fartsysadditions.ffxiv_woe_that_is_madness.desc": "Final Fantasy XIV - Woe That Is Madness (Bismarck)",
       "itemGroup.tabfartsysadditions": "FMP - Core",
       "advancements.adv_tm_sharts.descr": "Obtain ten million sharts",
+      "item.fartsysmagitechproductions.bag_o_rock_salt": "Bag O Rock Salt",
       "item.fartsysadditions.ffxiva_land_long_dead": "FFXIV - A Land Long Dead",
       "subtitles.fartsy.battleagainstatruehero": "Undertale - Battle Against A True Hero (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_one_amongst_the_weary.desc": "FFXIV - One Amongst The Weary (Anabaseios 9/10 Theme)",
+      "item.fartsysmagitechproductions.crystal_unaspected": "Unaspected Crystal",
       "item.fartsysadditions.shart_thousand": "Kilo-shart",
       "subtitles.ffxiv.steel_reason": "FFXIV - Steel Reason",
       "subtitles.ffxiv.oneamongsttheweary": "FFXIV - One Amongst The Weary (Anabaseios 9/10 Theme)",
+      "item.fartsysmagitechproductions.fc_big_boned": "Faded Copy of Big Boned",
+      "item.fartsysmagitechproductions.amd_brute_chiptune.desc": "FFXIV - Metal: Brute Justice Mode (Fartsy Chiptune)",
       "item.record.amd_motor_oil_jiggle_jungle.desc": "Kissone Kinoma - Motor Oil Jiggle Jungle",
       "item.amd_you_will_know_our_names_remastered.name": "Aetherial Music Disc - You Will Know Our Names (Remastered)",
       "item.fartsysadditions.ffxiv_landslide.desc": "Final Fantasy XIV - Landslide (Eden\u0027s Gate: Sepulture)",
       "subtitles.emone": "Uh oh, someone dropped the sharts!",
       "subtitles.ffxiv.scream": "FFXIV - Scream",
       "item.fartsysadditions.touhou_project_un_owen_was_her.desc": "Touhou Project - U.N. Owen Was Her? (6.0/EoSD Flandre)",
+      "item.fartsysmagitechproductions.jr_metal_brute_justice_mode": "\"Metal: Brute Justice Mode\" Jukebox Roll",
+      "item.fartsysmagitechproductions.shard_unaspected": "Unaspected Shard",
+      "item.fartsysmagitechproductions.cluster_fire": "Fire Cluster",
+      "item.fartsysmagitechproductions.enchanted_emerald_ink": "Enchanted Emerald Ink",
       "item.fartsysadditions.vitiated_aether_crystal": "Vitiated Aether Crystal",
       "tile.ore_lightning_overworld.name": "Lightning Aspected Ore",
       "item.record.amd_fiend.desc": "FFXIV - Fiend (Sephirot Theme)",
       "item.fartsysadditions.faded_infinity": "Faded Copy of Infinity",
+      "item.fartsysmagitechproductions.crystal_lightning": "Lightning Crystal",
       "item.fartsysadditions.faded_primals_exponential_entropy": "Faded Copy of The Primals - Exponential Entropy",
       "subtitles.ffxiv.closeinthedistance": "FFXIV - Close in the Distance",
       "item.amd_chips_of_nature.name": "Aetherial Music Disc - Rules of Nature",
       "item.record.amd_twice_stricken.desc": "FFXIV - Twice Stricken",
+      "item.fartsysmagitechproductions.jr_close_in_the_distance": "\"Close in the Distance\" Jukebox Roll",
       "item.fartsysadditions.ffxiv_under_the_weight": "FFXIV - Under The Weight",
       "subtitles.ffxiv.papaya": "FFXIV - Pa-Paya",
       "item.record.amd_brute_chiptune.desc": "FFXIV - Metal: Brute Justice Mode (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_interphos_p_1": "Aetherial Music Disc - The Interphos (Phase 1)",
       "advancements.adv_pvc_powder.descr": "Melt a music disc into ash.",
       "item.fartsysadditions.demetori_necrofantasia.desc": "Demetori - Necrofantasia",
       "item.amd_driftveil_city.name": "Aetherial Music Disc - Driftveil City",
       "item.fartsysadditions.touhou_project_necrofantasia.desc": "Touhou Project - Necrofantasia (PCB/7.0 Yukari)",
+      "item.fartsysmagitechproductions.amd_metal": "Aetherial Music Disc - Metal",
       "item.fartsysadditions.shart_special": "Shart Special",
       "item.cluster_wind.name": "Wind Cluster",
       "item.fartsysadditions.ffxiv_metal": "FFXIV - Metal",
@@ -4240,30 +4069,45 @@
       "subtitles.ffxiv.sandsofamber": "FFXIV - Sands of Amber",
       "subtitles.pokemons1.burningbattlefield": "Pokemon Season 1 (Anime) - Burning Battlefield",
       "item.record.amd_never_gonna_give_you_up.desc": "Rick Astley - Never Gonna Give You Up (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_big_boned.desc": "FFXIV Fat Chocobo Mount - Big Boned",
       "item.fartsysadditions.xbc_2_battle": "XBC 2 - Battle",
       "item.amd_close_in_the_distance.name": "Aetherial Music Disc - Close in the Distance",
+      "item.fartsysmagitechproductions.amd_close_in_the_distance": "Aetherial Music Disc - Close in the Distance",
+      "block.fartsysmagitechproductions.ore_ice": "Ice Aspected Ore",
+      "item.fartsysmagitechproductions.amd_brute_chiptune": "Aetherial Music Disc - Metal: Brute Justice Mode",
       "item.amd_interphos_p_1.name": "Aetherial Music Disc - The Interphos (Phase 1)",
+      "block.fartsysmagitechproductions.ore_earth": "Earth Aspected Ore",
+      "item.fartsysmagitechproductions.amd_chips_of_nature": "Aetherial Music Disc - Rules of Nature",
       "item.debug_item.name": "Mini Fartsy",
+      "item.fartsysmagitechproductions.amd_interphos_p_1.desc": "FFXIV Final Boss Theme (Phase 1)",
+      "item.fartsysmagitechproductions.amd_neath_dark_waters.desc": "FFXIV - Neath Dark Waters (The Tempest - Amaurot Theme)",
       "subtitles.ffxiv.agentofinquiry": "Final Fantasy XIV - Agent of Inquiry (Hildibrand)",
       "item.record.amd_exponential_entropy_primals.desc": "FFXIV The Primals - Exponential Entropy",
       "item.amd_sands_of_amber.name": "Aetherial Music Disc - Sands Of Amber",
       "item.fartsysadditions.restored_primals_exponential_entropy": "Restored Copy of The Primals - Exponential Entropy",
       "subtitles.ffxiv.totheedge": "FFXIV - To The Edge",
       "subtitles.kissonekinoma.sweatysocks": "A diddy to make your tootsies wetter and your socks sweatier.",
+      "item.fartsysmagitechproductions.jr_twice_stricken": "\"Twice Stricken\" Jukebox Roll",
       "subtitles.ffxiv.shadowbringers": "FFXIV - Shadowbringers",
       "item.fc_locus.name": "Faded Copy of Locus",
       "item.crystal_unaspected.name": "Unaspected Crystal",
+      "item.fartsysmagitechproductions.amd_sweaty_chips": "Aetherial Music Disc - Sweaty Chips",
       "item.fartsysadditions.restored_infinity": "Restored Copy of Infinity",
+      "item.fartsysmagitechproductions.amd_sweaty_socks.desc": "Kissone Kinoma - Sweaty Socks",
       "item.fartsysadditions.resonant_aether": "Resonant Aether",
       "item.fartsysadditions.faded_shadowbringers": "Faded Copy of Shadowbringers",
       "subtitles.xc.youwillknowournames": "Xenoblade Chronicles -  You Will Know Our Names",
       "item.record.amd_pa_paya.desc": "FFXIV Easter Event - Pa-Paya",
       "item.jr_metal.name": "\"Metal\" Jukebox Roll",
       "item.jr_papaya_demastered.name": "\"Pa-Paya (Demastered)\" Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_dynamite.desc": "Taio Cruz - Dynamite (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.enchanted_ender_pearl_ink": "Enchanted Ender Pearl Ink",
       "item.amd_and_love_you_shall_find.name": "Aetherial Music Disc - And Love You Shall Find",
+      "item.fartsysmagitechproductions.amda_long_fall": "Aetherial Music Disc - A Long Fall (The Twinning)",
       "subtitles.kissonekinoma.motoroiljigglejungle": "Kissone Kinoma - Motor Oil Jiggle Jungle",
       "item.fartsysadditions.restored_metal": "Restored Copy of Metal",
       "item.fartsysadditions.dmc_5_bury_the_light_mission_20": "DMC 5 - Bury The Light (Mission 20)",
+      "item.fartsysmagitechproductions.amd_devil_trigger": "Aetherial Music Disc - Devil Trigger",
       "item.fartsysadditions.restored_shadowbringers": "Restored Copy of Shadowbringers",
       "item.shard_fire.name": "Fire Shard",
       "item.fartsysadditions.restored_silent_regard_of_stars": "Restored Copy of The Silent Regard Of Stars",
@@ -4272,21 +4116,34 @@
       "item.fartsysadditions.ffxiv_shadowbringers.desc": "Final Fantasy XIV - Shadowbringers (Shadowbringers)",
       "subtitles.ffxiv.locus": "FFXIV - Locus",
       "subtitles.ffxiv.landslide": "LANDSLIDES? METEORS? TITAN!!!!! (FFXIV Titan E4S Theme - Landslide)",
+      "item.fartsysmagitechproductions.shart_two_thousand": "Two Kilo Sharts",
       "item.fartsysadditions.pvc_dust": "PVC Dust",
       "item.record.amd_metal_brute_justice_mode.desc": "FFXIV - Metal: Brute Justice Mode",
       "tile.ore_fire.name": "Fire Aspected Ore",
+      "item.fartsysmagitechproductions.shard_lightning": "Lightning Shard",
+      "item.fartsysmagitechproductions.amd_bat_country.desc": "Avenged Sevenfold - Bat Country (Fartsy Chiptune)",
       "item.fartsysadditions.ffxiv_primals_brute_justice": "FFXIV - The Primals - Metal: Brute Justice Mode",
+      "item.fartsysmagitechproductions.amd_clo_zee_koto.desc": "[Chill Trap] CloZee - Koto",
       "item.record.amd_and_love_you_shall_find.desc": "FFXIV - And Love You Shall Find",
+      "item.fartsysmagitechproductions.amd_apex_of_the_world.desc": "Fire Emblem 3H - Apex Of The World (Fartsy Chiptune)",
       "item.fc_metal.name": "Faded Copy of Metal",
+      "item.fartsysmagitechproductions.enchanted_lapis_ink": "Enchanted Lapis Ink",
       "subtitles.ffxiv.battleonthebigbridge": "FFXIV - Battle on the Big Bridge",
       "item.waffle_of_ass_destruction.name": "Waffle Of Ass Destruction",
       "subtitles.ffxiv.nightbloom": "FFXIV - Nightbloom",
       "item.jr_neath_dark_waters.name": "\"Neath Dark Waters\" Jukebox Roll",
       "item.fartsysadditions.faded_silent_regard_of_stars": "Faded Copy of The Silent Regard of Stars",
       "item.amd_papaya_demastered.name": "Aetherial Music Disc - Pa-Paya (Demastered)",
+      "item.fartsysmagitechproductions.la_cucuracha.desc": "The roaches, Wat. The roaches.",
+      "item.fartsysmagitechproductions.amd_papaya_demastered.desc": "FFXIV - Pa-Paya (Demastered)",
       "item.fartsysadditions.shart_ten": "Mini Shart",
       "item.amd_motor_oil_jiggle_jungle.name": "Kissone Kinoma - Motor Oil Jiggle Jungle",
+      "item.fartsysmagitechproductions.shart_special": "Shart Special",
+      "item.fartsysmagitechproductions.amd_bad_apple_fc": "Aetherial Music Disc - Bad Apple-FC",
+      "item.fartsysmagitechproductions.fc_locus": "Faded Copy of Locus",
+      "item.fartsysmagitechproductions.amd_chip_oil_jiggle_tune.desc": "Kissone Kinoma - Motor Oil Jiggle Jungle (Fartsy Chiptune)",
       "item.fartsysadditions.touhou_project_nuclear_fusion.desc": "Touhou Project - Nuclear Fusion (SA/11.0 Utsuho)",
+      "item.fartsysmagitechproductions.jr_fiend": "\"Fiend\" Jukebox Roll",
       "item.fc_big_boned.name": "Faded Copy of Big Boned",
       "item.record.amd_locus.desc": "FFXIV - Locus",
       "advancements.adv_100k_sharts.descr": "Obtain 100,000 sharts",
@@ -4294,15 +4151,21 @@
       "subtitles.dmc5.burythelightmission20": "Devil May Cry 5 - Bury The Light (Mission 20, Vergil)",
       "item.fartsysadditions.ffxiv_penitus": "FFXIV - Penitus (The Praetorium)",
       "item.record.amd_sweaty_socks.desc": "Kissone Kinoma - Sweaty Socks",
+      "item.fartsysmagitechproductions.shart_two_million": "Two Mega Sharts",
       "subtitles.demetori.worldsend": "Demetori - World\u0027s End",
       "subtitles.fartsy.andchipsyoushallfind": "FFXIV - And Love You Shall Find (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.amd_never_gonna_give_you_up.desc": "Rick Astley - Never Gonna Give You Up (Fartsy Chiptune)",
       "subtitles.fartsy.ffxivtwicestrickendevocalized": "FFXIV - Twice Stricken (De-vocalized by Fartsy)",
+      "block.fartsysmagitechproductions.ore_water": "Water Aspected Ore",
       "item.fartsysadditions.faded_silent_scream": "Faded Copy of Silent Scream",
+      "item.fartsysmagitechproductions.jr_papaya_demastered": "\"Pa-Paya (Demastered)\" Jukebox Roll",
       "subtitles.fartsy.brutechiptune": "FFXIV - Metal: Brute Justice Mode (Fartsy Chiptune)",
       "item.fartsysadditions.restored_lunar_whale": "Restored Copy of Lunar Whale",
       "item.jr_athena_the_tireless_one.name": "\"Athena, the Tireless One\" Jukebox Roll",
       "item.shart_twenty_million.name": "20 Mega Sharts",
       "item.fartsysadditions.ffxiva_land_long_dead.desc": "Final Fantasy XIV - A Land Long Dead (The Burn)",
+      "item.fartsysmagitechproductions.jr_one_amongst_the_weary": "\"One Amongst The Weary\" Jukebox Roll",
+      "block.fartsysmagitechproductions.rock_salt": "Rock Salt",
       "item.blank_g_1_jr.name": "Blank Grade 1 Jukebox Roll",
       "item.shart_two_million.name": "Two Mega Sharts",
       "item.amd_brute_chiptune.name": "Aetherial Music Disc - Metal: Brute Justice Mode",
@@ -4310,6 +4173,7 @@
       "subtitles.ffxiv.knowledgeneversleeps": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
       "subtitles.demetori.orientaldarkflight": "Demetori - Oriental Dark Flight",
       "item.shard_water.name": "Water Shard",
+      "block.fartsysmagitechproductions.ore_lightning": "Lightning Aspected Ore",
       "item.fartsysadditions.touhou_project_necrofantasia": "Touhou Project - Necrofantasia",
       "item.jr_landslide.name": "\"Landslide\" Jukebox  Roll",
       "item.fartsysadditions.touhou_project_bad_apple": "Touhou Project - Bad Apple",
@@ -4317,12 +4181,16 @@
       "subtitles.scream": "FFXIV - Scream",
       "item.amd_landslide.name": "Aetherial Music Disc - Landslide",
       "item.fartsysadditions.ffxiv_penitus.desc": "The Praetorium Theme",
+      "item.fartsysmagitechproductions.la_cucuracha": "Music Disc - La Cucuracha",
       "subtitles.ffxiv.fromtheheavens": "FFXIV - From the Heavens (...Hello World!)",
+      "item.fartsysmagitechproductions.blank_g_3_jr": "Blank Grade 3 Jukebox Roll",
       "item.shard_unaspected.name": "Unaspected Shard",
       "tile.ore_unaspected.name": "Unaspected Ore",
       "subtitles.dmc5.silverbullet": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.record.amd_chip_oil_jiggle_tune.desc": "Kissone Kinoma - Motor Oil Jiggle Jungle (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.shart_thousand": "Kilo Shart",
       "item.fartsysadditions.restored_silent_scream": "Restored Copy of Silent Scream",
+      "item.fartsysmagitechproductions.jr_who_brings_shadow": "\"Who Brings Shadow\" Jukebox Roll",
       "item.amd_locus.name": "Aetherial Music Disc - Locus",
       "advancements.adv_shart_death.title": "Meeting an EXPLOSIVE DEMISE",
       "item.record.amd_footfalls.desc": "FFXIV Endwalker - Footfalls",
@@ -4330,10 +4198,14 @@
       "item.fartsysadditions.touhou_project_cosmic_mind.desc": "Touhou Project - Cosmic Mind (UFO/12.0 Byakuren",
       "item.fartsysadditions.demetori_worlds_end": "Demetori - World\u0027s End",
       "advancements.adv_1m_sharts.descr": "Obtain one million sharts",
+      "item.fartsysmagitechproductions.shart_two": "Two Sharts",
+      "item.fartsysmagitechproductions.fc_footfalls": "Faded Copy of Footfalls",
+      "item.fartsysmagitechproductions.shard_wind": "Wind Shard",
       "subtitles.fartsy.badapplefc": "Fartsy - Bad Apple [2017 GXSCC Beta FamiCom Mix]",
       "item.fc_and_love_you_shall_find.name": "Faded Copy of And Love You Shall Find",
       "item.fartsysadditions.ffxiv_lunar_whale.desc": "Final Fantasy XIV - Lunar Whale",
       "subtitles.ffxiv.tornfromtheheavensorchestral": "FFXIV - Torn From the Heavens (Orchestral)",
+      "item.fartsysmagitechproductions.jr_metal": "\"Metal\" Jukebox Roll",
       "item.fartsysadditions.ffxiv_battle_on_the_big_bridge.desc": "FFXIV - Battle on the Big Bridge (Gilgamesh Theme)",
       "item.pvc_dust.name": "PVC Dust",
       "subtitles.ffxiv.outoftime": "Final Fantasy XIV - Out of Time (Alexander)",
@@ -4346,38 +4218,55 @@
       "item.enchanted_iron_ink.name": "Enchanted Iron Ink",
       "item.fartsysadditions.restored_brute_justice": "Restored Copy of Metal - Brute Justice Justice Mode",
       "item.shart_hundred.name": "Hecto Shart",
+      "item.fartsysmagitechproductions.enchanted_glowstone_ink": "Enchanted Glowstone Ink",
+      "item.fartsysmagitechproductions.amd_you_will_know_our_names_remastered.desc": "Xenoblade Chronicles: DE - You Will Know Our Names (Remastered)",
       "advancements.adv_1m_sharts.title": "A small loan of a million SHARTS",
       "item.fartsysadditions.faded_locus": "Faded Copy of Locus",
       "item.shart_million.name": "Mega-Shart",
       "item.fartsysadditions.restored_footfalls": "Restored Copy of Footfalls",
+      "item.fartsysmagitechproductions.shart_hundred": "Hecto Shart",
+      "item.fartsysmagitechproductions.bug_item": "Mini Kiki",
       "item.fartsysadditions.faded_out_of_time": "Faded Copy of Out Of Time",
+      "item.fartsysmagitechproductions.crystal_fire": "Fire Crystal",
       "item.fartsysadditions.ffxiv_silent_regard_of_stars": "FFXIV - The Silent Regard Of Stars",
       "item.shart_ten_million.name": "10 Mega-Sharts",
       "item.fartsysadditions.dmc_5_devil_trigger": "DMC 5 - Devil Trigger",
       "item.fartsysadditions.ngea_cruel_angels_thesis": "NGE - A Cruel Angels Thesis",
       "item.fartsysadditions.restored_locus": "Restored Copy of Locus",
       "item.amd_athena_the_tireless_one.name": "Aetherial Music Disc - Athena, The Tireless One",
+      "item.fartsysmagitechproductions.cluster_lightning": "Lightning Cluster",
+      "item.fartsysmagitechproductions.amd_battle": "Aetherial Music Disc - Battle!!",
       "subtitles.fartsy.nevergonnachiptune": "Rick Astley - Never Gonna Give You Up (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.fc_athena_the_tireless_one": "Faded Copy of Athena The Tireless One",
+      "block.fartsysmagitechproductions.ore_fire": "Fire Aspected Ore",
       "item.record.amd_exponential_chiptune.desc": "FFXIV - Exponential Entropy (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.cluster_unaspected": "Unaspected Cluster",
       "item.blank_g_3_jr.name": "Blank Grade 3 Jukebox Roll",
+      "item.fartsysmagitechproductions.amd_pa_paya.desc": "FFXIV Easter Event - Pa-Paya",
       "advancements.adv_cronus.descr": "Craft Cronus",
       "advancements.adv_shart_special.title": "Don\u0027t eat THESE...",
       "item.cluster_lightning.name": "Lightning Cluster",
       "item.amd_sweaty_chips.name": "Aetherial Music Disc - Sweaty Chips",
+      "item.fartsysmagitechproductions.enchanted_nether_brick_ink": "Enchanted Nether Brick Ink",
       "item.amda_long_fall.name": "Aetherial Music Disc - A Long Fall (The Twinning)",
       "subtitles.fartsy.exponentialchiptune": "FFXIV - Exponential Entropy (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.shart_million": "Mega-Shart",
       "item.fartsysadditions.waffle_of_ass_destruction": "Waffle Of Ass Destruction",
       "item.fartsysadditions.demetori_worlds_end.desc": "Demetori - World\u0027s End",
       "tile.ore_fire_overworld.name": "Fire Aspected Ore",
+      "item.fartsysmagitechproductions.enchanted_diamond_ink": "Enchanted Diamond Ink",
       "item.record.amda_long_fall.desc": "FFXIV - A Long Fall (The Twinning Theme)",
       "item.fartsysadditions.restored_aether_crystal": "Restored Aether Crystal",
       "item.fc_footfalls.name": "Faded Copy of Footfalls",
       "item.la_cucuracha.name": "Music Disc - La Cucuracha",
       "item.amd_one_amongst_the_weary.name": "Aetherial Music Disc - One Amongst The Weary",
       "item.amd_clo_zee_koto.name": "Aetherial Music Disc - CloZee - Koto",
+      "item.fartsysmagitechproductions.amd_locus.desc": "FFXIV - Locus",
       "subtitles.dmc5.deviltrigger": "Devil May Cry 5 - Devil Trigger (Nero)",
       "item.fartsysadditions.ffxiv_primals_locus": "FFXIV - The Primals - Locus",
+      "item.fartsysmagitechproductions.enchanted_iron_ink": "Enchanted Iron Ink",
       "item.fartsysadditions.touhou_project_un_owen_was_her": "Touhou Project - U.N. Owen Was Her?",
+      "item.fartsysmagitechproductions.fc_close_in_the_distance": "Faded Copy of Close in the Distance",
       "item.enchanted_quartz_ink.name": "Enchanted Quartz Ink",
       "item.record.amd_bad_apple_fc.desc": "Fartsy - Bad Apple (2017 GXSCC Beta Famicom Mix)",
       "tile.ore_earth.name": "Earth Aspected Ore",
@@ -4393,20 +4282,27 @@
       "item.fc_athena_the_tireless_one.name": "Faded Copy of Athena The Tireless One",
       "item.fartsysadditions.faded_to_the_edge": "Faded Copy of To The Edge",
       "item.fartsysadditions.ffxiv_exponential_entropy.desc": "Final Fantasy XIV - Exponential Entropy (Cruise Chaser)",
+      "item.fartsysmagitechproductions.amd_footfalls.desc": "FFXIV Endwalker - Footfalls",
       "subtitles.ffxiv.penitus": "FFXIV - Penitus (...Tell me, for whom do you fight?)",
       "subtitles.ffxiv.primals.brutejusticemode": "Final Fantasy XIV - The Primals - Metal: Brute Justice Mode",
       "item.shart_ten_thousand.name": "Ten Kilo-Sharts",
+      "item.fartsysmagitechproductions.amd_athena_the_tireless_one.desc": "FFXIV P12 Theme (Athena, The Tireless One)",
       "tile.ore_wind.name": "Wind Aspected Ore",
+      "item.fartsysmagitechproductions.shard_water": "Water Shard",
       "subtitles.ffxiv.neathdarkwaters": "FFXIV - Neath Dark Waters (Amaurot Theme)",
+      "item.fartsysmagitechproductions.amd_burning_battlefield": "Aetherial Music Disc - Burning Battlefield",
       "item.fartsysadditions.xbc_you_will_know_our_names": "XBC - You Will Know Our Names",
       "item.jr_twice_stricken.name": "\"Twice Stricken\" Jukebox Roll",
+      "item.fartsysmagitechproductions.crystal_water": "Water Crystal",
       "item.jr_metal_brute_justice_mode.name": "\"Metal: Brute Justice Mode\" Jukebox Roll",
       "item.amd_big_boned.name": "Aetherial Music Disc - Big Boned",
       "item.jr_who_brings_shadow.name": "\"Who Brings Shadow\" Jukebox Roll",
       "item.record.la_cucuracha.desc": "The roaches, Wat. The roaches.",
       "subtitles.fartsy.melanchiptune": "Iced Earth - Melancholy (Fartsy Chiptune)",
+      "item.fartsysmagitechproductions.shart_one": "One Shart",
       "item.shard_earth.name": "Earth Shard",
       "item.fartsysadditions.faded_battle_on_the_big_bridge": "Faded Copy of Battle On The Big Bridge",
+      "item.fartsysmagitechproductions.debug_item": "Mini Fartsy",
       "item.fartsysadditions.ffxiv_knowledge_never_sleeps.desc": "Final Fantasy XIV - Knowledge Never Sleeps (Crystarium Night)",
       "item.amd_battle.name": "Aetherial Music Disc - Battle!!",
       "tile.ore_water.name": "Water Aspected Ore",
@@ -4419,6 +4315,7 @@
       "item.fartsysadditions.dmc_5_silver_bullet.desc": "Devil May Cry 5 - Silver Bullet (Final Boss)",
       "item.fartsysadditions.faded_footfalls": "Faded Copy of Footfalls",
       "item.fartsysadditions.faded_knowledge_never_sleeps": "Faded Copy of Knowledge Never Sleeps",
+      "item.fartsysmagitechproductions.amda_long_fall.desc": "FFXIV - A Long Fall (The Twinning Theme)",
       "item.fartsysadditions.ffxiv_brute_justice": "FFXIV - Metal: Brute Justice Mode"
     }
   },
@@ -4466,10 +4363,10 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.12.2",
+    "currentGenerator": "forge-1.16.5",
     "credits": "https://github.com/ProfessorFartsalot/Fartsys-Additions",
     "modElementsPackage": "org.hydrogenhosting.fartsysmagitechproductions",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100118117
+  "mcreatorVersion": 202200234517
 }

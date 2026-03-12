@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    },
+    "1": {
+      "item": "minecraft:bone_meal"
+    },
+    "2": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:blank_g_2_jr",
+    "count": 1
+  }
+}

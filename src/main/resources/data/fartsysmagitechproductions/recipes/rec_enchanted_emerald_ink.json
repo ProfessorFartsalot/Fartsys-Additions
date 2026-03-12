@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    "4": {
+      "item": "minecraft:ink_sac"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    "7": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:enchanted_emerald_ink",
+    "count": 1
+  }
+}

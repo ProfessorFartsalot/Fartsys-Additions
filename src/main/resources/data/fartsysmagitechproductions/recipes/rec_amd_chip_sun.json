@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tnt"
+    },
+    "1": {
+      "item": "fartsysmagitechproductions:cluster_fire"
+    },
+    "2": {
+      "item": "minecraft:tnt"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "6": {
+      "item": "minecraft:tnt"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:cluster_earth"
+    },
+    "8": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_chip_sun",
+    "count": 1
+  }
+}

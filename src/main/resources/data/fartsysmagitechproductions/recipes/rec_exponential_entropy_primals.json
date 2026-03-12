@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_gold_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:crystal_wind"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_2_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:crystal_fire"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:fc_exponential_entropy_primals"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_exponential_entropy_primals",
+    "count": 1
+  }
+}

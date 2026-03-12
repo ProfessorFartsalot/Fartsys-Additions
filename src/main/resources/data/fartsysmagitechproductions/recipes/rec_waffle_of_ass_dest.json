@@ -1,0 +1,42 @@
+{
+  "group": "fartsysadditions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechproductions:shart_ten_million"
+    },
+    "1": {
+      "item": "fartsysmagitechproductions:shart_special"
+    },
+    "2": {
+      "item": "fartsysmagitechproductions:shart_ten_million"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:shart_special"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:shart_special"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:shart_ten_million"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:shart_special"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:shart_ten_million"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:waffle_of_ass_destruction",
+    "count": 1
+  }
+}

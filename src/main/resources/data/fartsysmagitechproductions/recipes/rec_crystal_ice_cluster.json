@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:cluster_ice"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:crystal_ice",
+    "count": 8
+  }
+}

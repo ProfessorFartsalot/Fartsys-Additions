@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_ender_pearl_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_3_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:fc_close_in_the_distance"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_close_in_the_distance",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechproductions:cluster_ice"
+    },
+    "1": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "2": {
+      "item": "fartsysmagitechproductions:cluster_ice"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:debug_item"
+    },
+    "5": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:cluster_fire"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:blank_g_3_jr"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:cluster_fire"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_bad_apple_fc",
+    "count": 1
+  }
+}

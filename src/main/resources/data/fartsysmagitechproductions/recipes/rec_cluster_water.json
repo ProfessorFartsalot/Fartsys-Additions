@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_water"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:cluster_water",
+    "count": 1
+  }
+}

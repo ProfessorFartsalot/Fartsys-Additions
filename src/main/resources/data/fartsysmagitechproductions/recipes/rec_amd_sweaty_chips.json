@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potato"
+    },
+    "1": {
+      "item": "minecraft:wet_sponge"
+    },
+    "2": {
+      "item": "minecraft:potato"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "6": {
+      "item": "minecraft:potato"
+    },
+    "7": {
+      "item": "minecraft:wet_sponge"
+    },
+    "8": {
+      "item": "minecraft:potato"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_sweaty_chips",
+    "count": 1
+  }
+}

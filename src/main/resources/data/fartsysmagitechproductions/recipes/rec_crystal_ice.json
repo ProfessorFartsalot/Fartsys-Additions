@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_ice"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:crystal_ice",
+    "count": 1
+  }
+}

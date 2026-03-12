@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "fartsysmagitechproductions:ore_unaspected"
+    "": {
+      "model": "fartsysmagitechproductions:block/ore_unaspected"
     }
   }
 }

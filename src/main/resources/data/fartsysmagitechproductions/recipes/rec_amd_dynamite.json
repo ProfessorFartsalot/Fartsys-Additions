@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gunpowder"
+    },
+    "1": {
+      "item": "minecraft:tnt"
+    },
+    "2": {
+      "item": "minecraft:gunpowder"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "6": {
+      "item": "minecraft:gunpowder"
+    },
+    "7": {
+      "item": "minecraft:tnt"
+    },
+    "8": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_dynamite",
+    "count": 1
+  }
+}

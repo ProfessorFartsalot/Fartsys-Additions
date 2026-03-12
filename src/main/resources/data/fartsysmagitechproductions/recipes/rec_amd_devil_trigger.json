@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_nugget"
+    },
+    "1": {
+      "item": "minecraft:diamond_sword"
+    },
+    "2": {
+      "item": "minecraft:gold_nugget"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:debug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "6": {
+      "item": "minecraft:gold_nugget"
+    },
+    "7": {
+      "item": "minecraft:zombie_head"
+    },
+    "8": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_devil_trigger",
+    "count": 1
+  }
+}

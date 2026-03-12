@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:cluster_fire"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:crystal_fire",
+    "count": 8
+  }
+}

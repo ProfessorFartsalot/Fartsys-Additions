@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "fartsysmagitechproductions:ore_fire_overworld"
+    "": {
+      "model": "fartsysmagitechproductions:block/ore_fire_overworld"
     }
   }
 }

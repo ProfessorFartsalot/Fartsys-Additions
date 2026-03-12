@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "fartsysmagitechproductions:ore_ice"
+    "": {
+      "model": "fartsysmagitechproductions:block/ore_ice"
     }
   }
 }

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_redstone_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_1_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:crystal_earth"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    "7": {
+      "item": "minecraft:egg"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_papaya_demastered",
+    "count": 1
+  }
+}

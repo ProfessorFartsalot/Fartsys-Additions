@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "fartsysmagitechproductions:shart_ten_million"
+    },
+    "title": {
+      "translate": "advancements.adv_tm_sharts.title"
+    },
+    "description": {
+      "translate": "advancements.adv_tm_sharts.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "adv_tm_sharts": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fartsysmagitechproductions:shart_ten_million",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "fartsysmagitechproductions:adv_shart_special"
+}

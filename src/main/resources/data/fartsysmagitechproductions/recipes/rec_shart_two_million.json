@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:shart_million"
+    },
+    {
+      "item": "fartsysmagitechproductions:shart_million"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:shart_two_million",
+    "count": 1
+  }
+}

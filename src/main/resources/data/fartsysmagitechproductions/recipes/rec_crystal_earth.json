@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_earth"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:crystal_earth",
+    "count": 1
+  }
+}

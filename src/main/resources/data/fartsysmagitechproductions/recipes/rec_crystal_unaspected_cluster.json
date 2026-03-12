@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:cluster_unaspected"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:crystal_unaspected",
+    "count": 8
+  }
+}

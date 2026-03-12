@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "fartsysmagitechproductions:ore_water"
+    "": {
+      "model": "fartsysmagitechproductions:block/ore_water"
     }
   }
 }

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_iron_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_1_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:shard_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:fc_big_boned"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:shard_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_big_boned",
+    "count": 1
+  }
+}

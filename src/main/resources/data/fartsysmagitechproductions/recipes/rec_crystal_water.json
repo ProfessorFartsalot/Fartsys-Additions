@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:crystal_unaspected"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    },
+    {
+      "item": "fartsysmagitechproductions:shard_water"
+    }
+  ],
+  "result": {
+    "item": "fartsysmagitechproductions:crystal_water",
+    "count": 1
+  }
+}

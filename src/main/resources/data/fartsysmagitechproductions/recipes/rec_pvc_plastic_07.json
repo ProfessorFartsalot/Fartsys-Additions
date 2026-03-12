@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 20,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:music_disc_mellohi"
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:pvc_dust"
+  }
+}

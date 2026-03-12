@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:coals"
+    },
+    "1": {
+      "item": "minecraft:jungle_sapling"
+    },
+    "2": {
+      "tag": "minecraft:coals"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "4": {
+      "item": "minecraft:orange_wool"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "6": {
+      "tag": "minecraft:coals"
+    },
+    "7": {
+      "item": "minecraft:slime_block"
+    },
+    "8": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_motor_oil_jiggle_jungle",
+    "count": 1
+  }
+}

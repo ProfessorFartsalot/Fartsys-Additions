@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_ender_pearl_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:cluster_water"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_2_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:cluster_water"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:crystal_water"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:crystal_water"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_neath_dark_waters",
+    "count": 1
+  }
+}

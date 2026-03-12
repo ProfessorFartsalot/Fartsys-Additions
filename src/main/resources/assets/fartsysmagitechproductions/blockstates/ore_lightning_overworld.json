@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "fartsysmagitechproductions:ore_lightning_overworld"
+    "": {
+      "model": "fartsysmagitechproductions:block/ore_lightning_overworld"
     }
   }
 }

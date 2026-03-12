@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_diamond_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:cluster_ice"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_3_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:cluster_ice"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:fc_and_love_you_shall_find"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_and_love_you_shall_find",
+    "count": 1
+  }
+}

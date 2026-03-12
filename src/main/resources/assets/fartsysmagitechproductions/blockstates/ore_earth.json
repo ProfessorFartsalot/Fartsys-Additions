@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "fartsysmagitechproductions:ore_earth"
+    "": {
+      "model": "fartsysmagitechproductions:block/ore_earth"
     }
   }
 }

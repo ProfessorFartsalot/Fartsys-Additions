@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "1": {
+      "item": "minecraft:ender_pearl"
+    },
+    "2": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:bug_item"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:cluster_earth"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:blank_g_3_jr"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:pvc_dust"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:amd_clo_zee_koto",
+    "count": 1
+  }
+}
