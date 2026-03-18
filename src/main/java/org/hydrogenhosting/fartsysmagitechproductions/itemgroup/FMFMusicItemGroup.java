@@ -13,7 +13,7 @@ import net.minecraft.item.ItemGroup;
 @FartsysmagitechproductionsModElements.ModElement.Tag
 public class FMFMusicItemGroup extends FartsysmagitechproductionsModElements.ModElement {
 	public FMFMusicItemGroup(FartsysmagitechproductionsModElements instance) {
-		super(instance, 182);
+		super(instance, 190);
 	}
 
 	@Override

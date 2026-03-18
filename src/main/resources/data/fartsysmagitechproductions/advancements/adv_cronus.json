@@ -1,5 +1,6 @@
 {
   "display": {
+    "background": "minecraft:textures/block/stone.png",
     "icon": {
       "item": "fartsysmagitechproductions:cronus"
     },
@@ -32,6 +33,5 @@
   },
   "rewards": {
     "experience": 500
-  },
-  "parent": "fartsysmagitechproductions:adv_shart_special"
+  }
 }

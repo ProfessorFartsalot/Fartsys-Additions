@@ -36,7 +36,7 @@ public class BugItemItem extends FartsysmagitechproductionsModElements.ModElemen
 	public static final Item block = null;
 
 	public BugItemItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 68);
+		super(instance, 67);
 	}
 
 	@Override

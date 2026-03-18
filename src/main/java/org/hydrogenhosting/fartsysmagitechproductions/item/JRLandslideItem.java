@@ -34,7 +34,7 @@ public class JRLandslideItem extends FartsysmagitechproductionsModElements.ModEl
 	public static final Item block = null;
 
 	public JRLandslideItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 121);
+		super(instance, 120);
 	}
 
 	@Override

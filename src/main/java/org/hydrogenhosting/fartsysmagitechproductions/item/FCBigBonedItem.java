@@ -24,7 +24,7 @@ public class FCBigBonedItem extends FartsysmagitechproductionsModElements.ModEle
 	public static final Item block = null;
 
 	public FCBigBonedItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 136);
+		super(instance, 134);
 	}
 
 	@Override

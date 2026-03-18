@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.NETHER_STAR"
+        "value": ""
       },
       {
         "value": "CUSTOM:EnchantedNetherBrickInk"
       },
       {
-        "value": "Items.NETHER_STAR"
+        "value": ""
       },
       {
         "value": "CUSTOM:ClusterFire"
@@ -31,7 +31,7 @@
         "value": "CUSTOM:ClusterLightning"
       },
       {
-        "value": "CUSTOM:ClusterLightning"
+        "value": "CUSTOM:FCOneAmongstTheWeary"
       },
       {
         "value": "CUSTOM:ClusterLightning"

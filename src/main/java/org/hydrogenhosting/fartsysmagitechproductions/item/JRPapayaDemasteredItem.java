@@ -32,7 +32,7 @@ public class JRPapayaDemasteredItem extends FartsysmagitechproductionsModElement
 	public static final Item block = null;
 
 	public JRPapayaDemasteredItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 129);
+		super(instance, 127);
 	}
 
 	@Override

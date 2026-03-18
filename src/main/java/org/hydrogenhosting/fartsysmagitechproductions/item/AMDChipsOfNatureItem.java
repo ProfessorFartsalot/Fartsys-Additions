@@ -26,7 +26,7 @@ public class AMDChipsOfNatureItem extends FartsysmagitechproductionsModElements.
 	public static final Item block = null;
 
 	public AMDChipsOfNatureItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 102);
+		super(instance, 101);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class AMDSweatySocksItem extends FartsysmagitechproductionsModElements.Mo
 	public static final Item block = null;
 
 	public AMDSweatySocksItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 105);
+		super(instance, 104);
 	}
 
 	@Override

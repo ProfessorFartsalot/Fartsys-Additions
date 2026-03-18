@@ -26,7 +26,7 @@ public class AMDMetalBruteJusticeModeItem extends FartsysmagitechproductionsModE
 	public static final Item block = null;
 
 	public AMDMetalBruteJusticeModeItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 94);
+		super(instance, 93);
 	}
 
 	@Override

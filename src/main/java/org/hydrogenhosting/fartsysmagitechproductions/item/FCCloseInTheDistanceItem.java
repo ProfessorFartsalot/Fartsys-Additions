@@ -24,7 +24,7 @@ public class FCCloseInTheDistanceItem extends FartsysmagitechproductionsModEleme
 	public static final Item block = null;
 
 	public FCCloseInTheDistanceItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 137);
+		super(instance, 135);
 	}
 
 	@Override

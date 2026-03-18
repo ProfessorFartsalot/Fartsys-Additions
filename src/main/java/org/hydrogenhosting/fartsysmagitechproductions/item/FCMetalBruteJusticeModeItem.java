@@ -24,7 +24,7 @@ public class FCMetalBruteJusticeModeItem extends FartsysmagitechproductionsModEl
 	public static final Item block = null;
 
 	public FCMetalBruteJusticeModeItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 143);
+		super(instance, 140);
 	}
 
 	@Override

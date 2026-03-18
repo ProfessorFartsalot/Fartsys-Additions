@@ -32,7 +32,7 @@ public class JRAndLoveYouShallFindItem extends FartsysmagitechproductionsModElem
 	public static final Item block = null;
 
 	public JRAndLoveYouShallFindItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 113);
+		super(instance, 112);
 	}
 
 	@Override

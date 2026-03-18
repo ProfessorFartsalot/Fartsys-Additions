@@ -32,7 +32,7 @@ public class JRPaPayaItem extends FartsysmagitechproductionsModElements.ModEleme
 	public static final Item block = null;
 
 	public JRPaPayaItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 128);
+		super(instance, 126);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class AMDYouWillKnowOurNamesRemasteredItem extends Fartsysmagitechproduct
 	public static final Item block = null;
 
 	public AMDYouWillKnowOurNamesRemasteredItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 109);
+		super(instance, 108);
 	}
 
 	@Override

@@ -13,7 +13,7 @@ import net.minecraft.item.ItemGroup;
 @FartsysmagitechproductionsModElements.ModElement.Tag
 public class FartsysAdditionsItemGroup extends FartsysmagitechproductionsModElements.ModElement {
 	public FartsysAdditionsItemGroup(FartsysmagitechproductionsModElements instance) {
-		super(instance, 145);
+		super(instance, 153);
 	}
 
 	@Override

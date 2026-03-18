@@ -19,22 +19,22 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:ClusterWater"
+        "value": "CUSTOM:CrystalWater"
       },
       {
         "value": "CUSTOM:BlankG2JR"
       },
       {
+        "value": "CUSTOM:CrystalWater"
+      },
+      {
         "value": "CUSTOM:ClusterWater"
       },
       {
-        "value": "CUSTOM:CrystalWater"
+        "value": "CUSTOM:FCNeathDarkWaters"
       },
       {
-        "value": "CUSTOM:CrystalWater"
-      },
-      {
-        "value": "CUSTOM:CrystalWater"
+        "value": "CUSTOM:ClusterWater"
       }
     ],
     "recipeReturnStack": {

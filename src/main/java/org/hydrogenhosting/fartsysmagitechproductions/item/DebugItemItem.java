@@ -34,7 +34,7 @@ public class DebugItemItem extends FartsysmagitechproductionsModElements.ModElem
 	public static final Item block = null;
 
 	public DebugItemItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 67);
+		super(instance, 66);
 	}
 
 	@Override

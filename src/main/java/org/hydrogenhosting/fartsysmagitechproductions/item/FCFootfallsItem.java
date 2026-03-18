@@ -24,7 +24,7 @@ public class FCFootfallsItem extends FartsysmagitechproductionsModElements.ModEl
 	public static final Item block = null;
 
 	public FCFootfallsItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 139);
+		super(instance, 137);
 	}
 
 	@Override

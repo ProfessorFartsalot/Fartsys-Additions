@@ -26,7 +26,7 @@ public class AMDTwiceStrickenItem extends FartsysmagitechproductionsModElements.
 	public static final Item block = null;
 
 	public AMDTwiceStrickenItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 107);
+		super(instance, 106);
 	}
 
 	@Override

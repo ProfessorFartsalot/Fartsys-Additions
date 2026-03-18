@@ -31,7 +31,7 @@ public class WaffleOfAssDestructionItem extends FartsysmagitechproductionsModEle
 	public static final Item block = null;
 
 	public WaffleOfAssDestructionItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 337);
+		super(instance, 68);
 	}
 
 	@Override

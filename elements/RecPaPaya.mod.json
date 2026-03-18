@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Items.EGG"
       },
       {
         "value": "CUSTOM:EnchantedEnderPearlInk"
       },
       {
-        "value": ""
+        "value": "Items.EGG"
       },
       {
         "value": "CUSTOM:ShardEarth"
@@ -31,7 +31,7 @@
         "value": "CUSTOM:ShardLightning"
       },
       {
-        "value": "Items.EGG"
+        "value": "CUSTOM:FCPapaya"
       },
       {
         "value": "CUSTOM:ShardLightning"

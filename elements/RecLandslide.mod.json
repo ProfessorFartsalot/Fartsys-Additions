@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnchantedNetherBrickInk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:BlankG3JR"
+      },
+      {
+        "value": "CUSTOM:CrystalEarth"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      },
+      {
+        "value": "CUSTOM:FCLandslide"
+      },
+      {
+        "value": "CUSTOM:ClusterEarth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JRLandslide"
+    },
+    "name": "rec_landslide",
+    "namespace": "mod"
+  }
+}

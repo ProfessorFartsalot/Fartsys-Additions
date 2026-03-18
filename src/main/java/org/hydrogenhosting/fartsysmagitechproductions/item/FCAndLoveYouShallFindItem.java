@@ -24,7 +24,7 @@ public class FCAndLoveYouShallFindItem extends FartsysmagitechproductionsModElem
 	public static final Item block = null;
 
 	public FCAndLoveYouShallFindItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 134);
+		super(instance, 132);
 	}
 
 	@Override

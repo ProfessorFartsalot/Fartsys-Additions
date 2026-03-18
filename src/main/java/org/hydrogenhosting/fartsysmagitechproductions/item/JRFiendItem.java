@@ -32,7 +32,7 @@ public class JRFiendItem extends FartsysmagitechproductionsModElements.ModElemen
 	public static final Item block = null;
 
 	public JRFiendItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 118);
+		super(instance, 117);
 	}
 
 	@Override

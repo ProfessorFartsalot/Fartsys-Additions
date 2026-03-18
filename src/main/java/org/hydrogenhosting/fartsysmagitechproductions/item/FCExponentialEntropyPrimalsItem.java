@@ -24,7 +24,7 @@ public class FCExponentialEntropyPrimalsItem extends FartsysmagitechproductionsM
 	public static final Item block = null;
 
 	public FCExponentialEntropyPrimalsItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 138);
+		super(instance, 136);
 	}
 
 	@Override

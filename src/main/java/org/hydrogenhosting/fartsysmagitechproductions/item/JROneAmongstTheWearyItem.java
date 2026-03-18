@@ -34,7 +34,7 @@ public class JROneAmongstTheWearyItem extends FartsysmagitechproductionsModEleme
 	public static final Item block = null;
 
 	public JROneAmongstTheWearyItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 127);
+		super(instance, 125);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class AMDNeathDarkWatersItem extends FartsysmagitechproductionsModElement
 	public static final Item block = null;
 
 	public AMDNeathDarkWatersItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 95);
+		super(instance, 94);
 	}
 
 	@Override

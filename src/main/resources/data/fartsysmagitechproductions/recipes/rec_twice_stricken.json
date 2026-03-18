@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "fartsysmagitechproductions:enchanted_emerald_ink"
+    },
+    "3": {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    "4": {
+      "item": "fartsysmagitechproductions:blank_g_2_jr"
+    },
+    "5": {
+      "item": "fartsysmagitechproductions:crystal_lightning"
+    },
+    "6": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    },
+    "7": {
+      "item": "fartsysmagitechproductions:fc_twice_stricken"
+    },
+    "8": {
+      "item": "fartsysmagitechproductions:cluster_lightning"
+    }
+  },
+  "result": {
+    "item": "fartsysmagitechproductions:jr_twice_stricken",
+    "count": 1
+  }
+}

@@ -32,7 +32,7 @@ public class JRCloseInTheDistanceItem extends FartsysmagitechproductionsModEleme
 	public static final Item block = null;
 
 	public JRCloseInTheDistanceItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 116);
+		super(instance, 115);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class AMDMetalItem extends FartsysmagitechproductionsModElements.ModEleme
 	public static final Item block = null;
 
 	public AMDMetalItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 93);
+		super(instance, 92);
 	}
 
 	@Override

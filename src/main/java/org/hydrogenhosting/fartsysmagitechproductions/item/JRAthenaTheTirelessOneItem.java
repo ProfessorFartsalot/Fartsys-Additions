@@ -34,7 +34,7 @@ public class JRAthenaTheTirelessOneItem extends FartsysmagitechproductionsModEle
 	public static final Item block = null;
 
 	public JRAthenaTheTirelessOneItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 114);
+		super(instance, 113);
 	}
 
 	@Override

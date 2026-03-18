@@ -24,7 +24,7 @@ public class FCAthenaTheTirelessOneItem extends FartsysmagitechproductionsModEle
 	public static final Item block = null;
 
 	public FCAthenaTheTirelessOneItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 135);
+		super(instance, 133);
 	}
 
 	@Override

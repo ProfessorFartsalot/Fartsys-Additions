@@ -1,5 +1,6 @@
 {
   "display": {
+    "background": "minecraft:textures/block/stone.png",
     "icon": {
       "item": "fartsysmagitechproductions:shart_ten_million"
     },
@@ -29,6 +30,5 @@
         ]
       }
     }
-  },
-  "parent": "fartsysmagitechproductions:adv_shart_special"
+  }
 }

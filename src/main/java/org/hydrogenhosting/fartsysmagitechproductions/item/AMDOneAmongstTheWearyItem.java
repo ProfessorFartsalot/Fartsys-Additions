@@ -26,7 +26,7 @@ public class AMDOneAmongstTheWearyItem extends FartsysmagitechproductionsModElem
 	public static final Item block = null;
 
 	public AMDOneAmongstTheWearyItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 98);
+		super(instance, 97);
 	}
 
 	@Override

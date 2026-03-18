@@ -32,7 +32,7 @@ public class JRWhoBringsShadowItem extends FartsysmagitechproductionsModElements
 	public static final Item block = null;
 
 	public JRWhoBringsShadowItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 133);
+		super(instance, 131);
 	}
 
 	@Override

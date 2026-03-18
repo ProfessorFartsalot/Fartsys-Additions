@@ -24,7 +24,7 @@ public class AMDPapayaDemasteredItem extends FartsysmagitechproductionsModElemen
 	public static final Item block = null;
 
 	public AMDPapayaDemasteredItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 100);
+		super(instance, 99);
 	}
 
 	@Override

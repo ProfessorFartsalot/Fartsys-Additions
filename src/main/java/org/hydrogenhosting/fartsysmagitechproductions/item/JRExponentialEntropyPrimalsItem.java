@@ -34,7 +34,7 @@ public class JRExponentialEntropyPrimalsItem extends FartsysmagitechproductionsM
 	public static final Item block = null;
 
 	public JRExponentialEntropyPrimalsItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 117);
+		super(instance, 116);
 	}
 
 	@Override

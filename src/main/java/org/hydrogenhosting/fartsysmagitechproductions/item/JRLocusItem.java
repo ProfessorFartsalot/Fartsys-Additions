@@ -32,7 +32,7 @@ public class JRLocusItem extends FartsysmagitechproductionsModElements.ModElemen
 	public static final Item block = null;
 
 	public JRLocusItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 122);
+		super(instance, 121);
 	}
 
 	@Override

@@ -1,19 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012",
+    " 1 ",
     "345",
     "678"
   ],
   "key": {
-    "0": {
-      "item": "minecraft:nether_star"
-    },
     "1": {
       "item": "fartsysmagitechproductions:enchanted_nether_brick_ink"
-    },
-    "2": {
-      "item": "minecraft:nether_star"
     },
     "3": {
       "item": "fartsysmagitechproductions:cluster_fire"
@@ -28,7 +22,7 @@
       "item": "fartsysmagitechproductions:cluster_lightning"
     },
     "7": {
-      "item": "fartsysmagitechproductions:cluster_lightning"
+      "item": "fartsysmagitechproductions:fc_one_amongst_the_weary"
     },
     "8": {
       "item": "fartsysmagitechproductions:cluster_lightning"

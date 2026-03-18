@@ -32,7 +32,7 @@ public class JRMetalItem extends FartsysmagitechproductionsModElements.ModElemen
 	public static final Item block = null;
 
 	public JRMetalItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 124);
+		super(instance, 122);
 	}
 
 	@Override

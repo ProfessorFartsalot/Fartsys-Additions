@@ -32,7 +32,7 @@ public class JRInterphosP1Item extends FartsysmagitechproductionsModElements.Mod
 	public static final Item block = null;
 
 	public JRInterphosP1Item(FartsysmagitechproductionsModElements instance) {
-		super(instance, 120);
+		super(instance, 119);
 	}
 
 	@Override
@@ -64,7 +64,7 @@ public class JRInterphosP1Item extends FartsysmagitechproductionsModElements.Mod
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Right click in hand to obtain a copy of The Interphos (Phase 1)"));
+			list.add(new StringTextComponent("Right click in hand to obtain a copy of Paved In Solitude"));
 		}
 
 		@Override

@@ -1,5 +1,6 @@
 {
   "display": {
+    "background": "minecraft:textures/block/stone.png",
     "icon": {
       "item": "fartsysmagitechproductions:pvc_dust"
     },
@@ -32,6 +33,5 @@
   },
   "rewards": {
     "experience": 200
-  },
-  "parent": "fartsysmagitechproductions:adv_shart_special"
+  }
 }

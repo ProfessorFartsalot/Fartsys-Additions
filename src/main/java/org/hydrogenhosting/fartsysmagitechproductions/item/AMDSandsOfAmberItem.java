@@ -24,7 +24,7 @@ public class AMDSandsOfAmberItem extends FartsysmagitechproductionsModElements.M
 	public static final Item block = null;
 
 	public AMDSandsOfAmberItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 103);
+		super(instance, 102);
 	}
 
 	@Override

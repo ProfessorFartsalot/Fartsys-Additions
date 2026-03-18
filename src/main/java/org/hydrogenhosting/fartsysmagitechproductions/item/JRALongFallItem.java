@@ -32,7 +32,7 @@ public class JRALongFallItem extends FartsysmagitechproductionsModElements.ModEl
 	public static final Item block = null;
 
 	public JRALongFallItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 112);
+		super(instance, 111);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class AMDTheEwerBrimmethItem extends FartsysmagitechproductionsModElement
 	public static final Item block = null;
 
 	public AMDTheEwerBrimmethItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 106);
+		super(instance, 105);
 	}
 
 	@Override

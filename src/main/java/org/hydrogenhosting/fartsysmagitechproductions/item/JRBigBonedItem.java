@@ -32,7 +32,7 @@ public class JRBigBonedItem extends FartsysmagitechproductionsModElements.ModEle
 	public static final Item block = null;
 
 	public JRBigBonedItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 115);
+		super(instance, 114);
 	}
 
 	@Override

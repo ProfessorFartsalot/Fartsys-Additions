@@ -26,7 +26,7 @@ public class AMDNeverGonnaGiveYouUpItem extends FartsysmagitechproductionsModEle
 	public static final Item block = null;
 
 	public AMDNeverGonnaGiveYouUpItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 97);
+		super(instance, 96);
 	}
 
 	@Override

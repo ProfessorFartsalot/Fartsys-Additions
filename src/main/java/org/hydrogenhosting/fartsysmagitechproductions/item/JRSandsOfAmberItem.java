@@ -32,7 +32,7 @@ public class JRSandsOfAmberItem extends FartsysmagitechproductionsModElements.Mo
 	public static final Item block = null;
 
 	public JRSandsOfAmberItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 130);
+		super(instance, 128);
 	}
 
 	@Override

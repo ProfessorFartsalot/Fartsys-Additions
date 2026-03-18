@@ -24,7 +24,7 @@ public class FCLocusItem extends FartsysmagitechproductionsModElements.ModElemen
 	public static final Item block = null;
 
 	public FCLocusItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 140);
+		super(instance, 138);
 	}
 
 	@Override

@@ -32,7 +32,7 @@ public class JRFootfallsItem extends FartsysmagitechproductionsModElements.ModEl
 	public static final Item block = null;
 
 	public JRFootfallsItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 119);
+		super(instance, 118);
 	}
 
 	@Override

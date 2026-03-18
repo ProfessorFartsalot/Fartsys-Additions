@@ -26,7 +26,7 @@ public class AMDSweatyChipsItem extends FartsysmagitechproductionsModElements.Mo
 	public static final Item block = null;
 
 	public AMDSweatyChipsItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 104);
+		super(instance, 103);
 	}
 
 	@Override

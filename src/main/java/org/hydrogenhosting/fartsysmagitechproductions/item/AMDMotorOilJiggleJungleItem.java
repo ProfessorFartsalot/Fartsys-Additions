@@ -24,7 +24,7 @@ public class AMDMotorOilJiggleJungleItem extends FartsysmagitechproductionsModEl
 	public static final Item block = null;
 
 	public AMDMotorOilJiggleJungleItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 96);
+		super(instance, 95);
 	}
 
 	@Override

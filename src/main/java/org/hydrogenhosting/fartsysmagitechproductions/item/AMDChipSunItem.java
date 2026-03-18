@@ -26,7 +26,7 @@ public class AMDChipSunItem extends FartsysmagitechproductionsModElements.ModEle
 	public static final Item block = null;
 
 	public AMDChipSunItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 101);
+		super(instance, 100);
 	}
 
 	@Override

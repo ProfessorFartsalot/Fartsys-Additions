@@ -26,7 +26,7 @@ public class AMDCloZeeKotoItem extends FartsysmagitechproductionsModElements.Mod
 	public static final Item block = null;
 
 	public AMDCloZeeKotoItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 111);
+		super(instance, 110);
 	}
 
 	@Override

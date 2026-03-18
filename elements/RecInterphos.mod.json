@@ -19,22 +19,22 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:ClusterFire"
+        "value": "CUSTOM:ClusterWind"
       },
       {
         "value": "CUSTOM:BlankG3JR"
       },
       {
-        "value": "CUSTOM:ClusterLightning"
+        "value": "CUSTOM:ClusterEarth"
       },
       {
-        "value": "CUSTOM:ClusterWind"
+        "value": "CUSTOM:ClusterWater"
       },
       {
-        "value": "Items.NETHER_STAR"
+        "value": "CUSTOM:FCPavedInSolitude"
       },
       {
-        "value": "CUSTOM:ClusterWind"
+        "value": "CUSTOM:ClusterUnaspected"
       }
     ],
     "recipeReturnStack": {

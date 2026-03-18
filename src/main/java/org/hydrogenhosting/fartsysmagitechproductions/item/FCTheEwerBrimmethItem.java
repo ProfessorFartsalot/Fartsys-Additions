@@ -24,7 +24,7 @@ public class FCTheEwerBrimmethItem extends FartsysmagitechproductionsModElements
 	public static final Item block = null;
 
 	public FCTheEwerBrimmethItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 144);
+		super(instance, 141);
 	}
 
 	@Override

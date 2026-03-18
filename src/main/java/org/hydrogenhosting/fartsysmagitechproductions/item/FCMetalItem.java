@@ -24,7 +24,7 @@ public class FCMetalItem extends FartsysmagitechproductionsModElements.ModElemen
 	public static final Item block = null;
 
 	public FCMetalItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 142);
+		super(instance, 139);
 	}
 
 	@Override

@@ -10,22 +10,22 @@
       "item": "fartsysmagitechproductions:enchanted_quartz_ink"
     },
     "3": {
-      "item": "fartsysmagitechproductions:cluster_fire"
+      "item": "fartsysmagitechproductions:cluster_wind"
     },
     "4": {
       "item": "fartsysmagitechproductions:blank_g_3_jr"
     },
     "5": {
-      "item": "fartsysmagitechproductions:cluster_lightning"
+      "item": "fartsysmagitechproductions:cluster_earth"
     },
     "6": {
-      "item": "fartsysmagitechproductions:cluster_wind"
+      "item": "fartsysmagitechproductions:cluster_water"
     },
     "7": {
-      "item": "minecraft:nether_star"
+      "item": "fartsysmagitechproductions:fc_paved_in_solitude"
     },
     "8": {
-      "item": "fartsysmagitechproductions:cluster_wind"
+      "item": "fartsysmagitechproductions:cluster_unaspected"
     }
   },
   "result": {

@@ -34,7 +34,7 @@ public class JRMetalBruteJusticeModeItem extends FartsysmagitechproductionsModEl
 	public static final Item block = null;
 
 	public JRMetalBruteJusticeModeItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 125);
+		super(instance, 123);
 	}
 
 	@Override

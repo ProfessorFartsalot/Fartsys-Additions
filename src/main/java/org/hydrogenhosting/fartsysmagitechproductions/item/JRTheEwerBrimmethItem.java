@@ -32,7 +32,7 @@ public class JRTheEwerBrimmethItem extends FartsysmagitechproductionsModElements
 	public static final Item block = null;
 
 	public JRTheEwerBrimmethItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 131);
+		super(instance, 129);
 	}
 
 	@Override

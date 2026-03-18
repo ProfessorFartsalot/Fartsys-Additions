@@ -34,7 +34,7 @@ public class JRTwiceStrickenItem extends FartsysmagitechproductionsModElements.M
 	public static final Item block = null;
 
 	public JRTwiceStrickenItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 132);
+		super(instance, 130);
 	}
 
 	@Override

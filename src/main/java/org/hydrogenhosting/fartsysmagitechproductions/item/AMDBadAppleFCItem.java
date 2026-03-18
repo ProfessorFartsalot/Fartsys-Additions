@@ -24,7 +24,7 @@ public class AMDBadAppleFCItem extends FartsysmagitechproductionsModElements.Mod
 	public static final Item block = null;
 
 	public AMDBadAppleFCItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 110);
+		super(instance, 109);
 	}
 
 	@Override

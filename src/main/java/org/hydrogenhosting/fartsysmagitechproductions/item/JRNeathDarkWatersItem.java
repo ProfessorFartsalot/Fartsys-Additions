@@ -32,7 +32,7 @@ public class JRNeathDarkWatersItem extends FartsysmagitechproductionsModElements
 	public static final Item block = null;
 
 	public JRNeathDarkWatersItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 126);
+		super(instance, 124);
 	}
 
 	@Override

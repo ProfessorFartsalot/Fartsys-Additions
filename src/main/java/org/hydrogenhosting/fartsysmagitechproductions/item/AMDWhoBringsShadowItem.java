@@ -24,7 +24,7 @@ public class AMDWhoBringsShadowItem extends FartsysmagitechproductionsModElement
 	public static final Item block = null;
 
 	public AMDWhoBringsShadowItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 108);
+		super(instance, 107);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class AMDPaPayaItem extends FartsysmagitechproductionsModElements.ModElem
 	public static final Item block = null;
 
 	public AMDPaPayaItem(FartsysmagitechproductionsModElements instance) {
-		super(instance, 99);
+		super(instance, 98);
 	}
 
 	@Override
